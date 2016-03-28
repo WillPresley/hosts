@@ -73,7 +73,7 @@ def listdir_nohidden(path):
     return glob.glob(os.path.join(path, '*'))
 
 # Project Settings
-BASEDIR_PATH         = os.path.dirname(os.path.realpath(__file__))
+BASEDIR_PATH = os.path.dirname(os.path.realpath(__file__))
 
 defaults = {
     "numberofrules" : 0,
@@ -96,9 +96,6 @@ defaults = {
     "commonexclusions" : ["hulu.com"],
     "whitelistfile" : os.path.join(BASEDIR_PATH, "whitelist")}
 
-options = {}
-settings = {}
-
 def main():
 
     parser = argparse.ArgumentParser(description="Creates a unified hosts file from hosts stored in data subfolders.")
@@ -109,7 +106,7 @@ def main():
     parser.add_argument("--output", "-o", dest="outputsubfolder", default="", help="Output subfolder for generated hosts file.")
     parser.add_argument("--noupdate", "-n", dest="noupdate", default=False, action='store_true', help="Don't update from host data sources.")
 
-    global defaults, options, settings
+    global  settings
 
     options = vars(parser.parse_args())
 
@@ -121,7 +118,6 @@ def main():
     settings.update(options)
 
     settings["sources"] = listdir_nohidden(settings["datapath"])
-
 
     # All our extensions folders...
     settings["extensions"] = [os.path.basename(item) for item in listdir_nohidden(settings["extensionspath"])]
@@ -545,23 +541,6 @@ def printSuccess(text):
 def printFailure(text):
     print (colorize(text, colors.FAIL))
 # End Helper Functions
-
-# Orphaned now.
-def updateReadme():
-    extensionsStr = "* Extensions: **none**."
-    extensionsHeader = ""
-    if settings["extensions"]:
-        extensionsStr = "* Extensions: **" + ", ".join(settings["extensions"]) + "**."
-        extensionsHeader = "with "+ ", ".join(settings["extensions"]) + " extensions"
-
-    with open(os.path.join(settings["outputpath"],settings["readmefilename"]), "wt") as out:
-        for line in open(settings["readme_template"]):
-            line = line.replace( '@GEN_DATE@', time.strftime("%B %d %Y", time.gmtime()))
-            line = line.replace( '@EXTENSIONS@', extensionsStr )
-            line = line.replace( '@EXTENSIONS_HEADER@', extensionsHeader )
-            out.write(line.replace('@NUM_ENTRIES@', "{:,}".format(settings["numberofrules"])))
-
-
 
 if __name__ == "__main__":
     main()
