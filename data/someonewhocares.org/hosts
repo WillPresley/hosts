@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 26 Mar 2016 at 17:36:56 GMT
+# Last updated: Tue, 05 Apr 2016 at 07:55:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -906,6 +906,7 @@
 0.0.0.0 m1.nedstatbasic.net
 0.0.0.0 m1.webstats4u.com
 0.0.0.0 mailcheckisp.biz	# "spam bugs"
+0.0.0.0 mailfoogae.appspot.com	# Streak email tracker
 0.0.0.0 mailtrack.me
 0.0.0.0 mama128.valuehost.ru
 0.0.0.0 marketscore.com
@@ -5500,6 +5501,7 @@
 0.0.0.0 adv.bannercity.ru
 0.0.0.0 adv.bbanner.it
 0.0.0.0 adv.bookclubservices.ca
+0.0.0.0 advconversion.com
 0.0.0.0 adveng.hiasys.com
 0.0.0.0 adveraction.pl
 0.0.0.0 adver.pengyou.com
@@ -6048,6 +6050,7 @@
 0.0.0.0 c1.popads.net
 0.0.0.0 c1.teaser-goods.ru
 0.0.0.0 c1.zedo.com
+0.0.0.0 c2366475.c.youradexchange.com
 0.0.0.0 c2.l.qq.com
 0.0.0.0 c2.zedo.com
 0.0.0.0 c3.zedo.com
@@ -6246,6 +6249,7 @@
 0.0.0.0 click3.rbc.magna.ru
 0.0.0.0 click4.rbc.magna.ru
 0.0.0.0 clickad.eo.pl
+0.0.0.0 click.adpile.net
 0.0.0.0 click.am1.adm.cnzz.net
 0.0.0.0 clickarrows.com
 0.0.0.0 click.avenuea.com
@@ -7931,6 +7935,7 @@
 0.0.0.0 PAKpolice.com
 0.0.0.0 panel.adtify.pl
 0.0.0.0 paperg.com
+0.0.0.0 paques-2016.offre-exceptionnelle.xyz
 0.0.0.0 parskabab.com
 0.0.0.0 partner01.oingo.com
 0.0.0.0 partner02.oingo.com
@@ -8210,6 +8215,7 @@
 0.0.0.0 qqlogo.qq.com
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 qss-client.qq.com
+0.0.0.0 qualifiedourspecialoffer.com
 0.0.0.0 quickbrowsersearch.com
 0.0.0.0 quickupdateserv.com
 0.0.0.0 quik-serv.com
@@ -9110,6 +9116,7 @@
 0.0.0.0 voordeel.ad.nl
 0.0.0.0 vox-static.liverail.com
 0.0.0.0 vp.tscapeplay.com
+0.0.0.0 vq91811.com
 0.0.0.0 vu.veoxa.com
 0.0.0.0 v.vomedia.tv
 0.0.0.0 vzarabotke.ru
@@ -9464,6 +9471,7 @@
 0.0.0.0 www.ad.twitchguru.com
 0.0.0.0 www.ad-up.com
 0.0.0.0 www.advaliant.com
+0.0.0.0 www.advconversion.com
 0.0.0.0 www.adverterenbijrtl.nl
 0.0.0.0 www.adverterenbijsbs.nl
 0.0.0.0 www.adverterenzeeland.nl
@@ -9955,6 +9963,7 @@
 0.0.0.0 www.nysubwayoffer.com
 0.0.0.0 www.offerx.co.uk
 0.0.0.0 www.oinadserve.com
+0.0.0.0 www.onclickpredictiv.com
 0.0.0.0 www.onclicktop.com
 0.0.0.0 www.onlinebestoffers.net
 0.0.0.0 www.ontheweb.com
@@ -11980,7 +11989,6 @@
 0.0.0.0 c.msn.com
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 ec.atdmt.com
-0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 flex.msn.com
 0.0.0.0 g.msn.com
@@ -11988,7 +11996,6 @@
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 live.rads.msn.com
 0.0.0.0 m.adnxs.com
-0.0.0.0 m.hotmail.com
 0.0.0.0 msedge.net
 0.0.0.0 msftncsi.com
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
@@ -11999,7 +12006,7 @@
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 settings-win.data.microsoft.com
-0.0.0.0 s.gateway.messenger.live.com
+#0.0.0.0 s.gateway.messenger.live.com 	# Interferes with Skype
 0.0.0.0 sO.2mdn.net
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 telemetry.appex.bing.net:443

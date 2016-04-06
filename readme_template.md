@@ -1,10 +1,10 @@
 #Unified hosts file @EXTENSIONS_HEADER@
 
-This repository consolidates several reputable `hosts` files, and merges them into various unified hosts files
-with duplicates removed.
+This repository consolidates several reputable `hosts` files, and merges them into a unified hosts file
+with duplicates removed.  This repo provides several hosts files tailored to you need to block.
 
-* Here's the [raw hosts file](https://raw.githubusercontent.com/StevenBlack/hosts/master/@SUBFOLDER@hosts) containing @NUM_ENTRIES@ entries.
 * Last updated: **@GEN_DATE@**.
+* Here's the [raw hosts file](https://raw.githubusercontent.com/StevenBlack/hosts/master/@SUBFOLDER@hosts) containing @NUM_ENTRIES@ entries.
 
 ### List of all hosts file variants
 
@@ -49,27 +49,28 @@ versions (from locations defined by the update.info text file in each source's f
 
 #### Command line options:
 
+`--help`, or `-h`: display help.
+
 `--auto`, or `-a`: run the script without prompting. When `--auto` is invoked,
 
 * Hosts data sources, including extensions, are updated.
 * No extensions are included by default.  Use the `--extensions` or `-e` flag to include any you want.
 * Your active hosts file is *not* replaced unless you include the `--replace` flag.
 
-`--replace`, or `-r`: trigger replacing your active hosts file with the new hosts file. Use along with `--auto` to
-force replacement.
-
-`--ip nnn.nnn.nnn.nnn`, or `-i nnn.nnn.nnn.nnn`: the IP address to use as the target.  Default is `0.0.0.0`.
+`--backup`, or `-b`: Make a backup of existing hosts file(s) as you generate over them.
 
 `--extensions <ext1> <ext2> <ext3>`, or `-e <ext1> <ext2> <ext3>`: the names of subfolders below the `extensions` folder
 containing additional category-specific hosts files to include in the amalgamation. Example: `--extensions porn` or
 `-e social porn`.
+
+`--ip nnn.nnn.nnn.nnn`, or `-i nnn.nnn.nnn.nnn`: the IP address to use as the target.  Default is `0.0.0.0`.
 
 `--noupdate`, or `-n`: skip fetching updates from hosts data sources.
 
 `--output <subfolder>`, or `-o <subfolder>`: place the generated source file in a subfolder.  If the subfolder does not
 exist, it will be created.
 
-`--help`, or `-h`: display help.
+`--replace`, or `-r`: trigger replacing your active hosts
 
 ## How do I control which sources are unified?
 
@@ -79,10 +80,23 @@ Add one or more  *additional* sources, each in a subfolder of the `data/` folder
 Add one or more *optional* extensions, which originate from subfolders of the `extensions/` folder.  Again the url in
 `update.info` controls where this extension finds its updates.
 
-## How do I incorporate my own hosts?
+### How do I include my own custom domain mappings?
 
 If you have custom hosts records, place them in file `myhosts`.  The contents of this file are prepended to the
 unified hosts file during the update process.
+
+The `myhosts` file is not tracked by git, so any changes you make won't be overridden when you `git pull` this repo from `origin` in the future.
+
+### How do I prevent domains from being included?
+
+The domains you list in the `whitelist` file are excluded from the final hosts file.  
+
+The `whitelist` uses partial matching.  Therefore if you whitelist `google-analytics.com`, that domain and all its
+subdomains won't be merged into the final hosts file.
+
+The `whitelist` is not tracked by git, so any changes you make won't be overridden when you `git pull` this repo 
+from `origin` in the future.
+
 
 ## What is a hosts file?
 
