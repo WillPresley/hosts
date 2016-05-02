@@ -30,15 +30,19 @@ import json
 # StringIO is not needed in Python 3
 # Python 3 works differently with urlopen
 
-# Supporting urlopen in Python 2 and Python 3
-try:
+try:                 # Python 3
     from urllib.parse import urlparse, urlencode
     from urllib.request import urlopen, Request
     from urllib.error import HTTPError
-except ImportError:
+except ImportError:  # Python 2
     from urlparse import urlparse
     from urllib import urlencode
     from urllib2 import urlopen, Request, HTTPError
+
+try:               # Python 2
+    raw_input
+except NameError:  # Python 3
+    raw_input = input
 
 # Detecting Python 3 for version-dependent implementations
 Python3 = sys.version_info >= (3,0)
@@ -53,13 +57,6 @@ def getFileByUrl(url):
         # raise
 
 # In Python 3   "print" is a function, braces are added everywhere
-
-# This function works in both Python 2 and Python 3
-def myInput(msg = ""):
-    if Python3:
-        return input(msg)
-    else:
-        return raw_input(msg)
 
 # Cross-python writing function
 def writeData(f, data):
@@ -81,6 +78,7 @@ defaults = {
     "freshen" : True,
     "replace" : False,
     "backup" : False,
+    "skipstatichosts": False,
     "extensionspath" : os.path.join(BASEDIR_PATH, "extensions"),
     "extensions" : [],
     "outputsubfolder" : "",
@@ -105,6 +103,7 @@ def main():
     parser.add_argument("--extensions", "-e", dest="extensions", default=[], nargs="*", help="Host extensions to include in the final hosts file.")
     parser.add_argument("--ip", "-i", dest="targetip", default="0.0.0.0", help="Target IP address. Default is 0.0.0.0.")
     parser.add_argument("--noupdate", "-n", dest="noupdate", default=False, action="store_true", help="Don't update from host data sources.")
+    parser.add_argument("--skipstatichosts", "-s", dest="skipstatichosts", default=False, action="store_true", help="Skip static localhost entries in the final hosts file.")
     parser.add_argument("--output", "-o", dest="outputsubfolder", default="", help="Output subfolder for generated hosts file.")
     parser.add_argument("--replace", "-r", dest="replace", default=False, action="store_true", help="Replace your active hosts file with this new hosts file.")
 
@@ -172,19 +171,15 @@ def promptForExclusions():
         if not settings["auto"]:
             print ("OK, we'll only exclude domains in the whitelist.")
 
-def promptForMoreCustomExclusions():
-    response = query_yes_no("Do you have more domains you want to enter?")
-    if response == "yes":
-        return True
-    else:
-        return False
+def promptForMoreCustomExclusions(question="Do you have more domains you want to enter?"):
+    return query_yes_no(question) == "yes"
 
 def promptForMove(finalFile):
 
-    if settings["replace"]:
+    if settings["replace"] and not settings["skipstatichosts"]:
         response = "yes"
     else:
-        response = "no" if settings["auto"] else query_yes_no("Do you want to replace your existing hosts file " +
+        response = "no" if settings["auto"] or settings["skipstatichosts"] else query_yes_no("Do you want to replace your existing hosts file " +
                             "with the newly generated file?")
     if response == "yes":
         moveHostsFileIntoPlace(finalFile)
@@ -207,10 +202,10 @@ def displayExclusionOptions():
 def gatherCustomExclusions():
     while True:
         # Cross-python Input
-        domainFromUser = myInput("Enter the domain you want to exclude (e.g. facebook.com): ")
+        domainFromUser = raw_input("Enter the domain you want to exclude (e.g. facebook.com): ")
         if isValidDomainFormat(domainFromUser):
             excludeDomain(domainFromUser)
-        if promptForMoreCustomExclusions() is False:
+        if not promptForMoreCustomExclusions():
             return
 
 def excludeDomain(domain):
@@ -229,11 +224,7 @@ def updateAllSources():
     allsources = list(set(settings["sources"]) | set(settings["extensionsources"]))
     for source in allsources:
         if os.path.isdir(source):
-            updateURLs = getUpdateURLsFromFile(source)
-            if not len(updateURLs):
-                continue
-
-            for updateURL in updateURLs:
+            for updateURL in getUpdateURLsFromFile(source):
                 print ("Updating source " + os.path.basename(source) + " from " + updateURL)
                 # Cross-python call
                 updatedFile = getFileByUrl(updateURL)
@@ -264,28 +255,27 @@ def getUpdateURLsFromFile(source):
 def getUpdateURLFromFile(source):
     pathToUpdateFile = os.path.join(settings["datapath"], source, settings["updateurlfilename"])
     if os.path.exists(pathToUpdateFile):
-        updateFile = open(pathToUpdateFile, "r")
-        retURL     = updateFile.readline().strip()
-        updateFile.close()
-    else:
-        retURL = None
-        printFailure("Warning: Can't find the update file for source " + source + "\n" +
-                     "Make sure that there's a file at " + pathToUpdateFile)
-    return retURL
+        with open(pathToUpdateFile, "r") as updateFile:
+            return updateFile.readline().strip()
+    printFailure("Warning: Can't find the update file for source " + source + "\n" +
+                 "Make sure that there's a file at " + pathToUpdateFile)
+    return None
 # End Update Logic
 
 # File Logic
 def createInitialFile():
     mergeFile = tempfile.NamedTemporaryFile()
     for source in settings["sources"]:
-        curFile = open(os.path.join(settings["datapath"], source, settings["datafilenames"]), "r")
-        #Done in a cross-python way
-        writeData(mergeFile, curFile.read())
+        filename = os.path.join(settings["datapath"], source, settings["datafilenames"])
+        with open(filename, "r") as curFile:
+            #Done in a cross-python way
+            writeData(mergeFile, curFile.read())
 
     for source in settings["extensions"]:
-        curFile = open(os.path.join(settings["extensionspath"], source, settings["datafilenames"]), "r")
-        #Done in a cross-python way
-        writeData(mergeFile, curFile.read())
+        filename = os.path.join(settings["extensionspath"], source, settings["datafilenames"])
+        with open(filename, "r") as curFile:
+            #Done in a cross-python way
+            writeData(mergeFile, curFile.read())
 
     return mergeFile
 
@@ -302,17 +292,11 @@ def removeDupsAndExcl(mergeFile):
         os.makedirs(settings["outputpath"])
 
     # Another mode is required to read and write the file in Python 3
-    if Python3:
-        finalFile = open(os.path.join(settings["outputpath"], "hosts"), "w+b")
-    else:
-        finalFile = open(os.path.join(settings["outputpath"], "hosts"), "w+")
+    finalFile = open(os.path.join(settings["outputpath"], "hosts"),
+                     "w+b" if Python3 else "w+")
 
     mergeFile.seek(0) # reset file pointer
-    hostnames = set()
-    hostnames.add("localhost")
-    hostnames.add("localhost.localdomain")
-    hostnames.add("local")
-    hostnames.add("broadcasthost")
+    hostnames = set(["localhost", "localhost.localdomain", "local", "broadcasthost"])
     exclusions = settings["exclusions"]
     for line in mergeFile.readlines():
         write = "true"
@@ -331,9 +315,7 @@ def removeDupsAndExcl(mergeFile):
             continue
 
         strippedRule = stripRule(line) #strip comments
-        if len(strippedRule) == 0:
-            continue
-        if matchesExclusions(strippedRule):
+        if not strippedRule or matchesExclusions(strippedRule):
             continue
         hostname, normalizedRule = normalizeRule(strippedRule) # normalize rule
         for exclude in exclusions:
@@ -345,7 +327,6 @@ def removeDupsAndExcl(mergeFile):
             hostnames.add(hostname)
             numberOfRules += 1
 
-
     settings["numberofrules"] = numberOfRules
     mergeFile.close()
 
@@ -356,7 +337,7 @@ def normalizeRule(rule):
     if result:
         hostname, suffix = result.group(2,3)
         hostname = hostname.lower().strip() # explicitly lowercase and trim the hostname
-        if suffix is not "":
+        if suffix:
             # add suffix as comment only, not as a separate host
             return hostname, "%s %s #%s\n" % (settings["targetip"], hostname, suffix)
         else:
@@ -387,20 +368,22 @@ def writeOpeningHeader(finalFile):
     writeData(finalFile, "# Date: " + time.strftime("%B %d %Y", time.gmtime()) + "\n")
     if settings["extensions"]:
         writeData(finalFile, "# Extensions added to this file: " + ", ".join(settings["extensions"]) + "\n")
-    writeData(finalFile, "# Number of unique domains: " + "{:,}".format(settings["numberofrules"]) + "\n#\n")
+    writeData(finalFile, "# Number of unique domains: " + "{:,}\n#\n".format(settings["numberofrules"]))
     writeData(finalFile, "# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/"+ os.path.join(settings["outputsubfolder"],"") + "hosts\n")
     writeData(finalFile, "# Project home page: https://github.com/StevenBlack/hosts\n#\n")
     writeData(finalFile, "# ===============================================================\n")
     writeData(finalFile, "\n")
-    writeData(finalFile, "127.0.0.1 localhost\n")
-    writeData(finalFile, "127.0.0.1 localhost.localdomain\n")
-    writeData(finalFile, "127.0.0.1 local\n")
-    writeData(finalFile, "255.255.255.255 broadcasthost\n")
-    writeData(finalFile, "::1 localhost\n")
-    writeData(finalFile, "fe80::1%lo0 localhost\n")
-    if platform.system() == "Linux":
-        writeData(finalFile, "127.0.1.1 " + socket.gethostname() + "\n")
-    writeData(finalFile, "\n")
+
+    if not settings["skipstatichosts"]:
+        writeData(finalFile, "127.0.0.1 localhost\n")
+        writeData(finalFile, "127.0.0.1 localhost.localdomain\n")
+        writeData(finalFile, "127.0.0.1 local\n")
+        writeData(finalFile, "255.255.255.255 broadcasthost\n")
+        writeData(finalFile, "::1 localhost\n")
+        writeData(finalFile, "fe80::1%lo0 localhost\n")
+        if platform.system() == "Linux":
+            writeData(finalFile, "127.0.1.1 " + socket.gethostname() + "\n")
+        writeData(finalFile, "\n")
 
     preamble = os.path.join(BASEDIR_PATH, "myhosts")
     if os.path.isfile(preamble):
@@ -415,10 +398,8 @@ def updateReadmeData():
     if settings["extensions"]:
         extensionsKey = "-".join(settings["extensions"])
 
-    generationData = {}
-    generationData["location"] = os.path.join(settings["outputsubfolder"], "")
-    generationData["entries"]  = settings["numberofrules"]
-
+    generationData = {"location": os.path.join(settings["outputsubfolder"], ""),
+                      "entries": settings["numberofrules"]}
     settings["readmedata"][extensionsKey] = generationData
     with open(settings["readmedatafilename"], "w") as f:
         json.dump(settings["readmedata"], f)
@@ -477,7 +458,7 @@ def removeOldHostsFile():               # hotfix since merging with an already e
     open(oldFilePath, "a").close()        # create if already removed, so remove wont raise an error
 
     if settings["backup"]:
-        backupFilePath = os.path.join(BASEDIR_PATH, "hosts-{0}".format(time.strftime("%Y-%m-%d-%H-%M-%S")))
+        backupFilePath = os.path.join(BASEDIR_PATH, "hosts-{}".format(time.strftime("%Y-%m-%d-%H-%M-%S")))
         shutil.copy(oldFilePath, backupFilePath) # make a backup copy, marking the date in which the list was updated
 
     os.remove(oldFilePath)
@@ -499,26 +480,23 @@ def query_yes_no(question, default = "yes"):
     """
     valid = {"yes":"yes", "y":"yes", "ye":"yes",
              "no":"no", "n":"no"}
-    if default is None:
-        prompt = " [y/n] "
-    elif default == "yes":
-        prompt = " [Y/n] "
-    elif default == "no":
-        prompt = " [y/N] "
-    else:
+    prompt = {None: " [y/n] ",
+              "yes": " [Y/n] ",
+              "no": " [y/N] "}.get(default, None)
+    if not prompt:
         raise ValueError("invalid default answer: '%s'" % default)
 
     while 1:
         sys.stdout.write(colorize(question, colors.PROMPT) + prompt)
         # Changed to be cross-python
-        choice = myInput().lower()
-        if default is not None and choice == "":
+        choice = raw_input().lower()
+        if default and not choice:
             return default
-        elif choice in valid.keys():
+        elif choice in valid:
             return valid[choice]
         else:
-            printFailure("Please respond with 'yes' or 'no' "\
-                             "(or 'y' or 'n').\n")
+            printFailure(
+                "Please respond with 'yes' or 'no' (or 'y' or 'n').\n")
 ## end of http://code.activestate.com/recipes/577058/ }}}
 
 def isValidDomainFormat(domain):

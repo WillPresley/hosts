@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 13 Mar 2016 22:02:26 GMT
-# entries:        2413
+# last updated:   Thu, 28 Apr 2016 11:39:09 GMT
+# entries:        2411
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -410,6 +410,7 @@
 0.0.0.0 ads.cybersales.cz
 0.0.0.0 ads.dada.it
 0.0.0.0 ads.datinggold.com
+0.0.0.0 ads.datingyes.com
 0.0.0.0 ads.dazoot.ro
 0.0.0.0 ads.deltha.hu
 0.0.0.0 ads.dennisnet.co.uk
@@ -474,7 +475,6 @@
 0.0.0.0 ads.goyk.com
 0.0.0.0 ads.gplusmedia.com
 0.0.0.0 ads.gradfinder.com
-0.0.0.0 ads.grindinggears.com
 0.0.0.0 ads.groundspeak.com
 0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
@@ -545,7 +545,6 @@
 0.0.0.0 ads.newmedia.cz
 0.0.0.0 ads.newsint.co.uk
 0.0.0.0 ads.newsquest.co.uk
-0.0.0.0 ads.newtention.net
 0.0.0.0 ads.ninemsn.com.au
 0.0.0.0 ads.nj.com
 0.0.0.0 ads.nola.com
@@ -890,7 +889,6 @@
 0.0.0.0 adzerk.s3.amazonaws.com
 0.0.0.0 adzones.com
 0.0.0.0 af-ad.co.uk
-0.0.0.0 afbtracking09.com
 0.0.0.0 affbuzzads.com
 0.0.0.0 affili.net
 0.0.0.0 affiliate.1800flowers.com
@@ -1434,6 +1432,7 @@
 0.0.0.0 forex-affiliate.net
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
+0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 free-banners.com
 0.0.0.0 freebanner.com
 0.0.0.0 freelogs.com
@@ -1558,6 +1557,7 @@
 0.0.0.0 imarketservices.com
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
+0.0.0.0 imitrk.com
 0.0.0.0 imonitor.nethost.cz
 0.0.0.0 imprese.cz
 0.0.0.0 impressionmedia.cz
@@ -1853,7 +1853,6 @@
 0.0.0.0 partage-facile.com
 0.0.0.0 partner-ads.com
 0.0.0.0 partner.pelikan.cz
-0.0.0.0 partner.topcities.com
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 partnercash.de
 0.0.0.0 partners.priceline.com
@@ -2414,7 +2413,6 @@
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 zanox.com
 0.0.0.0 zantracker.com
-0.0.0.0 zde-affinity.edgecaching.net
 0.0.0.0 zedo.com
 0.0.0.0 zencudo.co.uk
 0.0.0.0 zenkreka.com
