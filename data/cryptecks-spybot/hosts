@@ -4,6 +4,7 @@
 # Hosts contributed by Cryptecks/Spybot S&D
 # http://cryptecks.cf
 # Start of entries inserted by Spybot - Search & Destroy
+# INITIAL LIST: March 2016
 0.0.0.0 www.007guard.com
 0.0.0.0 007guard.com
 0.0.0.0 008i.com
@@ -15418,7 +15419,72 @@
 0.0.0.0 www.zxsex2.info
 0.0.0.0 zxsex2.info
 0.0.0.0 zyban-zocor-levitra.com
-# This list is Copyright 2000-2010 Safer-Networking Ltd.
+# End initial list
+
+# MAY 2016 UPDATE
+0.0.0.0 www.adanak.net
+0.0.0.0 adanak.net
+0.0.0.0 www.advancemark.info
+0.0.0.0 advancemark.info
+0.0.0.0 www.albrechto.co
+0.0.0.0 albrechto.co
+0.0.0.0 www.browsebeyond.net
+0.0.0.0 browsebeyond.net
+0.0.0.0 crimsolite.co
+0.0.0.0 www.fassurun.co
+0.0.0.0 fassurun.co
+0.0.0.0 www.findopolis.net
+0.0.0.0 findopolis.net
+0.0.0.0 www.gearscroll.net
+0.0.0.0 gearscroll.net
+0.0.0.0 www.glomatron.com
+0.0.0.0 glomatron.com
+0.0.0.0 www.higher-aurum.co
+0.0.0.0 higher-aurum.co
+0.0.0.0 i-lookup.com
+0.0.0.0 infotrigger.net
+0.0.0.0 www.infotrigger.net
+0.0.0.0 kingbrowse.co
+0.0.0.0 www.kingbrowse.co
+0.0.0.0 www.larparus.com
+0.0.0.0 larparus.com
+0.0.0.0 www.linkidoo.biz
+0.0.0.0 linkidoo.biz
+0.0.0.0 www.marketresearchhelper.com
+0.0.0.0 marketresearchhelper.com
+0.0.0.0 www.melondrea.net
+0.0.0.0 melondrea.net
+0.0.0.0 www.metalzebar.com
+0.0.0.0 metalzebar.com
+0.0.0.0 myfindright.com
+0.0.0.0 www.myfindright.com
+0.0.0.0 www.okiitan.com
+0.0.0.0 okiitan.com
+0.0.0.0 outobox.net
+0.0.0.0 www.pacfunction.info
+0.0.0.0 pacfunction.info
+0.0.0.0 www.pursuepoint.com
+0.0.0.0 pursuepoint.com
+0.0.0.0 resultsalpha.net
+0.0.0.0 www.resultsalpha.net
+0.0.0.0 searchfoot.net
+0.0.0.0 www.searchfoot.net
+0.0.0.0 www.serialtrunc.com
+0.0.0.0 serialtrunc.com
+0.0.0.0 www.skywebber.com
+0.0.0.0 skywebber.com
+0.0.0.0 www.webporpoise.biz
+0.0.0.0 webporpoise.biz
+0.0.0.0 www.websparkle.biz
+0.0.0.0 websparkle.biz
+0.0.0.0 www.yawtix.com
+0.0.0.0 yawtix.com
+0.0.0.0 zippyzarp.net
+0.0.0.0 www.zippyzarp.net
+# End May 2016 update
+
+
+# This list is Copyright 2000-2016 Safer-Networking Ltd.
 # End of entries inserted by Spybot - Search & Destroy
 #=====================================
 
