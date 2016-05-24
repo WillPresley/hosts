@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 26 Apr 2016 at 18:19:27 GMT
+# Last updated: Mon, 16 May 2016 at 04:49:50 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -453,8 +453,8 @@
 0.0.0.0 ca.cqcounter.com
 0.0.0.0 cashcounter.com
 0.0.0.0 cb1.counterbot.com
-#0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.oggifinogi.com
+0.0.0.0 cdn-social.janrain.com
 0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 cdxbin.vulnerap.com
 0.0.0.0 cf.addthis.com
@@ -1663,6 +1663,7 @@
 0.0.0.0 a.phormlabs.com
 0.0.0.0 apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
+0.0.0.0 apple.com-store.me
 0.0.0.0 apple-protection.info
 0.0.0.0 applestore.com-mobile.gift
 0.0.0.0 armsart.com
@@ -1676,6 +1677,7 @@
 0.0.0.0 askto.net
 0.0.0.0 ask.webatall.com
 0.0.0.0 autohipnose.com
+0.0.0.0 autoupdate.update4ever.xyz
 0.0.0.0 a.webwise.com
 0.0.0.0 a.webwise.net
 0.0.0.0 a.webwise.org
@@ -1840,6 +1842,7 @@
 0.0.0.0 m02.webwise.com
 0.0.0.0 m02.webwise.net
 0.0.0.0 m02.webwise.org
+0.0.0.0 mac-os.apple.com-secured.online
 0.0.0.0 mac-protection.info
 0.0.0.0 mail.cyberh.fr
 0.0.0.0 mail.youcanoptout.com
@@ -2056,6 +2059,7 @@
 0.0.0.0 toolbarnew.biz
 0.0.0.0 toolbarsale.biz
 0.0.0.0 toolbarweb.biz
+0.0.0.0 torjackan.info
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 trialreg.com
 0.0.0.0 trovi.com
@@ -3383,6 +3387,7 @@
 0.0.0.0 0pn.ru
 0.0.0.0 0qizz.super-promo.hoxo.info
 0.0.0.0 104231.dtiblog.com
+0.0.0.0 1097834592.rsc.cdn77.org
 0.0.0.0 10fbb07a4b0.se
 0.0.0.0 10.im.cz
 0.0.0.0 121media.com
@@ -6161,6 +6166,7 @@
 0.0.0.0 casalemedia.com
 0.0.0.0 cas.clickability.com
 0.0.0.0 cas.criteo.com
+0.0.0.0 cashadvancework.com
 0.0.0.0 cashback.co.uk
 0.0.0.0 cashbackwow.co.uk
 0.0.0.0 cashflowmarketing.com
@@ -6233,7 +6239,6 @@
 0.0.0.0 cdn.hadj7.adjuggler.net
 0.0.0.0 cdn.innovid.com
 0.0.0.0 cdn.komoona.com
-0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.mediative.ca
 0.0.0.0 cdn.merchenta.com
 0.0.0.0 cdn.mobicow.com
@@ -6582,7 +6587,6 @@
 0.0.0.0 d.cntv.cn
 0.0.0.0 dc.sabela.com.pl
 0.0.0.0 dctracking.com
-0.0.0.0 dead-pixel.tweakblogs.net
 0.0.0.0 de.adserver.yahoo.com
 0.0.0.0 de.ads.justpremium.com
 0.0.0.0 del1.phillyburbs.com
@@ -8015,7 +8019,7 @@
 0.0.0.0 partner03.oingo.com
 0.0.0.0 partner.ah-ha.com
 0.0.0.0 partner.ceneo.pl
-0.0.0.0 partner.googleadservices.com
+#0.0.0.0 partner.googleadservices.com		# Interferes with CWTV.com
 0.0.0.0 partner.join.com.ua
 0.0.0.0 partner.magna.ru
 0.0.0.0 partner.pobieraczek.pl
@@ -8419,6 +8423,7 @@
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rpc.trafficfactory.biz
 0.0.0.0 rp.hit.gemius.pl
+0.0.0.0 rqtrk.eu
 0.0.0.0 r.reklama.biz
 0.0.0.0 rs1.qq.com
 0.0.0.0 rs2.qq.com
@@ -8577,6 +8582,7 @@
 0.0.0.0 select004.adtech.fr
 0.0.0.0 select004.adtech.us
 0.0.0.0 selective-business.com
+0.0.0.0 sematext.com
 0.0.0.0 sergarius.popunder.ru
 0.0.0.0 serv2.ad-rotator.com
 0.0.0.0 servad.mynet.com
@@ -8827,6 +8833,7 @@
 0.0.0.0 static.virgul.com
 0.0.0.0 static.vpptechnologies.com
 0.0.0.0 static.way2traffic.com
+0.0.0.0 static.williamhill.com
 0.0.0.0 static.wooboo.com.cn
 0.0.0.0 static.youmi.net
 0.0.0.0 statistik-gallup.dk
@@ -9625,6 +9632,7 @@
 0.0.0.0 www.blatant8jh.info
 0.0.0.0 www.bluediamondoffers.com
 0.0.0.0 www.bnnr.nl
+0.0.0.0 www.bodog.eu
 0.0.0.0 www.bonzi.com
 0.0.0.0 www.bookclub-offer.com
 0.0.0.0 www.books-media-edu-premiumblvd.com
@@ -9647,6 +9655,7 @@
 0.0.0.0 www.buwobarun.cn
 0.0.0.0 www.buycheapadvertising.com
 0.0.0.0 www.buyhitscheap.com
+0.0.0.0 www.canuckmethods.com
 0.0.0.0 www.capath.com
 0.0.0.0 www.careers-rewardpath.com
 0.0.0.0 www.car-truck-boat-bonuspath.com
@@ -12059,7 +12068,6 @@
 0.0.0.0 adnexus.net
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 a-msedge.net
-0.0.0.0 apps.skype.com
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
 0.0.0.0 b.ads1.msn.com
@@ -12082,16 +12090,13 @@
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 preview.msn.com
-0.0.0.0 pricelist.skype.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 settings-win.data.microsoft.com
-#0.0.0.0 s.gateway.messenger.live.com 	# Interferes with Skype
 0.0.0.0 sO.2mdn.net
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 telemetry.appex.bing.net:443
-0.0.0.0 ui.skype.com
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 www.msftncsi.com
 #</Windows10>
