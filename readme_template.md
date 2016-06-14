@@ -4,7 +4,7 @@ This repository consolidates several reputable `hosts` files, and merges them in
 with duplicates removed.  This repo provides several hosts files tailored to you need to block.
 
 * Last updated: **@GEN_DATE@**.
-* Here's the [raw hosts file](https://raw.githubusercontent.com/StevenBlack/hosts/master/@SUBFOLDER@hosts) containing @NUM_ENTRIES@ entries.
+* Here's the [raw hosts file @EXTENSIONS_HEADER@](https://raw.githubusercontent.com/StevenBlack/hosts/master/@SUBFOLDER@hosts) containing @NUM_ENTRIES@ entries.
 
 ### List of all hosts file variants
 
@@ -63,6 +63,8 @@ versions (from locations defined by the update.info text file in each source's f
 containing additional category-specific hosts files to include in the amalgamation. Example: `--extensions porn` or
 `-e social porn`.
 
+`--flush-dns-cache`, or `-f`: skip the prompt for flushing the DNS cache.  Only active when `--replace` is also active.
+
 `--ip nnn.nnn.nnn.nnn`, or `-i nnn.nnn.nnn.nnn`: the IP address to use as the target.  Default is `0.0.0.0`.
 
 `--noupdate`, or `-n`: skip fetching updates from hosts data sources.
@@ -71,6 +73,9 @@ containing additional category-specific hosts files to include in the amalgamati
 exist, it will be created.
 
 `--replace`, or `-r`: trigger replacing your active hosts
+
+`--skipstatichosts`, or `-s`: `false` (default) or `true`, omit the standard section, at the top containing lines like `127.0.0.1 localhost`.  This is useful for configuring proximate DNS services on the local network.
+
 
 ## How do I control which sources are unified?
 
