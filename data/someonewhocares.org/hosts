@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 13 Jun 2016 at 04:47:20 GMT
+# Last updated: Fri, 01 Jul 2016 at 02:20:17 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1726,7 +1726,6 @@
 0.0.0.0 c.oix.com
 0.0.0.0 c.oix.net
 0.0.0.0 conduit.com
-0.0.0.0 Coordino.com
 0.0.0.0 coordino.com
 0.0.0.0 cra-arc.gc.ca.bioder.com.tr
 0.0.0.0 cra-arc-gc-ca.noads.biz
@@ -1972,6 +1971,7 @@
 0.0.0.0 Question2Answer.com
 0.0.0.0 qy.corrmedic.ru
 0.0.0.0 rd.alphabirdnetwork.com
+0.0.0.0 readheadstick.biz
 0.0.0.0 rickrolling.com
 0.0.0.0 roifmd.info
 0.0.0.0 romdiscover.com
@@ -2110,6 +2110,7 @@
 0.0.0.0 www.articleidea.cn
 0.0.0.0 www.asianread.com
 0.0.0.0 www.backsim.ru
+0.0.0.0 www.bankingservices.xyz
 0.0.0.0 www.bankofamerica.com.ok.am
 0.0.0.0 www.be4life.ru
 0.0.0.0 www.blenz-me.net
@@ -6162,6 +6163,7 @@
 0.0.0.0 campaigns.interclick.com
 0.0.0.0 canadaalltax.com
 0.0.0.0 canuckmethod.com
+0.0.0.0 canuckmethod.net
 0.0.0.0 capath.com
 0.0.0.0 carambo.la
 0.0.0.0 cardgamespidersolitaire.com
@@ -6344,6 +6346,7 @@
 0.0.0.0 clickmedia.ro
 0.0.0.0 click.pulse360.com
 0.0.0.0 clicks2.virtuagirl.com
+0.0.0.0 clicks.adhese.be
 0.0.0.0 clicks.adultplex.com
 0.0.0.0 clicks.deskbabes.com
 0.0.0.0 click-see-save.com
@@ -6892,6 +6895,7 @@
 0.0.0.0 g.adnxs.com
 0.0.0.0 gam.adnxs.com
 0.0.0.0 gameconsolerewards.com
+0.0.0.0 gamerz123.com
 0.0.0.0 games-toys-bonuspath.com
 0.0.0.0 games-toys-free.com
 0.0.0.0 games-toys-rewardpath.com
@@ -7592,11 +7596,11 @@
 0.0.0.0 mangler8.generals.ea.com
 0.0.0.0 mangler9.generals.ea.com
 0.0.0.0 manuel.theonion.com
+0.0.0.0 mapleway2profit.com
 0.0.0.0 marketgid.com
 0.0.0.0 marketing.888.com
 0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing-rewardpath.com
-0.0.0.0 marketwatch.com.edgesuite.net
 0.0.0.0 marriottinternationa.tt.omtrdc.net
 0.0.0.0 mashinkhabar.com
 0.0.0.0 mastertracks.be
@@ -8037,11 +8041,6 @@
 0.0.0.0 partner.magna.ru
 0.0.0.0 partner.pobieraczek.pl
 0.0.0.0 partnerprogramma.bol.com
-0.0.0.0 partners1.stacksocial.com
-0.0.0.0 partners2.stacksocial.com
-0.0.0.0 partners3.stacksocial.com
-0.0.0.0 partners4.stacksocial.com
-0.0.0.0 partners5.stacksocial.com
 0.0.0.0 partners.salesforce.com
 0.0.0.0 partners.sprintrade.com
 0.0.0.0 partners.webmasterplan.com
@@ -8308,6 +8307,7 @@
 0.0.0.0 qss-client.qq.com
 0.0.0.0 qualifiedourspecialoffer.com
 0.0.0.0 quickbrowsersearch.com
+0.0.0.0 quickfilmz.com
 0.0.0.0 quickupdateserv.com
 0.0.0.0 quik-serv.com
 0.0.0.0 r1-ads.ace.advertising.com
@@ -8990,6 +8990,7 @@
 0.0.0.0 tiqcdn.com
 0.0.0.0 tk.baidu.com
 0.0.0.0 tkweb.baidu.com
+0.0.0.0 t.mdn2015x1.com
 0.0.0.0 tmp3.nexac.com
 0.0.0.0 tmsads.tribune.com
 0.0.0.0 tmx.technoratimedia.com
@@ -10014,7 +10015,6 @@
 0.0.0.0 www.macombdisplayads.com
 0.0.0.0 www.market-buster.com
 0.0.0.0 www.marketing-rewardpath.com
-0.0.0.0 www.marketwatch.com.edgesuite.net
 0.0.0.0 www.mastertracks.be
 0.0.0.0 www.maxbounty.com
 0.0.0.0 www.maxonclick.com
