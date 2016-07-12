@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 01 Jul 2016 at 02:20:17 GMT
+# Last updated: Tue, 12 Jul 2016 at 03:58:01 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1716,6 +1716,7 @@
 0.0.0.0 cira.login.cqr.ssl.igotmyloverback.com
 0.0.0.0 cleanchain.net
 0.0.0.0 click.get-answers-fast.com
+0.0.0.0 clicktripz.com
 0.0.0.0 clien.net
 0.0.0.0 cnbc.com-article906773.us
 0.0.0.0 co8vd.cn
@@ -6458,6 +6459,7 @@
 0.0.0.0 consumer-org.com
 0.0.0.0 contaxe.com
 0.0.0.0 content.ad-flow.com
+0.0.0.0 content.aimatch.com
 0.0.0.0 content.clipster.ws
 0.0.0.0 content.codelnet.com
 0.0.0.0 content.promoisland.net
@@ -10975,6 +10977,7 @@
 0.0.0.0 oascentral.registerguard.com
 0.0.0.0 oascentral.registguard.com
 0.0.0.0 oascentral.riverfronttimes.com
+0.0.0.0 oascentral.sacurrent.com
 0.0.0.0 oascentral.salon.com
 0.0.0.0 oascentral.santacruzsentinel.com
 0.0.0.0 oascentral.sciam.com

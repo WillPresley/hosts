@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 17 Jun 2016 12:57:43 GMT
-# entries:        2386
+# entries:        2385
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -963,7 +963,6 @@
 0.0.0.0 autohits.dk
 0.0.0.0 avenuea.com
 0.0.0.0 avpa.javalobby.org
-0.0.0.0 avres.net
 0.0.0.0 avsads.com
 0.0.0.0 awempire.com
 0.0.0.0 awin1.com
