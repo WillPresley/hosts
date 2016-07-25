@@ -2,14 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 17 Jun 2016 12:57:43 GMT
-# entries:        2385
+# last updated:   Thu, 21 Jul 2016 09:38:17 GMT
+# entries:        2383
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
+# start date:    Mon, 25 Jul 2016 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -1128,7 +1129,6 @@
 0.0.0.0 bwp.download.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.compete.com
-0.0.0.0 c1.nowlinux.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
 0.0.0.0 carbonads.com
@@ -1246,7 +1246,6 @@
 0.0.0.0 counter.fateback.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
-0.0.0.0 counter.nowlinux.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
 0.0.0.0 counter.sparklit.com
@@ -1481,7 +1480,6 @@
 0.0.0.0 hightrafficads.com
 0.0.0.0 histats.com
 0.0.0.0 hit-parade.com
-0.0.0.0 hit-ranking.de
 0.0.0.0 hit.bg
 0.0.0.0 hit.ua
 0.0.0.0 hit.webcentre.lycos.co.uk
@@ -1728,7 +1726,7 @@
 0.0.0.0 mystat.pl
 0.0.0.0 mytop-in.net
 0.0.0.0 n69.com
-0.0.0.0 naiadsystems.com
+0.0.0.0 naiadsystems.com.invalid
 0.0.0.0 naj.sk
 0.0.0.0 namimedia.com
 0.0.0.0 nastydollars.com
@@ -1820,7 +1818,6 @@
 0.0.0.0 p.adpdx.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
-0.0.0.0 pagerank-estate-spb.ru
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-submitter.com
@@ -1896,6 +1893,7 @@
 0.0.0.0 primaryads.com
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
+0.0.0.0 pro-advertising.com
 0.0.0.0 pro.i-doctor.co.kr
 0.0.0.0 proext.com
 0.0.0.0 profero.com
@@ -1966,7 +1964,7 @@
 0.0.0.0 realtracker.com
 0.0.0.0 reduxmedia.com
 0.0.0.0 reduxmediagroup.com
-0.0.0.0 reedbusiness.com
+0.0.0.0 reedbusiness.com.invalid
 0.0.0.0 reefaquarium.biz
 0.0.0.0 referralware.com
 0.0.0.0 regnow.com
@@ -2378,6 +2376,7 @@
 0.0.0.0 yieldlab.net
 0.0.0.0 yieldmanager.com
 0.0.0.0 yieldmanager.net
+0.0.0.0 yieldmo.com
 0.0.0.0 yieldtraffic.com
 0.0.0.0 yoc.mobi
 0.0.0.0 yoggrt.com

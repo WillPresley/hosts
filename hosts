@@ -1,8 +1,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: July 12 2016
-# Number of unique domains: 41,827
+# Date: July 25 2016
+# Number of unique domains: 41,886
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -24,9 +24,10 @@ fe80::1%lo0 localhost
 # Blocking mobile ad providers and some analytics providers
 #
 # Contribute:
-# Create an issue at https://github.com/dschuermann/ad-away/issues
+# Create an issue at https://github.com/AdAway/AdAway/issues
 #
 # Changelog:
+# 2016-07-18 Now hosted on GitHub + Cloudflare
 # 2014-05-18 Now with a valid SSL certificate available at https://adaway.org/hosts.txt
 # 2013-03-29 Integrated some hosts from
 #            http://adblock.gjtech.net/?format=hostfile
@@ -16028,6 +16029,27 @@ fe80::1%lo0 localhost
 0.0.0.0 www.zippyzarp.net
 # End May 2016 update
 
+# July 2016 update
+0.0.0.0 www.batbrowse.com
+0.0.0.0 batbrowse.com
+0.0.0.0 www.crankweb.com
+0.0.0.0 crankweb.com
+0.0.0.0 www.lamilov.info
+0.0.0.0 lamilov.info
+0.0.0.0 www.lookinglink.info
+0.0.0.0 lookinglink.info
+0.0.0.0 www.mybuzzsearch.com
+0.0.0.0 mybuzzsearch.com
+0.0.0.0 www.nettock.com
+0.0.0.0 nettock.com
+0.0.0.0 www.solteratop.info
+0.0.0.0 solteratop.info
+0.0.0.0 swizzlebiz.biz
+0.0.0.0 www.swizzlebiz.biz
+0.0.0.0 weblayers.co
+0.0.0.0 www.weblayers.co
+# End July 2016 update
+
 
 # This list is Copyright 2000-2016 Safer-Networking Ltd.
 # End of entries inserted by Spybot - Search & Destroy
@@ -16036,7 +16058,7 @@ fe80::1%lo0 localhost
 
 #               MalwareDomainList.com Hosts List           #
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         Last updated: Tue, 12 Jul 16 13:20:04 +0000      #
+#         Last updated: Mon, 25 Jul 16 03:06:14 +0000      #
 
 
 0.0.0.0 0koryu0.easter.ne.jp
@@ -16081,6 +16103,8 @@ fe80::1%lo0 localhost
 0.0.0.0 a.update.51edm.net
 0.0.0.0 ab.usageload32.com
 0.0.0.0 abcdespanol.com
+0.0.0.0 above.e-rezerwacje24.pl
+0.0.0.0 absurdity.flarelight.com
 0.0.0.0 achren.org
 0.0.0.0 acool.csheaven.com
 0.0.0.0 ad-beast.com
@@ -16089,11 +16113,13 @@ fe80::1%lo0 localhost
 0.0.0.0 adobeflashupdate14.com
 0.0.0.0 ads.wikipartes.com
 0.0.0.0 adserving.favorit-network.com
+0.0.0.0 adv.riza.it
 0.0.0.0 advancetec.co.uk
 0.0.0.0 afa15.com.ne.kr
 0.0.0.0 agsteier.com
 0.0.0.0 aintdoinshit.com
 0.0.0.0 aippnetworks.com
+0.0.0.0 aircraft.evote.cl
 0.0.0.0 ajewishgift.com
 0.0.0.0 akirkpatrick.com
 0.0.0.0 alexanderinteriorsanddesign.com
@@ -16157,6 +16183,7 @@ fe80::1%lo0 localhost
 0.0.0.0 boogu.barginginfrance.net
 0.0.0.0 bookofkisl.com
 0.0.0.0 boots.fotopyra.pl
+0.0.0.0 borat.elticket.com.ar
 0.0.0.0 boschetto-hotel.gr
 0.0.0.0 bracbetul.com
 0.0.0.0 bracewellfamily.com
@@ -16198,6 +16225,7 @@ fe80::1%lo0 localhost
 0.0.0.0 crackspider.us
 0.0.0.0 crackzone.net
 0.0.0.0 creditbootcamp.com
+0.0.0.0 crops.dunight.eu
 0.0.0.0 csmail.iggcn.com
 0.0.0.0 cswilliamsburg.com
 0.0.0.0 cudacorp.com
@@ -16273,6 +16301,7 @@ fe80::1%lo0 localhost
 0.0.0.0 emailing.wildcard.fr
 0.0.0.0 emits.iptvdeals.com
 0.0.0.0 eroov.iptvdeals.com
+0.0.0.0 erupt.fernetmoretti.com.ar
 0.0.0.0 esoad.frost-electric-supply.com
 0.0.0.0 espdesign.com.au
 0.0.0.0 estoa.frost-electric-supply.com
@@ -16331,12 +16360,14 @@ fe80::1%lo0 localhost
 0.0.0.0 hanulsms.com
 0.0.0.0 hardcorepornparty.com
 0.0.0.0 harshwhispers.com
+0.0.0.0 headless.ebkfwd.com
 0.0.0.0 healthybloodpressure.info
 0.0.0.0 helesouurusa.cjb.com
-0.0.0.0 herbiguide.com.au
 0.0.0.0 hexadl.line55.net
+0.0.0.0 higher.dwebsi.tk
 0.0.0.0 highflyingfood.com
 0.0.0.0 hinsib.com
+0.0.0.0 hmora.fred-build.tk
 0.0.0.0 hnskorea.co.kr
 0.0.0.0 hoawy.frost-electric-supply.com
 0.0.0.0 hobbat.fvds.ru
@@ -16375,6 +16406,7 @@ fe80::1%lo0 localhost
 0.0.0.0 instruminahui.edu.ec
 0.0.0.0 interactivearea.ru
 0.0.0.0 internet-bb.tk
+0.0.0.0 invention.festinolente.cl
 0.0.0.0 ip-182-50-129-164.ip.secureserver.net
 0.0.0.0 ip-182-50-129-181.ip.secureserver.net
 0.0.0.0 ipl.hk
@@ -16423,12 +16455,15 @@ fe80::1%lo0 localhost
 0.0.0.0 kyrsu.frost-electric-supply.com
 0.0.0.0 lab-cntest.tk
 0.0.0.0 landisbaptist.com
+0.0.0.0 lay.elticket.com.ar
 0.0.0.0 lcbcad.co.uk
 0.0.0.0 leagleconsulting.com
 0.0.0.0 lefos.net
 0.0.0.0 legendsdtv.com
+0.0.0.0 lexu.goggendorf.at
 0.0.0.0 lhs-mhs.org
 0.0.0.0 lifescience.sysu.edu.cn
+0.0.0.0 likes.gisnetwork.net
 0.0.0.0 linkforme.tk
 0.0.0.0 live-dir.tk
 0.0.0.0 loft2126.dedicatedpanel.com
@@ -16477,6 +16512,7 @@ fe80::1%lo0 localhost
 0.0.0.0 mobatory.com
 0.0.0.0 mobile.bitterstrawberry.org
 0.0.0.0 mocka.frost-electric-supply.com
+0.0.0.0 molla.gato1000.cl
 0.0.0.0 monarchslo.com
 0.0.0.0 montezuma.spb.ru
 0.0.0.0 morenews3.net
@@ -16562,16 +16598,21 @@ fe80::1%lo0 localhost
 0.0.0.0 otylkaaotesanek.cz
 0.0.0.0 outporn.com
 0.0.0.0 ozzysixsixsix.web.fc2.com
+0.0.0.0 pacan.gofreedom.info
+0.0.0.0 pacman.gkgar.com
 0.0.0.0 pamoran.net
 0.0.0.0 papamamandoudouetmoi.com
 0.0.0.0 paracadutismolucca.it
 0.0.0.0 paraskov.com
 0.0.0.0 patrickhickey.eu
+0.0.0.0 pave.elisecries.com
 0.0.0.0 pb-webdesign.net
+0.0.0.0 peeg.fronterarq.cl
 0.0.0.0 pension-helene.cz
 0.0.0.0 penwithian.co.uk
 0.0.0.0 pepelacer.computingservices123.com
 0.0.0.0 perfectionautorepairs.com
+0.0.0.0 personal.editura-amsibiu.ro
 0.0.0.0 pgalvaoteles.pt
 0.0.0.0 pharmadeal.gr
 0.0.0.0 phitenmy.com
@@ -16579,6 +16620,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pic.starsarabian.com
 0.0.0.0 pigra.csheaven.com
 0.0.0.0 pix360.co.nf
+0.0.0.0 plank.duplicolor.cl
 0.0.0.0 plantaardigebrandstof.nl
 0.0.0.0 platsovetrf.ru
 0.0.0.0 plengeh.wen.ru
@@ -16597,6 +16639,7 @@ fe80::1%lo0 localhost
 0.0.0.0 praxisww.com
 0.0.0.0 pride-u-bike.com
 0.0.0.0 private.hotelcesenaticobooking.info
+0.0.0.0 produla.czatgg.pl
 0.0.0.0 progettocrea.org
 0.0.0.0 prorodeosportmed.com
 0.0.0.0 psooz.tourstogo.us
@@ -16781,23 +16824,28 @@ fe80::1%lo0 localhost
 0.0.0.0 slimxxxtubeyhz.ddns.name
 0.0.0.0 slimxxxtubeyza.ddns.name
 0.0.0.0 smartify.org
+0.0.0.0 smilll.depozit.hr
 0.0.0.0 smrcek.com
 0.0.0.0 sn-gzzx.com
 0.0.0.0 somethingnice.hc0.me
 0.0.0.0 somnoy.com
+0.0.0.0 soros.departamentosejecutivos.cl
 0.0.0.0 sos-medecins-stmalo.fr
 0.0.0.0 soundcomputers.net
 0.0.0.0 spatsz.com
 0.0.0.0 spekband.com
 0.0.0.0 sportsulsan.co.kr
+0.0.0.0 spread.diadanoivabh.com.br
 0.0.0.0 spykit.110mb.com
 0.0.0.0 srslogisticts.com
 0.0.0.0 stailapoza.ro
 0.0.0.0 static.retirementcommunitiesfyi.com
 0.0.0.0 stjohnsdryden.org
+0.0.0.0 stock.daydreamfuze.com
 0.0.0.0 stockinter.intersport.es
 0.0.0.0 stopmeagency.free.fr
 0.0.0.0 storgas.co.rs
+0.0.0.0 stork.escortfinder.cl
 0.0.0.0 stormpages.com
 0.0.0.0 strangeduckfilms.com
 0.0.0.0 sudcom.org
@@ -16821,6 +16869,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tecslide.com
 0.0.0.0 tendersource.com
 0.0.0.0 teprom.it
+0.0.0.0 terem.eltransbt.ro
 0.0.0.0 testtralala.xorg.pl
 0.0.0.0 textsex.tk
 0.0.0.0 thcextractor.com
@@ -16843,6 +16892,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tremplin84.fr
 0.0.0.0 treventuresonline.com
 0.0.0.0 triangleservicesltd.com
+0.0.0.0 trifle.ernstenco.be
 0.0.0.0 troytempest.com
 0.0.0.0 ttb.tbddlw.com
 0.0.0.0 tube8vidsbbr.dnset.com
@@ -16934,10 +16984,12 @@ fe80::1%lo0 localhost
 0.0.0.0 v.inigsplan.ru
 0.0.0.0 valouweeigenaren.nl
 0.0.0.0 vdh-rimbach.de
+0.0.0.0 vdula.czystykod.pl
 0.0.0.0 veevu.tourstogo.us
 0.0.0.0 veksi.barginginfrance.net
 0.0.0.0 vernoblisk.com
 0.0.0.0 vette-porno.nl
+0.0.0.0 victor.connectcloud.ch
 0.0.0.0 videoflyover.com
 0.0.0.0 villalecchi.com
 0.0.0.0 ville-st-remy-sur-avre.fr
@@ -16950,6 +17002,7 @@ fe80::1%lo0 localhost
 0.0.0.0 vkont.bos.ru
 0.0.0.0 vmay.com
 0.0.0.0 vocational-training.us
+0.0.0.0 vomit.facilitandosonhos.com.br
 0.0.0.0 vroll.net
 0.0.0.0 vural-electronic.com
 0.0.0.0 vvps.ws
@@ -17085,6 +17138,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.litra.com.mk
 0.0.0.0 www.lostartofbeingadame.com
 0.0.0.0 www.lowes-pianos-and-organs.com
+0.0.0.0 www.luce.polimi.it
 0.0.0.0 www.lyzgs.com
 0.0.0.0 www.m-barati.de
 0.0.0.0 www.makohela.tk
@@ -32281,7 +32335,7 @@ fe80::1%lo0 localhost
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 12 Jul 2016 at 03:58:01 GMT
+# Last updated: Fri, 22 Jul 2016 at 23:24:38 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from
@@ -35194,6 +35248,7 @@ fe80::1%lo0 localhost
 0.0.0.0 adbrite.com
 0.0.0.0 adc2.adcentriconline.com
 0.0.0.0 adcanadian.com
+0.0.0.0 adcarem.co
 0.0.0.0 adcash.com
 0.0.0.0 ad.cctv.com
 0.0.0.0 adcentriconline.com
@@ -36723,6 +36778,7 @@ fe80::1%lo0 localhost
 0.0.0.0 advplace.com
 0.0.0.0 advplace.nuggad.net
 0.0.0.0 adv.publy.net
+0.0.0.0 advserver.xyz
 0.0.0.0 advstat.xunlei.com
 0.0.0.0 adv.strategy.it
 0.0.0.0 adv.surinter.net
@@ -36840,6 +36896,7 @@ fe80::1%lo0 localhost
 0.0.0.0 apparel-offer.com
 0.0.0.0 app.datafastguru.info
 0.0.0.0 appdev.addthis.com
+0.0.0.0 applicationpremium70.club
 0.0.0.0 appnexus.com
 0.0.0.0 apps5.oingo.com
 0.0.0.0 appsrv1.madserving.cn
@@ -37055,6 +37112,7 @@ fe80::1%lo0 localhost
 0.0.0.0 bigads.guj.de
 0.0.0.0 bigbrandpromotions.com
 0.0.0.0 bigbrandrewards.com
+0.0.0.0 bigfreelotto.com
 0.0.0.0 biggestgiftrewards.com
 0.0.0.0 bill.agent.56.com
 0.0.0.0 bill.agent.v-56.com
@@ -37197,6 +37255,7 @@ fe80::1%lo0 localhost
 0.0.0.0 cdn.crowdignite.com
 0.0.0.0 cdn.eyewonder.com
 0.0.0.0 cdn.freefaits.com
+0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cdn.go.arbo.bbelements.com
 0.0.0.0 cdn.go.arbopl.bbelements.com
 0.0.0.0 cdn.go.cz.bbelements.com
@@ -38710,6 +38769,7 @@ fe80::1%lo0 localhost
 0.0.0.0 partner.magna.ru
 0.0.0.0 partner.pobieraczek.pl
 0.0.0.0 partnerprogramma.bol.com
+0.0.0.0 partners.adklick.de
 0.0.0.0 partners.salesforce.com
 0.0.0.0 partners.sprintrade.com
 0.0.0.0 partner-ts.groupon.be
@@ -39244,7 +39304,9 @@ fe80::1%lo0 localhost
 0.0.0.0 serv-load.com
 0.0.0.0 servserv.generals.ea.com
 0.0.0.0 serv.tooplay.com
+0.0.0.0 sex-now5.com
 0.0.0.0 sexpartnerx.com
+0.0.0.0 sex-sex-sex5.com
 0.0.0.0 sexsponsors.com
 0.0.0.0 sexzavod.com
 0.0.0.0 sfads.osdn.com
@@ -39451,6 +39513,7 @@ fe80::1%lo0 localhost
 0.0.0.0 survey.china.alibaba.com
 0.0.0.0 surveymonkeycom.tt.omtrdc.net
 0.0.0.0 surveypass.com
+0.0.0.0 survymonkey.xyz
 0.0.0.0 susi.adtech.fr
 0.0.0.0 susi.adtech.us
 0.0.0.0 svd2.adtlgc.com
@@ -39509,6 +39572,7 @@ fe80::1%lo0 localhost
 0.0.0.0 textsrv.com
 0.0.0.0 tf.nexac.com
 0.0.0.0 tgpmanager.com
+0.0.0.0 thanfocus.com
 0.0.0.0 the-binary-trader.biz
 0.0.0.0 themaplemethod.com
 0.0.0.0 the-path-gateway.com
@@ -42549,14 +42613,15 @@ fe80::1%lo0 localhost
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 17 Jun 2016 12:57:43 GMT
-# entries:        2385
+# last updated:   Thu, 21 Jul 2016 09:38:17 GMT
+# entries:        2383
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
+# start date:    Mon, 25 Jul 2016 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -43154,7 +43219,6 @@ fe80::1%lo0 localhost
 0.0.0.0 buzzonclick.com
 0.0.0.0 bvalphaserver.com
 0.0.0.0 bwp.download.com
-0.0.0.0 c1.nowlinux.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
 0.0.0.0 carbonads.com
@@ -43402,7 +43466,6 @@ fe80::1%lo0 localhost
 0.0.0.0 heyos.com
 0.0.0.0 hgads.com
 0.0.0.0 hidden.gogoceleb.com
-0.0.0.0 hit-ranking.de
 0.0.0.0 hit.bg
 0.0.0.0 hit.ua
 0.0.0.0 hit.webcentre.lycos.co.uk
@@ -43594,7 +43657,7 @@ fe80::1%lo0 localhost
 0.0.0.0 mystat.pl
 0.0.0.0 mytop-in.net
 0.0.0.0 n69.com
-0.0.0.0 naiadsystems.com
+0.0.0.0 naiadsystems.com.invalid
 0.0.0.0 namimedia.com
 0.0.0.0 nastydollars.com
 0.0.0.0 navigator.io
@@ -43656,7 +43719,6 @@ fe80::1%lo0 localhost
 0.0.0.0 owebmoney.ru
 0.0.0.0 oxado.com
 0.0.0.0 pagead.l.google.com
-0.0.0.0 pagerank-estate-spb.ru
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-submitter.com
@@ -43721,6 +43783,7 @@ fe80::1%lo0 localhost
 0.0.0.0 primaryads.com
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
+0.0.0.0 pro-advertising.com
 0.0.0.0 pro.i-doctor.co.kr
 0.0.0.0 proext.com
 0.0.0.0 profero.com
@@ -43777,7 +43840,7 @@ fe80::1%lo0 localhost
 0.0.0.0 realtechnetwork.com
 0.0.0.0 reduxmedia.com
 0.0.0.0 reduxmediagroup.com
-0.0.0.0 reedbusiness.com
+0.0.0.0 reedbusiness.com.invalid
 0.0.0.0 reefaquarium.biz
 0.0.0.0 referralware.com
 0.0.0.0 regnow.com
@@ -44090,6 +44153,7 @@ fe80::1%lo0 localhost
 0.0.0.0 yesadvertising.com
 0.0.0.0 yieldlab.net
 0.0.0.0 yieldmanager.com
+0.0.0.0 yieldmo.com
 0.0.0.0 yieldtraffic.com
 0.0.0.0 yoc.mobi
 0.0.0.0 yoggrt.com
