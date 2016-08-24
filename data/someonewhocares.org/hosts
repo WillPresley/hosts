@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 08 Aug 2016 at 06:01:35 GMT
+# Last updated: Mon, 22 Aug 2016 at 22:04:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6384,6 +6384,7 @@
 0.0.0.0 clashmediausa.com
 0.0.0.0 classicjack.com
 0.0.0.0 c.latam.msn.com
+0.0.0.0 cleaningformac.com
 0.0.0.0 click1.mainadv.com
 0.0.0.0 click1.rbc.magna.ru
 0.0.0.0 click2.rbc.magna.ru
@@ -6522,6 +6523,7 @@
 0.0.0.0 content.promoisland.net
 0.0.0.0 contentsearch.de.espotting.com
 0.0.0.0 content.yieldmanager.edgesuite.net
+0.0.0.0 content.zontera.com
 0.0.0.0 context3.kanoodle.com
 0.0.0.0 context5.kanoodle.com
 0.0.0.0 contextad.pl
@@ -6548,6 +6550,7 @@
 0.0.0.0 coreglead.co.uk
 0.0.0.0 core.insightexpressai.com
 0.0.0.0 core.videoegg.com
+0.0.0.0 core.zontera.com
 0.0.0.0 cornflakes.pathfinder.com
 0.0.0.0 corusads.dserv.ca
 0.0.0.0 cosmeticscentre.uk.com
@@ -6823,6 +6826,7 @@
 0.0.0.0 europe.adserver.yahoo.com
 0.0.0.0 eu-sonar.sociomantic.com
 0.0.0.0 eu.xtms.net
+0.0.0.0 eveley.club
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 exclusivegiftcards.com
 0.0.0.0 exits1.webquest.net
@@ -7512,6 +7516,7 @@
 0.0.0.0 ku6afp.allyes.com
 0.0.0.0 ku6.allyes.com
 0.0.0.0 kuhdi.com
+0.0.0.0 kxrzz.superpromo.7112531.com
 0.0.0.0 l2.l.qq.com
 0.0.0.0 l.5min.com
 0.0.0.0 l.admob.com
@@ -8121,6 +8126,7 @@
 0.0.0.0 pb.tynt.com
 0.0.0.0 pcads.ru
 0.0.0.0 pc-gizmos-ssl.com
+0.0.0.0 pc-virus-d0l92j2.pw
 0.0.0.0 pei-ads.playboy.com
 0.0.0.0 people-choice-sites.com
 0.0.0.0 persgroepadvertising.nl
@@ -8580,6 +8586,8 @@
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 samsung3.solution.weborama.fr
 0.0.0.0 sanalreklam.com
+0.0.0.0 sarah.dntrx.com
+0.0.0.0 s.arclk.net
 0.0.0.0 sas.decisionnews.com
 0.0.0.0 s.as-us.falkag.net
 0.0.0.0 sat-city-ads.com
@@ -10450,6 +10458,8 @@
 0.0.0.0 zads.zedo.com
 0.0.0.0 zapadserver1.com
 0.0.0.0 z.blogads.com
+0.0.0.0 zc1.delta-boa.com
+0.0.0.0 zc1.zeroredirect11.com
 0.0.0.0 z.ceotrk.com
 0.0.0.0 zdads.e-media.com
 0.0.0.0 zeevex-online.com
@@ -12176,7 +12186,6 @@
 0.0.0.0 live.rads.msn.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 msedge.net
-0.0.0.0 msftncsi.com
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 preview.msn.com
@@ -12188,7 +12197,6 @@
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 telemetry.appex.bing.net:443
 0.0.0.0 wes.df.telemetry.microsoft.com
-0.0.0.0 www.msftncsi.com
 #</Windows10>
 
 # Acknowledgements
