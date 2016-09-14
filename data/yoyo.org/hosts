@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 11 Aug 2016 06:22:03 GMT
-# entries:        2367
+# last updated:   Sun, 11 Sep 2016 21:47:26 GMT
+# entries:        2370
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 24 Aug 2016 00:00:00
+# start date:    Tue, 13 Sep 2016 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -1122,6 +1122,7 @@
 0.0.0.0 bwp.download.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.compete.com
+0.0.0.0 c1.nowlinux.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
 0.0.0.0 carbonads.com
@@ -1240,6 +1241,7 @@
 0.0.0.0 counter.fateback.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
+0.0.0.0 counter.nowlinux.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
 0.0.0.0 counter.sparklit.com
@@ -1298,7 +1300,6 @@
 0.0.0.0 directtrack.com
 0.0.0.0 discountclick.com
 0.0.0.0 displayadsmedia.com
-0.0.0.0 displaypagerank.com
 0.0.0.0 dist.belnk.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtracking.alibaba.com
@@ -1459,6 +1460,7 @@
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 greystripe.com
 0.0.0.0 gtop.ro
+0.0.0.0 gtop100.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 havamedia.net
@@ -1497,6 +1499,7 @@
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
 0.0.0.0 hotrank.com.tw
+0.0.0.0 htmlhubing.xyz
 0.0.0.0 httpool.com
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hydramedia.com
@@ -1708,6 +1711,7 @@
 0.0.0.0 myaffiliateprogram.com
 0.0.0.0 mybloglog.com
 0.0.0.0 mycounter.ua
+0.0.0.0 mymoneymakingapp.com
 0.0.0.0 mypagerank.net
 0.0.0.0 mypagerank.ru
 0.0.0.0 mypowermall.com
@@ -1736,7 +1740,6 @@
 0.0.0.0 netclickstats.com
 0.0.0.0 netcommunities.com
 0.0.0.0 netdirect.nl
-0.0.0.0 netflame.cc
 0.0.0.0 netincap.com
 0.0.0.0 netpool.netbookia.net
 0.0.0.0 netshelter.net
@@ -1813,7 +1816,6 @@
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank-suchmaschine.de
 0.0.0.0 pagerank-united.de
-0.0.0.0 pagerank4u.eu
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
 0.0.0.0 partage-facile.com
@@ -1935,6 +1937,7 @@
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
 0.0.0.0 ranking-street.de
+0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankyou.com
 0.0.0.0 rapidcounter.com
@@ -2111,6 +2114,7 @@
 0.0.0.0 supertop100.com
 0.0.0.0 suptullog.com
 0.0.0.0 surfmusik-adserver.de
+0.0.0.0 swan-swan-goose.com
 0.0.0.0 swissadsolutions.com
 0.0.0.0 swordfishdc.com
 0.0.0.0 sx.trhnt.com
@@ -2142,6 +2146,7 @@
 0.0.0.0 tfag.de
 0.0.0.0 theadhost.com
 0.0.0.0 theads.me
+0.0.0.0 thebugs.ws
 0.0.0.0 thecounter.com
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
@@ -2232,7 +2237,6 @@
 0.0.0.0 tubemogul.com
 0.0.0.0 turn.com
 0.0.0.0 tvas-c.pw
-0.0.0.0 tvmtracker.com
 0.0.0.0 twittad.com
 0.0.0.0 tyroo.com
 0.0.0.0 uarating.com
@@ -2276,7 +2280,6 @@
 0.0.0.0 vs.tucows.com
 0.0.0.0 vungle.com
 0.0.0.0 wads.webteh.com
-0.0.0.0 warlog.info
 0.0.0.0 warlog.ru
 0.0.0.0 wdads.sx.atl.publicus.com
 0.0.0.0 web-stat.com
