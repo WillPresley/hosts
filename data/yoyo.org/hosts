@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 21 Sep 2016 02:46:43 GMT
-# entries:        2364
+# last updated:   Tue, 27 Sep 2016 13:23:30 GMT
+# entries:        2365
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 21 Sep 2016 00:00:00
+# start date:    Tue, 04 Oct 2016 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -639,6 +639,7 @@
 0.0.0.0 ads.videosz.com
 0.0.0.0 ads.virtual-nights.com
 0.0.0.0 ads.virtualcountries.com
+0.0.0.0 ads.vnumedia.com
 0.0.0.0 ads.waps.cn
 0.0.0.0 ads.wapx.cn
 0.0.0.0 ads.weather.ca
@@ -848,6 +849,7 @@
 0.0.0.0 advertmedia.de
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
+0.0.0.0 adverts.carltononline.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 advertwizard.com
@@ -983,7 +985,6 @@
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banner.img.co.za
 0.0.0.0 banner.inyourpocket.com
-0.0.0.0 banner.jobsahead.com
 0.0.0.0 banner.joylandcasino.com
 0.0.0.0 banner.kiev.ua
 0.0.0.0 banner.linux.se
@@ -1169,6 +1170,7 @@
 0.0.0.0 click2freemoney.com
 0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
+0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
 0.0.0.0 clickbank.com
 0.0.0.0 clickbank.net
@@ -1317,7 +1319,6 @@
 0.0.0.0 e-n-t-e-r-n-e-x.com
 0.0.0.0 e-planning.net
 0.0.0.0 e.kde.cz
-0.0.0.0 eadexchange.com
 0.0.0.0 eas.almamedia.fi
 0.0.0.0 easyhits4u.com
 0.0.0.0 ebayadvertising.com
@@ -1495,7 +1496,6 @@
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
 0.0.0.0 hotrank.com.tw
-0.0.0.0 htmlhubing.xyz
 0.0.0.0 httpool.com
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hydramedia.com
@@ -1549,6 +1549,7 @@
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
 0.0.0.0 inspectorclick.com
+0.0.0.0 instantmadness.com
 0.0.0.0 intelliads.com
 0.0.0.0 intellitxt.com
 0.0.0.0 interactive.forthnet.gr
@@ -1807,12 +1808,13 @@
 0.0.0.0 pagefair.com
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
-0.0.0.0 pagerank-submitter.com
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank-suchmaschine.de
 0.0.0.0 pagerank-united.de
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
+0.0.0.0 parse.ly
+0.0.0.0 parsely.com
 0.0.0.0 partage-facile.com
 0.0.0.0 partner-ads.com
 0.0.0.0 partner.pelikan.cz
@@ -1923,6 +1925,7 @@
 0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
 0.0.0.0 rampidads.com
+0.0.0.0 rank-master.com
 0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
@@ -2099,7 +2102,6 @@
 0.0.0.0 steelhouse.com
 0.0.0.0 steelhousemedia.com
 0.0.0.0 stickyadstv.com
-0.0.0.0 suavalds.com
 0.0.0.0 subscribe.hearstmags.com
 0.0.0.0 sugoicounter.com
 0.0.0.0 superclix.de
@@ -2230,7 +2232,6 @@
 0.0.0.0 tsms-ad.tsms.com
 0.0.0.0 tubemogul.com
 0.0.0.0 turn.com
-0.0.0.0 tvas-c.pw
 0.0.0.0 twittad.com
 0.0.0.0 tyroo.com
 0.0.0.0 uarating.com
