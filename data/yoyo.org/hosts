@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 28 Nov 2016 08:56:45 GMT
-# entries:        2363
+# last updated:   Sat, 10 Dec 2016 22:32:10 GMT
+# entries:        2374
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 28 Nov 2016 00:00:00
+# start date:    Mon, 12 Dec 2016 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -25,6 +25,7 @@
 0.0.0.0 2mdn.net
 0.0.0.0 2o7.net
 0.0.0.0 360yield.com
+0.0.0.0 4affiliate.net
 0.0.0.0 4d5.net
 0.0.0.0 50websads.com
 0.0.0.0 518ad.com
@@ -70,14 +71,12 @@
 0.0.0.0 ad-space.net
 0.0.0.0 ad-tech.com
 0.0.0.0 ad-up.com
-0.0.0.0 ad.100.tbn.ru
 0.0.0.0 ad.71i.de
 0.0.0.0 ad.980x.com
 0.0.0.0 ad.a8.net
 0.0.0.0 ad.abcnews.com
 0.0.0.0 ad.abctv.com
 0.0.0.0 ad.about.com
-0.0.0.0 ad.aboutit.de
 0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 ad.abum.com
 0.0.0.0 ad.afy11.net
@@ -145,7 +144,6 @@
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.slutload.com
 0.0.0.0 ad.smartclip.net
-0.0.0.0 ad.tbn.ru
 0.0.0.0 ad.technoratimedia.com
 0.0.0.0 ad.thewheelof.com
 0.0.0.0 ad.turn.com
@@ -183,6 +181,7 @@
 0.0.0.0 adapt.tv
 0.0.0.0 adbanner.ro
 0.0.0.0 adbard.net
+0.0.0.0 adbers.com
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
 0.0.0.0 adboost.de.vu
@@ -328,6 +327,7 @@
 0.0.0.0 adrolays.de
 0.0.0.0 adrotate.de
 0.0.0.0 adrotator.se
+0.0.0.0 adrta.com
 0.0.0.0 ads-click.com
 0.0.0.0 ads.4tube.com
 0.0.0.0 ads.5ci.lt
@@ -367,7 +367,6 @@
 0.0.0.0 ads.betfair.com.au
 0.0.0.0 ads.bigchurch.com
 0.0.0.0 ads.bigfoot.com
-0.0.0.0 ads.billiton.de
 0.0.0.0 ads.bing.com
 0.0.0.0 ads.bittorrent.com
 0.0.0.0 ads.blog.com
@@ -1054,6 +1053,7 @@
 0.0.0.0 bans.adserver.co.il
 0.0.0.0 bans.bride.ru
 0.0.0.0 barnesandnoble.bfast.com
+0.0.0.0 basebanner.com
 0.0.0.0 baypops.com
 0.0.0.0 bbelements.com
 0.0.0.0 bbn.img.com.ua
@@ -1067,6 +1067,7 @@
 0.0.0.0 bhclicks.com
 0.0.0.0 bidclix.com
 0.0.0.0 bidclix.net
+0.0.0.0 bidswitch.net
 0.0.0.0 bidtrk.com
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigbangmedia.com
@@ -1115,6 +1116,7 @@
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.compete.com
 0.0.0.0 c1.nowlinux.com
+0.0.0.0 c1exchange.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
 0.0.0.0 carbonads.com
@@ -1140,10 +1142,12 @@
 0.0.0.0 cdn.freefacti.com
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cecash.com
+0.0.0.0 centerpointmedia.com
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
 0.0.0.0 cetrk.com
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 ch.questionmarket.com
+0.0.0.0 chameleon.ad
 0.0.0.0 channelintelligence.com
 0.0.0.0 chart.dk
 0.0.0.0 chartbeat.com
@@ -1180,6 +1184,7 @@
 0.0.0.0 clickhype.com
 0.0.0.0 clicklink.jp
 0.0.0.0 clickmedia.ro
+0.0.0.0 clickonometrics.pl
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.mods.de
 0.0.0.0 clickserve.cc-dt.com
@@ -1198,6 +1203,7 @@
 0.0.0.0 clicmanager.fr
 0.0.0.0 clients.tbo.com
 0.0.0.0 clixgalore.com
+0.0.0.0 clk.konflab.com
 0.0.0.0 clkads.com
 0.0.0.0 clkrev.com
 0.0.0.0 cluster.adultworld.com
@@ -1282,6 +1288,7 @@
 0.0.0.0 decknetwork.net
 0.0.0.0 deloo.de
 0.0.0.0 demandbase.com
+0.0.0.0 demdex.net
 0.0.0.0 di1.shopping.com
 0.0.0.0 dialerporn.com
 0.0.0.0 didtheyreadit.com
@@ -1360,6 +1367,7 @@
 0.0.0.0 exchange.bg
 0.0.0.0 exchangead.com
 0.0.0.0 exchangeclicksonline.com
+0.0.0.0 exelator.com
 0.0.0.0 exit76.com
 0.0.0.0 exitexchange.com
 0.0.0.0 exitfuel.com
@@ -1453,6 +1461,7 @@
 0.0.0.0 greystripe.com
 0.0.0.0 gtop.ro
 0.0.0.0 gtop100.com
+0.0.0.0 gunggo.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 havamedia.net
@@ -1566,7 +1575,6 @@
 0.0.0.0 jcount.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
-0.0.0.0 jokedollars.com
 0.0.0.0 js.users.51.la
 0.0.0.0 juicyads.com
 0.0.0.0 jumptap.com
@@ -1581,6 +1589,7 @@
 0.0.0.0 komoona.com
 0.0.0.0 kompasads.com
 0.0.0.0 kontera.com
+0.0.0.0 kt-g.de
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 lakequincy.com
 0.0.0.0 layer-ad.de
@@ -1847,7 +1856,6 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel.redditmedia.com
-0.0.0.0 planetactive.com
 0.0.0.0 play4traffic.com
 0.0.0.0 playhaven.com
 0.0.0.0 plista.com
@@ -2085,6 +2093,7 @@
 0.0.0.0 stats.directnic.com
 0.0.0.0 stats.hyperinzerce.cz
 0.0.0.0 stats.mirrorfootball.co.uk
+0.0.0.0 stats.multiup.org
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.suite101.com
 0.0.0.0 stats.surfaid.ihost.com
@@ -2128,6 +2137,7 @@
 0.0.0.0 targetpoint.com
 0.0.0.0 tatsumi-sys.jp
 0.0.0.0 tcads.net
+0.0.0.0 teads.tv
 0.0.0.0 techclicks.net
 0.0.0.0 teenrevenue.com
 0.0.0.0 teliad.de
@@ -2169,7 +2179,7 @@
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 toplista.mw.hu
 0.0.0.0 toplistcity.com
-0.0.0.0 topmmorpgsites.com
+0.0.0.0 topmmorpgsites.com.invalid
 0.0.0.0 topping.com.ua
 0.0.0.0 toprebates.com
 0.0.0.0 topsafelist.net
@@ -2186,6 +2196,7 @@
 0.0.0.0 track.adform.net
 0.0.0.0 track.anchorfree.com
 0.0.0.0 track.gawker.com
+0.0.0.0 track.happysitewriter.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.marinsm.com
