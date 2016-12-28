@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 10 Dec 2016 22:32:10 GMT
-# entries:        2374
+# last updated:   Thu, 22 Dec 2016 13:13:46 GMT
+# entries:        2373
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 12 Dec 2016 00:00:00
+# start date:    Wed, 28 Dec 2016 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -71,6 +71,7 @@
 0.0.0.0 ad-space.net
 0.0.0.0 ad-tech.com
 0.0.0.0 ad-up.com
+0.0.0.0 ad.100.tbn.ru
 0.0.0.0 ad.71i.de
 0.0.0.0 ad.980x.com
 0.0.0.0 ad.a8.net
@@ -144,6 +145,7 @@
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.slutload.com
 0.0.0.0 ad.smartclip.net
+0.0.0.0 ad.tbn.ru
 0.0.0.0 ad.technoratimedia.com
 0.0.0.0 ad.thewheelof.com
 0.0.0.0 ad.turn.com
@@ -205,7 +207,6 @@
 0.0.0.0 adclick.com
 0.0.0.0 adclient.uimserv.net
 0.0.0.0 adclient1.tucows.com
-0.0.0.0 adcloud.net
 0.0.0.0 adcomplete.com
 0.0.0.0 adconion.com
 0.0.0.0 adcontent.gamespy.com
@@ -231,7 +232,6 @@
 0.0.0.0 adgridwork.com
 0.0.0.0 adhese.be
 0.0.0.0 adhese.com
-0.0.0.0 adi.mainichi.co.jp
 0.0.0.0 adimage.asiaone.com.sg
 0.0.0.0 adimage.guardian.co.uk
 0.0.0.0 adimages.been.com
@@ -701,7 +701,6 @@
 0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 adsby.bidtheatre.com
 0.0.0.0 adscale.de
-0.0.0.0 adscholar.com
 0.0.0.0 adscience.nl
 0.0.0.0 adscpm.com
 0.0.0.0 adsdaq.com
@@ -915,6 +914,7 @@
 0.0.0.0 allosponsor.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 americash.com
 0.0.0.0 amung.us
 0.0.0.0 an.tacoda.net
 0.0.0.0 anahtars.com
@@ -1138,7 +1138,6 @@
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cben1.net
 0.0.0.0 cbmall.com
-0.0.0.0 cbx.net
 0.0.0.0 cdn.freefacti.com
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cecash.com
@@ -1223,7 +1222,6 @@
 0.0.0.0 connextra.com
 0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
-0.0.0.0 content.ad
 0.0.0.0 contextweb.com
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversionruler.com
@@ -1261,7 +1259,6 @@
 0.0.0.0 crawlability.com
 0.0.0.0 crazypopups.com
 0.0.0.0 creafi-online-media.com
-0.0.0.0 creative.ak.facebook.com
 0.0.0.0 creative.whi.co.nz
 0.0.0.0 creatives.as4x.tmcs.net
 0.0.0.0 creatives.livejasmin.com
@@ -1357,9 +1354,9 @@
 0.0.0.0 eu1.madsone.com
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 eurekster.com
+0.0.0.0 euro-linkindex.de
 0.0.0.0 euroclick.com
 0.0.0.0 euros4click.de
-0.0.0.0 eusta.de
 0.0.0.0 evergage.com
 0.0.0.0 evidencecleanergold.com
 0.0.0.0 ewebcounter.com
@@ -1956,7 +1953,6 @@
 0.0.0.0 reduxmedia.com
 0.0.0.0 reduxmediagroup.com
 0.0.0.0 reedbusiness.com.invalid
-0.0.0.0 reefaquarium.biz
 0.0.0.0 referralware.com
 0.0.0.0 regnow.com
 0.0.0.0 reinvigorate.net
@@ -1998,6 +1994,8 @@
 0.0.0.0 s.adroll.com
 0.0.0.0 s2d6.com
 0.0.0.0 sageanalyst.net
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungads.com
 0.0.0.0 sbx.pagesjaunes.fr
 0.0.0.0 scambiobanner.aruba.it
 0.0.0.0 scanscout.com
@@ -2342,6 +2340,7 @@
 0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www1.gto-media.com
 0.0.0.0 www8.glam.com
+0.0.0.0 wwwpromoter.com
 0.0.0.0 x-traceur.com
 0.0.0.0 x6.yakiuchi.com
 0.0.0.0 xchange.ro

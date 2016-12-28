@@ -1,63 +1,83 @@
 #Unified hosts file with gambling, porn, social extensions
 
-This repository consolidates several reputable `hosts` files, and merges them into a unified hosts file
-with duplicates removed.  This repo provides several hosts files tailored to you need to block.
+This repository consolidates several reputable `hosts` files, and merges them
+into a unified hosts file with duplicates removed.  This repo provides several
+hosts files tailored to you need to block.
 
-* Last updated: **December 11 2016**.
-* Here's the [raw hosts file with gambling, porn, social extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social/hosts) containing 38,309 entries.
+* Last updated: **December 23 2016**.
+* Here's the [raw hosts file with gambling, porn, social extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social/hosts) containing 41,381 entries.
 
 ### List of all hosts file variants
 
-Host file recipe | Readme | Raw hosts | hosts (.zip) | Unique domains
----------------- |:------:|:---------:|:------------:|:-------------:
-Unified hosts = **(adware + malware)** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts.zip) | 31,818
-Unified hosts **+ gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts.zip) | 32,532
-Unified hosts **+ porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts.zip) | 37,365
-Unified hosts **+ social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts.zip) | 32,048
-Unified hosts **+ gambling + porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling-porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts.zip) | 38,079
-Unified hosts **+ gambling + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social/hosts.zip) | 32,762
-Unified hosts **+ porn + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-social/hosts.zip) | 37,595
-Unified hosts **+ gambling + porn + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling-porn-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social/hosts.zip) | 38,309
+The **Non Github mirror** is the link to use for some hosts file managers like
+[Hostsman for Windows](http://www.abelhadigital.com/hostsman) that don't work
+with Github download links.
+
+Host file recipe | Readme | Raw hosts | hosts (.zip) | Unique domains | Non Github mirror
+---------------- |:------:|:---------:|:------------:|:--------------:|:-------------:
+Unified hosts = **(adware + malware)** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts.zip) | 31,988 | [link](http://sbc.io/hosts/hosts)
+Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts.zip) | 32,536 | [link](http://sbc.io/hosts/alternates/fakenews/hosts)
+Unified hosts **+ gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts.zip) | 33,508 | [link](http://sbc.io/hosts/alternates/gambling/hosts)
+Unified hosts **+ porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts.zip) | 39,631 | [link](http://sbc.io/hosts/alternates/porn/hosts)
+Unified hosts **+ social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts.zip) | 32,218 | [link](http://sbc.io/hosts/alternates/social/hosts)
+Unified hosts **+ fakenews + gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts.zip) | 34,056 | [link](http://sbc.io/hosts/alternates/fakenews-gambling/hosts)
+Unified hosts **+ fakenews + porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn/hosts.zip) | 40,179 | [link](http://sbc.io/hosts/alternates/fakenews-porn/hosts)
+Unified hosts **+ fakenews + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-social/hosts.zip) | 32,766 | [link](http://sbc.io/hosts/alternates/fakenews-social/hosts)
+Unified hosts **+ gambling + porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling-porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts.zip) | 41,151 | [link](http://sbc.io/hosts/alternates/gambling-porn/hosts)
+Unified hosts **+ gambling + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social/hosts.zip) | 33,738 | [link](http://sbc.io/hosts/alternates/gambling-social/hosts)
+Unified hosts **+ porn + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-social/hosts.zip) | 39,861 | [link](http://sbc.io/hosts/alternates/porn-social/hosts)
+Unified hosts **+ fakenews + gambling + porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling-porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts.zip) | 41,699 | [link](http://sbc.io/hosts/alternates/fakenews-gambling-porn/hosts)
+Unified hosts **+ fakenews + gambling + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts.zip) | 34,286 | [link](http://sbc.io/hosts/alternates/fakenews-gambling-social/hosts)
+Unified hosts **+ fakenews + porn + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-porn-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-social/hosts.zip) | 40,409 | [link](http://sbc.io/hosts/alternates/fakenews-porn-social/hosts)
+Unified hosts **+ gambling + porn + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling-porn-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-social/hosts.zip) | 41,381 | [link](http://sbc.io/hosts/alternates/gambling-porn-social/hosts)
+Unified hosts **+ fakenews + gambling + porn + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling-porn-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts.zip) | 41,929 | [link](http://sbc.io/hosts/alternates/fakenews-gambling-porn-social/hosts)
 
 
-**Expectation**: These unified hosts files should serve all devices, regardless of OS.
+**Expectation**: These unified hosts files should serve all devices, regardless 
+of OS.
 
 ## Sources of hosts data unified in this variant
 
-Updated `hosts` files from the following locations are always unified and included:
+Updated `hosts` files from the following locations are always unified and 
+included:
 
 Host file source | Description | Home page | Raw hosts | Update frequency 
 -----------------|-------------|:---------:|:---------:|:-------:
-AdAway | AdAway is an open source ad blocker for Android using the hosts file. |[link](https://adaway.org/) | [raw](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | occasional 
-add.2o7Net | 2o7Net tracking sites based on http://www.hostsfile.org/hosts.html content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) | occasional 
-add.Dead | Dead sites based on http://www.hostsfile.org/hosts.html content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts) | occasional 
-add.Risk | Risk content sites based on http://www.hostsfile.org/hosts.html content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) | occasional 
-add.Spam | Spam sites based on http://www.hostsfile.org/hosts.html content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) | occasional 
+AdAway | AdAway is an open source ad blocker for Android using the hosts file. |[link](https://adaway.org/) | [raw](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | occasionally 
+add.2o7Net | 2o7Net tracking sites based on http://www.hostsfile.org/hosts.html content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) | occasionally 
+add.Dead | Dead sites based on http://www.hostsfile.org/hosts.html content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts) | occasionally 
+add.Risk | Risk content sites based on http://www.hostsfile.org/hosts.html content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) | occasionally 
+add.Spam | Spam sites based on http://www.hostsfile.org/hosts.html content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) | occasionally 
 KADhosts | Fraud/adware/scam websites. |[link](https://github.com/azet12/KADhosts) | [raw](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) | frequently 
 Malware Domain List | Malware Domain List is a non-commercial community project. |[link](http://www.malwaredomainlist.com/) | [raw](https://www.malwaredomainlist.com/hostslist/hosts.txt) | weekly 
 MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[link](http://winhelp2002.mvps.org/) | [raw](http://winhelp2002.mvps.org/hosts.txt) | monthly 
 Dan Pollock – someonewhocares.org | How to make the internet not suck (as much). |[link](http://someonewhocares.org/hosts/) | [raw](http://someonewhocares.org/hosts/zero/hosts) | frequently 
-SpotifyAds | Spotify ads sources sites based on https://github.com/Xeroday/Spotify-Ad-Blocker content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/SpotifyAds/hosts) | occasional 
+SpotifyAds | Spotify ads sources sites based on https://github.com/Xeroday/Spotify-Ad-Blocker content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/SpotifyAds/hosts) | occasionally 
 Steven Black's ad-hoc list | Additional sketch domains as I come across them. |[link](https://github.com/StevenBlack/hosts/blob/master/data/StevenBlack/hosts) | [raw](https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts) | occasionally 
-Telemetry | Windows users tracking sites based on https://github.com/Nummer/Destroy-Windows-10-Spying content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/Telemetry/hosts) | occasional 
 tyzbit | Microsoft tracking domains.  A fork of this repo providing additional data. |[link](https://github.com/tyzbit/hosts/blob/master/data/tyzbit/hosts) | [raw](https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts) | rarely 
-UncheckyAds | Windows installers ads sources sites based on https://unchecky.com/ content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) | occasional 
+UncheckyAds | Windows installers ads sources sites based on https://unchecky.com/ content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) | occasionally 
+WindowsSpyBlocker::SPY:WIN10 | Set of rules to block Windows spy/telemetry via hosts.SPY rules for WIN10 |[link](https://github.com/crazy-max/WindowsSpyBlocker) | [raw](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt) | frequently 
+WindowsSpyBlocker::SPY:WIN81 | Set of rules to block Windows spy/telemetry via hosts.SPY rules for WIN81 |[link](https://github.com/crazy-max/WindowsSpyBlocker) | [raw](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win81/spy.txt) | frequently 
 yoyo.org | Blocking with ad server and tracking server hostnames. |[link](https://pgl.yoyo.org/adservers/) | [raw](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) | frequently 
 Sinfonietta's gambling blocking hosts file | A collection of category-specific host files. |[link](https://github.com/Sinfonietta/hostfiles) | [raw](https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts) | occasional 
+pornhosts -- a consolidated anti porn hosts file | This is an endeavour to find all porn domains and compile them into a single hosts to allow for easy blocking of porn on your local machine or on a network. |[link](https://github.com/Clefspeare13/pornhosts) | [raw](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts) | occasional 
 Sinfonietta's porn blocking hosts file | A collection of category-specific host files. |[link](https://github.com/Sinfonietta/hostfiles) | [raw](https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts) | occasional 
 Sinfonietta's social media blocking hosts file | A collection of category-specific host files. |[link](https://github.com/Sinfonietta/hostfiles) | [raw](https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts) | occasional 
 
 
 
 ## Extensions
-The unified hosts file is extensible.  You manage extensions by curating the `extensions/` folder tree. See the `social`, `gambling`, and `porn` extension folders.
+The unified hosts file is extensible.  You manage extensions by curating the 
+`extensions/` folder tree. See the `social`, `gambling`, and `porn` extension 
+folders.
 
 ## Generate your own unified hosts file
 
-The `updateHostsFile.py` script, which is python 2.7 and Python 3-compatible, will generate a unified hosts file
-based on the sources in the local `data/` subfolder.  The script will prompt you Whether it should fetch updated
-versions (from locations defined by the update.info text file in each source's folder), otherwise it will use the
-`hosts` file that's already there.
+The `updateHostsFile.py` script, which is python 2.7 and Python 3-compatible,
+will generate a unified hosts file based on the sources in the local `data/`
+subfolder.  The script will prompt you Whether it should fetch updated
+versions (from locations defined by the `update.json` text file in each
+source's folder), otherwise it will use the `hosts` file that's already there.
 
 ### Usage
 
@@ -76,74 +96,92 @@ versions (from locations defined by the update.info text file in each source's f
 `--auto`, or `-a`: run the script without prompting. When `--auto` is invoked,
 
 * Hosts data sources, including extensions, are updated.
-* No extensions are included by default.  Use the `--extensions` or `-e` flag to include any you want.
-* Your active hosts file is *not* replaced unless you include the `--replace` flag.
+* No extensions are included by default.  Use the `--extensions` or `-e` flag 
+to include any you want.
+* Your active hosts file is *not* replaced unless you include the `--replace` 
+flag.
 
-`--backup`, or `-b`: Make a backup of existing hosts file(s) as you generate over them.
+`--backup`, or `-b`: Make a backup of existing hosts file(s) as you generate 
+over them.
 
-`--extensions <ext1> <ext2> <ext3>`, or `-e <ext1> <ext2> <ext3>`: the names of subfolders below the `extensions` folder
-containing additional category-specific hosts files to include in the amalgamation. Example: `--extensions porn` or
-`-e social porn`.
+`--extensions <ext1> <ext2> <ext3>`, or `-e <ext1> <ext2> <ext3>`: the names 
+of subfolders below the `extensions` folder containing additional 
+category-specific hosts files to include in the amalgamation. Example: 
+`--extensions porn` or `-e social porn`.
 
-`--flush-dns-cache`, or `-f`: skip the prompt for flushing the DNS cache.  Only active when `--replace` is also active.
+`--flush-dns-cache`, or `-f`: skip the prompt for flushing the DNS cache.  
+Only active when `--replace` is also active.
 
-`--ip nnn.nnn.nnn.nnn`, or `-i nnn.nnn.nnn.nnn`: the IP address to use as the target.  Default is `0.0.0.0`.
+`--ip nnn.nnn.nnn.nnn`, or `-i nnn.nnn.nnn.nnn`: the IP address to use as the 
+target.  Default is `0.0.0.0`.
 
 `--noupdate`, or `-n`: skip fetching updates from hosts data sources.
 
-`--output <subfolder>`, or `-o <subfolder>`: place the generated source file in a subfolder.  If the subfolder does not
-exist, it will be created.
+`--output <subfolder>`, or `-o <subfolder>`: place the generated source file 
+in a subfolder.  If the subfolder does not exist, it will be created.
 
 `--replace`, or `-r`: trigger replacing your active hosts
 
-`--skipstatichosts`, or `-s`: `false` (default) or `true`, omit the standard section, at the top containing lines like `127.0.0.1 localhost`.  This is useful for configuring proximate DNS services on the local network.
+`--skipstatichosts`, or `-s`: `false` (default) or `true`, omit the standard
+`--section, at the top containing lines like `127.0.0.1 localhost`.  This is
+`--useful for configuring proximate DNS services on the local network.
 
-`--zip`, or `-z`: `false` (default) or `true`, additionally create a zip archive of the hosts file named `hosts.zip`.
+`--zip`, or `-z`: `false` (default) or `true`, additionally create a zip
+`--archive of the hosts file named `hosts.zip`.
 
 ## How do I control which sources are unified?
 
-Add one or more  *additional* sources, each in a subfolder of the `data/` folder, and specify the `url` key in its `update.json` file.
+Add one or more  *additional* sources, each in a subfolder of the `data/`
+folder, and specify the `url` key in its `update.json` file.
 
-Add one or more *optional* extensions, which originate from subfolders of the `extensions/` folder.  Again the url in
-`update.info` controls where this extension finds its updates.
+Add one or more *optional* extensions, which originate from subfolders of the
+`extensions/` folder.  Again the url in `update.json` controls where this
+extension finds its updates.
 
-Create an *optional* `blacklist` file. The contents of this file (containing a listing of additional domains in
-`hosts` file format) are appended to the unified hosts file during the update process. A sample `blacklist` is
+Create an *optional* `blacklist` file. The contents of this file (containing a
+listing of additional domains in `hosts` file format) are appended to the
+unified hosts file during the update process. A sample `blacklist` is
 included, and may be modified as you desire.
 
-  * NOTE: The `blacklist` is not tracked by git, so any changes you make won't be overridden when you `git pull`
-  this repo from `origin` in the future.
+  * NOTE: The `blacklist` is not tracked by git, so any changes you make won't
+be overridden when you `git pull`   this repo from `origin` in the future.
 
 ### How do I include my own custom domain mappings?
 
-If you have custom hosts records, place them in file `myhosts`.  The contents of this file are prepended to the
-unified hosts file during the update process.
+If you have custom hosts records, place them in file `myhosts`.  The contents
+of this file are prepended to the unified hosts file during the update
+process.
 
-The `myhosts` file is not tracked by git, so any changes you make won't be overridden when you `git pull` this repo from `origin` in the future.
+The `myhosts` file is not tracked by git, so any changes you make won't be
+overridden when you `git pull` this repo from `origin` in the future.
 
 ### How do I prevent domains from being included?
 
-The domains you list in the `whitelist` file are excluded from the final hosts file.  
+The domains you list in the `whitelist` file are excluded from the final hosts
+file.
 
-The `whitelist` uses partial matching.  Therefore if you whitelist `google-analytics.com`, that domain and all its
-subdomains won't be merged into the final hosts file.
+The `whitelist` uses partial matching.  Therefore if you whitelist `google-
+analytics.com`, that domain and all its subdomains won't be merged into the
+final hosts file.
 
-The `whitelist` is not tracked by git, so any changes you make won't be overridden when you `git pull` this repo 
-from `origin` in the future.
+The `whitelist` is not tracked by git, so any changes you make won't be
+overridden when you `git pull` this repo  from `origin` in the future.
 
 
 ## What is a hosts file?
 
-A hosts file, named `hosts` (with no file extension), is a plain-text file used by all operating
-systems to map hostnames to IP addresses.
+A hosts file, named `hosts` (with no file extension), is a plain-text file
+used by all operating systems to map hostnames to IP addresses.
 
-In most operating systems, the `hosts` file is preferential to `DNS`.  Therefore if a domain name is
-resolved by the `hosts` file, the request never leaves your computer.
+In most operating systems, the `hosts` file is preferential to `DNS`.
+Therefore if a domain name is resolved by the `hosts` file, the request never
+leaves your computer.
 
-Having a smart `hosts` file goes a long way towards blocking malware, adware, and other irritants.
+Having a smart `hosts` file goes a long way towards blocking malware, adware,
+and other irritants.
 
-For example, to nullify requests to some doubleclick.net servers, adding these lines to your hosts
-file will do it:
+For example, to nullify requests to some doubleclick.net servers, adding these
+lines to your hosts file will do it:
 
     # block doubleClick's servers
     0.0.0.0 ad.ae.doubleclick.net
@@ -253,13 +291,14 @@ The goals of this repo are to:
 
 4. and keep the resultant file reasonably sized.
 
-A high-quality source is defined here as one that is actively curated.  A hosts source should be frequently
-updated by its maintainers with both additions and removals.  The larger the hosts file, the higher the level of
+A high-quality source is defined here as one that is actively curated.  A
+hosts source should be frequently updated by its maintainers with both
+additions and removals.  The larger the hosts file, the higher the level of
 curation is expected.
 
-For example, the (huge) hosts file from [hosts-file.net](http://hosts-file.net) is **not** included
-here because it is very large (300,000+ entries) and doesn't currently display a corresponding high level of curation
-activity.
+For example, the (huge) hosts file from [hosts-file.net](http://hosts-
+file.net) is **not** included here because it is very large (300,000+ entries)
+and doesn't currently display a corresponding high level of curation activity.
 
-It is expected that this unified hosts file will serve both desktop and mobile devices under a variety of operating
-systems.
+It is expected that this unified hosts file will serve both desktop and mobile
+devices under a variety of operating systems.

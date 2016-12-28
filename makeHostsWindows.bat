@@ -1,4 +1,5 @@
 @ECHO OFF
+TITLE Make Hosts
 
 if not exist "%WINDIR%\py.exe" (
 	ECHO :: ERROR :: Python 3.5 Runtime NOT FOUND...
@@ -9,7 +10,7 @@ if not exist "%WINDIR%\py.exe" (
 	GOTO PY35RT
  )
 :PY35RT
-if not exist "%PROGRAMFILES%\python35\Python35.dll" (
+if not exist "%LOCALAPPDATA%\Programs\Python\Python35\Python35.dll" (
 	ECHO :: ERROR :: Python 3.5 Runtime NOT FOUND...
 	ECHO :: ERROR :: Download and install lastest Python 3.5 for Windows from https://www.python.org/downloads/
 	ECHO :: ERROR :: Exit...
