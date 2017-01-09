@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 28 Dec 2016 at 01:05:23 GMT
+# Last updated: Mon, 09 Jan 2017 at 12:12:44 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3814,7 +3814,6 @@
 #</maybe-ads>
 
 # ads
-0.0.0.0
 0.0.0.0 0101011.com
 0.0.0.0 0427d7.se
 0.0.0.0 0d79ed.r.axf8.net
@@ -6345,6 +6344,7 @@
 0.0.0.0 b1.azjmp.com
 0.0.0.0 b2b.filecloud.me
 0.0.0.0 b34rightym.com
+0.0.0.0 b.a2gw.com
 0.0.0.0 babanetwork.adk2x.com
 0.0.0.0 babycenter.tt.omtrdc.net
 0.0.0.0 backoffice.evobinary.com
@@ -6727,6 +6727,7 @@
 0.0.0.0 cdn.freejlo.com
 0.0.0.0 cdn.freelac.com
 0.0.0.0 cdn.freelev.com
+0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.go.arbo.bbelements.com
 0.0.0.0 cdn.go.arbopl.bbelements.com
 0.0.0.0 cdn.go.cz.bbelements.com
@@ -7009,6 +7010,7 @@
 0.0.0.0 creative.ad131m.com
 0.0.0.0 creative.adshuffle.com
 0.0.0.0 creative.ak.facebook.com
+0.0.0.0 creative.medianexusnetwork.com                                                                   
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 creatives.rgadvert.com
 0.0.0.0 creatrixads.com
@@ -7092,6 +7094,7 @@
 0.0.0.0 dashgreen.online
 0.0.0.0 data0.bell.ca
 0.0.0.0 data.flurry.com
+0.0.0.0 data.namesakeoscilloscopemarquis.com
 0.0.0.0 date.ventivmedia.com
 0.0.0.0 datingadvertising.com
 0.0.0.0 dawnnationaladvertiser.com
@@ -7579,6 +7582,7 @@
 0.0.0.0 got2goshop.com
 0.0.0.0 goto.mystreamdelivery.xyz
 0.0.0.0 goto.trafficmultiplier.com
+0.0.0.0 go.trkreward.com                                                                                 
 0.0.0.0 go.verymuchad.com
 0.0.0.0 gozatar.com
 0.0.0.0 gozing.directtrack.com
@@ -7643,6 +7647,7 @@
 0.0.0.0 hlcc.ca
 0.0.0.0 hm.baidu.com
 0.0.0.0 hm.l.qq.com
+0.0.0.0 hnfwg.voluumtrk.com
 0.0.0.0 holiday-gift-offers.com
 0.0.0.0 holidayproductpromo.com
 0.0.0.0 holidayshoppingrewards.com
@@ -8106,11 +8111,13 @@
 0.0.0.0 macaddictads.snv.futurenet.com
 0.0.0.0 macads.net
 0.0.0.0 maccleanersecurity.com
+0.0.0.0 macfixingsoftware.space
 0.0.0.0 mackeeperapp1.zeobit.com
 0.0.0.0 mackeeperapp2.mackeeper.com
 0.0.0.0 mackeeperapp3.mackeeper.com
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 macleaner.space
+0.0.0.0 macpurifier.com
 0.0.0.0 mac.system-alert1.com
 0.0.0.0 mad2.brandreachsys.com
 0.0.0.0 madadsmedia.com
@@ -8697,9 +8704,11 @@
 0.0.0.0 pix522.adtech.fr
 0.0.0.0 pix522.adtech.us
 0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 pixel.adssafeprotected.com                                                                       
 0.0.0.0 pixel.everesttech.net
 0.0.0.0 pixel.mathtag.com
 #0.0.0.0 pixel.quantserve.com		# Interferes with Video on CBS and Comcast
+0.0.0.0 pixel-secure.solvemedia.com                                                                      
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.watch
 0.0.0.0 pix.revsci.net
@@ -8732,6 +8741,7 @@
 0.0.0.0 popclick.net
 0.0.0.0 popmycash.com
 0.0.0.0 poponclick.com
+0.0.0.0 pop.redirect.adsjudo.com                                                                         
 0.0.0.0 popunder.adsrevenue.net
 0.0.0.0 popunder.loading-delivery1.com
 0.0.0.0 popunder.paypopup.com
@@ -9290,6 +9300,7 @@
 0.0.0.0 slayinglance.com
 0.0.0.0 slider.plugrush.com
 0.0.0.0 slimspots.com
+0.0.0.0 slowmacfaster.trade
 0.0.0.0 smartadserver
 0.0.0.0 smartadserver.com
 0.0.0.0 smart.besonders.ru
@@ -9655,6 +9666,7 @@
 0.0.0.0 track.tooplay.com
 0.0.0.0 trackvoluum.com
 0.0.0.0 track.vscash.com
+0.0.0.0 track.whitespace57.com                                                                           
 0.0.0.0 tradearabia.advertserve.com
 0.0.0.0 tradefx.advertserve.com
 0.0.0.0 tradem.com
@@ -9832,6 +9844,8 @@
 0.0.0.0 vnumedia04.webtrekk.net
 0.0.0.0 vocal-mess.com
 0.0.0.0 vodafoneit.solution.weborama.fr
+0.0.0.0 voluumtracker1.com                                                                               
+0.0.0.0 voluumtracker.com                                                                                
 0.0.0.0 voluumtrk2.com
 0.0.0.0 voluumtrk3.com
 0.0.0.0 voluumtrk.com
@@ -10234,6 +10248,7 @@
 0.0.0.0 www.apparelncs.com
 0.0.0.0 www.apparel-offer.com
 0.0.0.0 www.applelounge.com
+0.0.0.0 www.appleprotection.org
 0.0.0.0 www.applicationwiki.com
 0.0.0.0 www.appliedsemantics.com
 0.0.0.0 www.appnexus.com
@@ -10272,7 +10287,6 @@
 0.0.0.0 www.best-games4you.top
 0.0.0.0 www.best-iphone6s.com
 0.0.0.0 www.bestshopperrewards.com
-0.0.0.0 www.bet365.com
 0.0.0.0 www.bhclicks.com
 0.0.0.0 www.bidtraffic.com
 0.0.0.0 www.bidvertiser.com
@@ -10593,6 +10607,8 @@
 0.0.0.0 www.intnet-offer.com
 0.0.0.0 www.invitefashion.com
 0.0.0.0 www.is1.clixgalore.com
+0.0.0.0 www.isfilebest.com
+0.0.0.0 www.isoftibest.com
 0.0.0.0 www.istats.nl
 0.0.0.0 www.itrackerpro.com
 0.0.0.0 www.itsfree123.com
@@ -10967,6 +10983,7 @@
 0.0.0.0 www.yieldpartners.com
 0.0.0.0 www.youf1le.com
 0.0.0.0 www.youfck.com
+0.0.0.0 www.youfileisoft.com
 0.0.0.0 www.yourdvdplayer.com
 0.0.0.0 www.yourfreegascard.com
 0.0.0.0 www.yourgascards.com
@@ -10992,6 +11009,7 @@
 0.0.0.0 xch.smrtgs.com
 0.0.0.0 x.iasrv.com
 0.0.0.0 x.interia.pl
+0.0.0.0 xkygmtrrjalx.com
 0.0.0.0 xlivehost.com
 0.0.0.0 xlonhcld.xlontech.net
 0.0.0.0 xml.adfclick1.com
