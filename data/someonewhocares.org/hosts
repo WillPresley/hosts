@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 16 Jan 2017 at 03:50:45 GMT
+# Last updated: Mon, 23 Jan 2017 at 01:17:41 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6236,6 +6236,7 @@
 0.0.0.0 apparel-offer.com
 0.0.0.0 app.datafastguru.info
 0.0.0.0 appdev.addthis.com
+0.0.0.0 appfixing.space
 0.0.0.0 applicationpremium70.club
 0.0.0.0 applyfix.tech
 0.0.0.0 appnexus.com
@@ -7276,6 +7277,7 @@
 0.0.0.0 ETHpolice.com
 0.0.0.0 etrk.asus.com
 0.0.0.0 etype.adbureau.net
+0.0.0.0 eu1.recompenses.win
 0.0.0.0 eu2.madsone.com
 0.0.0.0 euniverseads.com
 0.0.0.0 eu-pn4.adserver.yahoo.com
@@ -7651,6 +7653,7 @@
 0.0.0.0 hit.8digits.com
 0.0.0.0 hk.adserver.yahoo.com
 0.0.0.0 hlcc.ca
+0.0.0.0 hlu9tseh.men
 0.0.0.0 hm.baidu.com
 0.0.0.0 hm.l.qq.com
 0.0.0.0 hnfwg.voluumtrk.com
@@ -7776,6 +7779,7 @@
 0.0.0.0 img.blogads.com
 0.0.0.0 img-cdn.mediaplex.com
 0.0.0.0 img.directtrack.com
+0.0.0.0 imgg-cdn.adskeeper.co.uk
 0.0.0.0 imgg.dt00.net
 0.0.0.0 imgg.marketgid.com
 0.0.0.0 imgg.mgid.com
@@ -8432,6 +8436,7 @@
 0.0.0.0 nl.adserver.yahoo.com
 0.0.0.0 nl.ads.justpremium.com
 0.0.0.0 no.adserver.yahoo.com
+0.0.0.0 nofreezingmac.space
 0.0.0.0 nospartenaires.com
 0.0.0.0 nothing-but-value.com
 0.0.0.0 noticiasftpsrv.com
@@ -8727,6 +8732,7 @@
 0.0.0.0 platads.com
 0.0.0.0 playinvaders.com
 0.0.0.0 playlink.pl
+0.0.0.0 playnow.guru
 0.0.0.0 playtime.tubemogul.com
 0.0.0.0 play.traffpartners.com
 0.0.0.0 pl.bbelements.com
@@ -8983,6 +8989,7 @@
 0.0.0.0 re.kontera.com
 0.0.0.0 relestar.com
 0.0.0.0 remotead.cnet.com
+0.0.0.0 rencontreavenue.com
 0.0.0.0 report02.adtech.de
 0.0.0.0 report02.adtech.fr
 0.0.0.0 report02.adtech.us
@@ -9186,6 +9193,7 @@
 0.0.0.0 securerunner.com
 0.0.0.0 secure.webconnect.net
 0.0.0.0 seduction-zone.com
+0.0.0.0 seemlessfixing.tech
 0.0.0.0 seks-partner.com
 0.0.0.0 sel.as-eu.falkag.net
 0.0.0.0 sel.as-us.falkag.net
@@ -9776,7 +9784,6 @@
 0.0.0.0 upload.adtech.us
 0.0.0.0 uproar.com
 0.0.0.0 uproar.fortunecity.com
-0.0.0.0 upsellit.com
 0.0.0.0 urban.adspirit.de
 0.0.0.0 urchin.lstat.youku.com
 0.0.0.0 us.adserver.yahoo.com
@@ -10216,6 +10223,7 @@
 0.0.0.0 www.adservtech.com
 0.0.0.0 www.adsinimages.com
 0.0.0.0 www.ads.joetec.net
+0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 www.adsoftware.com
 0.0.0.0 www.ad-souk.com
 0.0.0.0 www.adspics.com
@@ -10955,7 +10963,6 @@
 0.0.0.0 www.ultimatefashiongifts.com
 0.0.0.0 www.uniqebrokeroffers.com
 0.0.0.0 www.uproar.com
-0.0.0.0 www.upsellit.com
 0.0.0.0 www.usatravel-specials.com
 0.0.0.0 www.usatravel-specials.net
 0.0.0.0 www.us-choicevalue.com

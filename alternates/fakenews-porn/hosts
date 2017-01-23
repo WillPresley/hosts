@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: January 05 2017
+# Date: January 22 2017
 # Extensions added to this file: fakenews, porn
-# Number of unique domains: 40,250
+# Number of unique domains: 40,499
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -5635,7 +5635,7 @@ fe80::1%lo0 localhost
 # KAD hosts file
 # Zalecany tylko dla zaawansowanych uzytkownikow
 # Niektore funkcje oferowane przez filtr nie sa dostepne w ponizszym pliku ze wzgledu na ograniczenia hosts.
-# Aktualizacja zbiorowa: 2016123001
+# Aktualizacja zbiorowa: 2017012101
 
 
 # Podejrzane i/lub polaczone z innymi przekretami
@@ -6120,6 +6120,7 @@ fe80::1%lo0 localhost
 0.0.0.0 datasmierci-test.pl
 0.0.0.0 fejsviewer.com.pl
 0.0.0.0 abdcn.pro
+0.0.0.0 abcdg.pro
 0.0.0.0 pl2.titan-man.pro
 0.0.0.0 ac-feedback.com
 0.0.0.0 st.acstnst.com
@@ -6128,6 +6129,28 @@ fe80::1%lo0 localhost
 0.0.0.0 lokalizacjasatelitarna.pl
 0.0.0.0 xbox-code.eu
 0.0.0.0 solvusoft.com
+0.0.0.0 odbierz-nagrode.sklep.pl
+0.0.0.0 kingprize.pl
+0.0.0.0 xsuper-filmy.pl
+0.0.0.0 spreadyourtentacles.com
+0.0.0.0 africanmango.pl
+0.0.0.0 titangel-original.com
+0.0.0.0 new-power-life.com
+0.0.0.0 gojislim-original.com
+0.0.0.0 slimg0ji-berry.com
+0.0.0.0 5000cotydzien.net
+0.0.0.0 ifb-viewer.pl
+0.0.0.0 ad0007.net
+0.0.0.0 anuluj-mandat.pl
+0.0.0.0 anuluj-dlug.pl
+0.0.0.0 gilgotka.pl
+0.0.0.0 formularz-nagroda.pl
+0.0.0.0 konkurs-lotto.pl
+0.0.0.0 odbieramy.pl
+0.0.0.0 sprawdzpunktykarne.eu
+0.0.0.0 bardzofunny.co.pl
+0.0.0.0 konkurs-kobo.pl
+0.0.0.0 nxd.pl
 
 # Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 0.0.0.0 rfv.pl
@@ -6231,6 +6254,26 @@ fe80::1%lo0 localhost
 0.0.0.0 ppl3.pl
 
 # Szybko wygaszajace
+0.0.0.0 testimisional.5v.pl
+0.0.0.0 pormn.ga
+0.0.0.0 pormn.tk
+0.0.0.0 r6faz.eu
+0.0.0.0 tennisowo.glt.pl
+0.0.0.0 poldens.5v.pl
+0.0.0.0 pffn.pl.tn
+0.0.0.0 easy.eu.ai
+0.0.0.0 fbtools.glt.pl
+0.0.0.0 kalczedonia.c0.pl
+0.0.0.0 romo.borec.cz
+0.0.0.0 pffn.borec.cz
+0.0.0.0 nowema.borec.cz
+0.0.0.0 foto-opisik.w8w.pl
+0.0.0.0 oazaspokoju.c0.pl
+0.0.0.0 fbnarzedzie.borec.cz
+0.0.0.0 facepodgladacz.glt.pl
+0.0.0.0 qpodgladacz.glt.pl
+0.0.0.0 portret.5v.pl
+0.0.0.0 homy-plating.000webhostapp.com
 0.0.0.0 giant.5v.pl
 0.0.0.0 facebook01.5v.pl
 0.0.0.0 protip.5v.pl
@@ -6704,8 +6747,76 @@ fe80::1%lo0 localhost
 0.0.0.0 www.aldaniti.net
 0.0.0.0 pl.titan-man.pro
 0.0.0.0 pl1.titan-man.pro
+0.0.0.0 www.spreadyourtentacles.com
+0.0.0.0 pl.new-power-life.com
+0.0.0.0 pl.slimg0ji-berry.com
+0.0.0.0 pl1.slimg0ji-berry.com
+0.0.0.0 pl2.slimg0ji-berry.com
+0.0.0.0 www.odliczamy.net
+0.0.0.0 www.fabryka-nagrod.com
 
 # Przekrety
+0.0.0.0 chrome-setup.bid
+0.0.0.0 idzdalej.pl
+0.0.0.0 tescikiq.pl
+0.0.0.0 steamdoladowanie.pl
+0.0.0.0 ladujpsc.pl
+0.0.0.0 wygrajjacka.pl
+0.0.0.0 bonykupony.pl
+0.0.0.0 mojeiq.pl
+0.0.0.0 odliczamy.net
+0.0.0.0 odbierambony.pl
+0.0.0.0 tankuje-paliwo.pl
+0.0.0.0 videoroom.pl
+0.0.0.0 movies-base.pl
+0.0.0.0 wygrajps4pro.pl
+0.0.0.0 wygrajairpods.pl
+0.0.0.0 mediainner.pl
+0.0.0.0 wygrajxboxones.pl
+0.0.0.0 yourfashions.pl
+0.0.0.0 dopeclothing.pl
+0.0.0.0 makeittrue.pl
+0.0.0.0 mega-download.pl
+0.0.0.0 wygrajriotsy.pl
+0.0.0.0 followinsta.pl
+0.0.0.0 streamsportowy.pl
+0.0.0.0 askfm-like.pl
+0.0.0.0 sledzememes.pl
+0.0.0.0 wygrajgiftcard.pl
+0.0.0.0 fifa17-coins.pl
+0.0.0.0 monetypokemon.pl
+0.0.0.0 winiphone7.pl
+0.0.0.0 poke-zestaw.pl
+0.0.0.0 sexstream.pl
+0.0.0.0 twojapozyczka24h.pl
+0.0.0.0 zapiszto.pl #/2
+0.0.0.0 odbierzpokemon.pl
+0.0.0.0 file-folders.pl
+0.0.0.0 fspys.pl
+0.0.0.0 hdsport-stream.pl
+0.0.0.0 insta-follow.pl
+0.0.0.0 fb-colors.pl
+0.0.0.0 skin-konkurs.pl
+0.0.0.0 youraticles.pl #/2#
+0.0.0.0 win-skin.pl
+0.0.0.0 nikeswin.pl
+0.0.0.0 win-cosmetics.pl
+0.0.0.0 winshoess.pl
+0.0.0.0 sg7e.pl
+0.0.0.0 koszkosmetykii.pl
+0.0.0.0 hd-films.pl
+0.0.0.0 dieta-lux.pl
+0.0.0.0 getsnaps.pl
+0.0.0.0 riotpoints.pl
+0.0.0.0 swiatpobran.pl
+0.0.0.0 ustrzelskina.pl
+0.0.0.0 twojepetycje.pl
+0.0.0.0 you-vids.com
+0.0.0.0 podgladamy.com
+0.0.0.0 videos-base.pl
+0.0.0.0 bazafilmowa.org
+0.0.0.0 videtubs.pl
+0.0.0.0 carking.pl
 0.0.0.0 psc-konkurs.pl
 0.0.0.0 djcombox.pl
 0.0.0.0 jamba.pl
@@ -7695,7 +7806,7 @@ fe80::1%lo0 localhost
 0.0.0.0 widget-eforsa.pl
 #               MalwareDomainList.com Hosts List           #
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         Last updated: Thu, 29 Dec 16 22:21:54 +0000      #
+#         Last updated: Thu, 19 Jan 17 13:06:31 +0000      #
 
 
 0.0.0.0 109-204-26-16.netconnexion.managedbroadband.co.uk
@@ -7703,6 +7814,7 @@ fe80::1%lo0 localhost
 0.0.0.0 2amsports.com
 0.0.0.0 4.periziavela.com
 0.0.0.0 4dexports.com
+0.0.0.0 61kx.uk-insolvencydirect.com
 0.0.0.0 999fitness.com
 0.0.0.0 a.update.51edm.net
 0.0.0.0 ab.usageload32.com
@@ -7807,6 +7919,7 @@ fe80::1%lo0 localhost
 0.0.0.0 d1171912.cp.blacknight.com
 0.0.0.0 d4.cumshots.ws
 0.0.0.0 dancecourt.com
+0.0.0.0 daralasnan.com
 0.0.0.0 dawnframing.com
 0.0.0.0 dcanscapital.co.uk
 0.0.0.0 decorator.crabgrab.cl
@@ -7861,7 +7974,6 @@ fe80::1%lo0 localhost
 0.0.0.0 europol.europe.eu.id214218540-7444056787.h5841.com
 0.0.0.0 evans.babajilab.in
 0.0.0.0 ex.technor.com
-0.0.0.0 exadu.mymag250.co.uk
 0.0.0.0 exclaim.goldenteamacademy.cl
 0.0.0.0 executivecoaching.co.il
 0.0.0.0 exsexytop.tk
@@ -7892,7 +8004,6 @@ fe80::1%lo0 localhost
 0.0.0.0 gosciniec-paproc.pl
 0.0.0.0 gravityexp.com
 0.0.0.0 greev.randbinternationaltravel.com
-0.0.0.0 groax.mymag250.co.uk
 0.0.0.0 grosirkecantikan.com
 0.0.0.0 gurde.tourstogo.us
 0.0.0.0 guyscards.com
@@ -7975,7 +8086,6 @@ fe80::1%lo0 localhost
 0.0.0.0 krsa2gno.internet-security-alert.com
 0.0.0.0 krsa2gno.todays-sweepstakes-winner.com
 0.0.0.0 krsa2gno.youre-todays-lucky-sweeps-winner.com
-0.0.0.0 kuglu.mymag250.co.uk
 0.0.0.0 kulro.csheaven.com
 0.0.0.0 kyrsu.frost-electric-supply.com
 0.0.0.0 lab-cntest.tk
@@ -8147,6 +8257,7 @@ fe80::1%lo0 localhost
 0.0.0.0 qbike.com.br
 0.0.0.0 quotidiennokoue.com
 0.0.0.0 rallyeair.com
+0.0.0.0 raneevahijab.id
 0.0.0.0 rawoo.barginginfrance.net
 0.0.0.0 reclamus.com
 0.0.0.0 reishus.de
@@ -8195,7 +8306,6 @@ fe80::1%lo0 localhost
 0.0.0.0 sexyster.tk
 0.0.0.0 sexzoznamka.eu
 0.0.0.0 sgs.us.com
-0.0.0.0 shoac.mymag250.co.uk
 0.0.0.0 shoal.grahanusareadymix.com
 0.0.0.0 shovi.frost-electric-supply.com
 0.0.0.0 signready.com
@@ -8441,7 +8551,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.family-partners.fr
 0.0.0.0 www.fasadobygg.com
 0.0.0.0 www.fiocchidiriso.com
-0.0.0.0 www.freegames777.net
 0.0.0.0 www.fsm-europe.eu
 0.0.0.0 www.gasthofpost-ebs.de
 0.0.0.0 www.gennaroespositomilano.it
@@ -8514,6 +8623,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.stirparts.ru
 0.0.0.0 www.stormpages.com
 0.0.0.0 www.studiochiarelli.eu
+0.0.0.0 www.studiolegaleabbruzzese.com
 0.0.0.0 www.t-gas.co.uk
 0.0.0.0 www.t-sb.net
 0.0.0.0 www.tdms.saglik.gov.tr
@@ -21778,7 +21888,7 @@ fe80::1%lo0 localhost
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 05 Jan 2017 at 18:03:09 GMT
+# Last updated: Tue, 17 Jan 2017 at 19:51:09 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from
@@ -23388,6 +23498,7 @@ fe80::1%lo0 localhost
 0.0.0.0 eviboli576.o-f.com
 0.0.0.0 exasked.com
 0.0.0.0 expertland.net
+0.0.0.0 f150123.privacy4browsing.com
 0.0.0.0 faceboook-replyei0ki.montadalitihad.com
 0.0.0.0 facemail.com
 0.0.0.0 faeecb0ock.info
@@ -26791,6 +26902,7 @@ fe80::1%lo0 localhost
 0.0.0.0 app.datafastguru.info
 0.0.0.0 appdev.addthis.com
 0.0.0.0 applicationpremium70.club
+0.0.0.0 applyfix.tech
 0.0.0.0 appnexus.com
 0.0.0.0 apps5.oingo.com
 0.0.0.0 appsrv1.madserving.cn
@@ -27493,6 +27605,7 @@ fe80::1%lo0 localhost
 0.0.0.0 dc.sabela.com.pl
 0.0.0.0 dctracking.com
 0.0.0.0 de.ads.justpremium.com
+0.0.0.0 dearerfonder.info
 0.0.0.0 del1.phillyburbs.com
 0.0.0.0 delb.mspaceads.com
 0.0.0.0 delivery.adyea.com
@@ -27644,6 +27757,7 @@ fe80::1%lo0 localhost
 0.0.0.0 falkag.net
 0.0.0.0 family-offer.com
 0.0.0.0 f.as-eu.falkag.net
+0.0.0.0 fastfixing.tech
 0.0.0.0 fatcatrewards.com
 0.0.0.0 fbcdn-creative-a.akamaihd.net
 0.0.0.0 fbfreegifts.com
@@ -27737,6 +27851,7 @@ fe80::1%lo0 localhost
 0.0.0.0 freeshoppingprovider.com
 0.0.0.0 freeshoppingsource.com
 0.0.0.0 freevideodownloadforpc.com
+0.0.0.0 freezemac.tech
 0.0.0.0 fromslowmactofastmac.com
 0.0.0.0 frontend-loadbalancer.meteorsolutions.com
 0.0.0.0 functional-business.com
@@ -27960,6 +28075,7 @@ fe80::1%lo0 localhost
 0.0.0.0 hlcc.ca
 0.0.0.0 hm.baidu.com
 0.0.0.0 hm.l.qq.com
+0.0.0.0 hnfwg.voluumtrk.com
 0.0.0.0 holiday-gift-offers.com
 0.0.0.0 holidayproductpromo.com
 0.0.0.0 holidayshoppingrewards.com
@@ -28052,6 +28168,7 @@ fe80::1%lo0 localhost
 0.0.0.0 img-a2.ak.imagevz.net
 0.0.0.0 img.blogads.com
 0.0.0.0 img-cdn.mediaplex.com
+0.0.0.0 imgg-cdn.adskeeper.co.uk
 0.0.0.0 imgg.dt00.net
 0.0.0.0 imgg.mgid.com
 0.0.0.0 img.layer-ads.de
@@ -28335,11 +28452,15 @@ fe80::1%lo0 localhost
 0.0.0.0 macaddictads.snv.futurenet.com
 0.0.0.0 macads.net
 0.0.0.0 maccleanersecurity.com
+0.0.0.0 macfixingsoftware.space
 0.0.0.0 mackeeperapp1.zeobit.com
 0.0.0.0 mackeeperapp2.mackeeper.com
 0.0.0.0 mackeeperapp3.mackeeper.com
 0.0.0.0 mackeeperapp.mackeeper.com
+0.0.0.0 mackeeper-center.club
 0.0.0.0 macleaner.space
+0.0.0.0 macleaner.work
+0.0.0.0 macpurifier.com
 0.0.0.0 mac.system-alert1.com
 0.0.0.0 madadsmedia.com
 0.0.0.0 m.adbridge.de
@@ -28534,6 +28655,7 @@ fe80::1%lo0 localhost
 0.0.0.0 mygiftresource.com
 0.0.0.0 mygreatrewards.com
 0.0.0.0 myhousetechnews.com
+0.0.0.0 my.mystreamdelivery.xyz
 0.0.0.0 myoffertracking.com
 0.0.0.0 my-reward-channel.com
 0.0.0.0 my-rewardsvault.com
@@ -28895,6 +29017,7 @@ fe80::1%lo0 localhost
 0.0.0.0 premiumholidayoffers.com
 0.0.0.0 premiumproductsonline.com
 0.0.0.0 premium-reward-club.com
+0.0.0.0 prestoris.com
 0.0.0.0 prexyone.appspot.com
 0.0.0.0 primetime.ad.primetime.net
 0.0.0.0 privitize.com
@@ -29045,6 +29168,7 @@ fe80::1%lo0 localhost
 0.0.0.0 rdsa2012.com
 0.0.0.0 realads.realmedia.com
 0.0.0.0 realgfsbucks.com
+0.0.0.0 realizemobicom.com
 0.0.0.0 realmedia-a800.d4p.net
 0.0.0.0 realmedia.advance.net
 0.0.0.0 record.commissionlounge.com
@@ -29195,6 +29319,7 @@ fe80::1%lo0 localhost
 0.0.0.0 s-adserver.sandbox.cxad.cxense.com
 0.0.0.0 sad.sharethis.com
 0.0.0.0 safari-critical-alert.com
+0.0.0.0 safebrowse.com
 0.0.0.0 safe.hyperpaysys.com
 0.0.0.0 safenyplanet.in
 0.0.0.0 sagent.io
@@ -29222,6 +29347,7 @@ fe80::1%lo0 localhost
 0.0.0.0 schumacher.adtech.us
 0.0.0.0 schwab.tt.omtrdc.net
 0.0.0.0 scoremygift.com
+0.0.0.0 scorepconline.club
 0.0.0.0 screen-mates.com
 0.0.0.0 script.banstex.com
 0.0.0.0 scripts.linkz.net
@@ -29362,6 +29488,7 @@ fe80::1%lo0 localhost
 0.0.0.0 skill.skilljam.com
 0.0.0.0 slayinglance.com
 0.0.0.0 slimspots.com
+0.0.0.0 slowmacfaster.trade
 0.0.0.0 smartadserver
 0.0.0.0 smartadserver.com
 0.0.0.0 smart.besonders.ru
@@ -29440,6 +29567,7 @@ fe80::1%lo0 localhost
 0.0.0.0 stampscom.tt.omtrdc.net
 0.0.0.0 stanzapub.advertserve.com
 0.0.0.0 star-advertising.com
+0.0.0.0 star.pulseonclick.com
 0.0.0.0 start.badults.se
 0.0.0.0 stat0.888.ku6.com
 0.0.0.0 stat1.888.ku6.com
@@ -29520,6 +29648,7 @@ fe80::1%lo0 localhost
 0.0.0.0 subad-server.com
 0.0.0.0 subtracts.userplane.com
 0.0.0.0 successful-marketing-now.com
+0.0.0.0 suchaslowmac.tech
 0.0.0.0 sudokuwhiz.com
 0.0.0.0 sunmaker.com
 0.0.0.0 support.sweepstakes.com
@@ -29676,6 +29805,7 @@ fe80::1%lo0 localhost
 0.0.0.0 track.whitespace57.com
 0.0.0.0 tradem.com
 0.0.0.0 trafficbee.com
+0.0.0.0 traffic.getmyads.com
 0.0.0.0 trafficnetworkads24.com
 0.0.0.0 trafficrevenue.net
 0.0.0.0 traffictraders.com
@@ -29704,6 +29834,7 @@ fe80::1%lo0 localhost
 0.0.0.0 trvlnet.adbureau.net
 0.0.0.0 trvlnet-images.adbureau.net
 0.0.0.0 tr.wl.webads.nl
+0.0.0.0 t.silvinst.com
 0.0.0.0 tsms-ad.tsms.com
 0.0.0.0 tste.ivillage.com
 0.0.0.0 tste.mcclatchyinteractive.com
@@ -30158,6 +30289,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.adservtech.com
 0.0.0.0 www.adsinimages.com
 0.0.0.0 www.ads.joetec.net
+0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 www.adsoftware.com
 0.0.0.0 www.adspics.com
 0.0.0.0 www.ads.revenue.net
@@ -30201,6 +30333,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.apparelncs.com
 0.0.0.0 www.apparel-offer.com
 0.0.0.0 www.applelounge.com
+0.0.0.0 www.appleprotection.org
 0.0.0.0 www.applicationwiki.com
 0.0.0.0 www.appliedsemantics.com
 0.0.0.0 www.appnexus.com
@@ -30274,6 +30407,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.buwobarun.cn
 0.0.0.0 www.buyhitscheap.com
 0.0.0.0 www.buzzonclick.com
+0.0.0.0 www.cafecoquin.com
 0.0.0.0 www.cam4.fr
 0.0.0.0 www.canuckmethods.com
 0.0.0.0 www.capath.com
@@ -30301,6 +30435,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.clickdensity.com
 0.0.0.0 www.click-find-save.com
 0.0.0.0 www.click-see-save.com
+0.0.0.0 www.clicksgear.com
 0.0.0.0 www.clicksotrk.com
 0.0.0.0 www.clicktale.com
 0.0.0.0 www.clicktale.net
@@ -30462,6 +30597,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.getacoollaptop.com
 0.0.0.0 www.getacooltv.com
 0.0.0.0 www.getagiftonline.com
+0.0.0.0 www.getfilesmact.com
 0.0.0.0 www.getloan.com
 0.0.0.0 www.getmyads24.com
 0.0.0.0 www.getmyfreebabystuff.com
@@ -30538,6 +30674,8 @@ fe80::1%lo0 localhost
 0.0.0.0 www.interstitialzone.com
 0.0.0.0 www.intnet-offer.com
 0.0.0.0 www.invitefashion.com
+0.0.0.0 www.isfilebest.com
+0.0.0.0 www.isoftibest.com
 0.0.0.0 www.istats.nl
 0.0.0.0 www.itrackerpro.com
 0.0.0.0 www.itsfree123.com
@@ -30718,6 +30856,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.rewardblvd.com
 0.0.0.0 www.rewardhotspot.com
 0.0.0.0 www.rewardsflow.com
+0.0.0.0 www.rhydel.site
 0.0.0.0 www.ringtonepartner.com
 0.0.0.0 www.romepartners.com
 0.0.0.0 www.roulettebotplus.com
@@ -30885,6 +31024,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.yieldpartners.com
 0.0.0.0 www.youf1le.com
 0.0.0.0 www.youfck.com
+0.0.0.0 www.youfileisoft.com
 0.0.0.0 www.yourdvdplayer.com
 0.0.0.0 www.yourfreegascard.com
 0.0.0.0 www.yourgascards.com
@@ -30906,6 +31046,7 @@ fe80::1%lo0 localhost
 0.0.0.0 x.azjmp.com
 0.0.0.0 x.iasrv.com
 0.0.0.0 x.interia.pl
+0.0.0.0 xkygmtrrjalx.com
 0.0.0.0 xlivehost.com
 0.0.0.0 xlonhcld.xlontech.net
 0.0.0.0 xml.adservme.com
@@ -32645,16 +32786,20 @@ fe80::1%lo0 localhost
 0.0.0.0 adsmws.cloudapp.net
 0.0.0.0 annualconsumersurvey.com
 0.0.0.0 apps.id.net
+0.0.0.0 breaksurvey.com
 0.0.0.0 data.cnn.com
 0.0.0.0 canuck-method.com
 0.0.0.0 dobre-programy.pl
 0.0.0.0 www.canuck-method.com
 0.0.0.0 external.stealthedeal.com
+0.0.0.0 goodblock.gladly.io
 0.0.0.0 help.evernote.com
 0.0.0.0 mackeeperapp.zeobit.com
 0.0.0.0 montrealgazette.stats.com
+0.0.0.0 fgoogle.com
 0.0.0.0 hosted.stats.com
 0.0.0.0 hosted.stats.com.edgesuite.net
+0.0.0.0 howupdateworks.amazingupdates4youtoday.website
 0.0.0.0 mywot.com
 0.0.0.0 mywot.net
 0.0.0.0 onlineusagesurveys.com
@@ -32665,6 +32810,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pussysaga.com
 0.0.0.0 www.pussysaga.com
 0.0.0.0 promotion.com-rewards.club
+0.0.0.0 rereddit.com
 0.0.0.0 s.zkcdn.net
 0.0.0.0 specialsections.siteseer.ca
 0.0.0.0 stealthedeal.com
@@ -32751,113 +32897,19 @@ fe80::1%lo0 localhost
 0.0.0.0 media.opencandy.com
 0.0.0.0 nsis.bisrv.com
 0.0.0.0 tracking.opencandy.com
-### hosts win10 spy
-### More info: https://github.com/crazy-max/WindowsSpyBlocker
-
-0.0.0.0 a-0001.a-msedge.net
-0.0.0.0 a-0002.a-msedge.net
-0.0.0.0 a-0003.a-msedge.net
-0.0.0.0 a-0004.a-msedge.net
-0.0.0.0 a-0005.a-msedge.net
-0.0.0.0 a-0006.a-msedge.net
-0.0.0.0 a-0007.a-msedge.net
-0.0.0.0 a-0008.a-msedge.net
-0.0.0.0 a-0009.a-msedge.net
-0.0.0.0 a-0010.a-msedge.net
-0.0.0.0 a-0011.a-msedge.net
-0.0.0.0 a-0012.a-msedge.net
-0.0.0.0 activity.windows.com
-0.0.0.0 answers.microsoft.com
-0.0.0.0 bingads.microsoft.com
-0.0.0.0 bl3301-a.1drv.com
-0.0.0.0 bl3301-g.1drv.com
-0.0.0.0 bn1304-e.1drv.com
-0.0.0.0 bn1306-e.1drv.com
-0.0.0.0 bn1306-g.1drv.com
-0.0.0.0 bn2b-cor001.api.p001.1drv.com
-0.0.0.0 by3301-a.1drv.com
-0.0.0.0 by3301-c.1drv.com
-0.0.0.0 ca.telemetry.microsoft.com
-0.0.0.0 cache.datamart.windows.com
-0.0.0.0 ch3301-c.1drv.com
-0.0.0.0 ch3301-e.1drv.com
-0.0.0.0 ch3301-g.1drv.com
-0.0.0.0 ch3302-e.1drv.com
-0.0.0.0 compatexchange1.trafficmanager.net
-0.0.0.0 cp101-prod.do.dsp.mp.microsoft.com
-0.0.0.0 db3wns2011111.wns.windows.com
-0.0.0.0 db5.wns.windows.com
-0.0.0.0 db5sch101100917.wns.windows.com
-0.0.0.0 db5sch101101511.wns.windows.com
-0.0.0.0 db5sch101101939.wns.windows.com
-0.0.0.0 db5sch101110626.wns.windows.com
-0.0.0.0 db5sch101110634.wns.windows.com
-0.0.0.0 db5sch103082111.wns.windows.com
-0.0.0.0 db5sch103082406.wns.windows.com
-0.0.0.0 db5sch103092209.wns.windows.com
-0.0.0.0 db5wns1d.wns.windows.com
-0.0.0.0 db6sch102091105.wns.windows.com
-0.0.0.0 db6sch102091412.wns.windows.com
-0.0.0.0 dev.virtualearth.net
-0.0.0.0 df.telemetry.microsoft.com
-0.0.0.0 ecn.dev.virtualearth.net
-0.0.0.0 eu.vortex.data.microsoft.com
-0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
-0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
-0.0.0.0 h2.msn.com
-0.0.0.0 inference.location.live.net
-0.0.0.0 kv101-prod.do.dsp.mp.microsoft.com
-0.0.0.0 ls2web.redmond.corp.microsoft.com
-0.0.0.0 m.hotmail.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
-0.0.0.0 nexus.officeapps.live.com
-0.0.0.0 nexusrules.officeapps.live.com
-0.0.0.0 officeclient.microsoft.com
-0.0.0.0 onesettings-bn2.metron.live.com.nsatc.net
-0.0.0.0 onesettings-cy2.metron.live.com.nsatc.net
-0.0.0.0 onesettings-db5.metron.live.com.nsatc.net
-0.0.0.0 onesettings-hk2.metron.live.com.nsatc.net
-0.0.0.0 settings.data.glbdns2.microsoft.com
-0.0.0.0 settings.data.microsoft.com
-0.0.0.0 sn3301-e.1drv.com
-0.0.0.0 sn3301-g.1drv.com
-0.0.0.0 spynet2.microsoft.com
-0.0.0.0 spynetalt.microsoft.com
-0.0.0.0 storecatalogrevocation.storequality.microsoft.com
-0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
-0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
-0.0.0.0 telemetry.microsoft.com
-0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
-0.0.0.0 v10.vortex-win.data.metron.live.com.nsatc.net
-0.0.0.0 v10.vortex-win.data.microsoft.com
-0.0.0.0 version.hybrid.api.here.com
-0.0.0.0 vortex-db5.metron.live.com.nsatc.net
-0.0.0.0 vortex-hk2.metron.live.com.nsatc.net
-0.0.0.0 vortex-win.data.metron.live.com.nsatc.net
-0.0.0.0 vortex.data.glbdns2.microsoft.com
-0.0.0.0 vortex.data.metron.live.com.nsatc.net
-0.0.0.0 web.vortex.data.microsoft.com
-0.0.0.0 win10.ipv6.microsoft.com
-0.0.0.0 www.msedge.net
-### hosts win81 spy
-### More info: https://github.com/crazy-max/WindowsSpyBlocker
-
-0.0.0.0 statsfe2.update.microsoft.com
-0.0.0.0 tele.trafficmanager.net
-0.0.0.0 win8.ipv6.microsoft.com
 # Ad server list for use with hosts files to block ads
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Dec 2016 13:13:46 GMT
-# entries:        2373
+# entries:        2365
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 05 Jan 2017 00:00:00
+# start date:    Sun, 22 Jan 2017 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -33080,7 +33132,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.electrocelt.com
 0.0.0.0 ads.emirates.net.ae
 0.0.0.0 ads.epltalk.com
-0.0.0.0 ads.esmas.com
 0.0.0.0 ads.expat-blog.biz
 0.0.0.0 ads.factorymedia.com
 0.0.0.0 ads.faxo.com
@@ -33093,7 +33144,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.foxnetworks.com
 0.0.0.0 ads.freecity.de
 0.0.0.0 ads.futurenet.com
-0.0.0.0 ads.gameforgeads.de
 0.0.0.0 ads.gamigo.de
 0.0.0.0 ads.gaming-universe.de
 0.0.0.0 ads.geekswithblogs.net
@@ -33458,7 +33508,6 @@ fe80::1%lo0 localhost
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
 0.0.0.0 casinotreasure.com
-0.0.0.0 cben1.net
 0.0.0.0 cbmall.com
 0.0.0.0 cdn.freefacti.com
 0.0.0.0 centerpointmedia.com
@@ -33607,6 +33656,7 @@ fe80::1%lo0 localhost
 0.0.0.0 euro-linkindex.de
 0.0.0.0 euroclick.com
 0.0.0.0 euros4click.de
+0.0.0.0 eusta.de
 0.0.0.0 evergage.com
 0.0.0.0 evidencecleanergold.com
 0.0.0.0 ewebcounter.com
@@ -33735,7 +33785,6 @@ fe80::1%lo0 localhost
 0.0.0.0 imarketservices.com
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
-0.0.0.0 imitrk.com
 0.0.0.0 imonitor.nethost.cz
 0.0.0.0 imprese.cz
 0.0.0.0 impressionmedia.cz
@@ -34122,7 +34171,6 @@ fe80::1%lo0 localhost
 0.0.0.0 siccash.com
 0.0.0.0 sidebar.angelfire.com
 0.0.0.0 sinoa.com
-0.0.0.0 sitemerkezi.net
 0.0.0.0 skimresources.com
 0.0.0.0 skylink.vn
 0.0.0.0 slickaffiliate.com
@@ -34242,7 +34290,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tradeadexchange.com
 0.0.0.0 traffic-exchange.com
 0.0.0.0 traffic.liveuniversenetwork.com
-0.0.0.0 trafficadept.com
 0.0.0.0 trafficcdn.liveuniversenetwork.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficholder.com
@@ -34304,7 +34351,6 @@ fe80::1%lo0 localhost
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
 0.0.0.0 vungle.com
-0.0.0.0 wads.webteh.com
 0.0.0.0 warlog.ru
 0.0.0.0 web.informer.com
 0.0.0.0 web2.deja.com
@@ -34407,6 +34453,7 @@ fe80::1%lo0 localhost
 0.0.0.0 americantribune.org
 0.0.0.0 amposts.com
 0.0.0.0 anonhq.com
+0.0.0.0 anonymousnews.ru
 0.0.0.0 anotherdayintheempire.com
 0.0.0.0 asheepnomore.net
 0.0.0.0 asia-pacificresearch.com
@@ -34421,12 +34468,14 @@ fe80::1%lo0 localhost
 0.0.0.0 bentspud.com
 0.0.0.0 bigamericannews.com
 0.0.0.0 biglawnewsline.com
+0.0.0.0 bigleaguepolitics.com
 0.0.0.0 bignuggetnews.com
 0.0.0.0 bigpzone.com
 0.0.0.0 bipartisanreport.com
 0.0.0.0 bizstandardnews.com
 0.0.0.0 blackgenocide.org
 0.0.0.0 blacklistednews.com
+0.0.0.0 blog.halle-leaks.de
 0.0.0.0 bluenationreview.com
 0.0.0.0 caintv.com
 0.0.0.0 canadafreepress.com
@@ -34507,6 +34556,7 @@ fe80::1%lo0 localhost
 0.0.0.0 glossynews.com
 0.0.0.0 gomerblog.com
 0.0.0.0 gopthedailydose.com
+0.0.0.0 gotnews.com
 0.0.0.0 govtslaves.info
 0.0.0.0 guccifer2.wordpress.com
 0.0.0.0 gulagbound.com
@@ -34520,6 +34570,7 @@ fe80::1%lo0 localhost
 0.0.0.0 illuminati-news.com
 0.0.0.0 imzansi.co.za
 0.0.0.0 indiaarising.com
+0.0.0.0 info.kopp-verlag.de
 0.0.0.0 infowars.com
 0.0.0.0 intellihub.com
 0.0.0.0 inthenow.media
@@ -34537,7 +34588,6 @@ fe80::1%lo0 localhost
 0.0.0.0 kingworldnews.com
 0.0.0.0 knightstemplarinternational.com
 0.0.0.0 larouchepub.com
-0.0.0.0 lewrockwell.com
 0.0.0.0 liberaldarkness.com
 0.0.0.0 libertyblitzkrieg.com
 0.0.0.0 libertymovementradio.com
@@ -34575,6 +34625,7 @@ fe80::1%lo0 localhost
 0.0.0.0 newswire-24.com
 0.0.0.0 newswithviews.com
 0.0.0.0 newzsentinel.com
+0.0.0.0 noch.info
 0.0.0.0 nodisinfo.com
 0.0.0.0 notallowedto.com
 0.0.0.0 now8news.com
@@ -34599,6 +34650,7 @@ fe80::1%lo0 localhost
 0.0.0.0 politicalreviewer.com
 0.0.0.0 politicalvelcraft.org
 0.0.0.0 politicops.com
+0.0.0.0 politistick.com
 0.0.0.0 president45donaldtrump.com
 0.0.0.0 pressfortruth.ca
 0.0.0.0 presstv.com
@@ -34703,6 +34755,7 @@ fe80::1%lo0 localhost
 0.0.0.0 truthpoliticsnews.com
 0.0.0.0 tv.infowars.com
 0.0.0.0 twitchy.com
+0.0.0.0 uconservative.com
 0.0.0.0 ufoholic.com
 0.0.0.0 unclesamsmisguidedchildren.com
 0.0.0.0 unconfirmedsources.com
@@ -34723,6 +34776,7 @@ fe80::1%lo0 localhost
 0.0.0.0 usslibertyveterans.org
 0.0.0.0 usuncut.com
 0.0.0.0 usviral.info
+0.0.0.0 vaclib.org
 0.0.0.0 vigilantcitizen.com
 0.0.0.0 viralliberty.com
 0.0.0.0 wakeupthesheep.com
@@ -34755,6 +34809,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.ancreport.com
 0.0.0.0 www.angrypatriotmovement.com
 0.0.0.0 www.anonews.co
+0.0.0.0 www.anonymousnews.ru
 0.0.0.0 www.antiwar.com
 0.0.0.0 www.barenakedislam.com
 0.0.0.0 www.bighairynews.com
@@ -34851,6 +34906,8 @@ fe80::1%lo0 localhost
 0.0.0.0 www.presstv.ir
 0.0.0.0 www.prisonplanet.com
 0.0.0.0 www.proudcons.com
+0.0.0.0 www.rapefugees.net
+0.0.0.0 www.rawstory.com
 0.0.0.0 www.realfarmacy.com
 0.0.0.0 www.redflagnews.com
 0.0.0.0 www.redstate.com
@@ -34912,6 +34969,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.usanewsinsider.com
 0.0.0.0 www.usasupreme.com
 0.0.0.0 www.uspoliticslive.com
+0.0.0.0 www.vaccinationcouncil.org
 0.0.0.0 www.vdare.com
 0.0.0.0 www.veteransnewsnow.com
 0.0.0.0 www.veteranstoday.com
@@ -34928,6 +34986,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.wonkie.com
 0.0.0.0 www.worldnewspolitics.com
 0.0.0.0 www.yesimright.com
+0.0.0.0 www.youngcons.com
 0.0.0.0 www.zambianobserver.com
 0.0.0.0 www.zeppfeed.com
 0.0.0.0 www.zerohedge.com
@@ -34989,6 +35048,7 @@ fe80::1%lo0 localhost
 0.0.0.0 3angelsvideo.com
 0.0.0.0 3arabporn.com
 0.0.0.0 3at3ot.com
+0.0.0.0 3dbadgirls.com
 0.0.0.0 3dxchat.com
 0.0.0.0 3movs.com
 0.0.0.0 3redangels.com
@@ -35012,12 +35072,14 @@ fe80::1%lo0 localhost
 0.0.0.0 5fing.com
 0.0.0.0 5starangels.com
 0.0.0.0 69-webcams.com
+0.0.0.0 69games.xxx
 0.0.0.0 69prasempre.tumblr.com
 0.0.0.0 6eez.net
 0.0.0.0 777porn.com
 0.0.0.0 7virgin.com
 0.0.0.0 85porn.net
 0.0.0.0 88cum.com
+0.0.0.0 88fuck.com
 0.0.0.0 88gals.com
 0.0.0.0 8maturepornmovies.com
 0.0.0.0 8muses.com
@@ -35049,6 +35111,7 @@ fe80::1%lo0 localhost
 0.0.0.0 absolute-live.com
 0.0.0.0 achaudry4.tumblr.com
 0.0.0.0 acmexxx.com
+0.0.0.0 actual-porn.org
 0.0.0.0 ad.blackystars.com
 0.0.0.0 ad.pornfuzepremium.videobox.com
 0.0.0.0 adamandeve.com
@@ -35200,6 +35263,7 @@ fe80::1%lo0 localhost
 0.0.0.0 amadorasblog.tumblr.com
 0.0.0.0 amaland.com
 0.0.0.0 amamilfs.com
+0.0.0.0 amaporn.com
 0.0.0.0 amateur-porn-links.com
 0.0.0.0 amateur.wedoo.com
 0.0.0.0 amateuralbum.net
@@ -35538,6 +35602,7 @@ fe80::1%lo0 localhost
 0.0.0.0 annavirgin.com
 0.0.0.0 annuaire-x.com
 0.0.0.0 anony-sex.tumblr.com
+0.0.0.0 anotherpornblog.tumblr.com
 0.0.0.0 antarvasnapornvideos.com
 0.0.0.0 antivirgins.com
 0.0.0.0 anyporn.com
@@ -35629,11 +35694,13 @@ fe80::1%lo0 localhost
 0.0.0.0 avn.com
 0.0.0.0 avseesee.com
 0.0.0.0 awmads.com
+0.0.0.0 awsum.me
 0.0.0.0 ayanaangel.com
 0.0.0.0 az7t1.com
 0.0.0.0 az7t2.com
 0.0.0.0 aziangals.com
 0.0.0.0 azkempire.com
+0.0.0.0 aztecaporno.com
 0.0.0.0 b44.com
 0.0.0.0 babe-lounge.com
 0.0.0.0 babedump.com
@@ -35746,8 +35813,10 @@ fe80::1%lo0 localhost
 0.0.0.0 beerandshots.com
 0.0.0.0 befuck.com
 0.0.0.0 bellebulle.tumblr.com
+0.0.0.0 belloporno.it
 0.0.0.0 benbigben7.tumblr.com
 0.0.0.0 bertox.tumblr.com
+0.0.0.0 best-paypornsites.com
 0.0.0.0 best-virgins.com
 0.0.0.0 bestangels.de
 0.0.0.0 bestarabpicinthenet.info
@@ -35755,10 +35824,12 @@ fe80::1%lo0 localhost
 0.0.0.0 bestcrazyvideos.com
 0.0.0.0 besteffinggifs.tumblr.com
 0.0.0.0 besthotdates.com
+0.0.0.0 bestlistofporn.com
 0.0.0.0 bestphatchicks.com
 0.0.0.0 bestpornever2014.tumblr.com
 0.0.0.0 bestporngifs-ever.tumblr.com
 0.0.0.0 bestporngifs.com
+0.0.0.0 bestpornstardb.com
 0.0.0.0 bestsexgiffer.tumblr.com
 0.0.0.0 bestsexualpleasure.com
 0.0.0.0 bestsexygifsontheweb.tumblr.com
@@ -35777,6 +35848,7 @@ fe80::1%lo0 localhost
 0.0.0.0 biggestboobguns.tumblr.com
 0.0.0.0 biggested.tumblr.com
 0.0.0.0 bigmchoy.tumblr.com
+0.0.0.0 bigmouthfuls.com
 0.0.0.0 bignatural.ws
 0.0.0.0 bignaturalknockers.com
 0.0.0.0 bignaturals-movies.com
@@ -35877,6 +35949,7 @@ fe80::1%lo0 localhost
 0.0.0.0 boxingbeanscbtblog.tumblr.com
 0.0.0.0 boyfriendnetwork.com
 0.0.0.0 boysfood.com
+0.0.0.0 br.youporn.com
 0.0.0.0 brandibelle.bangbros1.com
 0.0.0.0 brandys-box.com
 0.0.0.0 brasiltudoliberado.com
@@ -35942,6 +36015,7 @@ fe80::1%lo0 localhost
 0.0.0.0 c1.x-traceur.com
 0.0.0.0 cadillacangels.com
 0.0.0.0 cafedeangel.net
+0.0.0.0 cagnaporno.com
 0.0.0.0 cai-dee-boca.tumblr.com
 0.0.0.0 caiunoxvideos.com.br
 0.0.0.0 californiavirgins.com
@@ -35949,6 +36023,7 @@ fe80::1%lo0 localhost
 0.0.0.0 callmeyourbbygirl.tumblr.com
 0.0.0.0 cam4.com
 0.0.0.0 camcaps.net
+0.0.0.0 camcrush.com
 0.0.0.0 camelcookie.com
 0.0.0.0 camelmedia.net
 0.0.0.0 camelstyle.net
@@ -35966,6 +36041,7 @@ fe80::1%lo0 localhost
 0.0.0.0 camworld.nl
 0.0.0.0 camz.com
 0.0.0.0 camzter.com
+0.0.0.0 canalporno.com
 0.0.0.0 canalwebcams.com
 0.0.0.0 candidbeachangels.com
 0.0.0.0 cantender.com
@@ -35982,6 +36058,7 @@ fe80::1%lo0 localhost
 0.0.0.0 cartoontube.com
 0.0.0.0 cartoonvalley.com
 0.0.0.0 carumbas.com
+0.0.0.0 casalingheporno.it
 0.0.0.0 cashangel.de
 0.0.0.0 cassies-classy-lassies.thumblogger.com
 0.0.0.0 cat-clothes.angelfire.com
@@ -36144,6 +36221,7 @@ fe80::1%lo0 localhost
 0.0.0.0 coomgirls.com
 0.0.0.0 coopguy.tumblr.com
 0.0.0.0 copyrait.angelfire.com
+0.0.0.0 coqnu.com
 0.0.0.0 coquine-angeline.net
 0.0.0.0 corta-pra-18-sp.tumblr.com
 0.0.0.0 corta-pra-18.tumblr.com
@@ -36168,6 +36246,7 @@ fe80::1%lo0 localhost
 0.0.0.0 courtneyvirgin.com
 0.0.0.0 cousinherm.tumblr.com
 0.0.0.0 crazyasiangfs.com
+0.0.0.0 crazycollegegfs.com
 0.0.0.0 crazydumper.com
 0.0.0.0 crazyhotemoteens.tumblr.com
 0.0.0.0 crazyshit.com
@@ -36217,6 +36296,7 @@ fe80::1%lo0 localhost
 0.0.0.0 cybertoplists.com
 0.0.0.0 cynegetic.tumblr.com
 0.0.0.0 cynicalangel.com
+0.0.0.0 cz.pornhub.com
 0.0.0.0 czech-teens.com
 0.0.0.0 czech-virgins.com
 0.0.0.0 czechav.com
@@ -36245,6 +36325,7 @@ fe80::1%lo0 localhost
 0.0.0.0 dangeloalicante.com
 0.0.0.0 dangelopalace.com
 0.0.0.0 danimiles.com
+0.0.0.0 dansmovies.com
 0.0.0.0 daphnerougeworld.tumblr.com
 0.0.0.0 daporn.com
 0.0.0.0 daporno.tumblr.com
@@ -36270,11 +36351,14 @@ fe80::1%lo0 localhost
 0.0.0.0 ddorfprivat.de
 0.0.0.0 ddvdja.angelfire.com
 0.0.0.0 de.porn.com
+0.0.0.0 de.pornhub.com
+0.0.0.0 de.youporn.com
 0.0.0.0 deep-in-me-please.tumblr.com
 0.0.0.0 deesseangelina.free.fr
 0.0.0.0 definebabe.com
 0.0.0.0 definefetish.com
 0.0.0.0 degrade-the-bitch.tumblr.com
+0.0.0.0 delhisexchat.com
 0.0.0.0 deluxebabes.com
 0.0.0.0 depositodevideos.com.br
 0.0.0.0 depravedangel.unblog.fr
@@ -36285,6 +36369,7 @@ fe80::1%lo0 localhost
 0.0.0.0 descobertasdoprazer.tumblr.com
 0.0.0.0 desibees.com
 0.0.0.0 desihotpoint.com
+0.0.0.0 desikahani.net
 0.0.0.0 desipapa.com
 0.0.0.0 desire-released.tumblr.com
 0.0.0.0 desktopangels.net
@@ -36365,6 +36450,7 @@ fe80::1%lo0 localhost
 0.0.0.0 doubleviking.com
 0.0.0.0 doujin-moe.us
 0.0.0.0 doujins.com
+0.0.0.0 download.cnet.com
 0.0.0.0 drago99.com
 0.0.0.0 drainednutz.tumblr.com
 0.0.0.0 drchaoss.tumblr.com
@@ -36394,10 +36480,12 @@ fe80::1%lo0 localhost
 0.0.0.0 easypic.com
 0.0.0.0 easysex.com
 0.0.0.0 easysexdate.com
+0.0.0.0 ebaumsworld.com
 0.0.0.0 ebonypichunter.com
 0.0.0.0 ebonywankbank.tumblr.com
 0.0.0.0 ebonyxxxnsfw74982875937y.tumblr.com
 0.0.0.0 eccie.net
+0.0.0.0 edenfantasys.com
 0.0.0.0 edgarsalas7928.tumblr.com
 0.0.0.0 efukt.com
 0.0.0.0 egbo.com
@@ -36419,6 +36507,7 @@ fe80::1%lo0 localhost
 0.0.0.0 empflix.com
 0.0.0.0 empireamateurs.com
 0.0.0.0 empornium.me
+0.0.0.0 en.gay-lounge.net
 0.0.0.0 enature.net
 0.0.0.0 enaturist.com
 0.0.0.0 enjoragif.tumblr.com
@@ -36428,6 +36517,7 @@ fe80::1%lo0 localhost
 0.0.0.0 enter.babesnetwork.com
 0.0.0.0 enter.brazzersnetwork.com
 0.0.0.0 enter.iknowthatgirl.com
+0.0.0.0 enter.javhd.com
 0.0.0.0 enter.mofosnetwork.com
 0.0.0.0 enter.mommygotboobs.com
 0.0.0.0 enter.sexproadventures.com
@@ -36450,6 +36540,7 @@ fe80::1%lo0 localhost
 0.0.0.0 erotic-endeavors.tumblr.com
 0.0.0.0 erotic-pictures-blog.com
 0.0.0.0 erotica-addiction.tumblr.com
+0.0.0.0 erotica7.com
 0.0.0.0 erotically-ridiculous.tumblr.com
 0.0.0.0 eroticarabstories.info
 0.0.0.0 eroticast.net
@@ -36467,6 +36558,8 @@ fe80::1%lo0 localhost
 0.0.0.0 erowebcams.com
 0.0.0.0 eroxia.com
 0.0.0.0 es.porn.com
+0.0.0.0 es.pornhub.com
+0.0.0.0 es.youporn.com
 0.0.0.0 escort23.com
 0.0.0.0 escortankarada.org
 0.0.0.0 escortankarali.net
@@ -36533,6 +36626,7 @@ fe80::1%lo0 localhost
 0.0.0.0 evilangel.over-blog.com
 0.0.0.0 evilangelcash.com
 0.0.0.0 evilangeldirect.com
+0.0.0.0 evilangellive.com
 0.0.0.0 evilangelppv.com
 0.0.0.0 evilangelvideo.com
 0.0.0.0 ex1.exmasters.com
@@ -36682,6 +36776,7 @@ fe80::1%lo0 localhost
 0.0.0.0 filles-webcams.com
 0.0.0.0 film-x-gratos.com
 0.0.0.0 filmikiporno.tv
+0.0.0.0 filmxxx.it
 0.0.0.0 filthygifs.tumblr.com
 0.0.0.0 finder-x.com
 0.0.0.0 findtubes.com
@@ -36724,8 +36819,8 @@ fe80::1%lo0 localhost
 0.0.0.0 fooxy.com
 0.0.0.0 forcedorgasmdomination.tumblr.com
 0.0.0.0 foreqew.angelfire.com
-0.0.0.0 forgotten_dark_angel.tripod.com
 0.0.0.0 forgotten-angels.de
+0.0.0.0 forgotten_dark_angel.tripod.com
 0.0.0.0 forum.adultdvdtalk.com
 0.0.0.0 forum.oneclickchicks.com
 0.0.0.0 forum.phun.org
@@ -36735,11 +36830,13 @@ fe80::1%lo0 localhost
 0.0.0.0 forums.neswangy.net
 0.0.0.0 forums.sexyandfunny.com
 0.0.0.0 foto-bugil.tumblr.com
+0.0.0.0 foto-porno.it
 0.0.0.0 foxhq.com
 0.0.0.0 foxporns.com
 0.0.0.0 foxyreviews.com
 0.0.0.0 fpfreegals.com
 0.0.0.0 fr.porn.com
+0.0.0.0 fr.pornhub.com
 0.0.0.0 fr.wedoo.com
 0.0.0.0 fr.youporn.com
 0.0.0.0 franco.evangelista.free.fr
@@ -36778,6 +36875,7 @@ fe80::1%lo0 localhost
 0.0.0.0 freecc.sex-explorer.com
 0.0.0.0 freedailyvirgins.com
 0.0.0.0 freefuckvidz.com
+0.0.0.0 freehindisexstories.com
 0.0.0.0 freehqsex.com
 0.0.0.0 freeinterracialgalleries.com
 0.0.0.0 freejav.us
@@ -36848,6 +36946,7 @@ fe80::1%lo0 localhost
 0.0.0.0 fullhdxxx.com
 0.0.0.0 fullteensporn.com
 0.0.0.0 fullxxxmovies.net
+0.0.0.0 funpic.hu
 0.0.0.0 funwebcams.com
 0.0.0.0 fuq.com
 0.0.0.0 fuqer.com
@@ -37004,6 +37103,8 @@ fe80::1%lo0 localhost
 0.0.0.0 grupomedicosanangel.com
 0.0.0.0 gtaangels.net
 0.0.0.0 guaranteedsexdate.com
+0.0.0.0 guardalaporno.com
+0.0.0.0 guarrasdelporno.xxx
 0.0.0.0 guitarmaniac9405.tumblr.com
 0.0.0.0 guterporn.xxx
 0.0.0.0 gymnastsnude.com
@@ -37061,6 +37162,7 @@ fe80::1%lo0 localhost
 0.0.0.0 hdpornclub.org
 0.0.0.0 hdporner720.com
 0.0.0.0 hdpornfull.com
+0.0.0.0 hdpornochief.com
 0.0.0.0 hdpornstar.com
 0.0.0.0 hdpornvideo.xxx
 0.0.0.0 hdqualitymovies.com
@@ -37085,11 +37187,14 @@ fe80::1%lo0 localhost
 0.0.0.0 hentaicrunch.com
 0.0.0.0 hentaifit.com
 0.0.0.0 hentaifromhell.org
+0.0.0.0 hentaigasm.com
+0.0.0.0 hentaihaven.org
 0.0.0.0 hentaihere.com
 0.0.0.0 hentailisting.com
 0.0.0.0 hentaipassport.com
 0.0.0.0 hentaiplay.net
 0.0.0.0 hentairules.net
+0.0.0.0 hentaischool.com
 0.0.0.0 hentaiseeker.com
 0.0.0.0 hentaistream.com
 0.0.0.0 hentaitoonami.com
@@ -37109,6 +37214,7 @@ fe80::1%lo0 localhost
 0.0.0.0 hetewebcams.com
 0.0.0.0 heyculito.tumblr.com
 0.0.0.0 hiddenwebcams.com
+0.0.0.0 hide-porn.winsite.com
 0.0.0.0 hidefporn.ws
 0.0.0.0 hideip.9hz.com
 0.0.0.0 highonsex.net
@@ -37123,6 +37229,7 @@ fe80::1%lo0 localhost
 0.0.0.0 hobomovies.com
 0.0.0.0 hogclips.com
 0.0.0.0 holloporn.com
+0.0.0.0 hollywoodlife.com
 0.0.0.0 hollywoodtuna.com
 0.0.0.0 holylol.com
 0.0.0.0 holytaco.com
@@ -37146,6 +37253,7 @@ fe80::1%lo0 localhost
 0.0.0.0 horndog-millionaire.tumblr.com
 0.0.0.0 horny-katy.tumblr.com
 0.0.0.0 horny-maker.tumblr.com
+0.0.0.0 hornymatches.com
 0.0.0.0 hornyncurvy.tumblr.com
 0.0.0.0 hornypharaoh.com
 0.0.0.0 hornysophie.tumblr.com
@@ -37204,6 +37312,7 @@ fe80::1%lo0 localhost
 0.0.0.0 hotshame.com
 0.0.0.0 hotshemalewebcams.com
 0.0.0.0 hotsologirlz.net
+0.0.0.0 hotsouthindiansex.com
 0.0.0.0 hotstunners.com
 0.0.0.0 hottest-gif.tumblr.com
 0.0.0.0 hottestfuckingporngifs.tumblr.com
@@ -37363,8 +37472,12 @@ fe80::1%lo0 localhost
 0.0.0.0 intimatewebcams.com
 0.0.0.0 intoxicatingirls.tumblr.com
 0.0.0.0 intporn.com
+0.0.0.0 inxporn.com
 0.0.0.0 ipadporns.xxx
 0.0.0.0 iphide.9hz.com
+0.0.0.0 ipornogratis.xxx
+0.0.0.0 ipornovideos.xxx
+0.0.0.0 iptorrents.com
 0.0.0.0 irathur.tumblr.com
 0.0.0.0 iron-jawed-angels.com
 0.0.0.0 ironic-testicles.tumblr.com
@@ -37376,7 +37489,10 @@ fe80::1%lo0 localhost
 0.0.0.0 ishootporn.com
 0.0.0.0 islivewebcams.com
 0.0.0.0 istripper.com
+0.0.0.0 it.bing.com
 0.0.0.0 it.porn.com
+0.0.0.0 it.pornhub.com
+0.0.0.0 it.youporn.com
 0.0.0.0 italiahard.it
 0.0.0.0 ithinkthatshot.com
 0.0.0.0 itsallaboutfaces.tumblr.com
@@ -37386,6 +37502,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ivanafukalot.com
 0.0.0.0 ivhunter.com
 0.0.0.0 iwank.tv
+0.0.0.0 iwantporn.net
 0.0.0.0 iwanttocrushmyballs.tumblr.com
 0.0.0.0 iwantu.com
 0.0.0.0 iwillalwayslustyou.tumblr.com
@@ -37458,8 +37575,11 @@ fe80::1%lo0 localhost
 0.0.0.0 joannaangelbucks.com
 0.0.0.0 joesvirgins.com
 0.0.0.0 join.18onlygirls.com
+0.0.0.0 join.alljapanesepass.com
+0.0.0.0 join.allofgfs.com
 0.0.0.0 join.avidolz.com
 0.0.0.0 join.crazyfetishpass.com
+0.0.0.0 join.ddfnetwork.com
 0.0.0.0 join.digitaldesire.com
 0.0.0.0 join.digitalplayground.com
 0.0.0.0 join.exxxtrasmall.com
@@ -37468,12 +37588,17 @@ fe80::1%lo0 localhost
 0.0.0.0 join.javhq.com
 0.0.0.0 join.mycuteasian.com
 0.0.0.0 join.myveryfirsttime.com
+0.0.0.0 join.perfectgonzo.com
 0.0.0.0 join.personalcams.com
 0.0.0.0 join.playboy.com
 0.0.0.0 join.playboy.tv
 0.0.0.0 join.pornprosnetwork.com
+0.0.0.0 join.puffynetwork.com
 0.0.0.0 join.realsexdates.com
+0.0.0.0 join.spizoo.com
+0.0.0.0 join.teamskeet.com
 0.0.0.0 join.teensdoporn.com
+0.0.0.0 join.thestripperexperience.com
 0.0.0.0 join.tiny4k.com
 0.0.0.0 join.wickedpictures.com
 0.0.0.0 jojos.sexypleasure.com
@@ -37483,10 +37608,14 @@ fe80::1%lo0 localhost
 0.0.0.0 jovemexcitado.tumblr.com
 0.0.0.0 joy-of-life.at
 0.0.0.0 joyangeles.com
+0.0.0.0 joyourself.com
 0.0.0.0 joysporn.com
 0.0.0.0 joywebcams.com
 0.0.0.0 jp.porn.com
+0.0.0.0 jp.pornhub.com
+0.0.0.0 jp.youporn.com
 0.0.0.0 jpangels.com
+0.0.0.0 judeporn.com
 0.0.0.0 judvouj.angelfire.com
 0.0.0.0 jugesoya.angelfire.com
 0.0.0.0 juggsarea.com
@@ -37497,9 +37626,11 @@ fe80::1%lo0 localhost
 0.0.0.0 justbarelylegal.com
 0.0.0.0 justblowjobgifs.tumblr.com
 0.0.0.0 justhookup.com
+0.0.0.0 justicehentai.com
 0.0.0.0 justjared.com
 0.0.0.0 justmatureporn.com
 0.0.0.0 justmouthfuls.com
+0.0.0.0 justusboys.com
 0.0.0.0 justusboys.net
 0.0.0.0 jwswinging.tumblr.com
 0.0.0.0 kadu-amadoras.tumblr.com
@@ -37515,6 +37646,7 @@ fe80::1%lo0 localhost
 0.0.0.0 kazatube.com
 0.0.0.0 keandra.com
 0.0.0.0 keep2share.cc
+0.0.0.0 keepersecurity.com
 0.0.0.0 keezlive.com
 0.0.0.0 keezmovies.com
 0.0.0.0 kellyfind.com
@@ -37567,6 +37699,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ladycomfort.com.ar
 0.0.0.0 ladylust.com
 0.0.0.0 ladyofpornconnoisseur.tumblr.com
+0.0.0.0 laineygossip.com
 0.0.0.0 lanaporno.tumblr.com
 0.0.0.0 langelul.nl
 0.0.0.0 laotk.tumblr.com
@@ -37605,6 +37738,7 @@ fe80::1%lo0 localhost
 0.0.0.0 lesbian-daily.tumblr.com
 0.0.0.0 lesbian-sins.tumblr.com
 0.0.0.0 lesbian.xxxcounter.com
+0.0.0.0 lesbian8.com
 0.0.0.0 lesbianfanatics.com
 0.0.0.0 lesbianlunchhour.com
 0.0.0.0 lesbianpornvideos.com
@@ -37658,6 +37792,7 @@ fe80::1%lo0 localhost
 0.0.0.0 live-yesmessenger.com
 0.0.0.0 live.sex-explorer.com
 0.0.0.0 live.wickedpictures.com
+0.0.0.0 livecamfun.com
 0.0.0.0 livegaywebcams.com
 0.0.0.0 livejasmin-babes.com
 0.0.0.0 livejasmin.net
@@ -37667,6 +37802,7 @@ fe80::1%lo0 localhost
 0.0.0.0 livejasminlesbian.com
 0.0.0.0 livejasminwebcams.com
 0.0.0.0 livematurewebcams.com
+0.0.0.0 liveprivates.com
 0.0.0.0 lives.sex-explorer.com
 0.0.0.0 livesex.xpg.com.br
 0.0.0.0 livesexasian.com
@@ -37680,6 +37816,7 @@ fe80::1%lo0 localhost
 0.0.0.0 lneglecti.tumblr.com
 0.0.0.0 loa6.com
 0.0.0.0 lockedyuusui.tumblr.com
+0.0.0.0 lolhentai.net
 0.0.0.0 lollypopeauthor.tumblr.com
 0.0.0.0 londonescortslist.net
 0.0.0.0 lonestarnaughtygirls.com
@@ -37716,8 +37853,10 @@ fe80::1%lo0 localhost
 0.0.0.0 lubeyourtube.com
 0.0.0.0 lucifersdarkangel.co.uk
 0.0.0.0 luckyvirginz.com
+0.0.0.0 lupoporno.com
 0.0.0.0 luscious.net
 0.0.0.0 lushstories.com
+0.0.0.0 lustpin.com
 0.0.0.0 lustporngifs.tumblr.com
 0.0.0.0 lustywebcams.com
 0.0.0.0 lux-angels.com
@@ -37744,6 +37883,7 @@ fe80::1%lo0 localhost
 0.0.0.0 malatyaeskortlar.org
 0.0.0.0 male-exposure.com
 0.0.0.0 malewebcams.com
+0.0.0.0 mandatory.com
 0.0.0.0 mangelsdesigns.com
 0.0.0.0 mangoangel.com
 0.0.0.0 maniacpass.com
@@ -37765,6 +37905,7 @@ fe80::1%lo0 localhost
 0.0.0.0 maturetubeporn.com
 0.0.0.0 maturewebcams.com
 0.0.0.0 maxesangels.com
+0.0.0.0 maxim.com
 0.0.0.0 maxjizztube.com
 0.0.0.0 maxsnudecelebritygifs.tumblr.com
 0.0.0.0 maxxxhits.com
@@ -37801,8 +37942,10 @@ fe80::1%lo0 localhost
 0.0.0.0 media1.camelmedia.net
 0.0.0.0 media2.flashmediaportal.com
 0.0.0.0 media2.pileoffiles.com
+0.0.0.0 mediadetective.com
 0.0.0.0 meetav.com
 0.0.0.0 meetlocals.com
+0.0.0.0 megasesso.com
 0.0.0.0 megaupload-xxx.com
 0.0.0.0 megayoungsex.com
 0.0.0.0 melissasdirtydiary.tumblr.com
@@ -37818,6 +37961,7 @@ fe80::1%lo0 localhost
 0.0.0.0 men-in-pantyhose.com
 0.0.0.0 menagea3.net
 0.0.0.0 meningitis-angels.org
+0.0.0.0 menshealth.com
 0.0.0.0 menssexguide.com
 0.0.0.0 menude.tumblr.com
 0.0.0.0 merchant.xxxcounter.com
@@ -37866,10 +38010,13 @@ fe80::1%lo0 localhost
 0.0.0.0 mofos.com
 0.0.0.0 mofosex.com
 0.0.0.0 mofosnetwork.com
+0.0.0.0 mogliescopata.com
+0.0.0.0 moglietroia.it
 0.0.0.0 molnijenosniy.tumblr.com
 0.0.0.0 mom-video.com
 0.0.0.0 mommygotboobs.com
 0.0.0.0 mommyneedsmoney.com
+0.0.0.0 momsbangteens.com
 0.0.0.0 momsextube.xxx
 0.0.0.0 mon-yesmessenger.com
 0.0.0.0 monkeycock.net
@@ -37920,6 +38067,8 @@ fe80::1%lo0 localhost
 0.0.0.0 mrskin.com
 0.0.0.0 mrsnake.com
 0.0.0.0 mrstiff.com
+0.0.0.0 mrvideoporno.xxx
+0.0.0.0 mrvideoscaseros.xxx
 0.0.0.0 msbehaviour.co.uk
 0.0.0.0 msxolne.angelfire.com
 0.0.0.0 mulherescomcigarros.com
@@ -37928,6 +38077,7 @@ fe80::1%lo0 localhost
 0.0.0.0 muscleangels.com
 0.0.0.0 muslimsexwebcams.com
 0.0.0.0 muunprece.tumblr.com
+0.0.0.0 muycerdas.xxx
 0.0.0.0 muyzorras.com
 0.0.0.0 mviakog.angelfire.com
 0.0.0.0 mvp009.tumblr.com
@@ -37968,6 +38118,8 @@ fe80::1%lo0 localhost
 0.0.0.0 mynakedweb.com
 0.0.0.0 mynationporn.com
 0.0.0.0 mypleasuregirl.tumblr.com
+0.0.0.0 mypornbible.com
+0.0.0.0 myporngay.com
 0.0.0.0 myporngifs.tumblr.com
 0.0.0.0 mypornstarbook.net
 0.0.0.0 mypreciousvirgins.com
@@ -37994,6 +38146,7 @@ fe80::1%lo0 localhost
 0.0.0.0 nailedhard.tv
 0.0.0.0 nakdhoola.tumblr.com
 0.0.0.0 nakedlivewebcams.com
+0.0.0.0 nakednews.com
 0.0.0.0 nakednudesgirls.tumblr.com
 0.0.0.0 nakedonthestreets.com
 0.0.0.0 nakedpornphotos.com
@@ -38070,6 +38223,7 @@ fe80::1%lo0 localhost
 0.0.0.0 neu.cash4members.com
 0.0.0.0 never-too-much-sex.tumblr.com
 0.0.0.0 nevercumalwaysedge.tumblr.com
+0.0.0.0 new.livejasmin.com
 0.0.0.0 newangelicseduction.com
 0.0.0.0 newbienudes.com
 0.0.0.0 newestxxx.com
@@ -38096,6 +38250,8 @@ fe80::1%lo0 localhost
 0.0.0.0 nineteenporn.com
 0.0.0.0 nite2silent.tumblr.com
 0.0.0.0 nl.porn.com
+0.0.0.0 nl.pornhub.com
+0.0.0.0 nl.youporn.com
 0.0.0.0 nm.xxxeuropean.com
 0.0.0.0 nnangels.com
 0.0.0.0 nnwebcams.com
@@ -38104,7 +38260,9 @@ fe80::1%lo0 localhost
 0.0.0.0 nonnudeballbusting.tumblr.com
 0.0.0.0 nooditay.thumblogger.com
 0.0.0.0 nordvpn.com
+0.0.0.0 norskporno.xxx
 0.0.0.0 northern-angels.co.uk
+0.0.0.0 nostringsattached.com
 0.0.0.0 not2muchnot2littlealilboudoir.tumblr.com
 0.0.0.0 notanangel.deluxepass.com
 0.0.0.0 notarangelo.com
@@ -38133,6 +38291,7 @@ fe80::1%lo0 localhost
 0.0.0.0 nsfwyoutube.com
 0.0.0.0 nsgalleries.com
 0.0.0.0 nubilefilms.com
+0.0.0.0 nubiles-porn.com
 0.0.0.0 nubiles-videos.com
 0.0.0.0 nubiles.net
 0.0.0.0 nubilesblog.com
@@ -38273,6 +38432,7 @@ fe80::1%lo0 localhost
 0.0.0.0 peachangel.com
 0.0.0.0 peachyforum.com
 0.0.0.0 peekvids.com
+0.0.0.0 pendejas.com.ar
 0.0.0.0 penisbot.com
 0.0.0.0 penix.fr
 0.0.0.0 pepsaga.com
@@ -38296,6 +38456,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pervertedwebcams.com
 0.0.0.0 pervertslut.com
 0.0.0.0 pervnetwork.com
+0.0.0.0 pervsonpatrol.com
 0.0.0.0 pervygames.com
 0.0.0.0 petiteteenager.com
 0.0.0.0 petras-angels.de
@@ -38317,6 +38478,7 @@ fe80::1%lo0 localhost
 0.0.0.0 photosex.biz
 0.0.0.0 photosys.angelfire.com
 0.0.0.0 photovirgins.com
+0.0.0.0 phun.org
 0.0.0.0 pic.aebn.net
 0.0.0.0 picahottie.com
 0.0.0.0 picgalleries.cummypantyhose.com
@@ -38333,6 +38495,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pin-up-angels.net
 0.0.0.0 pinaccesscode.com
 0.0.0.0 pinkbabes.net
+0.0.0.0 pinkcherryaffiliate.com
 0.0.0.0 pinkfineart.com
 0.0.0.0 pinkrod.com
 0.0.0.0 pinkvisualhdgalleries.com
@@ -38350,6 +38513,8 @@ fe80::1%lo0 localhost
 0.0.0.0 pix4dicks.com
 0.0.0.0 pk5.net
 0.0.0.0 pl.porn.com
+0.0.0.0 pl.pornhub.com
+0.0.0.0 pl.youporn.com
 0.0.0.0 planet-katie.info
 0.0.0.0 planetsexblogs.com
 0.0.0.0 planetsuzy.org
@@ -38364,6 +38529,8 @@ fe80::1%lo0 localhost
 0.0.0.0 playboy.com.mx
 0.0.0.0 playboy.com.tw
 0.0.0.0 playboynet.playboy.com
+0.0.0.0 playforceone.com
+0.0.0.0 playindianporn.com
 0.0.0.0 playingboy.com
 0.0.0.0 playingmatures.com
 0.0.0.0 playmatewebcams.com
@@ -38371,6 +38538,7 @@ fe80::1%lo0 localhost
 0.0.0.0 playmymovie.com
 0.0.0.0 playporngames.com
 0.0.0.0 playsexgames.xxx
+0.0.0.0 playwithme.com
 0.0.0.0 pleasurecage.info
 0.0.0.0 plib.brazzers.com
 0.0.0.0 plib.juggcrew.com
@@ -38395,6 +38563,7 @@ fe80::1%lo0 localhost
 0.0.0.0 porn-n-hentai-bloging.tumblr.com
 0.0.0.0 porn-space.com
 0.0.0.0 porn-w.org
+0.0.0.0 porn-wanted.com
 0.0.0.0 porn.com
 0.0.0.0 porn.es
 0.0.0.0 porn.hu
@@ -38413,6 +38582,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pornattitude.com
 0.0.0.0 pornbb.org
 0.0.0.0 pornbibi.com
+0.0.0.0 pornbits.net
 0.0.0.0 pornblade.comcategoryanal-porn
 0.0.0.0 pornbraze.com
 0.0.0.0 pornburst.xxx
@@ -38457,6 +38627,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pornhubcasino.com
 0.0.0.0 pornhublive.com
 0.0.0.0 pornhubshemale.com
+0.0.0.0 pornication.com
 0.0.0.0 pornicom.com
 0.0.0.0 porniq.com
 0.0.0.0 pornislikeairimportant.tumblr.com
@@ -38476,33 +38647,55 @@ fe80::1%lo0 localhost
 0.0.0.0 porno-maniac.net
 0.0.0.0 porno-sutra.com
 0.0.0.0 porno-teens-free.com
+0.0.0.0 porno-videot.com
 0.0.0.0 pornoamador.xxx
+0.0.0.0 pornoamateurvip.com
+0.0.0.0 pornoamatoriali.net
 0.0.0.0 pornobanner.com
 0.0.0.0 pornobw.tumblr.com
+0.0.0.0 pornocaldo.it
 0.0.0.0 pornocarioca.com
+0.0.0.0 pornocolombia.com.co
 0.0.0.0 pornodrome.tv
+0.0.0.0 pornofica.net
+0.0.0.0 pornofico.com
 0.0.0.0 pornofolies.com
 0.0.0.0 pornogasmo.tumblr.com
 0.0.0.0 pornohotvideos.com
 0.0.0.0 pornoid.com
+0.0.0.0 pornoinitaliano.it
 0.0.0.0 pornoinside.com
 0.0.0.0 pornoitalia.it
+0.0.0.0 pornoitaliane.it
+0.0.0.0 pornoitaliano.com
+0.0.0.0 pornoitaliano.eu
+0.0.0.0 pornokarhu.com
+0.0.0.0 pornokura.it
+0.0.0.0 pornolaan.com
 0.0.0.0 pornolab.net
 0.0.0.0 pornolaba.com
 0.0.0.0 pornolandia.xxx
+0.0.0.0 pornomexicana.com.mx
 0.0.0.0 pornomovies.com
+0.0.0.0 pornoorzel.com
 0.0.0.0 pornopics.co
 0.0.0.0 pornopim.com
 0.0.0.0 pornopin.me
 0.0.0.0 pornorake.com
 0.0.0.0 pornorama.com
 0.0.0.0 pornorips.com
+0.0.0.0 pornosvane.com
 0.0.0.0 pornotorrent.com.br
+0.0.0.0 pornototale.com
+0.0.0.0 pornotrio.com
 0.0.0.0 pornovideoshub.com
 0.0.0.0 pornoxo.com
+0.0.0.0 pornoxxx.it
 0.0.0.0 pornoxxxclips.com
 0.0.0.0 pornpics.com
 0.0.0.0 pornpicsmovies.net
+0.0.0.0 pornpin.com
+0.0.0.0 pornplanner.com
 0.0.0.0 pornprosnetwork.com
 0.0.0.0 pornprox.com
 0.0.0.0 pornrabbit.com
@@ -38518,6 +38711,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pornstarcompendium.com
 0.0.0.0 pornstarslikeitbig.co.uk
 0.0.0.0 pornstreams.eu
+0.0.0.0 porntitan.com
 0.0.0.0 porntracker.com
 0.0.0.0 porntrex.com
 0.0.0.0 porntube.com
@@ -38525,6 +38719,7 @@ fe80::1%lo0 localhost
 0.0.0.0 porntubedirect.info
 0.0.0.0 porntubese.com
 0.0.0.0 pornurl.pw
+0.0.0.0 pornusers.com
 0.0.0.0 pornvibe.org
 0.0.0.0 pornvideos.com
 0.0.0.0 pornvil.com
@@ -38534,11 +38729,13 @@ fe80::1%lo0 localhost
 0.0.0.0 pornxs.com
 0.0.0.0 pornyeah.com
 0.0.0.0 pornzeus.com
+0.0.0.0 portablesex.com
 0.0.0.0 portaladelaide.com.br
 0.0.0.0 portalangels.com.sapo.pt
 0.0.0.0 poseparty.com
 0.0.0.0 postimage.org
 0.0.0.0 postyourgirls.com
+0.0.0.0 potrr2.com
 0.0.0.0 ppkario.tumblr.com
 0.0.0.0 praetor1981.tumblr.com
 0.0.0.0 praisemybigblackcock.tumblr.com
@@ -38560,6 +38757,7 @@ fe80::1%lo0 localhost
 0.0.0.0 princessblueyez.com
 0.0.0.0 private-angels.net
 0.0.0.0 privatecams.ws
+0.0.0.0 privatefeeds.com
 0.0.0.0 privatelivewebcams.com
 0.0.0.0 privatepornfilms.com
 0.0.0.0 privatesangels.com
@@ -38586,12 +38784,15 @@ fe80::1%lo0 localhost
 0.0.0.0 psbbanners.com
 0.0.0.0 psychoticsexlife.tumblr.com
 0.0.0.0 pt.porn.com
+0.0.0.0 pt.pornhub.com
+0.0.0.0 pt.youporn.com
 0.0.0.0 public.porn.fr
 0.0.0.0 publicexposurephotos.com
 0.0.0.0 publicexposurepics.com
 0.0.0.0 publicexposurepictures.com
 0.0.0.0 pubzone.virginradiothailand.com
 0.0.0.0 pufisi.com
+0.0.0.0 pulpo69.com
 0.0.0.0 punchpin.com
 0.0.0.0 punishteens.com
 0.0.0.0 punky-boobster.tumblr.com
@@ -38613,6 +38814,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pussypornpics.com
 0.0.0.0 pussypush.com
 0.0.0.0 pussyspace.com
+0.0.0.0 pussytorrents.org
 0.0.0.0 putaria-da-alta.tumblr.com
 0.0.0.0 putariadanet.tumblr.com
 0.0.0.0 putarialesbica.tumblr.com
@@ -38645,6 +38847,7 @@ fe80::1%lo0 localhost
 0.0.0.0 rawporn.org
 0.0.0.0 rawporno.tumblr.com
 0.0.0.0 rawtube.com
+0.0.0.0 readindiansexstories.com
 0.0.0.0 real-virgins.net
 0.0.0.0 real-wife-stories.com
 0.0.0.0 realandnatural.com
@@ -38668,10 +38871,6 @@ fe80::1%lo0 localhost
 0.0.0.0 recordedwebcams.com
 0.0.0.0 redangel.hu
 0.0.0.0 redangels.se
-0.0.0.0 reddit.comrgonewild
-0.0.0.0 reddit.comrnsfw
-0.0.0.0 reddit.comrnsfw_gif
-0.0.0.0 reddit.comrrealgirls
 0.0.0.0 redheadwebcams.com
 0.0.0.0 redir.webshots.com
 0.0.0.0 redlightcenter.com
@@ -38695,6 +38894,7 @@ fe80::1%lo0 localhost
 0.0.0.0 rideyourcamels.info
 0.0.0.0 rijpevrouwenwebcams.com
 0.0.0.0 rindaman123.tumblr.com
+0.0.0.0 rivcams.com
 0.0.0.0 rk.com
 0.0.0.0 rnosh.com
 0.0.0.0 ro89.com
@@ -38712,6 +38912,7 @@ fe80::1%lo0 localhost
 0.0.0.0 roundandbrown.com
 0.0.0.0 royalan1489.tumblr.com
 0.0.0.0 royalbluemedia.com
+0.0.0.0 rt.pornhub.com
 0.0.0.0 rtalabel.org
 0.0.0.0 ru-denial.tumblr.com
 0.0.0.0 ru.porn.com
@@ -38756,6 +38957,7 @@ fe80::1%lo0 localhost
 0.0.0.0 salamtakehoh.info
 0.0.0.0 salasdewebcams.com
 0.0.0.0 salopepoitrine.angelfire.com
+0.0.0.0 sambaporno.com
 0.0.0.0 sancdn.net
 0.0.0.0 sandralatina.com
 0.0.0.0 santasporngirls.com
@@ -38798,9 +39000,11 @@ fe80::1%lo0 localhost
 0.0.0.0 secure.collegerules.com
 0.0.0.0 secure.euro-angels.com
 0.0.0.0 secure.hazehim.com
+0.0.0.0 secure.hustler.com
 0.0.0.0 secure.itsgonnahurt.com
 0.0.0.0 secure.myanalangel.com
 0.0.0.0 secure.outinpublic.com
+0.0.0.0 secure.thegfnetwork.com
 0.0.0.0 secure.twistysnetwork.com
 0.0.0.0 secure.watchmygf.com
 0.0.0.0 secure.watchmygf.net
@@ -38827,6 +39031,7 @@ fe80::1%lo0 localhost
 0.0.0.0 seoprofit.biz
 0.0.0.0 serilobe.angelfire.com
 0.0.0.0 serpornostes.tumblr.com
+0.0.0.0 serviporno.com
 0.0.0.0 sesso-gratis.info
 0.0.0.0 seventeenvideo.com
 0.0.0.0 sex-and-animals.com
@@ -38856,12 +39061,14 @@ fe80::1%lo0 localhost
 0.0.0.0 sexfans.org
 0.0.0.0 sexfg.com
 0.0.0.0 sexfind.com
+0.0.0.0 sexforums.com
 0.0.0.0 sexgalaxy.net
 0.0.0.0 sexgangsters.com
 0.0.0.0 sexgif-net.tumblr.com
 0.0.0.0 sexgifbay.tumblr.com
 0.0.0.0 sexhunter.x0.nl
 0.0.0.0 sexicallysexical.tumblr.com
+0.0.0.0 sexier.com
 0.0.0.0 sexit.fr
 0.0.0.0 sexix.net
 0.0.0.0 sexiz.net
@@ -38905,6 +39112,7 @@ fe80::1%lo0 localhost
 0.0.0.0 sexycfnmballbustteasthandjob.tumblr.com
 0.0.0.0 sexydenisemilani1.tumblr.com
 0.0.0.0 sexyfashions.angelcities.com
+0.0.0.0 sexyfuckgames.com
 0.0.0.0 sexyfuckingmachines.tumblr.com
 0.0.0.0 sexygifs-majkel.tumblr.com
 0.0.0.0 sexygirlbutts.com
@@ -38976,6 +39184,7 @@ fe80::1%lo0 localhost
 0.0.0.0 simmo5018.tumblr.com
 0.0.0.0 simonaaltimari.tumblr.com
 0.0.0.0 simplenu.com
+0.0.0.0 simply-hentai.com
 0.0.0.0 sindystroker.tumblr.com
 0.0.0.0 sinfulsexualdesire.tumblr.com
 0.0.0.0 singlesadnetwork.com
@@ -39019,6 +39228,7 @@ fe80::1%lo0 localhost
 0.0.0.0 smut-planet.com
 0.0.0.0 smutbdsm.com
 0.0.0.0 smutsational.tumblr.com
+0.0.0.0 smutty.com
 0.0.0.0 smutwebcams.com
 0.0.0.0 soaringoveryou.tumblr.com
 0.0.0.0 socalmovies.com
@@ -39051,6 +39261,7 @@ fe80::1%lo0 localhost
 0.0.0.0 srandel.com
 0.0.0.0 srfire8.tumblr.com
 0.0.0.0 srta-sexo-afins.tumblr.com
+0.0.0.0 srv2.frescoporno.com
 0.0.0.0 sss828.welovecpa.com
 0.0.0.0 st.virgin.net
 0.0.0.0 st3.xhamster.com
@@ -39099,6 +39310,7 @@ fe80::1%lo0 localhost
 0.0.0.0 streamlivesex.com
 0.0.0.0 streamsex.com
 0.0.0.0 streamxxx.tv
+0.0.0.0 streetblowjobs.com
 0.0.0.0 stripchat.com
 0.0.0.0 stripgalleries.net
 0.0.0.0 studiofow.com
@@ -39162,6 +39374,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tac.xcams.com
 0.0.0.0 tainster.com
 0.0.0.0 takezoo.com
+0.0.0.0 tantoporno.com
 0.0.0.0 taradosacana.tumblr.com
 0.0.0.0 tastyangels.com
 0.0.0.0 tatagirls.com
@@ -39246,6 +39459,7 @@ fe80::1%lo0 localhost
 0.0.0.0 the-adult-company.com
 0.0.0.0 the-erotic-collection-ru.tumblr.com
 0.0.0.0 the-mezo.tumblr.com
+0.0.0.0 the-pork.com
 0.0.0.0 the-you-i-never-knew.tumblr.com
 0.0.0.0 theamourangels.com
 0.0.0.0 theangelina.com
@@ -39266,6 +39480,7 @@ fe80::1%lo0 localhost
 0.0.0.0 thegfnetwork.com
 0.0.0.0 thegifer.tumblr.com
 0.0.0.0 thegootube.com
+0.0.0.0 thehollywoodgossip.com
 0.0.0.0 thehunteresssociety.tumblr.com
 0.0.0.0 theindianporn.com
 0.0.0.0 thejay1.tumblr.com
@@ -39347,6 +39562,7 @@ fe80::1%lo0 localhost
 0.0.0.0 titten-kitty-natursekt.de
 0.0.0.0 tittyfuckingftw.tumblr.com
 0.0.0.0 tittylicious78.tumblr.com
+0.0.0.0 tjoob.com
 0.0.0.0 tlornas.tumblr.com
 0.0.0.0 tmcallist.tumblr.com
 0.0.0.0 tnaflix.com
@@ -39373,6 +39589,7 @@ fe80::1%lo0 localhost
 0.0.0.0 topamateurforum.com
 0.0.0.0 topamateursexvideos.com
 0.0.0.0 topfreaks.com
+0.0.0.0 topfreepornvideos.com
 0.0.0.0 tophd.xxx
 0.0.0.0 topheavywebcams.com
 0.0.0.0 tophomevideos.com
@@ -39381,6 +39598,7 @@ fe80::1%lo0 localhost
 0.0.0.0 topmomvideos.com
 0.0.0.0 topnotchwebcams.com
 0.0.0.0 toppornblogs.com
+0.0.0.0 toppornsites.com
 0.0.0.0 toprealvideos.com
 0.0.0.0 topsexart.com
 0.0.0.0 topsites.naturalangels.com
@@ -39388,7 +39606,9 @@ fe80::1%lo0 localhost
 0.0.0.0 topsiteuri.ro
 0.0.0.0 toptoonsites.com
 0.0.0.0 topwebcams.com
+0.0.0.0 torinoerotica.com
 0.0.0.0 torontoangels.com
+0.0.0.0 toroporno.com
 0.0.0.0 torrentsgroup.com
 0.0.0.0 torture.adult-extreme.com
 0.0.0.0 totalexposure.com
@@ -39397,7 +39617,9 @@ fe80::1%lo0 localhost
 0.0.0.0 tour.cybererotica.com
 0.0.0.0 tour.ihookup.com
 0.0.0.0 tours.playboy.com
+0.0.0.0 tours.webcams.com
 0.0.0.0 tr.porn.com
+0.0.0.0 tr.youporn.com
 0.0.0.0 track.adultdialersolution.com
 0.0.0.0 track.braincash.com
 0.0.0.0 track.justhookup.com
@@ -39422,6 +39644,7 @@ fe80::1%lo0 localhost
 0.0.0.0 trial.sex-explorer.com
 0.0.0.0 triplexangels.com
 0.0.0.0 triplexposure.com
+0.0.0.0 troiaitaliana.com
 0.0.0.0 trueangels.com
 0.0.0.0 truecash.com
 0.0.0.0 truthordarepics.com
@@ -39455,6 +39678,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tuboff.com
 0.0.0.0 tubxporn.com
 0.0.0.0 tuccus.com
+0.0.0.0 tukif.com
 0.0.0.0 tumview.com
 0.0.0.0 turbine25.tumblr.com
 0.0.0.0 turbo-angels.forummotion.com
@@ -39472,6 +39696,7 @@ fe80::1%lo0 localhost
 0.0.0.0 twinksonwebcams.com
 0.0.0.0 twistedblogs.com
 0.0.0.0 twistys.com
+0.0.0.0 twistysnetwork.com
 0.0.0.0 twizporn.com
 0.0.0.0 txxx.com
 0.0.0.0 tyme2play.ucgalleries.com
@@ -39496,6 +39721,7 @@ fe80::1%lo0 localhost
 0.0.0.0 unshavedwebcams.com
 0.0.0.0 unuzroe.angelfire.com
 0.0.0.0 updatenationwide.9hz.com
+0.0.0.0 updatetube.com
 0.0.0.0 upforit.com
 0.0.0.0 upforitnetworks.com
 0.0.0.0 upornia.com
@@ -39517,6 +39743,7 @@ fe80::1%lo0 localhost
 0.0.0.0 utherverse.com
 0.0.0.0 v3.allurecash.net
 0.0.0.0 va-ua.com
+0.0.0.0 valentina-nappi.it
 0.0.0.0 vampire-ass.tumblr.com
 0.0.0.0 vanillafucker.tumblr.com
 0.0.0.0 vemkeselambusa.tumblr.com
@@ -39559,9 +39786,11 @@ fe80::1%lo0 localhost
 0.0.0.0 vidxnet.com
 0.0.0.0 vidz.com
 0.0.0.0 vidz7.com
+0.0.0.0 viewdesisex.com
 0.0.0.0 vikiporn.com
 0.0.0.0 villoumoristic.blogs.allocine.fr
 0.0.0.0 vintage-erotica-forum.com
+0.0.0.0 vintagepinupgirls.net
 0.0.0.0 vipangelz.com
 0.0.0.0 vipergirls.to
 0.0.0.0 vipissy.com
@@ -39711,6 +39940,7 @@ fe80::1%lo0 localhost
 0.0.0.0 vlxll.tumblr.com
 0.0.0.0 voayeurs.com
 0.0.0.0 voffka.com
+0.0.0.0 voglioporno.com
 0.0.0.0 voktel.com
 0.0.0.0 voluptuous.naturalwonderz.com
 0.0.0.0 vou-te-fazer-sentir-prazer.tumblr.com
@@ -39719,11 +39949,13 @@ fe80::1%lo0 localhost
 0.0.0.0 voyeurweb.com
 0.0.0.0 vozer.voffka.com
 0.0.0.0 vporn.com
+0.0.0.0 vpornvideos.com
 0.0.0.0 vrbangers.com
 0.0.0.0 vuioirq.angelfire.com
 0.0.0.0 walking-angel.com
 0.0.0.0 wank.net
 0.0.0.0 wankerhut.com
+0.0.0.0 wankflix.com
 0.0.0.0 wankoz.com
 0.0.0.0 wankspider.com
 0.0.0.0 wankz.com
@@ -39733,6 +39965,7 @@ fe80::1%lo0 localhost
 0.0.0.0 wastedamateurs.com
 0.0.0.0 wasteland.com
 0.0.0.0 watchersweb.com
+0.0.0.0 watchindianporn.net
 0.0.0.0 watchjavonline.com
 0.0.0.0 watchmygf.com
 0.0.0.0 watchmygf.me
@@ -39867,7 +40100,9 @@ fe80::1%lo0 localhost
 0.0.0.0 xhamsterhq.com
 0.0.0.0 xhamsterlesbian.com
 0.0.0.0 xhit.com
+0.0.0.0 xhookups.com
 0.0.0.0 xhqtube.com
+0.0.0.0 xitalian.com
 0.0.0.0 xkeezmovies.com
 0.0.0.0 xkxempire.com
 0.0.0.0 xl-toons.com
@@ -39881,6 +40116,7 @@ fe80::1%lo0 localhost
 0.0.0.0 xonline.vip
 0.0.0.0 xossip.com
 0.0.0.0 xoxojoannaangel.com
+0.0.0.0 xpaja.net
 0.0.0.0 xpee.com
 0.0.0.0 xpornking.com
 0.0.0.0 xpornz.com
@@ -39914,6 +40150,7 @@ fe80::1%lo0 localhost
 0.0.0.0 xxxcosplaypics.com
 0.0.0.0 xxxcosplaypics.tumblr.com
 0.0.0.0 xxxcupid.com
+0.0.0.0 xxxdating.com
 0.0.0.0 xxxgifsource.tumblr.com
 0.0.0.0 xxxhornymilfsluts.tumblr.com
 0.0.0.0 xxxhotgifs.tumblr.com
@@ -39929,6 +40166,7 @@ fe80::1%lo0 localhost
 0.0.0.0 xxxstreams.eu
 0.0.0.0 xxxstreams.org
 0.0.0.0 xxxtubedot.com
+0.0.0.0 xxxvideoporno.it
 0.0.0.0 xxxvogue.net
 0.0.0.0 xxxwebtraffic.com
 0.0.0.0 xxxx-porn.tumblr.com
@@ -39991,7 +40229,9 @@ fe80::1%lo0 localhost
 0.0.0.0 youngxxxvideoz.com
 0.0.0.0 youporn.com
 0.0.0.0 youpornbook.com
+0.0.0.0 youpornhd.co
 0.0.0.0 youpornmate.com
+0.0.0.0 youpornru.com
 0.0.0.0 youpunish.com
 0.0.0.0 your-bootylover-stuff.tumblr.com
 0.0.0.0 your-daily-girl.com
@@ -40006,6 +40246,7 @@ fe80::1%lo0 localhost
 0.0.0.0 yourfuckbook.com
 0.0.0.0 yourlust.com
 0.0.0.0 yourlustmedia.com
+0.0.0.0 yourlustmovies.com
 0.0.0.0 yourporn.sexy
 0.0.0.0 yourpornjizz.com
 0.0.0.0 yoursexwebcams.com
@@ -40025,6 +40266,7 @@ fe80::1%lo0 localhost
 0.0.0.0 zebkbeer.com
 0.0.0.0 zendog2121.tumblr.com
 0.0.0.0 zevera.com
+0.0.0.0 zimbio.com
 0.0.0.0 zloeradio.net
 0.0.0.0 zmature.com
 0.0.0.0 zoig.com
@@ -40040,7 +40282,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ztod.com
 0.0.0.0 zuzandra.com
 0.0.0.0 zzcartoon.com
-# Porn hosts
+0.0.0.0 zzgays.com ##
 # Updated December 15, 2016
 
 0.0.0.0 www.007angels.com
