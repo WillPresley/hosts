@@ -1,8 +1,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: January 23 2017
-# Number of unique domains: 47,657
+# Date: February 06 2017
+# Number of unique domains: 47,716
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -58,7 +58,6 @@ fe80::1%lo0 localhost
 0.0.0.0 apps.buzzcity.net
 0.0.0.0 ads.mobgold.com
 0.0.0.0 android.bcfads.com
-0.0.0.0 req.appads.com
 0.0.0.0 show.buzzcity.net
 0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 r.edge.inmobicdn.net
@@ -73,7 +72,6 @@ fe80::1%lo0 localhost
 0.0.0.0 static.estebull.com
 0.0.0.0 mobile.banzai.it
 0.0.0.0 ads.xxxad.net
-0.0.0.0 hhbekxxw5d9e.pflexads.com
 0.0.0.0 img.ads.mojiva.com
 0.0.0.0 adcontent.saymedia.com
 0.0.0.0 ads.saymedia.com
@@ -143,6 +141,7 @@ fe80::1%lo0 localhost
 
 # [pflexads.com]
 0.0.0.0 hybl9bazbc35.pflexads.com
+0.0.0.0 hhbekxxw5d9e.pflexads.com
 0.0.0.0 www.pflexads.com
 0.0.0.0 orencia.pflexads.com
 
@@ -237,6 +236,7 @@ fe80::1%lo0 localhost
 0.0.0.0 jupiter1.appads.com
 0.0.0.0 jupiter2.appads.com
 0.0.0.0 jupiter3.appads.com
+0.0.0.0 req.appads.com
 0.0.0.0 req1.appads.com
 0.0.0.0 req2.appads.com
 0.0.0.0 req3.appads.com
@@ -21302,7 +21302,7 @@ fe80::1%lo0 localhost
 # KAD hosts file
 # Zalecany tylko dla zaawansowanych uzytkownikow
 # Niektore funkcje oferowane przez filtr nie sa dostepne w ponizszym pliku ze wzgledu na ograniczenia hosts.
-# Aktualizacja zbiorowa: 2017012101
+# Aktualizacja zbiorowa: 2017013001
 
 
 # Podejrzane i/lub polaczone z innymi przekretami
@@ -21818,6 +21818,22 @@ fe80::1%lo0 localhost
 0.0.0.0 bardzofunny.co.pl
 0.0.0.0 konkurs-kobo.pl
 0.0.0.0 nxd.pl
+0.0.0.0 fejsbuczkowy.xyz
+0.0.0.0 spokeo.pl
+0.0.0.0 formularz-odbioru-nagrody.eu
+0.0.0.0 nazywo-24.pl
+0.0.0.0 levox.pl
+0.0.0.0 stop-subskrypcji-sms.pl
+0.0.0.0 iphonee7s-konkurs.pl
+0.0.0.0 iphone7silver-konkurs.pl
+0.0.0.0 doladuj-50zl-promocja.pl
+0.0.0.0 konkrs-iphone7.pl
+0.0.0.0 zbq.pl
+0.0.0.0 konkursy-24.pl
+0.0.0.0 promocje.xaa.pl
+0.0.0.0 formularz-wygranego.eu
+0.0.0.0 formularz-wygranego2017.eu
+0.0.0.0 formularz-odbioru-nagrody.info.pl
 
 # Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 0.0.0.0 rfv.pl
@@ -21918,8 +21934,13 @@ fe80::1%lo0 localhost
 0.0.0.0 mik2.pl
 0.0.0.0 c9d.pl
 0.0.0.0 ppl3.pl
+0.0.0.0 iuyt.pl
 
 # Szybko wygaszajace
+0.0.0.0 bon-paliwowy.tk
+0.0.0.0 siwir.borec.cz
+0.0.0.0 fbtool.glt.pl
+0.0.0.0 acpc.pl
 0.0.0.0 testimisional.5v.pl
 0.0.0.0 pormn.ga
 0.0.0.0 pormn.tk
@@ -22420,14 +22441,31 @@ fe80::1%lo0 localhost
 0.0.0.0 pl2.slimg0ji-berry.com
 0.0.0.0 www.odliczamy.net
 0.0.0.0 www.fabryka-nagrod.com
+0.0.0.0 instant-winner275.online
+0.0.0.0 poland3.instant-winner275.online
+0.0.0.0 nowy-bonusy-codzienne.racing
+0.0.0.0 microsoft.com-m-pl-bus8.nowy-bonusy-codzienne.racing
+0.0.0.0 paliwo.as9.pl
+0.0.0.0 www.read-facebook.exhl.pl
 
 # Przekrety
+0.0.0.0 wylosujgry.pl
+0.0.0.0 wygrajps4pro.pl
+0.0.0.0 wygrajxbox.pl
+0.0.0.0 wygrajjacka.pl
+0.0.0.0 i-wiadomosci.pl
+0.0.0.0 przepismix.pl
+0.0.0.0 iphone7quiz.pl
+0.0.0.0 fbsocialapp.pl
+0.0.0.0 rejestrowanko.com.pl
+0.0.0.0 bony-paliwowe.pl
+0.0.0.0 funriver.pl
+0.0.0.0 bon-bon-bon.pl
 0.0.0.0 chrome-setup.bid
 0.0.0.0 idzdalej.pl
 0.0.0.0 tescikiq.pl
 0.0.0.0 steamdoladowanie.pl
 0.0.0.0 ladujpsc.pl
-0.0.0.0 wygrajjacka.pl
 0.0.0.0 bonykupony.pl
 0.0.0.0 mojeiq.pl
 0.0.0.0 odliczamy.net
@@ -22435,7 +22473,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tankuje-paliwo.pl
 0.0.0.0 videoroom.pl
 0.0.0.0 movies-base.pl
-0.0.0.0 wygrajps4pro.pl
 0.0.0.0 wygrajairpods.pl
 0.0.0.0 mediainner.pl
 0.0.0.0 wygrajxboxones.pl
@@ -23367,6 +23404,7 @@ fe80::1%lo0 localhost
 0.0.0.0 sms-za-darmo.pl
 
 # Blogspot
+0.0.0.0 fbviewerv75.blogspot.com
 0.0.0.0 kolorfacebooka24.blogspot.com
 0.0.0.0 facebookcolors24.blogspot.com
 0.0.0.0 szybki-przeglad.blogspot.com
@@ -23472,7 +23510,7 @@ fe80::1%lo0 localhost
 0.0.0.0 widget-eforsa.pl
 #               MalwareDomainList.com Hosts List           #
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         Last updated: Thu, 19 Jan 17 13:06:31 +0000      #
+#         Last updated: Wed, 25 Jan 17 20:16:50 +0000      #
 
 
 0.0.0.0 109-204-26-16.netconnexion.managedbroadband.co.uk
@@ -23645,6 +23683,7 @@ fe80::1%lo0 localhost
 0.0.0.0 exsexytop.tk
 0.0.0.0 extreembilisim.com
 0.0.0.0 faiyazahmed.com
+0.0.0.0 falconsafe.com.sg
 0.0.0.0 fallencrafts.info
 0.0.0.0 faq-candrive.tk
 0.0.0.0 fbku.com
@@ -24231,6 +24270,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.jcmarcadolib.com
 0.0.0.0 www.joomlalivechat.com
 0.0.0.0 www.lccl.org.uk
+0.0.0.0 www.lifelabs.vn
 0.0.0.0 www.litra.com.mk
 0.0.0.0 www.lowes-pianos-and-organs.com
 0.0.0.0 www.luce.polimi.it
@@ -24343,7 +24383,7 @@ fe80::1%lo0 localhost
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# -------------- Updated: January-23-2016 ---------------- #
+# -------------- Updated: January-23-2017 ---------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: this file is free to use for personal use    #
@@ -37468,7 +37508,7 @@ fe80::1%lo0 localhost
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 23 Jan 2017 at 01:17:41 GMT
+# Last updated: Tue, 31 Jan 2017 at 09:47:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from
@@ -42470,6 +42510,7 @@ fe80::1%lo0 localhost
 0.0.0.0 annuaire-autosurf.com
 0.0.0.0 anonymousstats.keefox.org
 0.0.0.0 anrtx.tacoda.net
+0.0.0.0 any-log.videe.tv
 0.0.0.0 aos.gw.youmi.net
 0.0.0.0 api.adcalls.nl
 0.0.0.0 api.addthis.com
@@ -42499,6 +42540,7 @@ fe80::1%lo0 localhost
 0.0.0.0 a.rad.live.com
 0.0.0.0 arbomedia.pl
 0.0.0.0 arbopl.bbelements.com
+0.0.0.0 arena.altitudeplatform.com
 0.0.0.0 arm2pie.com
 0.0.0.0 art-music-rewardpath.com
 0.0.0.0 art-offer.com
@@ -42856,6 +42898,7 @@ fe80::1%lo0 localhost
 0.0.0.0 cdn.adigniter.org
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.adservingsolutionsinc.com
+0.0.0.0 cdn.altitudeplatform.com
 0.0.0.0 cdn.amateurmatch.com
 0.0.0.0 cdn.assets.craveonline.com
 0.0.0.0 cdn.augur.io
@@ -42889,6 +42932,7 @@ fe80::1%lo0 localhost
 0.0.0.0 cdn.lazymic.com
 0.0.0.0 cdn.likeaced.com
 0.0.0.0 cdn.mediative.ca
+0.0.0.0 cdn.mega-tags.com
 0.0.0.0 cdn.merchenta.com
 0.0.0.0 cdn.mobicow.com
 0.0.0.0 cdn.onescreen.net
@@ -43327,6 +43371,8 @@ fe80::1%lo0 localhost
 0.0.0.0 europe.adserver.yahoo.com
 0.0.0.0 eu.xtms.net
 0.0.0.0 eveley.club
+0.0.0.0 event-log.videe.tv
+0.0.0.0 events.streamrail.net
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 exclusivegiftcards.com
 0.0.0.0 exits1.webquest.net
@@ -43356,6 +43402,7 @@ fe80::1%lo0 localhost
 0.0.0.0 fengfengtie.com.cn
 0.0.0.0 fengfengtiecrv.com.cn
 0.0.0.0 fengfengtiessp.com.cn
+0.0.0.0 fervortracer.com
 0.0.0.0 fhm.valueclick.net
 0.0.0.0 fif49.info
 0.0.0.0 file.ipinyou.com.cn
@@ -44143,6 +44190,7 @@ fe80::1%lo0 localhost
 0.0.0.0 medya.e-kolay.net
 0.0.0.0 meevehdar.com
 0.0.0.0 megapanel.gem.pl
+0.0.0.0 mega.vast.mega-tags.com
 0.0.0.0 melding-technology.com
 0.0.0.0 mercury.bravenet.com
 0.0.0.0 messagent.duvalguillaume.com
@@ -44491,6 +44539,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pcads.ru
 0.0.0.0 pc-gizmos-ssl.com
 0.0.0.0 pc-virus-d0l92j2.pw
+0.0.0.0 peaky.tags.yield-atx.com
 0.0.0.0 people-choice-sites.com
 0.0.0.0 persgroepadvertising.nl
 0.0.0.0 personalcare-offer.com
@@ -44611,6 +44660,7 @@ fe80::1%lo0 localhost
 0.0.0.0 privitize.com
 0.0.0.0 prizes.co.uk
 0.0.0.0 prjcq.com
+0.0.0.0 prod-e.sprtad.com
 0.0.0.0 productopinionpanel.com
 0.0.0.0 productresearchpanel.com
 0.0.0.0 producttestpanel.com
@@ -44943,6 +44993,7 @@ fe80::1%lo0 localhost
 0.0.0.0 scripts.verticalacuity.com
 0.0.0.0 scr.kliksaya.com
 0.0.0.0 s.di.com.pl
+0.0.0.0 sdk.streamrail.com
 0.0.0.0 s.domob.cn
 0.0.0.0 search.addthis.com
 0.0.0.0 search.freeonline.com
@@ -44985,7 +45036,6 @@ fe80::1%lo0 localhost
 0.0.0.0 select004.adtech.fr
 0.0.0.0 select004.adtech.us
 0.0.0.0 selective-business.com
-0.0.0.0 sematext.com
 0.0.0.0 sergarius.popunder.ru
 0.0.0.0 serv2.ad-rotator.com
 0.0.0.0 serv.ad-rotator.com
@@ -45149,7 +45199,9 @@ fe80::1%lo0 localhost
 0.0.0.0 ssl-nl.persgroep.edgekey.neto
 0.0.0.0 sso.canada.com
 0.0.0.0 ssp.adplus.co.id
+0.0.0.0 ssp.anyclip-media.com
 0.0.0.0 sspcash.adxcore.com
+0.0.0.0 ssp.streamrail.net
 0.0.0.0 staging.snip.answers.com
 0.0.0.0 stampen.adtlgc.com
 0.0.0.0 stampen.linkpulse.com
@@ -45202,8 +45254,11 @@ fe80::1%lo0 localhost
 0.0.0.0 static.plugrush.com
 0.0.0.0 static.pulse360.com
 0.0.0.0 static.regiojobs.be
+0.0.0.0 static.tags.yield-atx.com
 0.0.0.0 static.trackuity.com
 0.0.0.0 static.trafficstars.com
+0.0.0.0 static.unocdn.com
+0.0.0.0 static.vertamedia.com
 0.0.0.0 static.virgul.com
 0.0.0.0 static.way2traffic.com
 0.0.0.0 static.williamhill.com
@@ -45232,6 +45287,7 @@ fe80::1%lo0 localhost
 0.0.0.0 storage.softure.com
 0.0.0.0 stts.rbc.ru
 0.0.0.0 st.valueclick.com
+0.0.0.0 st.videojam.tv
 0.0.0.0 st.vq.ku6.cn
 0.0.0.0 su.addthis.com
 0.0.0.0 subad-server.com
@@ -45273,6 +45329,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tag1.webabacus.com
 0.0.0.0 tag.admeld.com
 0.0.0.0 tag.regieci.com
+0.0.0.0 tags.rllcll.com
 0.0.0.0 tags.toroadvertising.com
 0.0.0.0 tag.webcompteur.com
 0.0.0.0 taking-technology.com
@@ -45505,7 +45562,9 @@ fe80::1%lo0 localhost
 0.0.0.0 vast.bp3845260.btrll.com
 0.0.0.0 vast.bp3846806.btrll.com
 0.0.0.0 vast.bp3846885.btrll.com
+0.0.0.0 vast.deliads.com
 0.0.0.0 vast.tubemogul.com
+0.0.0.0 vast.vertamedia.com
 0.0.0.0 vclick.adbrite.com
 0.0.0.0 venus.goclick.com
 0.0.0.0 ve.tscapeplay.com
@@ -45515,6 +45574,7 @@ fe80::1%lo0 localhost
 0.0.0.0 vid.atm.youku.com
 0.0.0.0 videobox.com
 0.0.0.0 videocop.com
+0.0.0.0 video.cynogage.com
 0.0.0.0 videoegg.adbureau.net
 0.0.0.0 video-game-rewards-central.com
 0.0.0.0 videogamerewardscentral.com
@@ -48396,6 +48456,8 @@ fe80::1%lo0 localhost
 0.0.0.0 sportsinteraction.com
 0.0.0.0 www.sportsinteraction.com
 0.0.0.0 embed.sendtonews.com
+0.0.0.0 privacyassistant.net
+0.0.0.0 ext.privacyassistant.net
 0.0.0.0 pussysaga.com
 0.0.0.0 www.pussysaga.com
 0.0.0.0 promotion.com-rewards.club
@@ -48491,14 +48553,14 @@ fe80::1%lo0 localhost
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Dec 2016 13:13:46 GMT
-# entries:        2365
+# entries:        2361
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 23 Jan 2017 00:00:00
+# start date:    Mon, 06 Feb 2017 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -49031,6 +49093,7 @@ fe80::1%lo0 localhost
 0.0.0.0 bannersng.yell.com
 0.0.0.0 bannerspace.com
 0.0.0.0 bannerswap.com
+0.0.0.0 bannertesting.com
 0.0.0.0 bannery.cz
 0.0.0.0 bannieres.acces-contenu.com
 0.0.0.0 bans.adserver.co.il
@@ -49245,7 +49308,6 @@ fe80::1%lo0 localhost
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
 0.0.0.0 evergage.com
-0.0.0.0 evidencecleanergold.com
 0.0.0.0 ewebcounter.com
 0.0.0.0 exchange-it.com
 0.0.0.0 exchangead.com
@@ -49258,7 +49320,6 @@ fe80::1%lo0 localhost
 0.0.0.0 exogripper.com
 0.0.0.0 experteerads.com
 0.0.0.0 express-submit.de
-0.0.0.0 extractorandburner.com
 0.0.0.0 eyeblaster.com
 0.0.0.0 eyereturn.com
 0.0.0.0 eyeviewads.com
@@ -49555,7 +49616,6 @@ fe80::1%lo0 localhost
 0.0.0.0 onenetworkdirect.com
 0.0.0.0 onestat.com
 0.0.0.0 onestatfree.com
-0.0.0.0 onewaylinkexchange.net
 0.0.0.0 online-metrix.net
 0.0.0.0 onlinecash.com
 0.0.0.0 onlinecashmethod.com
@@ -49957,7 +50017,6 @@ fe80::1%lo0 localhost
 0.0.0.0 webstat.net
 0.0.0.0 webstats4u.com
 0.0.0.0 webtraxx.de
-0.0.0.0 wegcash.com
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 whaleads.com
 0.0.0.0 whenu.com

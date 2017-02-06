@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 23 Jan 2017 at 01:17:41 GMT
+# Last updated: Tue, 31 Jan 2017 at 09:47:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6214,6 +6214,7 @@
 0.0.0.0 answers.us.intellitxt.com
 0.0.0.0 an.tacoda.net
 0.0.0.0 an.yandex.ru
+0.0.0.0 any-log.videe.tv
 0.0.0.0 aos.gw.youmi.net
 0.0.0.0 apex-ad.com
 0.0.0.0 api.adcalls.nl
@@ -6252,6 +6253,7 @@
 0.0.0.0 a.rad.msn.com
 0.0.0.0 arbomedia.pl
 0.0.0.0 arbopl.bbelements.com
+0.0.0.0 arena.altitudeplatform.com
 0.0.0.0 arm2pie.com
 0.0.0.0 arsconsole.global-intermedia.com
 0.0.0.0 art-music-rewardpath.com
@@ -6705,6 +6707,7 @@
 0.0.0.0 cdn.adservingsolutionsinc.com
 0.0.0.0 cdn.ads.ookla.com
 0.0.0.0 cdn.adsrvmedia.net
+0.0.0.0 cdn.altitudeplatform.com
 0.0.0.0 cdn.amateurmatch.com
 0.0.0.0 cdn.amgdgt.com
 0.0.0.0 cdn.assets.craveonline.com
@@ -6745,6 +6748,7 @@
 0.0.0.0 cdn.lazymic.com
 0.0.0.0 cdn.likeaced.com
 0.0.0.0 cdn.mediative.ca
+0.0.0.0 cdn.mega-tags.com
 0.0.0.0 cdn.merchenta.com
 0.0.0.0 cdn.mobicow.com
 0.0.0.0 cdn.nearbyad.com
@@ -7285,6 +7289,8 @@
 0.0.0.0 eu-sonar.sociomantic.com
 0.0.0.0 eu.xtms.net
 0.0.0.0 eveley.club
+0.0.0.0 event-log.videe.tv
+0.0.0.0 events.streamrail.net
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 exclusivegiftcards.com
 0.0.0.0 exits1.webquest.net
@@ -7318,6 +7324,7 @@
 0.0.0.0 fengfengtie.com.cn
 0.0.0.0 fengfengtiecrv.com.cn
 0.0.0.0 fengfengtiessp.com.cn
+0.0.0.0 fervortracer.com
 0.0.0.0 fhm.valueclick.net
 0.0.0.0 fif49.info
 0.0.0.0 file.ipinyou.com.cn
@@ -8247,6 +8254,7 @@
 0.0.0.0 medya.e-kolay.net
 0.0.0.0 meevehdar.com
 0.0.0.0 megapanel.gem.pl
+0.0.0.0 mega.vast.mega-tags.com
 0.0.0.0 melding-technology.com
 0.0.0.0 mercury.bravenet.com
 0.0.0.0 messagent.duvalguillaume.com
@@ -8649,6 +8657,7 @@
 0.0.0.0 pcads.ru
 0.0.0.0 pc-gizmos-ssl.com
 0.0.0.0 pc-virus-d0l92j2.pw
+0.0.0.0 peaky.tags.yield-atx.com
 0.0.0.0 pei-ads.playboy.com
 0.0.0.0 people-choice-sites.com
 0.0.0.0 persgroepadvertising.nl
@@ -8787,6 +8796,7 @@
 0.0.0.0 privitize.com
 0.0.0.0 prizes.co.uk
 0.0.0.0 prjcq.com
+0.0.0.0 prod-e.sprtad.com
 0.0.0.0 productopinionpanel.com
 0.0.0.0 productresearchpanel.com
 0.0.0.0 producttestpanel.com
@@ -9161,6 +9171,7 @@
 0.0.0.0 scripts.verticalacuity.com
 0.0.0.0 scr.kliksaya.com
 0.0.0.0 s.di.com.pl
+0.0.0.0 sdk.streamrail.com
 0.0.0.0 s.domob.cn
 0.0.0.0 se.adserver.yahoo.com
 0.0.0.0 search.addthis.com
@@ -9210,7 +9221,6 @@
 0.0.0.0 select004.adtech.fr
 0.0.0.0 select004.adtech.us
 0.0.0.0 selective-business.com
-0.0.0.0 sematext.com
 0.0.0.0 sergarius.popunder.ru
 0.0.0.0 serv2.ad-rotator.com
 0.0.0.0 servad.mynet.com
@@ -9404,7 +9414,9 @@
 0.0.0.0 ssl-nl.persgroep.edgekey.netO
 0.0.0.0 sso.canada.com
 0.0.0.0 ssp.adplus.co.id
+0.0.0.0 ssp.anyclip-media.com
 0.0.0.0 sspcash.adxcore.com
+0.0.0.0 ssp.streamrail.net
 0.0.0.0 staging.snip.answers.com
 0.0.0.0 stampen.adtlgc.com
 0.0.0.0 stampen.linkpulse.com
@@ -9467,8 +9479,11 @@
 0.0.0.0 static.pulse360.com
 0.0.0.0 static.regiojobs.be
 0.0.0.0 static.scanscout.com
+0.0.0.0 static.tags.yield-atx.com
 0.0.0.0 static.trackuity.com
 0.0.0.0 static.trafficstars.com
+0.0.0.0 static.unocdn.com
+0.0.0.0 static.vertamedia.com
 0.0.0.0 static.virgul.com
 0.0.0.0 static.vpptechnologies.com
 0.0.0.0 static.way2traffic.com
@@ -9504,6 +9519,7 @@
 0.0.0.0 streamate.doublepimp.com
 0.0.0.0 stts.rbc.ru
 0.0.0.0 st.valueclick.com
+0.0.0.0 st.videojam.tv
 0.0.0.0 st.vq.ku6.cn
 0.0.0.0 su.addthis.com
 0.0.0.0 subad-server.com
@@ -9557,6 +9573,7 @@
 0.0.0.0 tag.regieci.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.hypeads.org
+0.0.0.0 tags.rllcll.com
 0.0.0.0 tags.tagcade.com
 0.0.0.0 tags.toroadvertising.com
 0.0.0.0 tag.webcompteur.com
@@ -9824,7 +9841,9 @@
 0.0.0.0 vast.bp3845260.btrll.com
 0.0.0.0 vast.bp3846806.btrll.com
 0.0.0.0 vast.bp3846885.btrll.com
+0.0.0.0 vast.deliads.com
 0.0.0.0 vast.tubemogul.com
+0.0.0.0 vast.vertamedia.com
 0.0.0.0 vclick.adbrite.com
 0.0.0.0 venus.goclick.com
 0.0.0.0 ve.tscapeplay.com
@@ -9836,6 +9855,7 @@
 0.0.0.0 vid.atm.youku.com
 0.0.0.0 videobox.com
 0.0.0.0 videocop.com
+0.0.0.0 video.cynogage.com
 0.0.0.0 videoegg.adbureau.net
 0.0.0.0 video-game-rewards-central.com
 0.0.0.0 videogamerewardscentral.com
