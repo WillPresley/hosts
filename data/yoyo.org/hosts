@@ -3,14 +3,14 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Dec 2016 13:13:46 GMT
-# entries:        2361
+# entries:        2356
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 09 Feb 2017 00:00:00
+# start date:    Mon, 20 Feb 2017 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -207,13 +207,11 @@
 0.0.0.0 adclick.com
 0.0.0.0 adclient.uimserv.net
 0.0.0.0 adclient1.tucows.com
-0.0.0.0 adcomplete.com
 0.0.0.0 adconion.com
 0.0.0.0 adcontent.gamespy.com
 0.0.0.0 adcycle.com
 0.0.0.0 add.newmedia.cz
 0.0.0.0 addealing.com
-0.0.0.0 addesktop.com
 0.0.0.0 addfreestats.com
 0.0.0.0 addme.com
 0.0.0.0 adecn.com
@@ -649,7 +647,6 @@
 0.0.0.0 ads.wiezoekje.nl
 0.0.0.0 ads.wikia.nocookie.net
 0.0.0.0 ads.wineenthusiast.com
-0.0.0.0 ads.wunderground.com
 0.0.0.0 ads.wwe.biz
 0.0.0.0 ads.xhamster.com
 0.0.0.0 ads.xtra.co.nz
@@ -873,7 +870,6 @@
 0.0.0.0 affbuzzads.com
 0.0.0.0 affili.net
 0.0.0.0 affiliate.1800flowers.com
-0.0.0.0 affiliate.7host.com
 0.0.0.0 affiliate.doubleyourdating.com
 0.0.0.0 affiliate.dtiserv.com
 0.0.0.0 affiliate.gamestop.com
@@ -931,7 +927,6 @@
 0.0.0.0 are-ter.com
 0.0.0.0 as.webmd.com
 0.0.0.0 as1.advfn.com
-0.0.0.0 as2.advfn.com
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 at-adserver.alltop.com
@@ -1009,7 +1004,6 @@
 0.0.0.0 bannerpower.com
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
-0.0.0.0 banners.apnuk.com
 0.0.0.0 banners.asiafriendfinder.com
 0.0.0.0 banners.audioholics.com
 0.0.0.0 banners.babylon-x.com
@@ -1354,6 +1348,7 @@
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
 0.0.0.0 evergage.com
+0.0.0.0 evidencecleanergold.com
 0.0.0.0 ewebcounter.com
 0.0.0.0 exchange-it.com
 0.0.0.0 exchange.bg
@@ -1368,6 +1363,7 @@
 0.0.0.0 experteerads.com
 0.0.0.0 exponential.com
 0.0.0.0 express-submit.de
+0.0.0.0 extractorandburner.com
 0.0.0.0 extreme-dm.com
 0.0.0.0 extremetracking.com
 0.0.0.0 eyeblaster.com
@@ -1864,7 +1860,6 @@
 0.0.0.0 postrelease.com
 0.0.0.0 potenza.cz
 0.0.0.0 pr-star.de
-0.0.0.0 pr-ten.de
 0.0.0.0 praddpro.de
 0.0.0.0 prchecker.info
 0.0.0.0 precisioncounter.com
