@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: February 20 2017
+# Date: February 21 2017
 # Extensions added to this file: fakenews
-# Number of unique domains: 48,347
+# Number of unique domains: 48,353
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -21307,7 +21307,7 @@ fe80::1%lo0 localhost
 # KAD hosts file
 # Zalecany tylko dla zaawansowanych uzytkownikow
 # Niektore funkcje oferowane przez filtr nie sa dostepne w ponizszym pliku ze wzgledu na ograniczenia hosts.
-# Aktualizacja zbiorowa: 2017021901
+# Aktualizacja zbiorowa: H2017022001
 
 
 # Podejrzane i/lub polaczone z innymi przekretami
@@ -21863,6 +21863,7 @@ fe80::1%lo0 localhost
 0.0.0.0 kupzytax.pl
 0.0.0.0 odbieraj-doladowania.pl
 0.0.0.0 iphone7silver-wygraj.pl
+0.0.0.0 promocja-doladowanie-50-pln.pl
 
 # Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 0.0.0.0 rfv.pl
@@ -21967,6 +21968,10 @@ fe80::1%lo0 localhost
 0.0.0.0 url1.pl
 
 # Szybko wygaszajace
+0.0.0.0 gitarkasiema40.5v.pl
+0.0.0.0 dzieci2.89.pl
+0.0.0.0 ciemniejszastronagreya.tk
+0.0.0.0 polskieinfo365.wordpress.com
 0.0.0.0 karnawalowe-bony-do-drogerii.pl
 0.0.0.0 gitarasiema39.5v.pl
 0.0.0.0 focie-i-foczki.hitowy.pl
@@ -22497,8 +22502,15 @@ fe80::1%lo0 localhost
 0.0.0.0 www.klikijuz.com
 0.0.0.0 pl.jetzt-teilnehmen.net
 0.0.0.0 doladowanie.02k.pl
+0.0.0.0 www.webfolder.exhl.pl
+0.0.0.0 www.the-best-movies.exhl.pl
 
 # Przekrety
+0.0.0.0 zalukaj-player.pl
+0.0.0.0 za-rejestrowany.pl
+0.0.0.0 4kplayer.pl
+0.0.0.0 tvseriesmovies.pl
+0.0.0.0 24pliki.pl
 0.0.0.0 best-coupon-offer.com
 0.0.0.0 cda-premiery.pl
 0.0.0.0 speed-lte.pl
@@ -38477,7 +38489,6 @@ fe80::1%lo0 localhost
 0.0.0.0 statistics.dynamicsitestats.com
 0.0.0.0 statistics.elsevier.nl
 0.0.0.0 statistics.reedbusiness.nl
-0.0.0.0 statistics.theonion.com
 0.0.0.0 stat.netmonitor.fi
 0.0.0.0 stats1.corusradio.com
 0.0.0.0 stats1.in
@@ -40904,7 +40915,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adblockanalytics.com
 0.0.0.0 adblockerkillswebsites.pw
 0.0.0.0 adbnr.ru
-0.0.0.0 adbot.theonion.com
 0.0.0.0 ad.brainer.jp
 0.0.0.0 adbrite.com
 0.0.0.0 adc2.adcentriconline.com
@@ -40980,7 +40990,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad-gbn.com
 0.0.0.0 ad.ghfusion.com
 0.0.0.0 ad.goo.ne.jp
-0.0.0.0 adgraphics.theonion.com
 0.0.0.0 ad.gra.pl
 0.0.0.0 ad.greenmarquee.com
 0.0.0.0 adgroup.naver.com
@@ -44175,7 +44184,6 @@ fe80::1%lo0 localhost
 0.0.0.0 mangler7.generals.ea.com
 0.0.0.0 mangler8.generals.ea.com
 0.0.0.0 mangler9.generals.ea.com
-0.0.0.0 manuel.theonion.com
 0.0.0.0 mapleway2profit.com
 0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing-rewardpath.com
@@ -47353,7 +47361,6 @@ fe80::1%lo0 localhost
 0.0.0.0 oascentral.thehockeynews.com
 0.0.0.0 oascentral.thenation.com
 0.0.0.0 oascentral.theonionavclub.com
-0.0.0.0 oascentral.theonion.com
 0.0.0.0 oascentral.thephoenix.com
 0.0.0.0 oascentral.thesmokinggun.com
 0.0.0.0 oascentral.thespark.com
@@ -48631,7 +48638,7 @@ fe80::1%lo0 localhost
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 20 Feb 2017 00:00:00
+# start date:    Tue, 21 Feb 2017 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -50423,7 +50430,6 @@ fe80::1%lo0 localhost
 0.0.0.0 theforbiddenknowledge.com
 0.0.0.0 thefreepatriot.org
 0.0.0.0 thefreethoughtproject.com
-0.0.0.0 thehardtimes.net
 0.0.0.0 theineptowl.com
 0.0.0.0 thelapine.ca
 0.0.0.0 thelastgreatstand.com
