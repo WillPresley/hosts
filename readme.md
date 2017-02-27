@@ -4,8 +4,8 @@ This repository consolidates several reputable `hosts` files, and merges them
 into a unified hosts file with duplicates removed.  This repo provides several
 hosts files tailored to you need to block.
 
-* Last updated: **February 09 2017**.
-* Here's the [raw hosts file with fakenews extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 48,276 entries.
+* Last updated: **February 27 2017**.
+* Here's the [raw hosts file with fakenews extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 47,991 entries.
 
 ### List of all hosts file variants
 
@@ -16,7 +16,7 @@ with Github download links.
 Host file recipe | Readme | Raw hosts | hosts (.zip) | Unique domains | Non Github mirror
 ---------------- |:------:|:---------:|:------------:|:--------------:|:-------------:
 Unified hosts = **(adware + malware)** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts.zip) | 47,708 | [link](http://sbc.io/hosts/hosts)
-Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts.zip) | 48,276 | [link](http://sbc.io/hosts/hosts)
+Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts.zip) | 47,991 | [link](http://sbc.io/hosts/hosts)
 Unified hosts **+ gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts.zip) | 33,696 | [link](http://sbc.io/hosts/alternates/gambling/hosts)
 Unified hosts **+ porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts.zip) | 40,024 | [link](http://sbc.io/hosts/alternates/porn/hosts)
 Unified hosts **+ social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts.zip) | 32,408 | [link](http://sbc.io/hosts/alternates/social/hosts)
@@ -111,6 +111,12 @@ Only active when `--replace` is also active.
 
 `--ip nnn.nnn.nnn.nnn`, or `-i nnn.nnn.nnn.nnn`: the IP address to use as the 
 target.  Default is `0.0.0.0`.
+
+`--keepdomaincomments`, or `-k`: `false` (default) or `true`, keep the comments 
+that appear on the same line as domains.  The default is `false` since some
+router-based implementations can't handle comments in-line with hosts.
+
+`--skipstatichosts`, or `-s`: `false` (default) or `true`, 
 
 `--noupdate`, or `-n`: skip fetching updates from hosts data sources.
 
@@ -250,7 +256,7 @@ and run command:
 updateHostsWindows.bat
 ```
 
-|If you want using huge hosts file with merged [hphosts](https://www.hosts-file.net) (NOT INCLUDED HERE) you need to DISABLE and STOP `Dnscache` service before you replace hosts file in Windows Systems. You have been warned.|
+|If you want to use a huge hosts file by merging [hphosts](https://www.hosts-file.net) (NOT INCLUDED HERE) you need to DISABLE and STOP `Dnscache` service before you replace hosts file in Windows Systems. You have been warned.|
 :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Open a Command Prompt with Administrator privileges and run once commands:

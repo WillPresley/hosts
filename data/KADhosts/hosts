@@ -1,7 +1,7 @@
 # KAD hosts file
 # Zalecany tylko dla zaawansowanych uzytkownikow
 # Niektore funkcje oferowane przez filtr nie sa dostepne w ponizszym pliku ze wzgledu na ograniczenia hosts.
-# Aktualizacja zbiorowa: H2017022001
+# Aktualizacja zbiorowa: H2017022501
 
 
 # Podejrzane i/lub polaczone z innymi przekretami
@@ -558,6 +558,9 @@
 0.0.0.0 odbieraj-doladowania.pl
 0.0.0.0 iphone7silver-wygraj.pl
 0.0.0.0 promocja-doladowanie-50-pln.pl
+0.0.0.0 darmowe-buty-nike-2017.pl
+0.0.0.0 kupony50-biedronka.pl
+0.0.0.0 formularz.sklep.pl
 
 # Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 0.0.0.0 rfv.pl
@@ -663,6 +666,18 @@
 0.0.0.0 url1.pl
 
 # Szybko wygaszajace
+0.0.0.0 twojeiq.weebly.com
+0.0.0.0 walentynkowybon2017.pl
+0.0.0.0 darmowe-buty-od-nike-2017.eu
+0.0.0.0 ebony1500.pl
+0.0.0.0 bon-podarunkowy.com.pl
+0.0.0.0 bony-konkursy.pl
+0.0.0.0 lowcy-bonow.pl
+0.0.0.0 fakty-online-24.pl
+0.0.0.0 faktywiadomosci24.com.pl
+0.0.0.0 faktywydarzenia24.pl
+0.0.0.0 gitarkasiema42.5v.pl
+0.0.0.0 dzieci4.89.pl
 0.0.0.0 gitarkasiema40.5v.pl
 0.0.0.0 dzieci2.89.pl
 0.0.0.0 ciemniejszastronagreya.tk
@@ -1203,6 +1218,7 @@
 0.0.0.0 www.the-best-movies.exhl.pl
 
 # Przekrety
+0.0.0.0 mega-download.eu
 0.0.0.0 zalukaj-player.pl
 0.0.0.0 za-rejestrowany.pl
 0.0.0.0 4kplayer.pl
@@ -1265,7 +1281,7 @@
 0.0.0.0 poke-zestaw.pl
 0.0.0.0 sexstream.pl
 0.0.0.0 twojapozyczka24h.pl
-0.0.0.0 zapiszto.pl/2
+0.0.0.0 zapiszto.pl
 0.0.0.0 odbierzpokemon.pl
 0.0.0.0 file-folders.pl
 0.0.0.0 fspys.pl
@@ -1273,7 +1289,7 @@
 0.0.0.0 insta-follow.pl
 0.0.0.0 fb-colors.pl
 0.0.0.0 skin-konkurs.pl
-0.0.0.0 youraticles.pl/2#
+0.0.0.0 youraticles.pl
 0.0.0.0 win-skin.pl
 0.0.0.0 nikeswin.pl
 0.0.0.0 win-cosmetics.pl
@@ -2177,6 +2193,7 @@
 0.0.0.0 sms-za-darmo.pl
 
 # Blogspot
+0.0.0.0 e-bony-1500zl.blogspot.com
 0.0.0.0 fbviewerv75.blogspot.com
 0.0.0.0 kolorfacebooka24.blogspot.com
 0.0.0.0 facebookcolors24.blogspot.com
