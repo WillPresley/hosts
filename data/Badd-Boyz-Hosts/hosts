@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Sun Mar 12 10:03:12 SAST 2017
+### Fri Mar 17 10:18:03 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -103,11 +103,13 @@
 0.0.0.0 4webmasters.com
 0.0.0.0 5000-cotydzien.com
 0.0.0.0 51.la
+0.0.0.0 57883.net
 0.0.0.0 5elementov.ru
 0.0.0.0 5forex.ru
 0.0.0.0 5i2.net
 0.0.0.0 5kstore.com
 0.0.0.0 6hopping.com
+0.0.0.0 72-news.com
 0.0.0.0 76brighton.co.uk
 0.0.0.0 7fon.ru
 0.0.0.0 7makemoneyonline.com
@@ -468,6 +470,7 @@
 0.0.0.0 bestwebsitesawards.com
 0.0.0.0 betonka.pro
 0.0.0.0 bet-prognoz.com
+0.0.0.0 betterscooter.com
 0.0.0.0 betune.onlinewebshop.net
 0.0.0.0 betwinservice.com
 0.0.0.0 beyan.host.sk
@@ -773,6 +776,7 @@
 0.0.0.0 cubook.supernew.org
 0.0.0.0 cubs-jerseys.us
 0.0.0.0 curatorimages.com
+0.0.0.0 custodieva.ru
 0.0.0.0 customboxes4less.com
 0.0.0.0 customcatchcan.com
 0.0.0.0 customchocolate.business-for-home.com
@@ -1218,6 +1222,7 @@
 0.0.0.0 front.to
 0.0.0.0 frvo.alptandem.ru
 0.0.0.0 fsalas.com
+0.0.0.0 fspys.pl
 0.0.0.0 ftns.ru
 0.0.0.0 fuel-gas.com
 0.0.0.0 fugarif.ga
@@ -1244,6 +1249,7 @@
 0.0.0.0 gallerily.com
 0.0.0.0 gallerylisting.com
 0.0.0.0 gallictures.com
+0.0.0.0 gamblingnerd.com
 0.0.0.0 game-mmorpg.net
 0.0.0.0 gameonasia.com
 0.0.0.0 gameplexcity.com
@@ -1443,6 +1449,7 @@
 0.0.0.0 hobild.net
 0.0.0.0 hol.es
 0.0.0.0 holidaypics.org
+0.0.0.0 hollywoodactress.info
 0.0.0.0 homeandhealth.ru
 0.0.0.0 homedecorpicture.us
 0.0.0.0 homedo.fabpage.com
@@ -1599,6 +1606,7 @@
 0.0.0.0 istmira.ru
 0.0.0.0 istock-mebel.ru
 0.0.0.0 itbc.kiev.ua
+0.0.0.0 itis4you.com
 0.0.0.0 it-max.com.ua
 0.0.0.0 itrevolution.cf
 0.0.0.0 itronics.ca
@@ -1634,6 +1642,7 @@
 0.0.0.0 juliaworld.net
 0.0.0.0 jumptap.com
 0.0.0.0 jus0wil.pp.ua
+0.0.0.0 justdating.online
 0.0.0.0 kaac.ru
 0.0.0.0 kabbalah-red-bracelets.com
 0.0.0.0 kadashihotel.com
@@ -1664,6 +1673,7 @@
 0.0.0.0 keywordteam.net
 0.0.0.0 kidd.reunionwatch.com
 0.0.0.0 kiev.ua
+0.0.0.0 kiinomaniak.pl
 0.0.0.0 kinobaks.com
 0.0.0.0 kinocccp.net
 0.0.0.0 kinofak.net
@@ -1834,6 +1844,7 @@
 0.0.0.0 m4ever.net
 0.0.0.0 mabdoola.blogspot.com
 0.0.0.0 macdamaged.space
+0.0.0.0 macdamaged.tech
 0.0.0.0 mackeeper-center.club
 0.0.0.0 macnewtech.com
 0.0.0.0 macresource.co.uk
@@ -1907,6 +1918,7 @@
 0.0.0.0 megaapteka.ru
 0.0.0.0 megaindex.ru
 0.0.0.0 megakino.net
+0.0.0.0 mega-polis.biz.ua
 0.0.0.0 megavolt.net.ua
 0.0.0.0 meget.co.za
 0.0.0.0 me-ke.com
@@ -1976,6 +1988,7 @@
 0.0.0.0 monarchfind-a.akamaihd.net
 0.0.0.0 monarhs.info
 0.0.0.0 monetizationking.net
+0.0.0.0 monetizer.com-01.site
 0.0.0.0 money-every-day.com
 0.0.0.0 moneymaster.ru
 0.0.0.0 moneytop.ru
@@ -2006,6 +2019,7 @@
 0.0.0.0 moyaterapiya.ru
 0.0.0.0 moz.com
 0.0.0.0 mp3films.ru
+0.0.0.0 mp3ringtone.info
 0.0.0.0 mrcsa.com.au
 0.0.0.0 mrinsidesales.com
 0.0.0.0 mriyadh.com
@@ -2040,6 +2054,7 @@
 0.0.0.0 mydownloadengine.com
 0.0.0.0 mydownlodablefiles.com
 0.0.0.0 myfreemp3.eu
+0.0.0.0 myfreetutorials.com
 0.0.0.0 myftpupload.com
 0.0.0.0 myhealthcare.com
 0.0.0.0 myhitmp3.club
@@ -2145,6 +2160,7 @@
 0.0.0.0 office-windows.ru
 0.0.0.0 offtime.ru
 0.0.0.0 oil-td.ru
+0.0.0.0 okel.co
 0.0.0.0 oklogistic.ru
 0.0.0.0 okmusic.jp
 0.0.0.0 okout.ru
@@ -2168,6 +2184,7 @@
 0.0.0.0 onlinefilmz.net
 0.0.0.0 online-hit.info
 0.0.0.0 online.ktc45.ru
+0.0.0.0 onlineku.com
 0.0.0.0 onlinemegax.com
 0.0.0.0 onlineserialy.ru
 0.0.0.0 online-templatestore.com
@@ -2552,6 +2569,7 @@
 0.0.0.0 royal-betting.net
 0.0.0.0 royalcar-ufa.ru
 0.0.0.0 royal-investments.net
+0.0.0.0 royalvegascasino.com
 0.0.0.0 rozalli.com
 0.0.0.0 roznica.com.ua
 0.0.0.0 rp9.ru
@@ -2783,6 +2801,7 @@
 0.0.0.0 skachat-besplatno-obrazcy.ru
 0.0.0.0 sk.golden-praga.ru
 0.0.0.0 skhoolimg.com
+0.0.0.0 skincrate.net
 0.0.0.0 sklad-24.ru
 0.0.0.0 skladvaz.ru
 0.0.0.0 skylta.com
@@ -2812,6 +2831,7 @@
 0.0.0.0 snjack.info
 0.0.0.0 snjatie-geroinovoy-lomki.ru
 0.0.0.0 snomer1.ru
+0.0.0.0 snow.nvr163.com
 0.0.0.0 snowplanes.com
 0.0.0.0 snts.shell-pmr.ru
 0.0.0.0 snworks.com
@@ -2851,6 +2871,7 @@
 0.0.0.0 sonata-arctica.wz.cz
 0.0.0.0 songoo.wz.cz
 0.0.0.0 sonnikforme.ru
+0.0.0.0 sophang8.com
 0.0.0.0 sortthemesitesby.com
 0.0.0.0 sotkal.lark.ru
 0.0.0.0 soundfrost.org
@@ -2924,6 +2945,7 @@
 0.0.0.0 sugarkun.com
 0.0.0.0 suggest-keywords.com
 0.0.0.0 sugvant.ru
+0.0.0.0 sukarame.net
 0.0.0.0 sukirgenk.dvrlists.com
 0.0.0.0 superkanpo.com
 0.0.0.0 supermesta.ru
@@ -3147,6 +3169,7 @@
 0.0.0.0 twitlinks.com
 0.0.0.0 twittrading.com
 0.0.0.0 twittruth.com
+0.0.0.0 twodollarshows.com
 0.0.0.0 twojebook.pl
 0.0.0.0 twu.com.ua
 0.0.0.0 txxx.com
@@ -3175,6 +3198,7 @@
 0.0.0.0 uni.me
 0.0.0.0 unimodemhalfduplefw.pen.io
 0.0.0.0 unitygame3d.com
+0.0.0.0 universals.com.ua
 0.0.0.0 unmaroll.ya.ru
 0.0.0.0 unpredictable.ga
 0.0.0.0 uogonline.com
@@ -3197,6 +3221,7 @@
 0.0.0.0 ussearche.cf
 0.0.0.0 ustion.ru
 0.0.0.0 utrolive.ru
+0.0.0.0 uvozdeckych.info
 0.0.0.0 uytmaster.ru
 0.0.0.0 uzungil.com
 0.0.0.0 v24s.net
@@ -3215,6 +3240,7 @@
 0.0.0.0 veerotech.com
 0.0.0.0 vegan-foods.us
 0.0.0.0 vegascosmetics.ru
+0.0.0.0 vektorpress.ru
 0.0.0.0 vekzdorov.ru
 0.0.0.0 velobikestock.com
 0.0.0.0 venta-prom.ru
@@ -3338,6 +3364,7 @@
 0.0.0.0 weebly.com
 0.0.0.0 weekes.biz.tc
 0.0.0.0 weightatraining.com
+0.0.0.0 wejdz-tu.pl
 0.0.0.0 welck.octopis.com
 0.0.0.0 welcomeauto.ru
 0.0.0.0 wenimage.com
@@ -3371,6 +3398,7 @@
 0.0.0.0 wingsoffury2.com
 0.0.0.0 winner7777.net
 0.0.0.0 winterclassichockeyjerseys.com
+0.0.0.0 winwotgold.pl
 0.0.0.0 winx-play.ru
 0.0.0.0 witherrom55.eklablog.fr
 0.0.0.0 w-journal.ru
@@ -3400,6 +3428,7 @@
 0.0.0.0 wstroika.ru
 0.0.0.0 wurr.voila.net
 0.0.0.0 ww1943.ru
+0.0.0.0 wygraj-teraz.com
 0.0.0.0 wzgyyq.com
 0.0.0.0 xaijo.com
 0.0.0.0 xbaboon.com
