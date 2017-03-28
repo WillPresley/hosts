@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Sun Mar 19 12:33:17 SAST 2017
+### Tue Mar 28 10:00:15 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -116,6 +116,7 @@
 0.0.0.0 7wind.ru
 0.0.0.0 7yue.org
 0.0.0.0 7zap.com
+0.0.0.0 8558l.jobs.net
 0.0.0.0 883zy.com
 0.0.0.0 8gold.com
 0.0.0.0 8si.ru
@@ -158,6 +159,7 @@
 0.0.0.0 adcash.com
 0.0.0.0 adclickservice.com
 0.0.0.0 adclickthru.net
+0.0.0.0 add-add.men
 0.0.0.0 addbin.men
 0.0.0.0 addblueoff.com.ua
 0.0.0.0 addray.pro
@@ -167,6 +169,7 @@
 0.0.0.0 adhome.biz
 0.0.0.0 adidas.frwebs.fr
 0.0.0.0 adimmix.com
+0.0.0.0 adloads.com
 0.0.0.0 adloads.net
 0.0.0.0 admanaerofoil.com
 0.0.0.0 admatic.com.tr
@@ -385,6 +388,7 @@
 0.0.0.0 avtocredit-legko.ru
 0.0.0.0 avtointeres.ru
 0.0.0.0 avtolombard-krasnodar.com
+0.0.0.0 avtolombard-krasnodar.ru
 0.0.0.0 avtovolop.ru
 0.0.0.0 awency.com
 0.0.0.0 axbocz.net
@@ -416,6 +420,7 @@
 0.0.0.0 baladur.ru
 0.0.0.0 bala.getenjoyment.net
 0.0.0.0 balitouroffice.com
+0.0.0.0 balkanfarma.org
 0.0.0.0 balkanfarma.ru
 0.0.0.0 balois.worldbreak.com
 0.0.0.0 bambi.ck.ua
@@ -515,6 +520,7 @@
 0.0.0.0 bleacherreport.com
 0.0.0.0 blockworld.ru
 0.0.0.0 blog.f00kclan.de
+0.0.0.0 bloggedporn.com
 0.0.0.0 bloggen.be
 0.0.0.0 bloggers.nl
 0.0.0.0 blogig.org
@@ -734,6 +740,7 @@
 0.0.0.0 cometorussia.net
 0.0.0.0 comissionka.net
 0.0.0.0 community.allhiphop.com
+0.0.0.0 com-onlinesupport.site
 0.0.0.0 compliance-checker.info
 0.0.0.0 com-supportcenter.website
 0.0.0.0 concealthyself.com
@@ -777,6 +784,7 @@
 0.0.0.0 cscwtalkto.site
 0.0.0.0 cubook.supernew.org
 0.0.0.0 cubs-jerseys.us
+0.0.0.0 culturevie.info
 0.0.0.0 curatorimages.com
 0.0.0.0 custodieva.ru
 0.0.0.0 customboxes4less.com
@@ -815,6 +823,7 @@
 0.0.0.0 davebestdeals.com
 0.0.0.0 daydream-studio.ru
 0.0.0.0 daymusam.com
+0.0.0.0 day-news.info
 0.0.0.0 dbmkfhqk.bloger.index.hr
 0.0.0.0 ddlmega.net
 0.0.0.0 ddospanel.com
@@ -858,6 +867,7 @@
 0.0.0.0 digest-project.ru
 0.0.0.0 digilander.libero.it
 0.0.0.0 digitalfaq.com
+0.0.0.0 digital-sale.su
 0.0.0.0 digital-video-processing.com
 0.0.0.0 dikx.gdn
 0.0.0.0 diminishedvalueoforegon.com
@@ -1332,6 +1342,7 @@
 0.0.0.0 go2mike.ru
 0.0.0.0 gobongo.info
 0.0.0.0 goforexvps.com
+0.0.0.0 gogalleryawesome.com
 0.0.0.0 gogps.me
 0.0.0.0 gojiberriess.apishops.ru
 0.0.0.0 gok-kasten.net
@@ -1348,6 +1359,7 @@
 0.0.0.0 googlefeud.com
 0.0.0.0 google-liar.ru
 0.0.0.0 googlemare.com
+0.0.0.0 googst2.ru
 0.0.0.0 goo.ne.jp
 0.0.0.0 gopixdatabase.com
 0.0.0.0 gopro-online.info
@@ -1363,6 +1375,7 @@
 0.0.0.0 gpirate.com
 0.0.0.0 gq-catalog.gq
 0.0.0.0 grand-chlen.ru
+0.0.0.0 graphicwe.org
 0.0.0.0 graphid.com
 0.0.0.0 gratuitbaise.com
 0.0.0.0 greatfind-a.akamaihd.net
@@ -1483,6 +1496,7 @@
 0.0.0.0 housemilan.ru
 0.0.0.0 houseofgaga.ru
 0.0.0.0 houseofrose.com
+0.0.0.0 house.sieraddns.com
 0.0.0.0 houston-vikings.com
 0.0.0.0 hoverboard360.at
 0.0.0.0 hoverboard360.de
@@ -1586,6 +1600,7 @@
 0.0.0.0 invivo.hu
 0.0.0.0 inzn.ru
 0.0.0.0 io9.com
+0.0.0.0 iopeninghours.co.uk
 0.0.0.0 iplogger.org
 0.0.0.0 iplusbit.blogspot.co.za
 0.0.0.0 ipostroika.ru
@@ -1730,8 +1745,10 @@
 0.0.0.0 krasivoe-hd.com
 0.0.0.0 krasivoe-hd.net
 0.0.0.0 krasivye-devushki.net
+0.0.0.0 krasnodar-avtolombards.ru
 0.0.0.0 krasnodar.ru
 0.0.0.0 krasnodar.xrus.org
+0.0.0.0 kredit-pod-zalog-krasnodar.ru
 0.0.0.0 krynica.info
 0.0.0.0 ks1234.com
 0.0.0.0 ktotut.net
@@ -1799,6 +1816,7 @@
 0.0.0.0 likesdesign.com
 0.0.0.0 likesuccess.com
 0.0.0.0 liky.co.ua
+0.0.0.0 limads.men
 0.0.0.0 limtu.ifmo.ru
 0.0.0.0 lincolntheatre.com
 0.0.0.0 linerdrilling.com
@@ -1881,6 +1899,7 @@
 0.0.0.0 mararoom.ru
 0.0.0.0 marblestyle.ru
 0.0.0.0 marcogrup.com
+0.0.0.0 marcowebonyodziezowe.pl
 0.0.0.0 maridan.com.ua
 0.0.0.0 marketland.ml
 0.0.0.0 marktforschung-stuttgart.com
@@ -1947,6 +1966,7 @@
 0.0.0.0 micasainvest.com
 0.0.0.0 microsearch.ru
 0.0.0.0 microsoftportal.net
+0.0.0.0 microstatic.pl
 0.0.0.0 migente.com
 0.0.0.0 mikrobiologies.ru
 0.0.0.0 millionare.com
@@ -1986,6 +2006,7 @@
 0.0.0.0 mobsfun.net
 0.0.0.0 mockupui.com
 0.0.0.0 modabutik.ru
+0.0.0.0 modenamebel.ru
 0.0.0.0 moesonce.com
 0.0.0.0 moi-glazki.ru
 0.0.0.0 mojowhois.com
@@ -2020,6 +2041,7 @@
 0.0.0.0 movaimg.com
 0.0.0.0 moviemail-online.co.uk
 0.0.0.0 movies-in-theaters.net
+0.0.0.0 moviezbonkerssk.cf
 0.0.0.0 mowser.com
 0.0.0.0 moxo.com
 0.0.0.0 moyakuhnia.ru
@@ -2048,6 +2070,7 @@
 0.0.0.0 music.utrolive.ru
 0.0.0.0 musicvidz.ru
 0.0.0.0 mustat.com
+0.0.0.0 muzaporn.com
 0.0.0.0 muz-baza.net
 0.0.0.0 muznachas-service.ru
 0.0.0.0 muz-shoes.ru
@@ -2083,6 +2106,7 @@
 0.0.0.0 nagdak.ru
 0.0.0.0 nailsimg.com
 0.0.0.0 nalogovyy-kodeks.ru
+0.0.0.0 naperehresti.info
 0.0.0.0 naphukete.ru
 0.0.0.0 nardulan.com
 0.0.0.0 narkologiya-belgorod.ru
@@ -2165,6 +2189,7 @@
 0.0.0.0 offer.camp
 0.0.0.0 offers.bycontext.com
 0.0.0.0 office-windows.ru
+0.0.0.0 offside2.5v.pl
 0.0.0.0 offtime.ru
 0.0.0.0 oil-td.ru
 0.0.0.0 okel.co
@@ -2202,6 +2227,7 @@
 0.0.0.0 onlyforemont.ru
 0.0.0.0 onlythegames.com
 0.0.0.0 onlywoman.org
+0.0.0.0 ons-add.men
 0.0.0.0 onstrapon.purplesphere.in
 0.0.0.0 o-o-11-o-o.com
 0.0.0.0 o-o-6-o-o.com
@@ -2231,6 +2257,7 @@
 0.0.0.0 ostrovtaxi.ru
 0.0.0.0 otbelivanie-zubov.com
 0.0.0.0 ourtherapy.ru
+0.0.0.0 ourville.info
 0.0.0.0 outfitpicz.com
 0.0.0.0 outpersonals.com
 0.0.0.0 outrageousdeal-a.akamaihd.net
@@ -2250,6 +2277,8 @@
 0.0.0.0 paperwritingservice17.blogspot.ru
 0.0.0.0 paradontozanet.ru
 0.0.0.0 parlament.biz
+0.0.0.0 partner-cdn.men
+0.0.0.0 partner-print.men
 0.0.0.0 partybunny.ru
 0.0.0.0 pathwhelp.org
 0.0.0.0 pattersonsweb.com
@@ -2266,6 +2295,7 @@
 0.0.0.0 penisvergrotendepillennl.ovh
 0.0.0.0 pensplan4u.com
 0.0.0.0 pensplan.com
+0.0.0.0 pepperstyle.ru
 0.0.0.0 percin.biz.ly
 0.0.0.0 perfection-pleasure.ru
 0.0.0.0 perfectpracticeweb.com
@@ -2306,6 +2336,7 @@
 0.0.0.0 piter.xrus.org
 0.0.0.0 piuminiita.com
 0.0.0.0 pix24x7.com
+0.0.0.0 pixell.club
 0.0.0.0 pixelrz.com
 0.0.0.0 pixgood.com
 0.0.0.0 pixhdawesom.com
@@ -2349,7 +2380,6 @@
 0.0.0.0 poquoson.org
 0.0.0.0 porndairy.in
 0.0.0.0 porngalleries.top
-0.0.0.0 pornhub.com
 0.0.0.0 pornhub-forum.ga
 0.0.0.0 pornhubforum.tk
 0.0.0.0 pornhub-forum.uni.me
@@ -2445,6 +2475,7 @@
 0.0.0.0 prostitutki-tyumeni.org
 0.0.0.0 prostitutki-yaroslavlya.org
 0.0.0.0 proxyradar.com
+0.0.0.0 pr-ten.de
 0.0.0.0 psa48.ru
 0.0.0.0 pskcijdc.bloger.index.hr
 0.0.0.0 psoriasis-file.trade
@@ -2492,6 +2523,7 @@
 0.0.0.0 rank-checker.online
 0.0.0.0 rankchecker.online
 0.0.0.0 ranking2017.ga
+0.0.0.0 rankingchart.de
 0.0.0.0 rankings-analytics.com
 0.0.0.0 ranksays.com
 0.0.0.0 rankscanner.com
@@ -2541,6 +2573,7 @@
 0.0.0.0 remorcicomerciale.ro
 0.0.0.0 remote-dba.de
 0.0.0.0 rentalmaty.kz
+0.0.0.0 rentehno.ru
 0.0.0.0 repeatlogo.co.uk
 0.0.0.0 replicaclub.ru
 0.0.0.0 replica-watch.ru
@@ -2600,6 +2633,7 @@
 0.0.0.0 rus-teh.narod.ru
 0.0.0.0 rvtv.ru
 0.0.0.0 rvzr-a.akamaihd.net
+0.0.0.0 rybalka-opt.ru
 0.0.0.0 sabaapress.com
 0.0.0.0 sack.net
 0.0.0.0 sad-torg.com.ua
@@ -2628,7 +2662,9 @@
 0.0.0.0 savetubevideo.com
 0.0.0.0 savingsslider-a.akamaihd.net
 0.0.0.0 savne.org
+0.0.0.0 sawin.beth.webd.pl
 0.0.0.0 sax-sex.com
+0.0.0.0 sayyoethe.blogspot.co.za
 0.0.0.0 sbdl.no
 0.0.0.0 sbetodiodnye-lampy.ru
 0.0.0.0 sbornik-zakonov.ru
@@ -2672,6 +2708,7 @@
 0.0.0.0 scenarii-1-sentyabrya.uroki.org.ua
 0.0.0.0 scenicmissouri.us
 0.0.0.0 school-diplomat.ru
+0.0.0.0 scoopquest.com
 0.0.0.0 score-ads.men
 0.0.0.0 screentoolkit.com
 0.0.0.0 scripted.com
@@ -2747,6 +2784,7 @@
 0.0.0.0 shakhtar-doneck.ru
 0.0.0.0 sharebutton.net
 0.0.0.0 sharebutton.org
+0.0.0.0 share-buttons-for-free.com
 0.0.0.0 sharebutton.to
 0.0.0.0 shariki-zuma-lines.ru
 0.0.0.0 shell-pmr.ru
@@ -2761,6 +2799,7 @@
 0.0.0.0 shmetall.com.ua
 0.0.0.0 shodanhq.com
 0.0.0.0 shop.acim.org
+0.0.0.0 shopcheermakeup.info
 0.0.0.0 shop-electron.ru
 0.0.0.0 shoppingmiracles.co.uk
 0.0.0.0 shoppytoolmac.com
@@ -2822,6 +2861,7 @@
 0.0.0.0 slim.sellany.ru
 0.0.0.0 slkrm.ru
 0.0.0.0 slonechka.ru
+0.0.0.0 slowmacfaster.trade
 0.0.0.0 sluganarodu.ru
 0.0.0.0 slujbauborki.ru
 0.0.0.0 smailik.org
@@ -2909,6 +2949,7 @@
 0.0.0.0 squidoo.com
 0.0.0.0 srdrvp.com
 0.0.0.0 srecorder.com
+0.0.0.0 sstroy44.ru
 0.0.0.0 stackthatbucks.com
 0.0.0.0 stairliftsarea.com
 0.0.0.0 stairliftstrue.com
@@ -2955,6 +2996,7 @@
 0.0.0.0 sugvant.ru
 0.0.0.0 sukarame.net
 0.0.0.0 sukirgenk.dvrlists.com
+0.0.0.0 sumo.com
 0.0.0.0 superkanpo.com
 0.0.0.0 supermesta.ru
 0.0.0.0 supernew.org
@@ -3327,6 +3369,7 @@
 0.0.0.0 vseuznaem.com
 0.0.0.0 vtc.pw
 0.0.0.0 vucms.com
+0.0.0.0 vvon.co.uk
 0.0.0.0 vykup-avto-krasnodar.ru
 0.0.0.0 vykupavto-krasnodar.ru
 0.0.0.0 vzlom-na-zakaz.com
@@ -3346,6 +3389,7 @@
 0.0.0.0 wdfdocando.com
 0.0.0.0 wdrake.com
 0.0.0.0 we-are-gamers.com
+0.0.0.0 webads.co.nz
 0.0.0.0 web-betting.ru
 0.0.0.0 web.cvut.cz
 0.0.0.0 webinstantservice.com
@@ -3389,6 +3433,7 @@
 0.0.0.0 whatsappdownload10.com
 0.0.0.0 whatsupinfoley.com
 0.0.0.0 whatzmyip.net
+0.0.0.0 wheelchairliftsarea.com
 0.0.0.0 whereiskentoday.com
 0.0.0.0 whipme.yopoint.in
 0.0.0.0 whiteproduct.com
@@ -3437,6 +3482,8 @@
 0.0.0.0 wstroika.ru
 0.0.0.0 wurr.voila.net
 0.0.0.0 ww1943.ru
+0.0.0.0 www.arenda-yeisk.ru
+0.0.0.0 wygraj-skiny.win
 0.0.0.0 wygraj-teraz.com
 0.0.0.0 wzgyyq.com
 0.0.0.0 xaijo.com
@@ -3539,10 +3586,12 @@
 0.0.0.0 yebocasino.com
 0.0.0.0 yebocasino.co.za
 0.0.0.0 ynymnwbm.bloger.index.hr
+0.0.0.0 yogamatsexpert.com
 0.0.0.0 yorkshireccc.com
 0.0.0.0 yorkshire.com
 0.0.0.0 youandcredit.ru
 0.0.0.0 youbloodyripper.com
+0.0.0.0 youdao.com
 0.0.0.0 youdesigner.kz
 0.0.0.0 yougetsignal.com
 0.0.0.0 youghbould.wordpress.com
@@ -3571,6 +3620,7 @@
 0.0.0.0 zaimhelp.ru
 0.0.0.0 zaim-pod-zalog-krasnodar.ru
 0.0.0.0 zajm-pod-zalog-nedvizhimosti.ru
+0.0.0.0 zajm-zalog-krasnodar.ru
 0.0.0.0 zakazfutbolki.com
 0.0.0.0 zakazvzloma.com
 0.0.0.0 zakon-ob-obrazovanii.ru
@@ -3618,6 +3668,7 @@
 0.0.0.0 znaniyapolza.ru
 0.0.0.0 zojirushi-products.ru
 0.0.0.0 zolotoy-lis.ru
+0.0.0.0 zona-aqua.ru
 0.0.0.0 zoominfo.com
 0.0.0.0 zophim.me
 0.0.0.0 zrizvtrnpale.tk
