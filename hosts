@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: March 28 2017
+# Date: March 30 2017
 # Extensions added to this file: fakenews
-# Number of unique domains: 51,735
+# Number of unique domains: 51,742
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -5221,7 +5221,7 @@ fe80::1%lo0 localhost
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Tue Mar 28 10:00:15 SAST 2017
+### Wed Mar 29 16:22:18 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -5582,6 +5582,7 @@ fe80::1%lo0 localhost
 0.0.0.0 avkzarabotok.com
 0.0.0.0 avkzarabotok.info
 0.0.0.0 avon-severozapad.ru
+0.0.0.0 avon-ukraine.com
 0.0.0.0 avramstroy.ru
 0.0.0.0 avtoarenda.by
 0.0.0.0 avtocredit-legko.ru
@@ -5612,6 +5613,7 @@ fe80::1%lo0 localhost
 0.0.0.0 backlink4u.net
 0.0.0.0 backlinkwatch.com
 0.0.0.0 backuperwebcam.weebly.com
+0.0.0.0 baersaratov.ru
 0.0.0.0 bag77.ru
 0.0.0.0 bagcionderlab.com
 0.0.0.0 baixar-musicas-gratis.com
@@ -5715,7 +5717,6 @@ fe80::1%lo0 localhost
 0.0.0.0 blackwitchcraft.ru
 0.0.0.0 blagovest-med.ru
 0.0.0.0 blavia.00author.com
-0.0.0.0 bleacherreport.com
 0.0.0.0 blockworld.ru
 0.0.0.0 blog.f00kclan.de
 0.0.0.0 bloggedporn.com
@@ -6457,6 +6458,7 @@ fe80::1%lo0 localhost
 0.0.0.0 galaxyflowers.ru
 0.0.0.0 galeon.com
 0.0.0.0 gallerily.com
+0.0.0.0 galleryawesome.com
 0.0.0.0 gallerylisting.com
 0.0.0.0 gallictures.com
 0.0.0.0 gamblingnerd.com
@@ -6521,6 +6523,7 @@ fe80::1%lo0 localhost
 0.0.0.0 girlporn.ru
 0.0.0.0 girlsatgames.ru
 0.0.0.0 girlspicsa.com
+0.0.0.0 given2.com
 0.0.0.0 gk-atlant.info
 0.0.0.0 gkvector.ru
 0.0.0.0 glall.ru
@@ -7264,6 +7267,7 @@ fe80::1%lo0 localhost
 0.0.0.0 music.utrolive.ru
 0.0.0.0 musicvidz.ru
 0.0.0.0 mustat.com
+0.0.0.0 mustwineblog.com
 0.0.0.0 muzaporn.com
 0.0.0.0 muz-baza.net
 0.0.0.0 muznachas-service.ru
@@ -7835,6 +7839,7 @@ fe80::1%lo0 localhost
 0.0.0.0 sale-japan.com
 0.0.0.0 saletool.ru
 0.0.0.0 salutmontreal.com
+0.0.0.0 samoiedo.it
 0.0.0.0 samolet.fr
 0.0.0.0 samo-soznanie.ru
 0.0.0.0 sampleletters.net
@@ -8207,6 +8212,7 @@ fe80::1%lo0 localhost
 0.0.0.0 swinginwithme.ru
 0.0.0.0 swiped.su
 0.0.0.0 sygraem.com
+0.0.0.0 syla.tk
 0.0.0.0 t3chtonic.com
 0.0.0.0 tablepicz.com
 0.0.0.0 tabletkinaodchudzanie.com.pl
@@ -8630,6 +8636,7 @@ fe80::1%lo0 localhost
 0.0.0.0 wholesalejerseychinashop.com
 0.0.0.0 wholesalejerseys-cheapest.com
 0.0.0.0 wholesalejerseysgaa.com
+0.0.0.0 wholesalenfljerseys.us.com
 0.0.0.0 wholinkstome.com
 0.0.0.0 whos.amung.us
 0.0.0.0 whosonmyserver.com
@@ -30958,7 +30965,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.adhub.co.nz
 0.0.0.0 www.adtaily.com
 0.0.0.0 aslads.ask.com
-0.0.0.0 analytics.bleacherreport.com
 0.0.0.0 s.btstatic.com
 0.0.0.0 a.company-target.com
 0.0.0.0 hits.epochstats.com
@@ -31058,7 +31064,6 @@ fe80::1%lo0 localhost
 0.0.0.0 async01.admantx.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 avidtrak.com
-0.0.0.0 recon.bleacherreport.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 eue.collect-opnet.com
 0.0.0.0 intuit.sp1.convertro.com
@@ -52090,7 +52095,7 @@ fe80::1%lo0 localhost
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 28 Mar 2017 00:00:00
+# start date:    Thu, 30 Mar 2017 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -53594,6 +53599,7 @@ fe80::1%lo0 localhost
 0.0.0.0 adobochronicles.com
 0.0.0.0 africannewsupdates.com
 0.0.0.0 ahtribune.com
+0.0.0.0 aljazeera-channel.com
 0.0.0.0 allnewspipeline.com
 0.0.0.0 americanfreepress.net
 0.0.0.0 americanlookout.com
@@ -54042,6 +54048,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.liftable.com
 0.0.0.0 www.liveleak.com
 0.0.0.0 www.lushforlife.com
+0.0.0.0 www.mercola.com
 0.0.0.0 www.militianews.com
 0.0.0.0 www.moonofalabama.org
 0.0.0.0 www.mrcblog.com
