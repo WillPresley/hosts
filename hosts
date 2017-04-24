@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: April 21 2017
+# Date: April 24 2017
 # Extensions added to this file: fakenews
-# Number of unique domains: 51,721
+# Number of unique domains: 51,744
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -5372,7 +5372,7 @@ fe80::1%lo0 localhost
 
 ### Last Updated
 
-### Fri Apr 21 10:02:43 SAST 2017
+### Sun Apr 23 10:52:31 SAST 2017
 
 ### End Last Updated
 
@@ -5570,6 +5570,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.gold
 0.0.0.0 adsland.men
 0.0.0.0 ads-seo.men
+0.0.0.0 ads.tremorhub.com
 0.0.0.0 adtiger.tk
 0.0.0.0 adultactioncam.com
 0.0.0.0 adultfriendfinder.com
@@ -6044,6 +6045,7 @@ fe80::1%lo0 localhost
 0.0.0.0 candelluxsklep.pl
 0.0.0.0 candiceloves.us
 0.0.0.0 cand.jp
+0.0.0.0 candlehandmade.com
 0.0.0.0 candycrushshop.com
 0.0.0.0 candy-glam-hp.com
 0.0.0.0 candypeople.se
@@ -6107,6 +6109,7 @@ fe80::1%lo0 localhost
 0.0.0.0 cheapjerseysbizwholesale.us
 0.0.0.0 cheapjerseysfootballshop.com
 0.0.0.0 cheapmarmot.online
+0.0.0.0 cheappatagonia.online
 0.0.0.0 cheap-pills-norx.com
 0.0.0.0 cheatcode-lita12.rhcloud.com
 0.0.0.0 checkm8.com
@@ -6642,7 +6645,6 @@ fe80::1%lo0 localhost
 0.0.0.0 forms-mtm.ru
 0.0.0.0 forpostlock.ru
 0.0.0.0 forsex.info
-0.0.0.0 fortawesome.github.io
 0.0.0.0 forum20.smailik.org
 0.0.0.0 forum.doctissimo.fr
 0.0.0.0 forum-engineering.ru
@@ -7107,10 +7109,12 @@ fe80::1%lo0 localhost
 0.0.0.0 itronics.ca
 0.0.0.0 itsdp3.com
 0.0.0.0 itservicesthatworkforyou.com
+0.0.0.0 ivanstroi.ru
 0.0.0.0 ix20.ru
 0.0.0.0 izhevsk.xrus.org
 0.0.0.0 izismile.com
 0.0.0.0 izoll.ru
+0.0.0.0 jackwolfskinoutlet.online
 0.0.0.0 jamiembrown.com
 0.0.0.0 janettabridal.com
 0.0.0.0 japfm.com
@@ -7312,13 +7316,13 @@ fe80::1%lo0 localhost
 0.0.0.0 littleberry.ru
 0.0.0.0 liupis.com
 0.0.0.0 livefixer.com
-0.0.0.0 liveinternet.ru
 0.0.0.0 liverpool.gsofootball.com
 0.0.0.0 live-sexchat.ru
 0.0.0.0 liveshoppersmac.com
 0.0.0.0 livetsomudvekslingstudent.bloggersdelight.dk
 0.0.0.0 livingcanarias.com
 0.0.0.0 livingroomdecor.info
+0.0.0.0 lkbennettoutlet.online
 0.0.0.0 lkbennettstore.online
 0.0.0.0 llastbuy.ru
 0.0.0.0 lmrauction.com
@@ -7410,6 +7414,7 @@ fe80::1%lo0 localhost
 0.0.0.0 mebel-alait.ru
 0.0.0.0 mebelcomplekt.ru
 0.0.0.0 mebeldekor.com.ua
+0.0.0.0 meble-bogart.info
 0.0.0.0 mecash.ru
 0.0.0.0 medanestesia.ru
 0.0.0.0 meddesk.ru
@@ -7459,6 +7464,7 @@ fe80::1%lo0 localhost
 0.0.0.0 mhi-systems.ru
 0.0.0.0 mhtr.be
 0.0.0.0 micasainvest.com
+0.0.0.0 michaelkorsoutlet.store
 0.0.0.0 microsearch.ru
 0.0.0.0 microsoftportal.net
 0.0.0.0 microstatic.pl
@@ -7667,6 +7673,7 @@ fe80::1%lo0 localhost
 0.0.0.0 nordstar.pro
 0.0.0.0 normalegal.ru
 0.0.0.0 northfacestore.online
+0.0.0.0 norththeface.store
 0.0.0.0 notaria-desalas.com
 0.0.0.0 notebook-pro.ru
 0.0.0.0 notfastfood.ru
@@ -7787,10 +7794,12 @@ fe80::1%lo0 localhost
 0.0.0.0 paleohub.info
 0.0.0.0 palvira.com.ua
 0.0.0.0 pammik.ru
+0.0.0.0 panchro.co.uk
 0.0.0.0 paparazzistudios.com.au
 0.0.0.0 paperics.com
 0.0.0.0 paperwritingservice17.blogspot.ru
 0.0.0.0 paradontozanet.ru
+0.0.0.0 parajumpersstore.online
 0.0.0.0 paramountmarble.co.uk
 0.0.0.0 parlament.biz
 0.0.0.0 partner-cdn.men
@@ -8107,6 +8116,7 @@ fe80::1%lo0 localhost
 0.0.0.0 remorcicomerciale.ro
 0.0.0.0 remote-dba.de
 0.0.0.0 renecaovilla.online
+0.0.0.0 renewablewealth.com
 0.0.0.0 rentalmaty.kz
 0.0.0.0 rentehno.ru
 0.0.0.0 repeatlogo.co.uk
@@ -8345,6 +8355,7 @@ fe80::1%lo0 localhost
 0.0.0.0 shop.acim.org
 0.0.0.0 shopcheermakeup.info
 0.0.0.0 shop-electron.ru
+0.0.0.0 shoplvlv.us
 0.0.0.0 shoppingmiracles.co.uk
 0.0.0.0 shoppytoolmac.com
 0.0.0.0 shopvilleroyboch.com.ua
@@ -8389,6 +8400,7 @@ fe80::1%lo0 localhost
 0.0.0.0 sitopreferito.it
 0.0.0.0 sivs.ru
 0.0.0.0 sixcooler.de
+0.0.0.0 sizeplus.work
 0.0.0.0 skachat-besplatno-dlja-mobily.ru
 0.0.0.0 skachat-besplatno-obrazcy.ru
 0.0.0.0 sk.golden-praga.ru
@@ -8529,6 +8541,7 @@ fe80::1%lo0 localhost
 0.0.0.0 strfls.com
 0.0.0.0 strigkaomsk.ru
 0.0.0.0 stroicol.net
+0.0.0.0 stroilka.info
 0.0.0.0 stroimajor.ru
 0.0.0.0 stroiminsk.org
 0.0.0.0 stromerrealty.com
@@ -8696,6 +8709,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tjkckpytpnje.com
 0.0.0.0 tkanorganizma.ru
 0.0.0.0 tksn.ru
+0.0.0.0 tmearegion26.com
 0.0.0.0 tmm-kurs.ru
 0.0.0.0 todohr.com
 0.0.0.0 toloka.hurtom.com
@@ -8801,6 +8815,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ucsol.ru
 0.0.0.0 udsgame.online
 0.0.0.0 ufa.xrus.org
+0.0.0.0 uggsale.online
 0.0.0.0 uhdtv.website
 0.0.0.0 uhodzalijami.ru
 0.0.0.0 uhod-za-sobakoj.ru
@@ -8865,6 +8880,7 @@ fe80::1%lo0 localhost
 0.0.0.0 velobikestock.com
 0.0.0.0 venta-prom.ru
 0.0.0.0 ventelnos.com
+0.0.0.0 vereo.eu
 0.0.0.0 vesnatehno.com
 0.0.0.0 vesnatehno.ru
 0.0.0.0 vezuviy.su
@@ -9114,6 +9130,7 @@ fe80::1%lo0 localhost
 0.0.0.0 xn--80aikhbrhr.net
 0.0.0.0 xn--80ajbshivpvn2i.xn--p1ai
 0.0.0.0 xn--80ajjbdhgmudixfjc8c5a9df8b.xn--p1ai
+0.0.0.0 xn--80ak6aa92e.com
 0.0.0.0 xn--80aodinpgi.xn--p1ai
 0.0.0.0 xn-----8kcatubaocd1bneepefojs1h2e.xn--p1ai
 0.0.0.0 xn----8sbdbjgb1ap7a9c4czbh.xn--p1acf
@@ -27095,8 +27112,6 @@ fe80::1%lo0 localhost
 
 0.0.0.0 eforsa.pl
 0.0.0.0 widget-eforsa.pl
-# Count: 12
-
 #               MalwareDomainList.com Hosts List           #
 
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
@@ -42886,7 +42901,7 @@ fe80::1%lo0 localhost
 
 
 
-# Last updated: Tue, 18 Apr 2017 at 03:06:47 GMT
+# Last updated: Mon, 24 Apr 2017 at 07:47:41 GMT
 
 
 
@@ -44647,6 +44662,7 @@ fe80::1%lo0 localhost
 0.0.0.0 err2.9939118.info
 0.0.0.0 err3.9939118.info
 0.0.0.0 error-warning-alert-critical-5x.com
+0.0.0.0 etr-interac.com
 0.0.0.0 eviboli576.o-f.com
 0.0.0.0 exasked.com
 0.0.0.0 expertland.net
@@ -44719,6 +44735,7 @@ fe80::1%lo0 localhost
 0.0.0.0 kentsucks.youcanoptout.com
 0.0.0.0 keybinary.com
 0.0.0.0 kirgo.at
+0.0.0.0 kitsjim.com
 0.0.0.0 klowns4phun.com
 0.0.0.0 known.counsellor.gov.cn
 0.0.0.0 konflow.com
@@ -47792,6 +47809,7 @@ fe80::1%lo0 localhost
 0.0.0.0 adserver.home.pl
 0.0.0.0 adserver.hostinteractive.com
 0.0.0.0 adserver.humanux.com
+0.0.0.0 adserver.icmedienhaus.de
 0.0.0.0 adserver.ifmagazine.com
 0.0.0.0 adserver.ig.com.br
 0.0.0.0 adserver.ign.com
@@ -49885,6 +49903,7 @@ fe80::1%lo0 localhost
 0.0.0.0 mlntracker.com
 0.0.0.0 mm.admob.com
 0.0.0.0 mm1.vip.sc1.admob.com
+0.0.0.0 mmstat.com
 0.0.0.0 mmv.admob.com
 0.0.0.0 mobfactory.info
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
@@ -50196,6 +50215,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pc-gizmos-ssl.com
 0.0.0.0 pc-virus-d0l92j2.pw
 0.0.0.0 pcads.ru
+0.0.0.0 pcookie.aliexpress.com
 0.0.0.0 peaky.tags.yield-atx.com
 0.0.0.0 people-choice-sites.com
 0.0.0.0 persgroepadvertising.nl
@@ -50294,6 +50314,7 @@ fe80::1%lo0 localhost
 0.0.0.0 popupclick.ru
 0.0.0.0 popupdomination.com
 0.0.0.0 popups.ad-logics.com
+0.0.0.0 popups.afftrack001.com
 0.0.0.0 popups.infostart.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 posed2shade.com
@@ -51942,7 +51963,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.linkpulse.com
 0.0.0.0 www.linkwithin.com
 0.0.0.0 www.liones.nl
-0.0.0.0 www.liveinternet.ru
 0.0.0.0 www.lldiettracker.com
 0.0.0.0 www.lottoforever.com
 0.0.0.0 www.lpcloudsvr302.com
@@ -52287,6 +52307,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www13.ad.tomshardware.com
 0.0.0.0 www13.glam.com
 0.0.0.0 www14.ad.tomshardware.com
+0.0.0.0 www14.smartadserver.com
 0.0.0.0 www15.ad.tomshardware.com
 0.0.0.0 www17.glam.com
 0.0.0.0 www18.glam.com
@@ -54343,7 +54364,7 @@ fe80::1%lo0 localhost
 
 #
 
-# start date:    Fri, 21 Apr 2017 00:00:00
+# start date:    Mon, 24 Apr 2017 00:00:00
 
 0.0.0.0 101com.com
 0.0.0.0 101order.com
