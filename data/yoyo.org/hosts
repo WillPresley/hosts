@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 06 May 2017 07:58:47 GMT
-# entries:        2337
+# last updated:   Tue, 23 May 2017 01:50:44 GMT
+# entries:        2333
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 22 May 2017 00:00:00
+# start date:    Wed, 14 Jun 2017 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -819,6 +819,7 @@
 0.0.0.0 advertising.guildlaunch.net
 0.0.0.0 advertisingbanners.com
 0.0.0.0 advertisingbox.com
+0.0.0.0 advertisingtag.net
 0.0.0.0 advertmarket.com
 0.0.0.0 advertmedia.de
 0.0.0.0 advertpro.sitepoint.com
@@ -1133,7 +1134,6 @@
 0.0.0.0 class-act-clicks.com
 0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
-0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
 0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
@@ -1215,7 +1215,6 @@
 0.0.0.0 counter.sparklit.com
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.honesty.com
-0.0.0.0 counting.kmindex.ru
 0.0.0.0 counts.tucows.com
 0.0.0.0 coupling-media.de
 0.0.0.0 cpalead.com
@@ -1261,6 +1260,7 @@
 0.0.0.0 didtheyreadit.com
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 directaclick.com
+0.0.0.0 directivepub.com
 0.0.0.0 directleads.com
 0.0.0.0 directorym.com
 0.0.0.0 directtrack.com
@@ -1982,6 +1982,7 @@
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedbyopenx.com
+0.0.0.0 servethis.com
 0.0.0.0 services.hearstmags.com
 0.0.0.0 serving-sys.com
 0.0.0.0 sexaddpro.de
@@ -2038,8 +2039,6 @@
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.dyna.ultraweb.hu
 0.0.0.0 stat.pl
-0.0.0.0 stat.su
-0.0.0.0 stat.tudou.com
 0.0.0.0 stat.webmedia.pl
 0.0.0.0 stat.zenon.net
 0.0.0.0 stat24.com
@@ -2058,7 +2057,6 @@
 0.0.0.0 stats.multiup.org
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.suite101.com
-0.0.0.0 stats.surfaid.ihost.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.unwired-i.net
 0.0.0.0 stats.wordpress.com
@@ -2135,7 +2133,6 @@
 0.0.0.0 top20free.com
 0.0.0.0 top90.ro
 0.0.0.0 topbarh.box.sk
-0.0.0.0 topblogarea.se
 0.0.0.0 topbucks.com
 0.0.0.0 topforall.com
 0.0.0.0 topgamesites.net
@@ -2281,7 +2278,6 @@
 0.0.0.0 whenu.com
 0.0.0.0 whispa.com
 0.0.0.0 whoisonline.net
-0.0.0.0 wholesaletraffic.info
 0.0.0.0 widespace.com
 0.0.0.0 widgetbucks.com
 0.0.0.0 wikia-ads.wikia.com

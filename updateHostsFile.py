@@ -35,24 +35,8 @@ else:  # Python 2
     from urllib2 import urlopen
 
 
-def get_file_by_url(url):
-    try:
-        f = urlopen(url)
-        return f.read().decode("UTF-8")
-    except:
-        print("Problem getting file: ", url)
-
-
-def write_data(f, data):
-    if PY3:
-        f.write(bytes(data, "UTF-8"))
-    else:
-        f.write(str(data).encode("UTF-8"))
-
-
-def list_dir_no_hidden(path):
-    # This function doesn't list hidden files
-    return glob(path_join_robust(path, "*"))
+# Syntactic sugar for "sudo" command in UNIX / Linux
+SUDO = "/usr/bin/sudo"
 
 
 # Project Settings
@@ -97,6 +81,7 @@ def get_defaults():
         "commonexclusions": ["hulu.com"],
         "blacklistfile": path_join_robust(BASEDIR_PATH, "blacklist"),
         "whitelistfile": path_join_robust(BASEDIR_PATH, "whitelist")}
+# End Project Settings
 
 
 def main():
@@ -171,7 +156,8 @@ def main():
     remove_old_hosts_file()
 
     final_file = remove_dups_and_excl(merge_file)
-    finalize_file(final_file)
+    write_opening_header(final_file)
+    final_file.close()
 
     if settings["ziphosts"]:
         zf = zipfile.ZipFile(path_join_robust(settings["outputsubfolder"],
@@ -191,7 +177,11 @@ def main():
 
 # Prompt the User
 def prompt_for_update():
-    # Create hosts file if it doesn't exists
+    """
+    Prompt the user to update all hosts files.
+    """
+
+    # Create hosts file if it doesn't exist.
     if not os.path.isfile(path_join_robust(BASEDIR_PATH, "hosts")):
         try:
             open(path_join_robust(BASEDIR_PATH, "hosts"), "w+").close()
@@ -210,6 +200,10 @@ def prompt_for_update():
 
 
 def prompt_for_exclusions():
+    """
+    Prompt the user to exclude any custom domains from being blocked.
+    """
+
     prompt = ("Do you want to exclude any domains?\n"
               "For example, hulu.com video streaming must be able to access "
               "its tracking and ad servers in order to play video.")
@@ -222,6 +216,10 @@ def prompt_for_exclusions():
 
 
 def prompt_for_flush_dns_cache():
+    """
+    Prompt the user to flush the DNS cache.
+    """
+
     if settings["flushdnscache"]:
         flush_dns_cache()
 
@@ -231,6 +229,16 @@ def prompt_for_flush_dns_cache():
 
 
 def prompt_for_move(final_file):
+    """
+    Prompt the user to move the newly created hosts file to its designated
+    location in the OS.
+
+    Parameters
+    ----------
+    final_file : file
+        The file object that contains the newly created hosts data.
+    """
+
     if settings["replace"] and not settings["skipstatichosts"]:
         move_file = True
     elif settings["auto"] or settings["skipstatichosts"]:
@@ -243,13 +251,18 @@ def prompt_for_move(final_file):
     if move_file:
         move_hosts_file_into_place(final_file)
         prompt_for_flush_dns_cache()
-    else:
-        return False
 # End Prompt the User
 
 
 # Exclusion logic
 def display_exclusion_options():
+    """
+    Display the exclusion options to the user.
+
+    This function checks whether a user wants to exclude particular domains,
+    and if so, excludes them.
+    """
+
     for exclusion_option in settings["commonexclusions"]:
         prompt = "Do you want to exclude the domain " + exclusion_option + " ?"
 
@@ -283,11 +296,37 @@ def gather_custom_exclusions():
 
 
 def exclude_domain(domain):
+    """
+    Exclude a domain from being blocked.
+
+    Parameters
+    ----------
+    domain : str
+        The filename or regex pattern to exclude.
+    """
+
     settings["exclusionregexs"].append(re.compile(
         settings["exclusionpattern"] + domain))
 
 
 def matches_exclusions(stripped_rule):
+    """
+    Check whether a rule matches an exclusion rule we already provided.
+
+    If this function returns True, that means this rule should be excluded
+    from the final hosts file.
+
+    Parameters
+    ----------
+    stripped_rule : str
+        The rule that we are checking.
+
+    Returns
+    -------
+    matches_exclusion : bool
+        Whether or not the rule string matches a provided exclusion.
+    """
+
     stripped_domain = stripped_rule.split()[1]
     for exclusionRegex in settings["exclusionregexs"]:
         if exclusionRegex.search(stripped_domain):
@@ -298,7 +337,10 @@ def matches_exclusions(stripped_rule):
 
 # Update Logic
 def update_all_sources():
-    # Update all hosts files regardless of folder depth
+    """
+    Update all host files, regardless of folder depth.
+    """
+
     all_sources = recursive_glob("*", settings["sourcedatafilename"])
 
     for source in all_sources:
@@ -328,6 +370,10 @@ def update_all_sources():
 
 # File Logic
 def create_initial_file():
+    """
+    Initialize the file in which we merge all host files for later pruning.
+    """
+
     merge_file = tempfile.NamedTemporaryFile()
 
     # spin the sources for the base file
@@ -367,6 +413,18 @@ def create_initial_file():
 
 
 def remove_dups_and_excl(merge_file):
+    """
+    Remove duplicates and remove hosts that we are excluding.
+
+    We check for duplicate hostnames as well as remove any hostnames that
+    have been explicitly excluded by the user.
+
+    Parameters
+    ----------
+    merge_file : file
+        The file object that contains the hostnames that we are pruning.
+    """
+
     number_of_rules = settings["numberofrules"]
     if os.path.isfile(settings["whitelistfile"]):
         with open(settings["whitelistfile"], "r") as ins:
@@ -388,7 +446,7 @@ def remove_dups_and_excl(merge_file):
     exclusions = settings["exclusions"]
 
     for line in merge_file.readlines():
-        write = "true"
+        write_line = True
 
         # Explicit encoding
         line = line.decode("UTF-8")
@@ -414,11 +472,10 @@ def remove_dups_and_excl(merge_file):
         hostname, normalized_rule = normalize_rule(stripped_rule)
         for exclude in exclusions:
             if exclude in line:
-                write = "false"
+                write_line = False
                 break
 
-        if (normalized_rule and (hostname not in hostnames)
-                and (write == "true")):
+        if normalized_rule and (hostname not in hostnames) and write_line:
             write_data(final_file, normalized_rule)
             hostnames.add(hostname)
             number_of_rules += 1
@@ -430,6 +487,20 @@ def remove_dups_and_excl(merge_file):
 
 
 def normalize_rule(rule):
+    """
+    Standardize and format the rule string provided.
+
+    Parameters
+    ----------
+    rule : str
+        The rule whose spelling and spacing we are standardizing.
+
+    Returns
+    -------
+    normalized_rule : str
+        The rule string with spelling and spacing reformatted.
+    """
+
     result = re.search(r'^[ \t]*(\d+\.\d+\.\d+\.\d+)\s+([\w\.-]+)(.*)', rule)
     if result:
         hostname, suffix = result.group(2, 3)
@@ -446,14 +517,24 @@ def normalize_rule(rule):
     return None, None
 
 
-def finalize_file(final_file):
-    write_opening_header(final_file)
-    final_file.close()
-
-
-# Some sources put comments around their rules, for accuracy we need
-# to strip them the comments are preserved in the output hosts file
 def strip_rule(line):
+    """
+    Sanitize a rule string provided before writing it to the output hosts file.
+
+    Some sources put comments around their rules, for accuracy we need
+    to strip them the comments are preserved in the output hosts file.
+
+    Parameters
+    ----------
+    line : str
+        The rule provided for sanitation.
+
+    Returns
+    -------
+    sanitized_line : str
+        The sanitized rule.
+    """
+
     split_line = line.split()
     if len(split_line) < 2:
         # just return blank
@@ -463,6 +544,15 @@ def strip_rule(line):
 
 
 def write_opening_header(final_file):
+    """
+    Write the header information into the newly-created hosts file.
+
+    Parameters
+    ----------
+    final_file : file
+        The file object that points to the newly-created hosts file.
+    """
+
     final_file.seek(0)  # reset file pointer
     file_contents = final_file.read()  # save content
     final_file.seek(0)  # write at the top
@@ -508,6 +598,10 @@ def write_opening_header(final_file):
 
 
 def update_readme_data():
+    """
+    Update the host and website information provided in the README JSON data.
+    """
+
     extensions_key = "base"
     if settings["extensions"]:
         extensions_key = "-".join(settings["extensions"])
@@ -543,7 +637,7 @@ def move_hosts_file_into_place(final_file):
     if os.name == "posix":
         print("Moving the file requires administrative privileges. "
               "You might need to enter your password.")
-        if subprocess.call(["/usr/bin/sudo", "cp", filename, "/etc/hosts"]):
+        if subprocess.call([SUDO, "cp", filename, "/etc/hosts"]):
             print_failure("Moving the file failed.")
     elif os.name == "nt":
         print("Automatically moving the hosts file "
@@ -564,81 +658,72 @@ def flush_dns_cache():
     dns_cache_found = False
 
     if platform.system() == "Darwin":
-        if subprocess.call(["/usr/bin/sudo", "killall",
-                            "-HUP", "mDNSResponder"]):
+        if subprocess.call([SUDO, "killall", "-HUP", "mDNSResponder"]):
             print_failure("Flushing the DNS cache failed.")
     elif os.name == "nt":
         print("Automatically flushing the DNS cache is not yet supported.")
         print("Please copy and paste the command 'ipconfig /flushdns' in "
               "administrator command prompt after running this script.")
     else:
-        nscd_caches = ["/etc/init.d/nscd",
-                       "/etc/rc.d/init.d/nscd"]
-        for nscd_cache in nscd_caches:
+        nscd_prefixes = ["/etc", "/etc/rc.d"]
+        nscd_msg = "Flushing the DNS cache by restarting nscd {result}"
+
+        for nscd_prefix in nscd_prefixes:
+            nscd_cache = nscd_prefix + "/init.d/nscd"
+
             if os.path.isfile(nscd_cache):
                 dns_cache_found = True
 
-                if subprocess.call(["/usr/bin/sudo", nscd_cache,
-                                    "restart"]):
-                    print_failure("Flushing the DNS cache failed.")
+                if subprocess.call([SUDO, nscd_cache, "restart"]):
+                    print_failure(nscd_msg.format(result="failed"))
                 else:
-                    print_success("Flushing DNS by restarting nscd succeeded")
+                    print_success(nscd_msg.format(result="succeeded"))
 
-        if os.path.isfile("/usr/lib/systemd/system/NetworkManager.service"):
+        system_prefixes = ["/usr", ""]
+        service_types = ["NetworkManager", "wicd", "dnsmasq", "networking"]
+
+        for system_prefix in system_prefixes:
+            systemctl = system_prefix + "/bin/systemctl"
+            system_dir = system_prefix + "/lib/systemd/system"
+
+            for service_type in service_types:
+                service = service_type + ".service"
+                service_file = path_join_robust(system_dir, service)
+                service_msg = ("Flushing the DNS cache by "
+                               "restarting " + service + " {result}")
+
+                if os.path.isfile(service_file):
+                    dns_cache_found = True
+
+                    if subprocess.call([SUDO, systemctl, "restart", service]):
+                        print_failure(service_msg.format(result="failed"))
+                    else:
+                        print_success(service_msg.format(result="succeeded"))
+
+        dns_clean_file = "/etc/init.d/dns-clean"
+        dns_clean_msg = ("Flushing the DNS cache via "
+                         "dns-clean executable {result}")
+
+        if os.path.isfile(dns_clean_file):
             dns_cache_found = True
 
-            if subprocess.call(["/usr/bin/sudo", "/usr/bin/systemctl",
-                                "restart", "NetworkManager.service"]):
-                print_failure("Flushing the DNS cache failed.")
+            if subprocess.call([SUDO, dns_clean_file, "start"]):
+                print_failure(dns_clean_msg.format(result="failed"))
             else:
-                print_success("Flushing DNS by restarting "
-                              "NetworkManager succeeded")
-
-        if os.path.isfile("/usr/lib/systemd/system/wicd.service"):
-            dns_cache_found = True
-
-            if subprocess.call(["/usr/bin/sudo", "/usr/bin/systemctl",
-                                "restart", "wicd.service"]):
-                print_failure("Flushing the DNS cache failed.")
-            else:
-                print_success("Flushing DNS by restarting wicd succeeded")
-
-        if os.path.isfile("/usr/lib/systemd/system/dnsmasq.service"):
-            dns_cache_found = True
-
-            if subprocess.call(["/usr/bin/sudo", "/usr/bin/systemctl",
-                                "restart", "dnsmasq.service"]):
-                print_failure("Flushing the DNS cache failed.")
-            else:
-                print_success("Flushing DNS by restarting dnsmasq succeeded")
-
-        if os.path.isfile("/usr/lib/systemd/system/networking.service"):
-            dns_cache_found = True
-
-            if subprocess.call(["/usr/bin/sudo", "/usr/bin/systemctl",
-                                "restart", "networking.service"]):
-                print_failure("Flushing the DNS cache failed.")
-            else:
-                print_success("Flushing DNS by restarting "
-                              "networking.service succeeded")
-
-        if os.path.isfile("/etc/init.d/dns-clean"):
-            dns_cache_found = True
-
-            if subprocess.call(["/usr/bin/sudo", "/etc/init.d/dns-clean",
-                                "start"]):
-                print_failure("Flushing the DNS cache failed.")
-            else:
-                print_success("Flushing DNS via dns-clean "
-                              "executable succeeded")
+                print_success(dns_clean_msg.format(result="succeeded"))
 
         if not dns_cache_found:
             print_failure("Unable to determine DNS management tool.")
 
 
-# Hotfix since merging with an already existing
-# hosts file leads to artifacts and duplicates
 def remove_old_hosts_file():
+    """
+    Remove the old hosts file.
+
+    This is a hotfix because merging with an already existing hosts file leads
+    to artifacts and duplicates.
+    """
+
     old_file_path = path_join_robust(BASEDIR_PATH, "hosts")
     # create if already removed, so remove wont raise an error
     open(old_file_path, "a").close()
@@ -658,6 +743,60 @@ def remove_old_hosts_file():
 
 
 # Helper Functions
+def get_file_by_url(url):
+    """
+    Get a file data located at a particular URL.
+
+    Parameters
+    ----------
+    url : str
+        The URL at which to access the data.
+
+    Returns
+    -------
+    url_data : str or None
+        The data retrieved at that URL from the file. Returns None if the
+        attempted retrieval is unsuccessful.
+    """
+
+    try:
+        f = urlopen(url)
+        return f.read().decode("UTF-8")
+    except:
+        print("Problem getting file: ", url)
+
+
+def write_data(f, data):
+    """
+    Write data to a file object. This is a cross-Python implementation.
+
+    Parameters
+    ----------
+    f : file
+        The file object at which to write the data.
+    data : str
+        The data to write to the file.
+    """
+
+    if PY3:
+        f.write(bytes(data, "UTF-8"))
+    else:
+        f.write(str(data).encode("UTF-8"))
+
+
+def list_dir_no_hidden(path):
+    """
+    List all files in a directory, except for hidden files.
+
+    Parameters
+    ----------
+    path : str
+        The path of the directory whose files we wish to list.
+    """
+
+    return glob(os.path.join(path, "*"))
+
+
 def query_yes_no(question, default="yes"):
     """
     Ask a yes/no question via raw_input() and get answer from the user.
@@ -708,6 +847,20 @@ def query_yes_no(question, default="yes"):
 
 
 def is_valid_domain_format(domain):
+    """
+    Check whether a provided domain is valid.
+
+    Parameters
+    ----------
+    domain : str
+        The domain against which to check.
+
+    Returns
+    -------
+    valid_domain : bool
+        Whether or not the domain provided is valid.
+    """
+
     if domain == "":
         print("You didn't enter a domain. Try again.")
         return False
@@ -723,12 +876,32 @@ def is_valid_domain_format(domain):
         return True
 
 
-# A version-independent glob(  ... "/**/" ... )
 def recursive_glob(stem, file_pattern):
+    """
+    Recursively match files in a directory according to a pattern.
+
+    This function is a version-independent of Python 3.x's function:
+
+    glob( ... "/**/" ... )
+
+    Parameters
+    ----------
+    stem : str
+        The directory in which to recurse
+    file_pattern : str
+        The filename regex pattern to which to match.
+
+    Returns
+    -------
+    matches_list : list
+        A list of filenames in the directory that match the file pattern.
+    """
+
     if sys.version_info >= (3, 5):
         return glob(stem + "/**/" + file_pattern, recursive=True)
     else:
-        if stem == "*":
+        # gh-316: this will avoid invalid unicode comparisons in Python 2.x
+        if stem == str("*"):
             stem = "."
         matches = []
         for root, dirnames, filenames in os.walk(stem):
@@ -759,6 +932,10 @@ def path_join_robust(path, *paths):
     """
 
     try:
+        # gh-316: joining unicode and str can be saddening in Python 2.x
+        path = str(path)
+        paths = [str(another_path) for another_path in paths]
+
         return os.path.join(path, *paths)
     except UnicodeDecodeError as e:
         raise locale.Error("Unable to construct path. This is "
@@ -773,15 +950,80 @@ class Colors(object):
     ENDC = "\033[0m"
 
 
+def supports_color():
+    """
+    Check whether the running terminal or command prompt supports color.
+
+    Inspired by StackOverflow link (and Django implementation) here:
+
+    https://stackoverflow.com/questions/7445658
+
+    Returns
+    -------
+    colors_supported : bool
+        Whether the running terminal or command prompt supports color.
+    """
+
+    sys_platform = sys.platform
+    supported = sys_platform != "Pocket PC" and (sys_platform != "win32"
+                                                 or "ANSICON" in os.environ)
+
+    atty_connected = hasattr(sys.stdout, "isatty") and sys.stdout.isatty()
+    return supported and atty_connected
+
+
 def colorize(text, color):
+    """
+    Wrap a string so that it displays in a particular color.
+
+    This function adds a prefix and suffix to a text string so that it is
+    displayed as a particular color, either in command prompt or the terminal.
+
+    If the running terminal or command prompt does not support color, the
+    original text is returned without being wrapped.
+
+    Parameters
+    ----------
+    text : str
+        The message to display.
+    color : str
+        The color string prefix to put before the text.
+
+    Returns
+    -------
+    wrapped_str : str
+        The wrapped string to display in color, if possible.
+    """
+
+    if not supports_color():
+        return text
+
     return color + text + Colors.ENDC
 
 
 def print_success(text):
+    """
+    Print a success message.
+
+    Parameters
+    ----------
+    text : str
+        The message to display.
+    """
+
     print(colorize(text, Colors.SUCCESS))
 
 
 def print_failure(text):
+    """
+    Print a failure message.
+
+    Parameters
+    ----------
+    text : str
+        The message to display.
+    """
+
     print(colorize(text, Colors.FAIL))
 # End Helper Functions
 
