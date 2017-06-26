@@ -3,7 +3,7 @@
 #
 # Date: June 26 2017
 # Extensions added to this file: fakenews
-# Number of unique domains: 52,784
+# Number of unique domains: 52,790
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -25984,6 +25984,18 @@ fe80::1%lo0 localhost
 
 
 
+# June 2017 Update
+
+0.0.0.0 www.grabmyrez.co
+0.0.0.0 grabmyrez.co
+0.0.0.0 www.topictorch.com
+0.0.0.0 topictorch.com
+0.0.0.0 zoomcheck.info
+0.0.0.0 www.zoomcheck.info
+# End June 2017 Update
+
+
+
 
 
 # This list is Copyright 2000-2016 Safer-Networking Ltd.
@@ -25991,8 +26003,6 @@ fe80::1%lo0 localhost
 # End of entries inserted by Spybot - Search & Destroy
 
 #=====================================
-
-
 
 
 
