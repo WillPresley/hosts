@@ -15,7 +15,7 @@ into a unified hosts file with duplicates removed.  This repo provides several
 hosts files tailored to you need to block.
 
 * Last updated: **June 26 2017**.
-* Here's the [raw hosts file with fakenews extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 52,790 entries.
+* Here's the [raw hosts file with fakenews extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 52,793 entries.
 
 
 ### List of all hosts file variants
@@ -27,7 +27,7 @@ with Github download links.
 Host file recipe | Readme | Raw hosts | hosts (.zip) | Unique domains | Non Github mirror
 ---------------- |:------:|:---------:|:------------:|:--------------:|:-------------:
 Unified hosts = **(adware + malware)** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts.zip) | 36,407 | [link](http://sbc.io/hosts/hosts)
-Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts.zip) | 52,790 | [link](http://sbc.io/hosts/hosts)
+Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts.zip) | 52,793 | [link](http://sbc.io/hosts/hosts)
 Unified hosts **+ gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts.zip) | 37,921 | [link](http://sbc.io/hosts/alternates/gambling/hosts)
 Unified hosts **+ porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts.zip) | 44,258 | [link](http://sbc.io/hosts/alternates/porn/hosts)
 Unified hosts **+ social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts.zip) | 36,640 | [link](http://sbc.io/hosts/alternates/social/hosts)
