@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 23 May 2017 01:50:44 GMT
-# entries:        2329
+# last updated:   Sat, 01 Jul 2017 19:18:29 GMT
+# entries:        2327
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 26 Jun 2017 00:00:00
+# start date:    Mon, 10 Jul 2017 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -211,6 +211,7 @@
 0.0.0.0 adecn.com
 0.0.0.0 ademails.com
 0.0.0.0 adengage.com
+0.0.0.0 adexchangeprediction.com
 0.0.0.0 adexpose.com
 0.0.0.0 adext.inkclub.com
 0.0.0.0 adf.ly
@@ -518,7 +519,6 @@
 0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.ncm.com
-0.0.0.0 ads.netclusive.de
 0.0.0.0 ads.netmechanic.com
 0.0.0.0 ads.networksolutions.com
 0.0.0.0 ads.newdream.net
@@ -788,6 +788,7 @@
 0.0.0.0 adthis.com
 0.0.0.0 adtiger.de
 0.0.0.0 adtoll.com
+0.0.0.0 adtology.com
 0.0.0.0 adtoma.com
 0.0.0.0 adtrace.org
 0.0.0.0 adtrade.net
@@ -1132,6 +1133,7 @@
 0.0.0.0 class-act-clicks.com
 0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
+0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
 0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
@@ -1212,6 +1214,7 @@
 0.0.0.0 counter.sparklit.com
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.honesty.com
+0.0.0.0 counting.kmindex.ru
 0.0.0.0 counts.tucows.com
 0.0.0.0 coupling-media.de
 0.0.0.0 cpalead.com
@@ -1320,7 +1323,6 @@
 0.0.0.0 eu1.madsone.com
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 eurekster.com
-0.0.0.0 euro-linkindex.de
 0.0.0.0 euroclick.com
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
@@ -1408,7 +1410,6 @@
 0.0.0.0 globe7.com
 0.0.0.0 globus-inter.com
 0.0.0.0 gmads.net
-0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
@@ -1421,7 +1422,6 @@
 0.0.0.0 grafstat.ro
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 greystripe.com
-0.0.0.0 gtop.ro
 0.0.0.0 gtop100.com
 0.0.0.0 gunggo.com
 0.0.0.0 harrenmedia.com
@@ -1514,7 +1514,6 @@
 0.0.0.0 inringtone.com
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
-0.0.0.0 inspectorclick.com
 0.0.0.0 instantmadness.com
 0.0.0.0 intelliads.com
 0.0.0.0 intellitxt.com
@@ -1645,6 +1644,7 @@
 0.0.0.0 metaffiliation.com
 0.0.0.0 metanetwork.com
 0.0.0.0 methodcash.com
+0.0.0.0 metrics.cnn.com
 0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 mgid.com
 0.0.0.0 miarroba.com
@@ -1832,13 +1832,11 @@
 0.0.0.0 porntrack.com
 0.0.0.0 postrelease.com
 0.0.0.0 potenza.cz
-0.0.0.0 pr-star.de
 0.0.0.0 pr-ten.de
 0.0.0.0 praddpro.de
 0.0.0.0 prchecker.info
 0.0.0.0 precisioncounter.com
 0.0.0.0 predictad.com
-0.0.0.0 premium-offers.com
 0.0.0.0 primaryads.com
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
@@ -1912,7 +1910,6 @@
 0.0.0.0 realtechnetwork.com
 0.0.0.0 realtracker.com
 0.0.0.0 reduxmedia.com
-0.0.0.0 reduxmediagroup.com
 0.0.0.0 reedbusiness.com.invalid
 0.0.0.0 referralware.com
 0.0.0.0 regnow.com
@@ -2052,7 +2049,6 @@
 0.0.0.0 stats.mirrorfootball.co.uk
 0.0.0.0 stats.multiup.org
 0.0.0.0 stats.olark.com
-0.0.0.0 stats.suite101.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.unwired-i.net
 0.0.0.0 stats.wordpress.com
@@ -2168,6 +2164,7 @@
 0.0.0.0 traffic-exchange.com
 0.0.0.0 traffic.liveuniversenetwork.com
 0.0.0.0 trafficadept.com
+0.0.0.0 trafficbalancerouting.com
 0.0.0.0 trafficcdn.liveuniversenetwork.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficholder.com
@@ -2274,6 +2271,7 @@
 0.0.0.0 whenu.com
 0.0.0.0 whispa.com
 0.0.0.0 whoisonline.net
+0.0.0.0 wholesaletraffic.info
 0.0.0.0 widespace.com
 0.0.0.0 widgetbucks.com
 0.0.0.0 wikia-ads.wikia.com
