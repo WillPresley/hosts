@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 01 Jul 2017 19:18:29 GMT
-# entries:        2327
+# last updated:   Mon, 17 Jul 2017 14:25:48 GMT
+# entries:        2325
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 10 Jul 2017 00:00:00
+# start date:    Mon, 24 Jul 2017 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -205,7 +205,6 @@
 0.0.0.0 adcontent.gamespy.com
 0.0.0.0 adcycle.com
 0.0.0.0 add.newmedia.cz
-0.0.0.0 addealing.com
 0.0.0.0 addfreestats.com
 0.0.0.0 addme.com
 0.0.0.0 adecn.com
@@ -406,6 +405,7 @@
 0.0.0.0 ads.digitalmedianet.com
 0.0.0.0 ads.digitalpoint.com
 0.0.0.0 ads.directionsmag.com
+0.0.0.0 ads.domain.com
 0.0.0.0 ads.domeus.com
 0.0.0.0 ads.eagletribune.com
 0.0.0.0 ads.easy-forex.com
@@ -692,13 +692,11 @@
 0.0.0.0 adserv.iafrica.com
 0.0.0.0 adserv.qconline.com
 0.0.0.0 adserve.ams.rhythmxchange.com
-0.0.0.0 adserver-live.yoc.mobi
 0.0.0.0 adserver.43plc.com
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.adultfriendfinder.com
 0.0.0.0 adserver.aidameter.com
 0.0.0.0 adserver.aol.fr
-0.0.0.0 adserver.beggarspromo.com
 0.0.0.0 adserver.betandwin.de
 0.0.0.0 adserver.bing.com
 0.0.0.0 adserver.bizhat.com
@@ -875,7 +873,6 @@
 0.0.0.0 affiliatetracking.com
 0.0.0.0 affiliatetracking.net
 0.0.0.0 affiliatewindow.com
-0.0.0.0 affiliation-france.com
 0.0.0.0 afftracking.justanswer.com
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
@@ -886,6 +883,7 @@
 0.0.0.0 alclick.com
 0.0.0.0 alenty.com
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
+0.0.0.0 alipromo.com
 0.0.0.0 all4spy.com
 0.0.0.0 alladvantage.com
 0.0.0.0 allosponsor.com
@@ -1124,7 +1122,7 @@
 0.0.0.0 checkstat.nl
 0.0.0.0 chestionar.ro
 0.0.0.0 chitika.net
-0.0.0.0 cibleclick.com
+0.0.0.0 cibleclick.com.invalid
 0.0.0.0 cityads.telus.net
 0.0.0.0 cj.com
 0.0.0.0 cjbmanagement.com
@@ -1211,6 +1209,7 @@
 0.0.0.0 counter.nowlinux.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
+0.0.0.0 counter.snackly.co
 0.0.0.0 counter.sparklit.com
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.honesty.com
@@ -1281,6 +1280,7 @@
 0.0.0.0 doublepimp.com
 0.0.0.0 drumcash.com
 0.0.0.0 dynamic.fmpub.net
+0.0.0.0 dynamicyield.com
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 e-bannerx.com
 0.0.0.0 e-debtconsolidation.com
@@ -1587,11 +1587,11 @@
 0.0.0.0 liverail.com
 0.0.0.0 loading321.com
 0.0.0.0 log.btopenworld.com
+0.0.0.0 logger.snackly.co
 0.0.0.0 logua.com
 0.0.0.0 lop.com
 0.0.0.0 lucidmedia.com
 0.0.0.0 lzjl.com
-0.0.0.0 m.webtrends.com
 0.0.0.0 m1.webstats4u.com
 0.0.0.0 m4n.nl
 0.0.0.0 mackeeperapp.mackeeper.com
@@ -2046,13 +2046,16 @@
 0.0.0.0 stats.cts-bv.nl
 0.0.0.0 stats.directnic.com
 0.0.0.0 stats.hyperinzerce.cz
+0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.mirrorfootball.co.uk
 0.0.0.0 stats.multiup.org
 0.0.0.0 stats.olark.com
+0.0.0.0 stats.self.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.unwired-i.net
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.x14.eu
+0.0.0.0 stats2.self.com
 0.0.0.0 stats4all.com
 0.0.0.0 statsie.com
 0.0.0.0 statxpress.com
@@ -2155,17 +2158,14 @@
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.internetstores.de
-0.0.0.0 tracking.yourfilehost.com
 0.0.0.0 tracking101.com
 0.0.0.0 trackingsoft.com
 0.0.0.0 trackmysales.com
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradedoubler.com
 0.0.0.0 traffic-exchange.com
-0.0.0.0 traffic.liveuniversenetwork.com
 0.0.0.0 trafficadept.com
 0.0.0.0 trafficbalancerouting.com
-0.0.0.0 trafficcdn.liveuniversenetwork.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficholder.com
 0.0.0.0 traffichunt.com
@@ -2191,7 +2191,6 @@
 0.0.0.0 truehits.net
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truehits2.gits.net.th
-0.0.0.0 tsms-ad.tsms.com
 0.0.0.0 tubemogul.com
 0.0.0.0 turn.com
 0.0.0.0 tvmtracker.com
@@ -2322,7 +2321,6 @@
 0.0.0.0 yieldmanager.net
 0.0.0.0 yieldmo.com
 0.0.0.0 yieldtraffic.com
-0.0.0.0 yoc.mobi
 0.0.0.0 yoggrt.com
 0.0.0.0 z5x.net
 0.0.0.0 zangocash.com
