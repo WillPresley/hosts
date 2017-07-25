@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: July 24 2017
+# Date: July 25 2017
 # Extensions added to this file: fakenews
-# Number of unique domains: 52,363
+# Number of unique domains: 52,364
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -43479,7 +43479,7 @@ fe80::1%lo0 localhost
 
 
 
-# Last updated: Mon, 17 Jul 2017 at 01:49:21 GMT
+# Last updated: Mon, 24 Jul 2017 at 05:21:09 GMT
 
 
 
@@ -45157,6 +45157,7 @@ fe80::1%lo0 localhost
 0.0.0.0 apple.com-webbrowsing-security.bid
 0.0.0.0 apple.com-webbrowsing-security.download
 0.0.0.0 apple.com-webbrowsing-security.science
+0.0.0.0 apple.com-webbrowsing-security.site
 0.0.0.0 apple.com.virus-mac.com
 0.0.0.0 applestore.com-mobile.gift
 0.0.0.0 armsart.com
@@ -55034,7 +55035,7 @@ fe80::1%lo0 localhost
 
 #
 
-# start date:    Mon, 24 Jul 2017 00:00:00
+# start date:    Tue, 25 Jul 2017 00:00:00
 
 0.0.0.0 101com.com
 0.0.0.0 101order.com
