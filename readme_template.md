@@ -1,23 +1,5 @@
 [![Build Status](https://travis-ci.org/StevenBlack/hosts.svg?branch=master)](https://travis-ci.org/StevenBlack/hosts)
 
-### Cloning?  Use a shallow clone and avoid 400 Mb of history
-
-A **shallow clone** is a good idea because you probably don't need many years of history.
-
-Like this:
-
-    git clone --depth 5 https://github.com/StevenBlack/hosts.git
-
-To run unit tests, in the top level directory, just run:
-
-    python testUpdateHostsFile.py
-
-**Note** if you are using Python 2, you must first install the `mock` library:
-
-    pip install mock
-
-Afterwards, you can follow the instructions above.
-
 # Unified hosts file @EXTENSIONS_HEADER@
 
 This repository consolidates several reputable `hosts` files, and merges them
@@ -33,8 +15,8 @@ The **Non GitHub mirror** is the link to use for some hosts file managers like
 [Hostsman for Windows](http://www.abelhadigital.com/hostsman) that don't work
 with Github download links.
 
-Host file recipe | Readme | Raw hosts | hosts (.zip) | Unique domains | Non Github mirror
----------------- |:------:|:---------:|:------------:|:--------------:|:-------------:
+Host file recipe | Readme | Raw hosts | Unique domains | Non Github mirror
+---------------- |:------:|:---------:|:--------------:|:-------------:
 @TOCROWS@
 
 **Expectation**: These unified hosts files should serve all devices, regardless 
@@ -56,6 +38,14 @@ The unified hosts file is extensible.  You manage extensions by curating the
 folders.
 
 ## Generate your own unified hosts file
+
+To run unit tests, in the top level directory, just run:
+
+    python testUpdateHostsFile.py
+
+**Note** if you are using Python 2, you must first install the `mock` library:
+
+    pip install mock
 
 The `updateHostsFile.py` script, which is python 2.7 and Python 3-compatible,
 will generate a unified hosts file based on the sources in the local `data/`
@@ -115,9 +105,6 @@ in a subfolder.  If the subfolder does not exist, it will be created.
 `--skipstatichosts`, or `-s`: `false` (default) or `true`, omit the standard
 section at the top, containing lines like `127.0.0.1 localhost`.  This is
 useful for configuring proximate DNS services on the local network.
-
-`--zip`, or `-z`: `false` (default) or `true`, additionally create a zip
-archive of the hosts file named `hosts.zip`.
 
 ## How do I control which sources are unified?
 
@@ -305,7 +292,7 @@ devices under a variety of operating systems.
 
 ## Third-Party Hosts Managers
 
-* [Unified Hosts AutoUpdate](https://github.com/ScriptTiger/Unified-Hosts-AutoUpdate "Unified Hosts AutoUpdate") (for Windows): The Unified Hosts AutUpdate package is purpose-built for this unified hosts project as well as in active development by community members. It's sophisticated enough to allow any novice the ability to install and uninstall the blacklist of their choosing to their local hosts file and keep it automatically up to date, while also being minimal enough to be able to be easily placed in a shared network location and deployed across an organization via group policies. And since it is in acitive development by community members, your bug reports, feature requests, and other feedback are most welcome.
+* [Unified Hosts AutoUpdate](https://github.com/ScriptTiger/Unified-Hosts-AutoUpdate "Unified Hosts AutoUpdate") (for Windows): The Unified Hosts AutUpdate package is purpose-built for this unified hosts project as well as in active development by community members. It's sophisticated enough to allow any novice the ability to install and uninstall the blacklist of their choosing to their local hosts file and keep it automatically up to date, while also being minimal enough to be able to be easily placed in a shared network location and deployed across an organization via group policies. And since it is in active development by community members, your bug reports, feature requests, and other feedback are most welcome.
 
 ## Interesting Applications
 
