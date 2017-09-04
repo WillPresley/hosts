@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 21 Aug 2017 08:43:04 GMT
-# entries:        2451
+# last updated:   Wed, 30 Aug 2017 21:27:23 GMT
+# entries:        2448
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 21 Aug 2017 00:00:00
+# start date:    Mon, 04 Sep 2017 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -80,6 +80,7 @@
 0.0.0.0 ad.abctv.com
 0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 ad.abum.com
+0.0.0.0 ad.admitad.com
 0.0.0.0 ad.afy11.net
 0.0.0.0 ad.allstar.cz
 0.0.0.0 ad.altervista.org
@@ -180,7 +181,6 @@
 0.0.0.0 adapt.tv
 0.0.0.0 adbanner.ro
 0.0.0.0 adbard.net
-0.0.0.0 adbers.com
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
 0.0.0.0 adboost.de.vu
@@ -285,7 +285,6 @@
 0.0.0.0 admex.com
 0.0.0.0 adminder.com
 0.0.0.0 adminshop.com
-0.0.0.0 admitad.com
 0.0.0.0 admized.com
 0.0.0.0 admob.com
 0.0.0.0 admonitor.com
@@ -549,7 +548,6 @@
 0.0.0.0 ads.ole.com
 0.0.0.0 ads.olivebrandresponse.com
 0.0.0.0 ads.oneplace.com
-0.0.0.0 ads.ookla.com
 0.0.0.0 ads.optusnet.com.au
 0.0.0.0 ads.outpersonals.com
 0.0.0.0 ads.passion.com
@@ -881,6 +879,7 @@
 0.0.0.0 affiliatetracking.com
 0.0.0.0 affiliatetracking.net
 0.0.0.0 affiliatewindow.com
+0.0.0.0 affiliation-france.com
 0.0.0.0 afftracking.justanswer.com
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
@@ -1156,7 +1155,6 @@
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
-0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
 0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
@@ -1691,6 +1689,7 @@
 0.0.0.0 media.funpic.de
 0.0.0.0 media6degrees.com
 0.0.0.0 mediaarea.eu
+0.0.0.0 mediabridge.cc
 0.0.0.0 mediacharger.com
 0.0.0.0 mediadvertising.ro
 0.0.0.0 mediageneral.com
@@ -1841,7 +1840,6 @@
 0.0.0.0 oxado.com
 0.0.0.0 oxcash.com
 0.0.0.0 oxen.hillcountrytexas.com
-0.0.0.0 p.adpdx.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagerank-ranking.de
@@ -2014,6 +2012,7 @@
 0.0.0.0 remotead.cnet.com
 0.0.0.0 republika.onet.pl
 0.0.0.0 retargeter.com
+0.0.0.0 revcontent.com
 0.0.0.0 revenue.net
 0.0.0.0 revenuedirect.com
 0.0.0.0 revsci.net
@@ -2064,7 +2063,6 @@
 0.0.0.0 sedotracker.com
 0.0.0.0 seeq.com.invalid
 0.0.0.0 sensismediasmart.com.au
-0.0.0.0 seo4india.com
 0.0.0.0 separatesilver.com
 0.0.0.0 serv0.com
 0.0.0.0 servedby-buysellads.com
@@ -2073,7 +2071,6 @@
 0.0.0.0 servethis.com
 0.0.0.0 services.hearstmags.com
 0.0.0.0 serving-sys.com
-0.0.0.0 sexaddpro.de
 0.0.0.0 sexadvertentiesite.nl
 0.0.0.0 sexcounter.com
 0.0.0.0 sexinyourcity.com
@@ -2188,7 +2185,6 @@
 0.0.0.0 superstats.com
 0.0.0.0 supertop.ru
 0.0.0.0 supertop100.com
-0.0.0.0 suptullog.com
 0.0.0.0 surfmusik-adserver.de
 0.0.0.0 swan-swan-goose.com
 0.0.0.0 swissadsolutions.com
@@ -2220,11 +2216,11 @@
 0.0.0.0 text-link-ads.com
 0.0.0.0 textad.sexsearch.com
 0.0.0.0 textads.biz
-0.0.0.0 textads.opera.com
 0.0.0.0 textlinks.com
 0.0.0.0 tfag.de
 0.0.0.0 theadhost.com
 0.0.0.0 theads.me
+0.0.0.0 thebugs.ws
 0.0.0.0 thecounter.com
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
@@ -2312,6 +2308,7 @@
 0.0.0.0 trickycelery.com
 0.0.0.0 tritetongue.com
 0.0.0.0 trix.net
+0.0.0.0 trmit.com
 0.0.0.0 truehits.net
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truehits2.gits.net.th

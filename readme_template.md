@@ -34,7 +34,7 @@ Host file source | Description | Home page | Raw hosts | Update frequency
 
 ## Extensions
 The unified hosts file is extensible.  You manage extensions by curating the 
-`extensions/` folder tree. See the `social`, `gambling`, and `porn` extension 
+`extensions/` folder tree. See the `fakenews`, `social`, `gambling`, and `porn` extension 
 folders.
 
 ## Generate your own unified hosts file
@@ -47,11 +47,11 @@ To run unit tests, in the top level directory, just run:
 
     pip install mock
 
-The `updateHostsFile.py` script, which is python 2.7 and Python 3-compatible,
+The `updateHostsFile.py` script, which is Python 2.7 and Python 3-compatible,
 will generate a unified hosts file based on the sources in the local `data/`
-subfolder.  The script will prompt you Whether it should fetch updated
+subfolder.  The script will prompt you whether it should fetch updated
 versions (from locations defined by the `update.json` text file in each
-source's folder), otherwise it will use the `hosts` file that's already there.
+source's folder). Otherwise, it will use the `hosts` file that's already there.
 
 ### Usage
 
@@ -298,6 +298,6 @@ devices under a variety of operating systems.
 
 * [Block ads and malware via local BIND9 DNS server](https://github.com/mueller-ma/block-ads-via-dns "Block ads and malware via local DNS server") (for Debian, Raspbian & Ubuntu): Set up a local DNS server with a `/etc/bind/named.conf.blocked` file, sourced from here.
 
-* [Block ads, malware, and deploy parental controls via local DualServer DNS/DHCP server](https://github.com/ScriptTiger/DualServer "Block ads, malware, and deploy parental controls via local DualServer DNS/DHCP server") (for BSD, Windows & Linux): Set up a blacklist for everyone on your network using the power of the unified hosts reformatted for DualServer. And if you're on Windows, this project also maintains an update script to make updating DualServer's blacklist even easier.
+* [Block ads, malware, and deploy parental controls via local DualServer DNS/DHCP server](https://scripttiger.github.io/dualserver "Block ads, malware, and deploy parental controls via local DualServer DNS/DHCP server") (for BSD, Windows & Linux): Set up a blacklist for everyone on your network using the power of the unified hosts reformatted for DualServer. And if you're on Windows, this project also maintains an update script to make updating DualServer's blacklist even easier.
 
 * [Blocking ads and malwares with unbound](https://deadc0de.re/articles/unbound-blocking-ads.html "Blocking ads and malwares with unbound") – [Unbound](https://www.unbound.net/ "Unbound is a validating, recursive, and caching DNS resolver.")  is a validating, recursive, and caching DNS resolver.
