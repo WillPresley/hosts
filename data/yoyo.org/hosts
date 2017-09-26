@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 15 Sep 2017 16:12:53 GMT
-# entries:        2454
+# last updated:   Sun, 24 Sep 2017 09:25:35 GMT
+# entries:        2460
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 18 Sep 2017 00:00:00
+# start date:    Tue, 26 Sep 2017 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -478,7 +478,6 @@
 0.0.0.0 ads.heias.com
 0.0.0.0 ads.hideyourarms.com
 0.0.0.0 ads.hollywood.com
-0.0.0.0 ads.horsehero.com
 0.0.0.0 ads.horyzon-media.com
 0.0.0.0 ads.iafrica.com
 0.0.0.0 ads.ibest.com.br
@@ -727,7 +726,6 @@
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adserver.oddschecker.com
 0.0.0.0 adserver.omroepzeeland.nl
-0.0.0.0 adserver.pl
 0.0.0.0 adserver.portalofevil.com
 0.0.0.0 adserver.portugalmail.net
 0.0.0.0 adserver.portugalmail.pt
@@ -851,6 +849,8 @@
 0.0.0.0 adxpose.com
 0.0.0.0 adxvalue.com
 0.0.0.0 adyea.com
+0.0.0.0 adz2you.com
+0.0.0.0 adzbazar.com
 0.0.0.0 adzerk.net
 0.0.0.0 adzerk.s3.amazonaws.com
 0.0.0.0 adzones.com
@@ -1192,6 +1192,7 @@
 0.0.0.0 clicmanager.fr
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clients.tbo.com
+0.0.0.0 clikerz.net
 0.0.0.0 cliksolution.com
 0.0.0.0 clixgalore.com
 0.0.0.0 clk.konflab.com
@@ -1296,6 +1297,7 @@
 0.0.0.0 dianomi.com
 0.0.0.0 didtheyreadit.com
 0.0.0.0 differentdesk.com
+0.0.0.0 digitalmerkat.com
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 directaclick.com
 0.0.0.0 directivepub.com
@@ -1486,6 +1488,7 @@
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 havamedia.net
 0.0.0.0 heias.com
+0.0.0.0 hellobar.com
 0.0.0.0 hentaicounter.com
 0.0.0.0 herbalaffiliateprogram.com
 0.0.0.0 hexusads.fluent.ltd.uk
@@ -1793,7 +1796,6 @@
 0.0.0.0 newtopsites.com
 0.0.0.0 nexage.com
 0.0.0.0 ng3.ads.warnerbros.com
-0.0.0.0 ngs.impress.co.jp
 0.0.0.0 nitroclicks.com
 0.0.0.0 novem.pl
 0.0.0.0 nuggad.net
@@ -2015,6 +2017,7 @@
 0.0.0.0 relmaxtop.com
 0.0.0.0 remarketingpixel.com
 0.0.0.0 remotead.cnet.com
+0.0.0.0 remox.com
 0.0.0.0 republika.onet.pl
 0.0.0.0 retargeter.com
 0.0.0.0 revcontent.com
@@ -2130,6 +2133,8 @@
 0.0.0.0 sponsors.thoughtsmedia.com
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotxchange.com
+0.0.0.0 spykemediatrack.co
+0.0.0.0 spykemediatrack.com
 0.0.0.0 spylog.com
 0.0.0.0 spywarelabs.com
 0.0.0.0 spywarenuker.com
@@ -2325,6 +2330,7 @@
 0.0.0.0 tyroo.com
 0.0.0.0 uarating.com
 0.0.0.0 ukbanners.com
+0.0.0.0 ultimateclixx.com
 0.0.0.0 ultramercial.com
 0.0.0.0 unknowntray.com
 0.0.0.0 untd.com
