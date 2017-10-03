@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 24 Sep 2017 09:25:35 GMT
-# entries:        2460
+# last updated:   Mon, 02 Oct 2017 15:58:35 GMT
+# entries:        2458
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 26 Sep 2017 00:00:00
+# start date:    Tue, 03 Oct 2017 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -139,7 +139,6 @@
 0.0.0.0 ad.prv.pl
 0.0.0.0 ad.rambler.ru
 0.0.0.0 ad.reunion.com
-0.0.0.0 ad.scanmedios.com
 0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 ad.seznam.cz
 0.0.0.0 ad.simgames.net
@@ -429,7 +428,6 @@
 0.0.0.0 ads.exactdrive.com
 0.0.0.0 ads.expat-blog.biz
 0.0.0.0 ads.expedia.com
-0.0.0.0 ads.ezboard.com
 0.0.0.0 ads.factorymedia.com
 0.0.0.0 ads.fairfax.com.au
 0.0.0.0 ads.faxo.com
@@ -726,6 +724,7 @@
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adserver.oddschecker.com
 0.0.0.0 adserver.omroepzeeland.nl
+0.0.0.0 adserver.pl
 0.0.0.0 adserver.portalofevil.com
 0.0.0.0 adserver.portugalmail.net
 0.0.0.0 adserver.portugalmail.pt
@@ -847,6 +846,7 @@
 0.0.0.0 adx.atnext.com
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpose.com
+0.0.0.0 adxprts.com
 0.0.0.0 adxvalue.com
 0.0.0.0 adyea.com
 0.0.0.0 adz2you.com
@@ -1233,7 +1233,6 @@
 0.0.0.0 counter.bloke.com
 0.0.0.0 counter.cnw.cz
 0.0.0.0 counter.cz
-0.0.0.0 counter.dreamhost.com
 0.0.0.0 counter.fateback.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
@@ -2158,7 +2157,6 @@
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statm.the-adult-company.com
 0.0.0.0 stats.blogger.com
-0.0.0.0 stats.cts-bv.nl
 0.0.0.0 stats.directnic.com
 0.0.0.0 stats.hyperinzerce.cz
 0.0.0.0 stats.merriam-webster.com
