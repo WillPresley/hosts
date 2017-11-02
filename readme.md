@@ -5,8 +5,8 @@
 This repository consolidates several reputable `hosts` files, and merges them
 into a unified hosts file with duplicates removed.  A variety of tailored hosts files are provided.
 
-* Last updated: **October 30 2017**.
-* Here's the [raw hosts file with fakenews extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 58,982 entries.
+* Last updated: **November 02 2017**.
+* Here's the [raw hosts file with fakenews extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 59,005 entries.
 
 
 ### List of all hosts file variants
@@ -18,7 +18,7 @@ with Github download links.
 Host file recipe | Readme | Raw hosts | Unique domains | Non Github mirror
 ---------------- |:------:|:---------:|:--------------:|:-------------:
 Unified hosts = **(adware + malware)** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 36,430 | [link](http://sbc.io/hosts/hosts)
-Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 58,982 | [link](http://sbc.io/hosts/hosts)
+Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 59,005 | [link](http://sbc.io/hosts/hosts)
 Unified hosts **+ gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | 37,960 | [link](http://sbc.io/hosts/alternates/gambling/hosts)
 Unified hosts **+ porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts) | 44,287 | [link](http://sbc.io/hosts/alternates/porn/hosts)
 Unified hosts **+ social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts) | 36,663 | [link](http://sbc.io/hosts/alternates/social/hosts)
@@ -54,7 +54,7 @@ Mitchell Krog's - Badd Boyz Hosts | Sketchy domains and Bad Referrers from my Ng
 Cryptecks - Adobe List | Adobe activation servers. |[link](https://cryptecks.cf/) | [raw](https://cryptecks.cf/hosts/adobe-list/hosts) | occasionally |  
 Cryptecks - Spybot List | A version of the built-in Spybot Search and Destroy quarantine list. |[link](https://cryptecks.cf/) | [raw](https://cryptecks.cf/hosts/spybot-list/hosts) | occasionally |  
 KADhosts | Fraud/adware/scam websites. |[link](https://github.com/azet12/KADhosts) | [raw](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) | frequently | GPLv3 
-Malware Domain List | Malware Domain List is a non-commercial community project. |[link](http://www.malwaredomainlist.com/) | [raw](https://www.malwaredomainlist.com/hostslist/hosts.txt) | weekly | 'can be used for free by anyone' 
+Malware Domain List | Malware Domain List is a non-commercial community project. |[link](http://www.malwaredomainlist.com/) | [raw](http://www.malwaredomainlist.com/hostslist/hosts.txt) | weekly | 'can be used for free by anyone' 
 MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[link](http://winhelp2002.mvps.org/) | [raw](http://winhelp2002.mvps.org/hosts.txt) | monthly | CC BY-NC-SA 4.0 
 Dan Pollock – someonewhocares.org | How to make the internet not suck (as much). |[link](http://someonewhocares.org/hosts/) | [raw](http://someonewhocares.org/hosts/zero/hosts) | frequently | non-commercial with attribution 
 SpotifyAds | Spotify ads sources sites based on https://github.com/Xeroday/Spotify-Ad-Blocker content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/SpotifyAds/hosts) | occasionally | MIT 
