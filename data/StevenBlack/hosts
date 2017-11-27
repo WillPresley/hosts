@@ -18,6 +18,8 @@
 127.0.0.1 support.apple.com-notice.info
 127.0.0.1 www.support.apple.com-notice.info
 127.0.0.1 dobre-programy.pl
+127.0.0.1 dobre-programy.xyz
+127.0.0.1 dobreprogramy.pro
 127.0.0.1 www.canuck-method.com
 127.0.0.1 com-notice.info
 127.0.0.1 www.com-notice.info
@@ -109,7 +111,6 @@
 127.0.0.1 joyreactor.cc
 127.0.0.1 anime.reactor.cc
 127.0.0.1 miner.pr0gramm.com
-127.0.0.1 kiwifarms.net
 127.0.0.1 kisshentai.net 
 127.0.0.1 coinerra.com
 127.0.0.1 crypto-loot.com
@@ -161,6 +162,8 @@
 127.0.0.1 geofence.sys.miui.com
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.intl.xiaomi.com
+127.0.0.1 abtest.mistat.intl.xiaomi.com
+127.0.0.1 zeus.ad.intl.xiaomi.com
 
 # Ads and tracking
 127.0.0.1 ampmetrics.engadget.com
@@ -172,4 +175,17 @@
 127.0.0.1 l2.visiblemeasures.com
 127.0.0.1 track.tenjin.io
 127.0.0.1 ustat.batmobi.net
+0.0.0.0 an.batmobi.net
+0.0.0.0 api.stats.appa.pe
+0.0.0.0 api5.batmobil.net
+0.0.0.0 applog.uc.cn
+0.0.0.0 applog.camera360.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 datacollect.vmall.com
+0.0.0.0 metrics.adage.com
+0.0.0.0 ads.feedly.com
+0.0.0.0 bi-collector.oneapm.com
+0.0.0.0 lepodownload.mediatek.com
+0.0.0.0 pixel.realclever.com
+0.0.0.0 sdktm.w.inmobi.com
 #=====================================
