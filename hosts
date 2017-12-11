@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: November 27 2017
+# Date: December 11 2017
 # Extensions added to this file: fakenews
-# Number of unique domains: 59,192
+# Number of unique domains: 59,142
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -5106,7 +5106,7 @@ fe80::1%lo0 localhost
 
 ###################################################
 
-### Version: V1.2017.11.918
+### Version: V1.2017.12.996
 
 ##### Version Information ##
 
@@ -5301,6 +5301,7 @@ fe80::1%lo0 localhost
 0.0.0.0 5kstore.com
 0.0.0.0 5u.com
 0.0.0.0 5wh.co.zw
+0.0.0.0 5ws.dating-app.ru
 0.0.0.0 5yfi7sy.com
 0.0.0.0 600co.info
 0.0.0.0 65xps.com
@@ -5710,6 +5711,7 @@ fe80::1%lo0 localhost
 0.0.0.0 alkalifeph.fr
 0.0.0.0 all4invest.info
 0.0.0.0 all4invest.ru
+0.0.0.0 all4wap.ru
 0.0.0.0 all.alisatilsner.com
 0.0.0.0 allamericanmadetoys.com
 0.0.0.0 allbdpaper.com
@@ -6117,6 +6119,7 @@ fe80::1%lo0 localhost
 0.0.0.0 assoleste.org.br
 0.0.0.0 assumption.com.au
 0.0.0.0 astaimmobiliare.it
+0.0.0.0 astana.xxxkaz.org
 0.0.0.0 astilearning.com
 0.0.0.0 astm.it
 0.0.0.0 astrochicks.com
@@ -6736,6 +6739,7 @@ fe80::1%lo0 localhost
 0.0.0.0 bongacams.com
 0.0.0.0 bongiornos.info
 0.0.0.0 bongs.com
+0.0.0.0 bonky.biz
 0.0.0.0 bonnellspring.com
 0.0.0.0 bonux.nextview.ru
 0.0.0.0 bonvillan.com
@@ -7260,6 +7264,7 @@ fe80::1%lo0 localhost
 0.0.0.0 chlp.de
 0.0.0.0 chocolateslim-en-espana.com
 0.0.0.0 chocolateslim-original.com
+0.0.0.0 chocolateslim-u-srbiji.com
 0.0.0.0 chocoslim.pro
 0.0.0.0 choh1ji.bid
 0.0.0.0 chohye2t.com
@@ -7724,6 +7729,7 @@ fe80::1%lo0 localhost
 0.0.0.0 dateme.ru
 0.0.0.0 date-withme.com
 0.0.0.0 datin.com
+0.0.0.0 dating-app.ru
 0.0.0.0 dating-time-now.com
 0.0.0.0 datongqu.com
 0.0.0.0 daufans.cu.ma
@@ -9666,7 +9672,6 @@ fe80::1%lo0 localhost
 0.0.0.0 hermesreplica.pw
 0.0.0.0 hermesreplica.win
 0.0.0.0 heroesandco.com
-0.0.0.0 herokuapp.com
 0.0.0.0 herramientasgp.com
 0.0.0.0 hers.it
 0.0.0.0 hesteel.pl
@@ -13728,6 +13733,7 @@ fe80::1%lo0 localhost
 0.0.0.0 running-line.ru
 0.0.0.0 runofilms.ru
 0.0.0.0 runstocks.com
+0.0.0.0 runtnc.net
 0.0.0.0 rupolding.de
 0.0.0.0 ruporno.org
 0.0.0.0 ruscopybook.com
@@ -14497,6 +14503,7 @@ fe80::1%lo0 localhost
 0.0.0.0 spb-plitka.ru
 0.0.0.0 spb.ru
 0.0.0.0 spc-maker.com
+0.0.0.0 specialfinanceoffers.com
 0.0.0.0 specialfood.com.br
 0.0.0.0 special-porn.com
 0.0.0.0 specjalservice.pl
@@ -15904,6 +15911,7 @@ fe80::1%lo0 localhost
 0.0.0.0 wandoo.co.uk
 0.0.0.0 wangpiao.co
 0.0.0.0 wankertruth.com
+0.0.0.0 wanker.us
 0.0.0.0 want2buy.ru
 0.0.0.0 wantospo.com
 0.0.0.0 wap.kobatochan.co
@@ -16553,6 +16561,7 @@ fe80::1%lo0 localhost
 0.0.0.0 xxx3dvideo.com
 0.0.0.0 xxxdatinglocal.us
 0.0.0.0 xxxguitars.com
+0.0.0.0 xxxkaz.org
 0.0.0.0 xxxnaked.nu
 0.0.0.0 xxxnatelefon.ru
 0.0.0.0 xxxrus.org
@@ -16648,6 +16657,8 @@ fe80::1%lo0 localhost
 0.0.0.0 yourothersite.com
 0.0.0.0 yourpage.blazenet.net
 0.0.0.0 yourpagesupdale.cf
+0.0.0.0 yourporn.com
+0.0.0.0 yourporngay.com
 0.0.0.0 yoursearch.me
 0.0.0.0 yourseniorapartments.com
 0.0.0.0 yoursite.com
@@ -34099,7 +34110,7 @@ fe80::1%lo0 localhost
 
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
 
-#         Last updated: Thu, 26 Oct 17 13:51:30 +0000      #
+#         Last updated: Mon, 04 Dec 17 19:18:42 +0000      #
 
 
 
@@ -34156,7 +34167,6 @@ fe80::1%lo0 localhost
 0.0.0.0 artsconsortium.org
 0.0.0.0 asham.tourstogo.us
 0.0.0.0 associatesexports.com
-0.0.0.0 atelierprincesse.web.fc2.com
 0.0.0.0 atlcourier.com
 0.0.0.0 atyss.barginginfrance.net
 0.0.0.0 avokka.com
@@ -34191,7 +34201,6 @@ fe80::1%lo0 localhost
 0.0.0.0 buildviet.info
 0.0.0.0 by98.com
 0.0.0.0 cacl.fr
-0.0.0.0 caclclo.web.fc2.com
 0.0.0.0 callingcardsinstantly.com
 0.0.0.0 cannabislyric.com
 0.0.0.0 cannabispicture.com
@@ -34230,7 +34239,6 @@ fe80::1%lo0 localhost
 0.0.0.0 decrolyschool.be
 0.0.0.0 deleondeos.com
 0.0.0.0 deletespyware-adware.com
-0.0.0.0 dent-lux.com.pl
 0.0.0.0 destre45.com
 0.0.0.0 dev.wrathofshadows.net
 0.0.0.0 dianepiette.co.uk
@@ -34369,12 +34377,10 @@ fe80::1%lo0 localhost
 0.0.0.0 iwgtest.co.uk
 0.0.0.0 iwhab.randbinternationaltravel.com
 0.0.0.0 ixoox.csheaven.com
-0.0.0.0 izeselet.hu
 0.0.0.0 izzy-cars.nl
 0.0.0.0 jeanlesigne.com
 0.0.0.0 jeansvixens.com
 0.0.0.0 jessisjewels.com
-0.0.0.0 jktdc.in
 0.0.0.0 js.tongji.linezing.com
 0.0.0.0 jstaikos.com
 0.0.0.0 jue0jc.lukodorsai.info
@@ -34515,7 +34521,6 @@ fe80::1%lo0 localhost
 0.0.0.0 oshoo.iptvdeals.com
 0.0.0.0 otylkaaotesanek.cz
 0.0.0.0 outporn.com
-0.0.0.0 ozzysixsixsix.web.fc2.com
 0.0.0.0 pacan.gofreedom.info
 0.0.0.0 pacman.gkgar.com
 0.0.0.0 pave.elisecries.com
@@ -34702,6 +34707,7 @@ fe80::1%lo0 localhost
 0.0.0.0 teprom.it
 0.0.0.0 terem.eltransbt.ro
 0.0.0.0 textsex.tk
+0.0.0.0 textspeier.de
 0.0.0.0 thcextractor.com
 0.0.0.0 thcvaporizer.com
 0.0.0.0 thefxarchive.com
@@ -34845,7 +34851,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.daspar.net
 0.0.0.0 www.del-marine.com
 0.0.0.0 www.dezuiderwaard.nl
-0.0.0.0 www.divshare.com
 0.0.0.0 www.donneuropa.it
 0.0.0.0 www.downloaddirect.com
 0.0.0.0 www.drteachme.com
@@ -34990,7 +34995,7 @@ fe80::1%lo0 localhost
 
 #**********************************************************#
 
-# -------------- Updated: September-15-2017 -------------- #
+# -------------- Updated: November-30-2017 --------------- #
 
 #**********************************************************#
 
@@ -35137,8 +35142,6 @@ fe80::1%lo0 localhost
 0.0.0.0 img.admaster.net
 0.0.0.0 admedia.com
 0.0.0.0 w.admedia.com
-0.0.0.0 admedien.com
-0.0.0.0 www.admedien.com
 0.0.0.0 apps.admission.net
 0.0.0.0 appcache.admission.net
 0.0.0.0 dt.admission.net
@@ -35303,7 +35306,6 @@ fe80::1%lo0 localhost
 0.0.0.0 openx.ajur.info
 0.0.0.0 adlik2.akavita.com
 0.0.0.0 spotxchange-a.akamaihd.net
-0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 all2lnk.com
 0.0.0.0 ads.allaccess.com.ph
 0.0.0.0 adcontent2.allaccess.com.ph
@@ -35641,7 +35643,6 @@ fe80::1%lo0 localhost
 0.0.0.0 vstats.digitaltrends.com
 0.0.0.0 st.directadvert.ru
 0.0.0.0 www.directadvert.ru
-0.0.0.0 ai.direct-software.com
 0.0.0.0 aserve.directorym.com
 0.0.0.0 cache.directorym.com
 0.0.0.0 www.direct-stats.com
@@ -35691,7 +35692,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.eccentrix.com
 0.0.0.0 c.ecliks.com
 0.0.0.0 webstats.eco.de
-0.0.0.0 ad.econet.hu
 0.0.0.0 b.economedia.bg
 0.0.0.0 ad.ecplaza.net
 0.0.0.0 ads.ecrush.com
@@ -35870,7 +35870,6 @@ fe80::1%lo0 localhost
 0.0.0.0 truehits3.gits.net.th
 0.0.0.0 www17-orig.glam.com
 0.0.0.0 www30a6-orig.glam.com
-0.0.0.0 insert.gloadmarket.com
 0.0.0.0 promotools.globalmailer.com
 0.0.0.0 promotools3.globalmailer.com
 0.0.0.0 promotools4.globalmailer.com
@@ -35884,7 +35883,6 @@ fe80::1%lo0 localhost
 0.0.0.0 c.gmtrack.com
 0.0.0.0 affiliate.gmtracker.com
 0.0.0.0 adserver2.goals365.com
-0.0.0.0 ads.godlikeproductions.com
 0.0.0.0 counter.goingup.com
 0.0.0.0 www.goldadvert.cz
 0.0.0.0 js-at.goldbach.com
@@ -35905,10 +35903,6 @@ fe80::1%lo0 localhost
 0.0.0.0 de.grmtech.net
 0.0.0.0 www.grmtech.net
 0.0.0.0 tracker.gtarcade.com
-0.0.0.0 fx.gtop.ro
-0.0.0.0 static.gtop.ro
-0.0.0.0 www.gtop.ro
-0.0.0.0 fx.gtopstats.com
 0.0.0.0 ads.gumgum.com
 0.0.0.0 c.gumgum.com
 0.0.0.0 cdn.gumgum.com
@@ -35994,7 +35988,6 @@ fe80::1%lo0 localhost
 # 0.0.0.0 mpsnare.iesnare.com #[affects westernunion.com]
 
 0.0.0.0 adsrv2.ihlassondakika.com
-0.0.0.0 stats.surfaid.ihost.com
 0.0.0.0 k.iinfo.cz
 0.0.0.0 script.ioam.de
 0.0.0.0 adserver.ilmessaggero.it
@@ -36015,7 +36008,6 @@ fe80::1%lo0 localhost
 0.0.0.0 optimize.indieclick.com
 0.0.0.0 aff.indirdik.com
 0.0.0.0 ads.indexinfo.org
-0.0.0.0 adcenter.in2.com
 0.0.0.0 banners.inetfast.com
 0.0.0.0 inetlog.ru
 0.0.0.0 ads.inews.bg
@@ -36090,7 +36082,7 @@ fe80::1%lo0 localhost
 0.0.0.0 site.johnlewis.com
 0.0.0.0 www.jouwstats.nl
 0.0.0.0 www.jscount.com
-# 0.0.0.0 cdn.jsdelivr.net
+# 0.0.0.0 cdn.jsdelivr.net #[affects spireenergy.com]
 
 0.0.0.0 stats.jtvnw.net
 0.0.0.0 ck.juicyads.com
@@ -36170,7 +36162,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.linkconnector.com
 0.0.0.0 content.linkoffers.net
 0.0.0.0 track.linkoffers.net
-0.0.0.0 linksexchange.net
 0.0.0.0 ad.linkstorms.com
 0.0.0.0 www.linkworth.com
 0.0.0.0 gr.linkwi.se
@@ -36202,7 +36193,6 @@ fe80::1%lo0 localhost
 0.0.0.0 gwb.lphbs.com
 0.0.0.0 gwc.lphbs.com
 0.0.0.0 gwd.lphbs.com
-0.0.0.0 adsy.lsipack.com
 0.0.0.0 is.luxup.ru
 # [M]
 
@@ -36258,6 +36248,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.metavertising.com
 0.0.0.0 ads.mezimedia.com
 0.0.0.0 mdctrail.com
+0.0.0.0 wsp.mgid.com
 0.0.0.0 pubs.mgn.net
 0.0.0.0 beacon.mhtr.be
 0.0.0.0 ads.miarroba.com
@@ -36348,7 +36339,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.netinfo.bg
 0.0.0.0 adv.netinfo.bg
 0.0.0.0 stat.netinfocompany.bg
-0.0.0.0 tracker.netklix.com
 0.0.0.0 ads.ads.netlog.com
 0.0.0.0 pool.ads.netlog.com
 0.0.0.0 script.netminers.dk
@@ -36378,13 +36368,10 @@ fe80::1%lo0 localhost
 0.0.0.0 ngastatic.com
 0.0.0.0 adserve5.nikkeibp.co.jp
 0.0.0.0 bizad.nikkeibp.co.jp
-0.0.0.0 www.nlbanner.nl
 0.0.0.0 banner.nonstoppartner.de
 0.0.0.0 counter.nope.dk
 0.0.0.0 ads.nordichardware.com
 0.0.0.0 ads.nordichardware.se
-0.0.0.0 ads.novinar.bg
-0.0.0.0 adv.novinar.bg
 0.0.0.0 ads.novsport.com
 0.0.0.0 ad1.nownews.com
 0.0.0.0 www.nowstat.com
@@ -36585,7 +36572,6 @@ fe80::1%lo0 localhost
 0.0.0.0 l1.cdn.qnsr.com
 0.0.0.0 qualityporn.biz
 0.0.0.0 siteinterceptco1.qualtrics.com
-0.0.0.0 reports.quisma.com
 0.0.0.0 tracking.quisma.com
 0.0.0.0 adping.qq.com
 0.0.0.0 adsrich.qq.com
@@ -36617,7 +36603,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.rediff.com
 0.0.0.0 adworks.rediff.com
 0.0.0.0 imadworks.rediff.com
-0.0.0.0 redirectid.ru
 0.0.0.0 redirectcpv.com
 0.0.0.0 js.ua.redtram.com
 0.0.0.0 n4p.ua.redtram.com
@@ -36639,7 +36624,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.reviewcentre.com
 0.0.0.0 rem.rezonmedia.eu
 0.0.0.0 p.rfihub.com
-0.0.0.0 rgzpseubgxho.com
 0.0.0.0 sync.rhythmxchange.com
 0.0.0.0 richmedia247.com
 0.0.0.0 stat.ringier.cz
@@ -36655,7 +36639,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tex-sync.rockyou.net
 0.0.0.0 ads.rohea.com
 0.0.0.0 ads.rol.ro
-0.0.0.0 banners.romania-insider.com
 0.0.0.0 adcode.rontar.com
 0.0.0.0 laurel.rovicorp.com
 0.0.0.0 gbjfc.rsvpgenius.com
@@ -36693,7 +36676,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.sapo.pt
 0.0.0.0 pub.sapo.pt
 0.0.0.0 adserver.saxonsoft.hu
-0.0.0.0 beacon.saymedia.com
 0.0.0.0 app.scanscout.com
 0.0.0.0 dt.scanscout.com
 0.0.0.0 media.scanscout.com
@@ -36795,7 +36777,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.stats.in.th
 0.0.0.0 www.statsector.hu
 0.0.0.0 www.steamtraffic.com
-0.0.0.0 ads001.stickam.com
 0.0.0.0 js.stormiq.com
 0.0.0.0 t1.stormiq.com
 0.0.0.0 analytics.strangeloopnetworks.com
@@ -36901,7 +36882,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.topsiteguide.com
 0.0.0.0 www.topsiteuri.ro
 0.0.0.0 ads.topwam.com
-0.0.0.0 ads.torrpedo.net
 0.0.0.0 cdn.total-media.net
 0.0.0.0 ams.toxity.biz
 0.0.0.0 www.tr100.net
@@ -37082,14 +37062,12 @@ fe80::1%lo0 localhost
 0.0.0.0 aa.voice2page.com
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 ads.vporn.com
-0.0.0.0 ads.vreme.bg
 0.0.0.0 banner.vrs.cz
 0.0.0.0 www.vstats.net
 # [W]
 
 0.0.0.0 delivery.w00tads.com
 0.0.0.0 ads.w3hoster.de
-0.0.0.0 fus.walla.co.il
 0.0.0.0 beacon.walmart.ca
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.affil.walmart.com
@@ -37138,7 +37116,6 @@ fe80::1%lo0 localhost
 0.0.0.0 track.wesell.co.il
 0.0.0.0 delivery.switch.whatculture.com
 0.0.0.0 ads.whitelabelpros.com
-0.0.0.0 whometrics.net
 0.0.0.0 whosread.com
 0.0.0.0 wikia-ads.wikia.com
 0.0.0.0 a.wikia-beacon.com
@@ -37305,13 +37282,11 @@ fe80::1%lo0 localhost
 0.0.0.0 uidbox.uimserv.net
 # [1&1 Internet][AS8560][74.208.0.0 - 74.208.191.255]
 
-0.0.0.0 www.elementnetwork.com
 0.0.0.0 ads.emqus.com
 0.0.0.0 server.siteamplifier.net
 # [1&1 Internet][AS8560][82.165.192.0 - 82.165.199.255]
 
 0.0.0.0 www.countok.de
-0.0.0.0 collect.evisitanalyst.com
 # [1&1 Internet][AS8560][87.106.16.0 - 87.106.31.255]
 
 0.0.0.0 www.adranking.de
@@ -37731,7 +37706,6 @@ fe80::1%lo0 localhost
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads2-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 agevs.com
 0.0.0.0 spots.ah-me.com
 0.0.0.0 alfatraffic.com
 0.0.0.0 www.antaraimedia.com
@@ -37823,7 +37797,8 @@ fe80::1%lo0 localhost
 0.0.0.0 a.bf-ad.net
 0.0.0.0 ssum.casalemedia.com
 0.0.0.0 ade.clmbtech.com
-0.0.0.0 dap.digitalgov.gov
+# 0.0.0.0 dap.digitalgov.gov #[Universal Federated Analytics]
+
 0.0.0.0 rainbow-de.mythings.com
 0.0.0.0 rainbow-es.mythings.com
 0.0.0.0 rainbow-fi.mythings.com
@@ -38072,7 +38047,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ma156-r.analytics.edgesuite.net
 0.0.0.0 cdn.siteanalytics.evolvemediametrics.com
 0.0.0.0 media.ftv-publicite.fr
-0.0.0.0 dl.futureus.com
 0.0.0.0 a.giantrealm.com
 0.0.0.0 www30a5.glam.com
 0.0.0.0 hs.interpolls.com
@@ -38206,9 +38180,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tracking.optimatic.com
 0.0.0.0 log3.optimizely.com
 0.0.0.0 config.parsely.com
-0.0.0.0 crm.pinion.gg
-0.0.0.0 docs.pinion.gg
-0.0.0.0 kermit.pinion.gg
 0.0.0.0 log.pinion.gg
 0.0.0.0 motd.pinion.gg
 0.0.0.0 tix.pinion.gg
@@ -38234,7 +38205,6 @@ fe80::1%lo0 localhost
 0.0.0.0 beacon.tracelytics.com
 0.0.0.0 ads.tracking202.com
 0.0.0.0 rtd.tubemogul.com
-0.0.0.0 ats.tumri.net
 0.0.0.0 w.usabilla.com
 0.0.0.0 pixel.watch
 0.0.0.0 tracking.websitealive.com
@@ -38340,7 +38310,6 @@ fe80::1%lo0 localhost
 
 0.0.0.0 ads.adhub.co.nz
 0.0.0.0 www.adtaily.com
-0.0.0.0 aslads.ask.com
 0.0.0.0 s.btstatic.com
 0.0.0.0 a.company-target.com
 0.0.0.0 hits.epochstats.com
@@ -38358,8 +38327,6 @@ fe80::1%lo0 localhost
 0.0.0.0 r.openx.net
 0.0.0.0 delivery.optimatic.com
 0.0.0.0 u.optorb.com
-0.0.0.0 clicks.pureleads.com
-0.0.0.0 hitbox.realclearpolitics.com
 0.0.0.0 pixel.realtor.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 howler.shareaholic.com
@@ -38536,7 +38503,8 @@ fe80::1%lo0 localhost
 0.0.0.0 www.barilliance.net
 0.0.0.0 srv.clickfuse.com
 0.0.0.0 baublebar.sp1.convertro.com
-0.0.0.0 api.demandbase.com
+# 0.0.0.0 api.demandbase.com #[affects Ringcentral]
+
 0.0.0.0 a.dpmsrv.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 beacon.examiner.com
@@ -38574,7 +38542,6 @@ fe80::1%lo0 localhost
 0.0.0.0 lt.retargeter.com
 0.0.0.0 collect.rewardstyle.com
 0.0.0.0 mrp.rubiconproject.com
-0.0.0.0 zeroclick.sendori.com
 0.0.0.0 reporting.singlefeed.com
 0.0.0.0 go.sonobi.com
 0.0.0.0 sync.search.spotxchange.com
@@ -38674,8 +38641,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.chucklefunhead.com
 0.0.0.0 www.chuckledeliveryhosting.com
 0.0.0.0 ing-district.clicktale.net
-0.0.0.0 www.conecptpackagecycle.com
-0.0.0.0 www.conceptsbyteupdate.com
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 djibeacon.dowjoneson.com
 0.0.0.0 c.f5mtrack.com
@@ -38688,7 +38653,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.nowgifttown.com
 0.0.0.0 land.pckeeper.software
 0.0.0.0 www.quickbitsdownloads.com
-0.0.0.0 www.stockhostingvault.com
 0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 www.tagzone.site
 0.0.0.0 adserve-east.technologygeeks.com
@@ -38729,11 +38693,9 @@ fe80::1%lo0 localhost
 # [Amazon.com][AS14618][54.144.0.0 - 54.159.255.255]
 
 0.0.0.0 t.adk2.com
-0.0.0.0 adrzr.com
 0.0.0.0 www.applicationsflashbinaries.com
 0.0.0.0 www.bitsfarmclean.com
 0.0.0.0 www.bitspresentdownload.com
-0.0.0.0 www.bitstagcontent.com
 0.0.0.0 www.bundlerepositorycontent.com
 0.0.0.0 www.guardcyclequick.com
 0.0.0.0 www.megagiftcity.com
@@ -38778,8 +38740,6 @@ fe80::1%lo0 localhost
 0.0.0.0 match.xg4ken.com
 # [Amazon.com][AS16509][54.192.0.0 - 54.207.255.255]
 
-0.0.0.0 ad132m.adpdx.com
-0.0.0.0 cdn.adpdx.com
 0.0.0.0 admtpmp127.adsk2.co
 0.0.0.0 adplexmedia.adk2.co
 0.0.0.0 ad.adsrvr.org
@@ -38792,6 +38752,7 @@ fe80::1%lo0 localhost
 0.0.0.0 promotions.betfred.com
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 tag.bounceexchange.com
+0.0.0.0 d1jikhx1ssl81z.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d2vg62nuq66wql.cloudfront.net
@@ -38863,7 +38824,6 @@ fe80::1%lo0 localhost
 0.0.0.0 banners.moreniche.com
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 odds.optimizely.com
-0.0.0.0 c.pinkvisit.com
 0.0.0.0 api.revcontent.com
 0.0.0.0 bomcl.richmetrics.com
 0.0.0.0 seb.scorecardresearch.com
@@ -38880,7 +38840,6 @@ fe80::1%lo0 localhost
 
 0.0.0.0 s.206ads.com
 0.0.0.0 ib.3lift.com
-0.0.0.0 ad130m.adpdx.com
 0.0.0.0 optimize.adpushup.com
 0.0.0.0 ads-stream.com
 0.0.0.0 js.apxlv.com
@@ -38938,7 +38897,6 @@ fe80::1%lo0 localhost
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0 dff7tx5c2qbxc.cloudfront.net
-0.0.0.0 rec.convertale.com
 0.0.0.0 cdn-1.convertexperiments.com
 0.0.0.0 use.convertglobal.com
 0.0.0.0 casper.sp1.convertro.com
@@ -38946,7 +38904,8 @@ fe80::1%lo0 localhost
 0.0.0.0 magazines.sp1.convertro.com
 0.0.0.0 p.cpx.to
 0.0.0.0 admp-tc.delfi.lv
-0.0.0.0 scripts.demandbase.com
+# 0.0.0.0 scripts.demandbase.com #[affects ringcentral.com]
+
 0.0.0.0 intbrands.t.domdex.com
 0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 cdn.directrev.com
@@ -39231,7 +39190,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.livepromotools.com
 0.0.0.0 a.monetate.net
 0.0.0.0 click.searchnation.net
-0.0.0.0 ariel1.spaceprogram.com
 0.0.0.0 revelations.trovus.co.uk
 0.0.0.0 ev.yieldbuild.com
 # [Amazon.com][AS39111][79.125.0.0 - 79.125.63.255]
@@ -39334,7 +39292,6 @@ fe80::1%lo0 localhost
 0.0.0.0 free.aol.com
 0.0.0.0 ar.atwola.com
 0.0.0.0 ar7.atwola.com
-0.0.0.0 tacoda.at.atwola.com
 # [America Online][AS1668][207.200.64.0 - 207.200.127.255]
 
 0.0.0.0 ums.adtechus.com
@@ -39352,7 +39309,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ar9.atwola.com
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 pr.atwola.com
-0.0.0.0 uts-api.at.atwola.com
 0.0.0.0 adserver.fixionmedia.com
 0.0.0.0 ads.patch.com
 # [America Online][AS1668][64.236.0.0 - 64.236.255.255]
@@ -39525,7 +39481,6 @@ fe80::1%lo0 localhost
 # [AppNexus / Bandcon][AS29990][8.19.16.0 - 8.19.31.255]
 
 0.0.0.0 ads.brand.net
-0.0.0.0 px.admonkey.dapper.net
 0.0.0.0 load.exelator.com
 0.0.0.0 ad.himediadx.com
 0.0.0.0 action.mathtag.com
@@ -39677,10 +39632,6 @@ fe80::1%lo0 localhost
 # [Bay Area / Veruta][AS7151][72.172.176.0 - 72.172.191.255]
 
 0.0.0.0 adserver.veruta.com
-# [Bay Area / Tumri][AS7151][72.20.120.0 - 72.20.120.255]
-
-0.0.0.0 images.tumri.net
-0.0.0.0 www.tumri.net
 # [Beanfield][AS21949][206.223.160.0 - 206.223.191.255]
 
 0.0.0.0 ard.sexplaycam.com
@@ -39804,7 +39755,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.publicdisgrace.com
 0.0.0.0 ads.sexandsubmission.com
 0.0.0.0 ads.thetrainingofo.com
-0.0.0.0 ads.ultimatesurrender.com
 0.0.0.0 ads.whippedass.com
 # [Blinkx][AS14743][69.25.102.0 - 69.25.102.255]
 
@@ -40110,23 +40060,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.oofun.com
 0.0.0.0 00fun.com
 0.0.0.0 www.00fun.com
-# [Cassava Enterprises]
-
-0.0.0.0 chat.888.com
-0.0.0.0 images.888.com
-0.0.0.0 setupspcp1.888.com
-0.0.0.0 www.888.com
-0.0.0.0 casino-on-net.com
-0.0.0.0 demogwa.casino-on-net.com
-0.0.0.0 images.casino-on-net.com
-0.0.0.0 java2.casino-on-net.com
-0.0.0.0 www.casino-on-net.com
-0.0.0.0 www.casinoonnet.com
-0.0.0.0 download1.pacificpoker.com
-0.0.0.0 images.pacificpoker.com
-0.0.0.0 playersclub.reefclubcasino.com
-0.0.0.0 www.pacificpoker.com
-0.0.0.0 www.reefclubcasino.com
 # [Castle Access][AS22489][69.43.160.0 - 69.43.160.255]
 
 0.0.0.0 www.needmorehits.com
@@ -40333,14 +40266,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwcultofmaccom.skimlinks.com
 0.0.0.0 xmarkscom.skimlinks.com
 0.0.0.0 s.skimresources.com
-# [ClearBlue / Connors Communications][AS5067][168.75.0.0 - 168.75.255.255]
-
-0.0.0.0 bh.contextweb.com
-0.0.0.0 cdslog.contextweb.com
-0.0.0.0 media.contextweb.com
-0.0.0.0 tag.contextweb.com
-# [ClearBlue][AS5067][AS5061][204.168.0.0 - 204.168.255.255]
-
 # [Clickability][AS14393][208.80.56.0 - 208.80.59.255]
 
 0.0.0.0 btn.clickability.com
@@ -40388,7 +40313,6 @@ fe80::1%lo0 localhost
 0.0.0.0 us-tracker.inside-graph.com
 0.0.0.0 embed.insticator.com
 0.0.0.0 ju2g8tzj.com
-0.0.0.0 ads.kickasstorrents.video
 0.0.0.0 ads.mmediatags.com
 0.0.0.0 ssl.mousestats.com
 0.0.0.0 multioptik.com
@@ -40610,13 +40534,11 @@ fe80::1%lo0 localhost
 0.0.0.0 qlipso.checkm8.com
 0.0.0.0 sagedigital.checkm8.com
 0.0.0.0 creative.clicksor.com
-0.0.0.0 stat.designntrend.com
 0.0.0.0 ppc-parked.domainsite.com
 0.0.0.0 vcontent.e-messenger.net
 0.0.0.0 ads.financialcontent.com
 0.0.0.0 adserver.finditquick.com
 0.0.0.0 partner.finditquick.com
-0.0.0.0 fwdbreuse.xyz
 0.0.0.0 id3103.com
 0.0.0.0 ad.internetradioinc.com
 0.0.0.0 click.linkstattrack.com
@@ -40827,7 +40749,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.traficmax.fr
 # [Cyberwebhosting][AS8893][212.72.183.0 - 212.72.183.255]
 
-0.0.0.0 www.deltahost.de
 0.0.0.0 www.gratis-toplist.de
 # [Cybernet Quest]
 
@@ -40905,7 +40826,6 @@ fe80::1%lo0 localhost
 
 # [Datapipe][AS24043][122.200.132.0 - 122.200.135.255]
 
-0.0.0.0 ads.atomex.net
 0.0.0.0 sync.atomex.net
 0.0.0.0 trk.atomex.net
 # [DataPipe][AS22205][206.188.0.0 - 206.188.31.255]
@@ -41113,7 +41033,6 @@ fe80::1%lo0 localhost
 
 0.0.0.0 ads.dkelseymedia.com
 0.0.0.0 www.superbanner.org
-0.0.0.0 traffk.info
 # [Dwd Technologies][AS46173][208.92.160.0 - 208.92.167.255]
 
 # [e Machines / Quinstreet][AS25878][70.42.22.0 - 70.42.23.255]
@@ -41377,6 +41296,14 @@ fe80::1%lo0 localhost
 # [Fast It Colocation][AS24961][89.163.128.0 - 89.163.255.255]
 
 0.0.0.0 xpl.theadex.com
+# [Fastly][AS54113][151.101.0.0 - 151.101.255.255]
+
+0.0.0.0 bh.contextweb.com
+0.0.0.0 bid.contextweb.com
+0.0.0.0 cdslog.contextweb.com
+0.0.0.0 media.contextweb.com
+0.0.0.0 tag.contextweb.com
+0.0.0.0 tag-st.contextweb.com
 # [Fdcservers.net][AS30058][208.53.128.0 - 208.53.191.255]
 
 # [Fdcservers.net / Acceas Partners][66.90.64.0 - 66.90.127.255]
@@ -41862,7 +41789,6 @@ fe80::1%lo0 localhost
 
 # [Godaddy.com][AS26496][107.180.0.0 - 107.180.127.255]
 
-0.0.0.0 kajnsdjk.info
 # [Godaddy.com][AS26496][118.0.0.0 - 118.255.255.255]
 
 # [Godaddy.com][AS26496][162.209.0.0 - 162.209.127.255]
@@ -41912,7 +41838,6 @@ fe80::1%lo0 localhost
 0.0.0.0 clic2pub.adk2x.com
 0.0.0.0 gotagy.adk2x.com
 0.0.0.0 hlamedia.adk2x.com
-0.0.0.0 p.adpdx.com
 0.0.0.0 static-trackers.adtarget.me
 0.0.0.0 www.buzzadnetwork.com
 0.0.0.0 www.buzzonclick.com
@@ -41995,6 +41920,8 @@ fe80::1%lo0 localhost
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 4053494.fls.doubleclick.net
 0.0.0.0 4236808.fls.doubleclick.net
+# 0.0.0.0 www.googletagmanager.com #[affects ASUS]
+
 # [Google / DoubleClick][AS6432][216.73.80.0 - 216.73.95.255]
 
 0.0.0.0 www3.webhostingtalk.com
@@ -42169,10 +42096,14 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.sitelement.sk
 # [Hanaro Telecom][AS9318][114.200.0.0 - 114.207.255.255]
 
+# [Hetzner][AS24940][136.243.0.0 - 136.243.255.255]
+
+0.0.0.0 ws024.coin-hive.com
 # [Hetzner][AS24940][144.76.0.0 - 144.76.255.255]
 
 0.0.0.0 www.adylalahb.ru
 0.0.0.0 c.am11.ru
+0.0.0.0 ws031.coin-hive.com
 0.0.0.0 ads.gadget.ro
 0.0.0.0 cdn.iqcontentplatform.de
 0.0.0.0 l.lp4.io
@@ -42191,6 +42122,7 @@ fe80::1%lo0 localhost
 # [Hetzner][AS24940][176.9.0.0 - 176.9.255.255]
 
 0.0.0.0 adsfeed3.brabys.co.za
+0.0.0.0 ws028.coin-hive.com
 0.0.0.0 advertising.fussball-liveticker.eu
 0.0.0.0 adv.medicine.bg
 0.0.0.0 delivery1.topad.mobi
@@ -42202,7 +42134,6 @@ fe80::1%lo0 localhost
 0.0.0.0 us-sonar.sociomantic.com
 0.0.0.0 adserver.spritmonitor.de
 0.0.0.0 xblasterads1.com
-0.0.0.0 yieldads.com
 # [Hetzner][AS24940][178.63.0.0 - 178.63.255.255]
 
 0.0.0.0 scambiobanner.altervista.org
@@ -42278,7 +42209,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad10.play3.de
 # [Hetzner][AS24940][85.10.192.0 - 85.10.207.255]
 
-0.0.0.0 scripts.conversionattribution.com
 0.0.0.0 banner.finzoom.ro
 # [Hetzner][AS24940][88.198.0.0 - 88.198.255.255]
 
@@ -42291,7 +42221,16 @@ fe80::1%lo0 localhost
 0.0.0.0 wm-goldenclick.ru
 # [Hetzner][AS24940][88.99.0.0 - 88.99.255.255]
 
+0.0.0.0 ws023.coin-hive.com
 0.0.0.0 tracking.retargeting.biz
+# [Hetzner][AS24940][94.130.0.0 - 94.130.255.255]
+
+0.0.0.0 ws017.coin-hive.com
+0.0.0.0 ws022.coin-hive.com
+0.0.0.0 ws025.coin-hive.com
+0.0.0.0 ws026.coin-hive.com
+0.0.0.0 ws027.coin-hive.com
+0.0.0.0 ws032.coin-hive.com
 # [Hi-media][AS45050][195.158.240.0 - 195.158.241.255]
 
 0.0.0.0 br.comclick.com
@@ -43014,7 +42953,6 @@ fe80::1%lo0 localhost
 # [Internet4you][AS29014][93.92.128.0 - 93.92.135.255]
 
 0.0.0.0 containertags.belboon.de
-0.0.0.0 adserver-live.yoc.mobi
 # [Internet Billboard][AS5588][194.213.62.32 - 194.213.62.47]
 
 0.0.0.0 go.goldbachpoland.bbelements.com
@@ -43698,7 +43636,6 @@ fe80::1%lo0 localhost
 0.0.0.0 http100.content.ru4.com
 0.0.0.0 http300.content.ru4.com
 0.0.0.0 http.content.ru4.com
-0.0.0.0 bcbb.rubiconproject.com
 0.0.0.0 beacon-us-iad2.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 pixel-us-west.rubiconproject.com
@@ -44311,7 +44248,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.broadspring.com
 0.0.0.0 api.content.ad
 0.0.0.0 partners.content.ad
-0.0.0.0 xml.intelligenttrafficsystem.com
 0.0.0.0 adserver.matchcraft.com
 # [Net2ez / Privatesystems][AS558][67.222.0.0 - 67.222.31.255]
 
@@ -44644,7 +44580,6 @@ fe80::1%lo0 localhost
 0.0.0.0 mini.activeshopper.com
 0.0.0.0 mobile.activeshopper.com
 0.0.0.0 uk.activeshopper.com
-0.0.0.0 ads2.mediashakers.com
 # [Nforce][77.247.178.0 - 77.247.178.255]
 
 0.0.0.0 admez.com
@@ -44846,7 +44781,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ip.nuggad.net
 0.0.0.0 jpdk.nuggad.net
 0.0.0.0 jobzdk.nuggad.net
-0.0.0.0 jubdk.nuggad.net
 0.0.0.0 krone.nuggad.net
 0.0.0.0 medienhaus.nuggad.net
 0.0.0.0 mobilede.nuggad.net
@@ -45020,7 +44954,6 @@ fe80::1%lo0 localhost
 0.0.0.0 omni.csc.com
 0.0.0.0 metrics.csmonitor.com
 0.0.0.0 metrics.ctv.ca
-0.0.0.0 metrics.dailymotion.com
 0.0.0.0 metrics.dailystrength.org
 0.0.0.0 metrics.dallasnews.com
 0.0.0.0 nsm.dell.com
@@ -45282,7 +45215,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cs.montrealplus.ca
 0.0.0.0 a.networkworld.com
 0.0.0.0 a.pcpro.co.uk
-0.0.0.0 a.pokerplayermagazine.co.uk
 0.0.0.0 c.realtytrac.com
 0.0.0.0 a.shop.com
 0.0.0.0 a.spicetv.com
@@ -45411,6 +45343,7 @@ fe80::1%lo0 localhost
 0.0.0.0 stroer-d.openx.net
 0.0.0.0 suntimes-d.openx.net
 0.0.0.0 tango-d.openx.net
+0.0.0.0 thechive-d.openx.net
 0.0.0.0 thehill-d.openx.net
 0.0.0.0 titangate-d.openx.net
 0.0.0.0 topix-d.openx.net
@@ -45592,7 +45525,6 @@ fe80::1%lo0 localhost
 # [Ovh Sas][213.186.33.0 - 213.186.33.255]
 
 0.0.0.0 static.canalstat.com
-0.0.0.0 www.geoworldonline.com
 0.0.0.0 metriweb.be
 # [Ovh Sas / Eurobarre][213.186.49.64 - 213.186.49.79]
 
@@ -45606,7 +45538,6 @@ fe80::1%lo0 localhost
 0.0.0.0 eu1.heatmap.it
 0.0.0.0 oxybe.com
 0.0.0.0 pubted.com
-0.0.0.0 ucoxa.work
 # [Ovh Sas][37.59.0.0 - 37.59.63.255]
 
 0.0.0.0 www.frameptp.com
@@ -45670,10 +45601,8 @@ fe80::1%lo0 localhost
 0.0.0.0 hit.reference-sexe.com
 0.0.0.0 tracker.squidanalytics.com
 0.0.0.0 ads.stickyadstv.com
-0.0.0.0 script.yeb.biz
 # [Ovh Sas][AS16276][94.23.0.0 - 94.23.63.255]
 
-0.0.0.0 fr.1sponsor.com
 0.0.0.0 adv.440network.com
 0.0.0.0 fr.cim.clickintext.net
 0.0.0.0 fr.slidein.clickintext.net
@@ -45698,7 +45627,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cdn.amgdgt.com
 0.0.0.0 media.baventures.com
 0.0.0.0 js.bizographics.com
-0.0.0.0 rkcache.brandreachsys.com
 0.0.0.0 s.clicktale.net
 0.0.0.0 images.ddc.com
 0.0.0.0 cdn.firstlook.com
@@ -45844,7 +45772,6 @@ fe80::1%lo0 localhost
 0.0.0.0 members.sexroulette.com
 # [Peer 1][70.33.192.0 - 70.33.255.255]
 
-0.0.0.0 www.ab4tn.com
 0.0.0.0 bb.o2.eyereturn.com
 0.0.0.0 musicmembersarea.com
 # [Peer 1][AS13768][72.51.0.0 - 72.51.63.255]
@@ -45856,7 +45783,6 @@ fe80::1%lo0 localhost
 0.0.0.0 geo.connexionsecure.com
 0.0.0.0 eyereact.eyereturn.com
 0.0.0.0 o2.eyereturn.com
-0.0.0.0 timespent.eyereturn.com
 0.0.0.0 voken.eyereturn.com
 0.0.0.0 geo.hyperlinksecure.com
 0.0.0.0 ads.linuxjournal.com
@@ -45904,7 +45830,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cdns.amgdgt.com
 # [Pilosoft][AS26627][69.172.128.0 - 69.172.143.255]
 
-0.0.0.0 topcounts.com
 # [Pilosoft][AS26627][69.31.0.0 - 69.31.143.255]
 
 0.0.0.0 astalavista.box.sk
@@ -45924,15 +45849,7 @@ fe80::1%lo0 localhost
 # [PlusServer][AS8972][188.138.0.0 - 188.138.129.255]
 
 0.0.0.0 ox.forexbrokerz.com
-0.0.0.0 ad.lazynerd.info
 0.0.0.0 adv.p2pbg.com
-0.0.0.0 ad.philipstreehouse.info
-0.0.0.0 ad.sethads.info
-0.0.0.0 ad.theequalground.info
-0.0.0.0 pops.velmedia.net
-0.0.0.0 www.zlothonline.info
-0.0.0.0 ad.zoglafi.info
-0.0.0.0 ads.9mp.ro
 # [PlusServer / Server4you][AS8972][217.172.182.0 - 217.172.183.255]
 
 0.0.0.0 reviveads.faktor.bg
@@ -45961,7 +45878,6 @@ fe80::1%lo0 localhost
 0.0.0.0 openads.flagman.bg
 0.0.0.0 homedepot.cm
 0.0.0.0 www.klamm-counter.de
-0.0.0.0 promoserver.net
 0.0.0.0 scripts.psyma.com
 0.0.0.0 aff.summercart.com
 0.0.0.0 banners.tempobet.com
@@ -46160,7 +46076,6 @@ fe80::1%lo0 localhost
 
 # [Rackmy.com / Xiolink][AS27467][67.221.224.0 - 67.221.239.255]
 
-0.0.0.0 analytics.juggle.com
 # [Rackspace.com][AS19994][104.130.0.0 - 104.130.255.255]
 
 0.0.0.0 adtradradservices.com
@@ -46203,7 +46118,6 @@ fe80::1%lo0 localhost
 0.0.0.0 log.olark.com
 # [Rackspace.com][AS33070][174.143.0.0 - 174.143.255.255]
 
-0.0.0.0 adx.bixee.com
 0.0.0.0 banners.brinkin.com
 0.0.0.0 stats.buysellads.com
 0.0.0.0 zfhg.digitaldesire.com
@@ -46289,7 +46203,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.adfusion.com
 0.0.0.0 adreadytractions.com
 0.0.0.0 www.adversalservers.com
-0.0.0.0 clickgooroo.com
 0.0.0.0 bigapple.contextuads.com
 0.0.0.0 cowboy.contextuads.com
 0.0.0.0 loadus.exelator.com
@@ -46558,7 +46471,6 @@ fe80::1%lo0 localhost
 
 # [Savvis][AS3561][64.79.160.0 - 64.79.175.255]
 
-0.0.0.0 ads.fmwinc.com
 0.0.0.0 images.specificclick.net
 0.0.0.0 specificpop.com
 0.0.0.0 www.specificpop.com
@@ -46891,8 +46803,6 @@ fe80::1%lo0 localhost
 0.0.0.0 upstats.yadro.ru
 # [Sky-Media / Ooo Medialand][AS39134][88.212.200.0 - 88.212.200.127]
 
-0.0.0.0 100-100.ru
-0.0.0.0 www.100-100.ru
 0.0.0.0 business.lbn.ru
 0.0.0.0 www.business.lbn.ru
 0.0.0.0 fun.lbn.ru
@@ -47031,7 +46941,6 @@ fe80::1%lo0 localhost
 0.0.0.0 a.collective-media.net
 0.0.0.0 b.collective-media.net
 0.0.0.0 www.counters4u.com
-0.0.0.0 odin.goo.mx
 0.0.0.0 gostats.com
 0.0.0.0 c1.gostats.com
 0.0.0.0 c2.gostats.com
@@ -47077,7 +46986,6 @@ fe80::1%lo0 localhost
 # [Softlayer][50.116.64.0 - 50.97.255.255]
 
 0.0.0.0 probes.cedexis.com
-0.0.0.0 adplus.goo.mx
 0.0.0.0 www.klixmedia.com
 0.0.0.0 static.realmediadigital.com
 0.0.0.0 reseller.sexyads.com
@@ -47148,7 +47056,6 @@ fe80::1%lo0 localhost
 
 0.0.0.0 scripts.sophus3.com
 0.0.0.0 gm.touchclarity.com
-0.0.0.0 traffic.webtrafficagents.com
 # [Sovintel][AS3216][194.67.0.0 - 194.67.63.255]
 
 0.0.0.0 adv.aport.ru
@@ -47651,7 +47558,6 @@ fe80::1%lo0 localhost
 0.0.0.0 advertising.entensity.net
 # [Theplanet.com][70.84.0.0 - 70.87.255.255]
 
-0.0.0.0 www.1trac.com
 0.0.0.0 www.adscampaign.com
 0.0.0.0 www.adultdatelink.com
 0.0.0.0 www.atomictime.net
@@ -47779,7 +47685,6 @@ fe80::1%lo0 localhost
 
 # [Total Server][AS40426][208.78.40.0 - 208.78.43.255]
 
-0.0.0.0 api.instantdollarz.com
 # [Total Server][AS46562][208.93.192.0 - 208.93.195.255]
 
 # [Transoptics][AS36024][65.99.250.0 - 65.99.251.255]
@@ -47859,7 +47764,6 @@ fe80::1%lo0 localhost
 
 # [Uaonline / Real International][AS46636][88.214.192.0 - 88.214.255.255]
 
-0.0.0.0 ehho.com
 0.0.0.0 gbscript.com
 0.0.0.0 403.hqhost.net
 0.0.0.0 404.hqhost.net
@@ -48943,7 +48847,6 @@ fe80::1%lo0 localhost
 0.0.0.0 filter.adxfactory.com
 0.0.0.0 xml.adxfactory.com
 0.0.0.0 realtime.deximedia.com
-0.0.0.0 xml.ecpvads.com
 0.0.0.0 cpanel.nativeads.com
 0.0.0.0 exchange.nativeads.com
 0.0.0.0 xml.plusfind.net
@@ -49037,10 +48940,6 @@ fe80::1%lo0 localhost
 0.0.0.0 onclkds.com
 # [WebaZilla][AS35415][5.11.80.0 - 5.11.87.255]
 
-0.0.0.0 hlu9tseh.men
-0.0.0.0 39o9mcr2.party
-0.0.0.0 xbfk51p7.review
-0.0.0.0 04dn8g4f.space
 # [WebaZilla][AS35415][74.117.176.0/21]
 
 0.0.0.0 hilltopads.net
@@ -49174,7 +49073,6 @@ fe80::1%lo0 localhost
 0.0.0.0 rd.clickshift.com
 0.0.0.0 wt.o.nytimes.com
 0.0.0.0 dc.webtrends.com
-0.0.0.0 m.webtrends.com
 0.0.0.0 statse.webtrendslive.com
 0.0.0.0 dcs.wtlive.com
 0.0.0.0 dcstest.wtlive.com
@@ -49183,7 +49081,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wtrs.101com.com
 0.0.0.0 sdc.acc.org
 0.0.0.0 sdc.caranddriver.com
-0.0.0.0 sdc.brightcove.com
 0.0.0.0 sdc.ca.com
 0.0.0.0 sdc.dishnetwork.com
 0.0.0.0 sdc.dn.no
@@ -49213,7 +49110,6 @@ fe80::1%lo0 localhost
 
 # [Wolfgang Lanzrath][]
 
-0.0.0.0 aidu.ivwbox.de
 0.0.0.0 chip.ivwbox.de
 0.0.0.0 ciao.ivwbox.de
 0.0.0.0 daserste.ivwbox.de
@@ -49244,7 +49140,6 @@ fe80::1%lo0 localhost
 
 # [Worldstream][AS49981][109.236.81.0 - 109.236.81.255]
 
-0.0.0.0 nottided.xyz
 0.0.0.0 event.ohmyad.co
 # [Worldstream][AS15435][93.190.139.0 - 93.190.142.255]
 
@@ -49863,7 +49758,7 @@ fe80::1%lo0 localhost
 
 
 
-# Last updated: Sun, 26 Nov 2017 at 00:37:12 GMT
+# Last updated: Thu, 07 Dec 2017 at 04:58:40 GMT
 
 
 
@@ -50526,6 +50421,7 @@ fe80::1%lo0 localhost
 0.0.0.0 cw.nu
 0.0.0.0 cyseal.cyveillance.com
 0.0.0.0 da.ce.bd.a9.top.list.ru
+0.0.0.0 dap.digitalgov.gov
 0.0.0.0 data2.perf.overture.com
 0.0.0.0 data.murdoog.com
 0.0.0.0 dc43.s290.meetrics.net
@@ -51070,6 +50966,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tracker.mailvalue.net
 0.0.0.0 tracker.marketsvc.net
 0.0.0.0 tracker.mattel.com
+0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.offermarket.net
 0.0.0.0 tracker.onapps.org
 0.0.0.0 tracker.promosvc.com
@@ -52150,6 +52047,18 @@ fe80::1%lo0 localhost
 0.0.0.0 wm.maxysearch.info
 0.0.0.0 w.oix.net
 0.0.0.0 womo.corrmedic.ru
+0.0.0.0 ws05.crypto-loot.com
+0.0.0.0 ws06.crypto-loot.com
+0.0.0.0 ws07.crypto-loot.com
+0.0.0.0 ws08.crypto-loot.com
+0.0.0.0 ws09.crypto-loot.com
+0.0.0.0 ws23.crypto-loot.com
+0.0.0.0 ws24.crypto-loot.com
+0.0.0.0 ws25.crypto-loot.com
+0.0.0.0 ws42.crypto-loot.com
+0.0.0.0 ws48.crypto-loot.com
+0.0.0.0 ws49.crypto-loot.com
+0.0.0.0 ws50.crypto-loot.com
 0.0.0.0 ws.xjb.ac.cn
 0.0.0.0 www1.bmo.com.hotfrio.com.br
 0.0.0.0 www1.firesavez5.com
@@ -53334,6 +53243,8 @@ fe80::1%lo0 localhost
 0.0.0.0 ad12.checkm8.com
 0.0.0.0 ad12digital.checkm8.com
 0.0.0.0 ad12.focalink.com
+0.0.0.0 ad130m.adpdx.com
+0.0.0.0 ad132m.adpdx.com
 0.0.0.0 ad13.checkm8.com
 0.0.0.0 ad13digital.checkm8.com
 0.0.0.0 ad13.focalink.com
@@ -54935,6 +54846,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.top500.org
 0.0.0.0 ads.top-banners.com
 0.0.0.0 ads.toronto.com
+0.0.0.0 ads.torrpedo.net
 0.0.0.0 ads.townhall.com
 0.0.0.0 ads.tracfonewireless.com
 0.0.0.0 ads.trackitdown.net
@@ -54956,6 +54868,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.ucomics.com
 0.0.0.0 ads.uigc.net
 0.0.0.0 ads.ukclimbing.com
+0.0.0.0 ads.ultimatesurrender.com
 0.0.0.0 ads.unixathome.org
 0.0.0.0 ads.update.com
 0.0.0.0 ad.suprnova.org
@@ -55523,6 +55436,7 @@ fe80::1%lo0 localhost
 0.0.0.0 bitburg.adtech.fr
 0.0.0.0 bitburg.adtech.us
 0.0.0.0 bitcast-d.bitgravity.com
+0.0.0.0 bitonclick.com
 0.0.0.0 biz5.sandai.net
 0.0.0.0 biz-offer.com
 0.0.0.0 bizographics.com
@@ -55789,6 +55703,7 @@ fe80::1%lo0 localhost
 0.0.0.0 classicjack.com
 0.0.0.0 c.latam.msn.com
 0.0.0.0 cleaningformac.com
+0.0.0.0 clearonclick.com
 0.0.0.0 clhctrk.com
 0.0.0.0 click1.mainadv.com
 0.0.0.0 click1.rbc.magna.ru
@@ -56527,6 +56442,7 @@ fe80::1%lo0 localhost
 0.0.0.0 himediads.com
 0.0.0.0 hit.8digits.com
 0.0.0.0 hlcc.ca
+0.0.0.0 hlu9tseh.men
 0.0.0.0 hm.baidu.com
 0.0.0.0 hm.l.qq.com
 0.0.0.0 hnfwg.voluumtrk.com
@@ -57371,6 +57287,7 @@ fe80::1%lo0 localhost
 0.0.0.0 p3p.alibaba.com
 0.0.0.0 p3p.mmstat.com
 0.0.0.0 p4psearch.china.alibaba.com
+0.0.0.0 p.adpdx.com
 0.0.0.0 page.0ffer.eu
 0.0.0.0 pagead3.googlesyndication.com
 0.0.0.0 pages.etology.com
@@ -58830,6 +58747,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.805m.com
 0.0.0.0 www81.valueclick.com
 0.0.0.0 www.888casino.com
+0.0.0.0 www.888.com
 0.0.0.0 www.888poker.com
 0.0.0.0 www8.ad.tomshardware.com
 0.0.0.0 www8.bannerspace.com
@@ -59660,6 +59578,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.zbippirad.info
 0.0.0.0 www.zemgo.com
 0.0.0.0 www.zevents.com
+0.0.0.0 www.zlothonline.info
 0.0.0.0 www.zytpirwai.net
 0.0.0.0 x65zz.popularprizes.8981275.com
 0.0.0.0 x86adserve006.adtech.de
@@ -61529,6 +61448,7 @@ fe80::1%lo0 localhost
 0.0.0.0 dobre-programy.xyz
 0.0.0.0 dobreprogramy.pro
 0.0.0.0 www.canuck-method.com
+0.0.0.0 letitbefaster.website
 0.0.0.0 login.dotomi.com
 0.0.0.0 login.dotomi.net
 0.0.0.0 external.stealthedeal.com
@@ -61658,6 +61578,8 @@ fe80::1%lo0 localhost
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.mistat.intl.xiaomi.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 storeconfig.mistat.intl.xiaomi.com
+0.0.0.0 fcanr.tracking.miui.com
 
 
 # Ads and tracking
@@ -61683,6 +61605,18 @@ fe80::1%lo0 localhost
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 pixel.realclever.com
 0.0.0.0 sdktm.w.inmobi.com
+0.0.0.0 matchmyip.com
+0.0.0.0 ads.nexage.com
+0.0.0.0 api.oneaudience.com
+0.0.0.0 l-v1.presage.io
+0.0.0.0 sdk.adincube.com
+0.0.0.0 api.pubnative.net
+0.0.0.0 sdklogs.avocarrot.com
+0.0.0.0 telemetry.layer.com
+0.0.0.0 dasdada.fu.ck
+0.0.0.0 i1.dl-ad.com
+0.0.0.0 pl-v2.presage.io
+0.0.0.0 pixel.onaudience.com
 #=====================================
 
 0.0.0.0 ac3.msn.com
@@ -61753,9 +61687,9 @@ fe80::1%lo0 localhost
 
 # ----
 
-# last updated:   Mon, 27 Nov 2017 08:47:11 GMT
+# last updated:   Sat, 09 Dec 2017 12:41:53 GMT
 
-# entries:        2485
+# entries:        2508
 
 # format:         hosts (hosts -- in hosts file format)
 
@@ -61769,7 +61703,7 @@ fe80::1%lo0 localhost
 
 #
 
-# start date:    Tue, 02 Dec 1997 00:00:00
+# start date:    Tue, 16 Dec 1997 00:00:00
 
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -61948,6 +61882,7 @@ fe80::1%lo0 localhost
 0.0.0.0 adonspot.com
 0.0.0.0 adoperator.com
 0.0.0.0 adorigin.com
+0.0.0.0 adotmob.com
 0.0.0.0 adpenguin.biz
 0.0.0.0 adpepper.nl
 0.0.0.0 adpia.vn
@@ -62007,7 +61942,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.footymad.net
 0.0.0.0 ads.forium.de
 0.0.0.0 ads.fotosidan.se
-0.0.0.0 ads.foxkidseurope.net
 0.0.0.0 ads.foxnetworks.com
 0.0.0.0 ads.freecity.de
 0.0.0.0 ads.gamigo.de
@@ -62240,6 +62174,7 @@ fe80::1%lo0 localhost
 0.0.0.0 app.adblockhyper.us
 0.0.0.0 appsflyer.com
 0.0.0.0 apture.com
+0.0.0.0 apusx.com
 0.0.0.0 arc1.msn.com
 0.0.0.0 arcadebanners.com
 0.0.0.0 are-ter.com
@@ -62365,6 +62300,7 @@ fe80::1%lo0 localhost
 0.0.0.0 calmfoot.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
+0.0.0.0 capacitly.com
 0.0.0.0 carbonads.com
 0.0.0.0 carbonads.net
 0.0.0.0 casalmedia.com
@@ -62394,6 +62330,7 @@ fe80::1%lo0 localhost
 0.0.0.0 chiefcurrent.com
 0.0.0.0 chinchickens.com
 0.0.0.0 chitika.net
+0.0.0.0 christingel.com
 0.0.0.0 cj.com
 0.0.0.0 cjbmanagement.com
 0.0.0.0 cjlog.com
@@ -62432,6 +62369,7 @@ fe80::1%lo0 localhost
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 cnt.spbland.ru
 0.0.0.0 code-server.biz
+0.0.0.0 cointraffic.io
 0.0.0.0 colonize.com
 0.0.0.0 comclick.com
 0.0.0.0 commandwalk.com
@@ -62441,6 +62379,7 @@ fe80::1%lo0 localhost
 0.0.0.0 comprabanner.it
 0.0.0.0 concernrain.com
 0.0.0.0 confirmed-profits.com
+0.0.0.0 connatix.com
 0.0.0.0 connextra.com
 0.0.0.0 consciouscabbage.com
 0.0.0.0 contaxe.de
@@ -62472,6 +62411,7 @@ fe80::1%lo0 localhost
 0.0.0.0 criteo.com
 0.0.0.0 critictruck.com
 0.0.0.0 crownclam.com
+0.0.0.0 ctnet2.in
 0.0.0.0 ctnetwork.hu
 0.0.0.0 cubics.com
 0.0.0.0 curtaincows.com
@@ -62492,6 +62432,7 @@ fe80::1%lo0 localhost
 0.0.0.0 deloo.de
 0.0.0.0 deloton.com
 0.0.0.0 demandbase.com
+0.0.0.0 deployads.com
 0.0.0.0 di1.shopping.com
 0.0.0.0 dialerporn.com
 0.0.0.0 dianomi.com
@@ -62507,12 +62448,14 @@ fe80::1%lo0 localhost
 0.0.0.0 dk4ywix.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtracking.alibaba.com
+0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 docksalmon.com
 0.0.0.0 domaining.in
 0.0.0.0 domainsteam.de
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 dragzebra.com
 0.0.0.0 drumcash.com
+0.0.0.0 dyntrk.com
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 e-bannerx.com
 0.0.0.0 e-debtconsolidation.com
@@ -62532,6 +62475,7 @@ fe80::1%lo0 localhost
 0.0.0.0 elasticchange.com
 0.0.0.0 elephantqueue.com
 0.0.0.0 elitetoplist.com
+0.0.0.0 elthamely.com
 0.0.0.0 emarketer.com
 0.0.0.0 emediate.dk
 0.0.0.0 enginenetwork.com
@@ -62687,6 +62631,7 @@ fe80::1%lo0 localhost
 0.0.0.0 impressionmedia.cz
 0.0.0.0 impressionz.co.uk
 0.0.0.0 incentaclick.com
+0.0.0.0 incognitosearches.com
 0.0.0.0 incrediblesugar.com
 0.0.0.0 indexstats.com
 0.0.0.0 indexww.com
@@ -62733,8 +62678,10 @@ fe80::1%lo0 localhost
 0.0.0.0 kindads.com
 0.0.0.0 kliks.nl
 0.0.0.0 kniverto.com
+0.0.0.0 koinser.in
 0.0.0.0 komoona.com
 0.0.0.0 kompasads.com
+0.0.0.0 lacerta.space
 0.0.0.0 lakequincy.com
 0.0.0.0 launchbit.com
 0.0.0.0 layer-ad.de
@@ -62825,8 +62772,10 @@ fe80::1%lo0 localhost
 0.0.0.0 mmismm.com
 0.0.0.0 mmtro.com
 0.0.0.0 moatads.com
+0.0.0.0 mob.system-onlline.com
 0.0.0.0 mobclix.com
 0.0.0.0 mocean.mobi
+0.0.0.0 moggattice.com
 0.0.0.0 moneyexpert.com
 0.0.0.0 monsterpops.com
 0.0.0.0 mopub.com
@@ -63000,6 +62949,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pub.realmedia.fr
 0.0.0.0 publicidad.elmundo.es
 0.0.0.0 pubmatic.com
+0.0.0.0 pushengage.com
 0.0.0.0 qctop.com
 0.0.0.0 qnsr.com
 0.0.0.0 quaintcan.com
@@ -63012,6 +62962,7 @@ fe80::1%lo0 localhost
 0.0.0.0 radiate.com
 0.0.0.0 rampidads.com
 0.0.0.0 rank-master.com
+0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-id.de
@@ -63086,6 +63037,7 @@ fe80::1%lo0 localhost
 0.0.0.0 searchmarketing.com
 0.0.0.0 searchramp.com
 0.0.0.0 sedotracker.com
+0.0.0.0 sendmepixel.com
 0.0.0.0 sensismediasmart.com.au
 0.0.0.0 separatesilver.com
 0.0.0.0 serv0.com
@@ -63110,6 +63062,7 @@ fe80::1%lo0 localhost
 0.0.0.0 simplisticnose.com
 0.0.0.0 sinceresofa.com
 0.0.0.0 sinoa.com
+0.0.0.0 siteverification.online
 0.0.0.0 skimresources.com
 0.0.0.0 skylink.vn
 0.0.0.0 slickaffiliate.com
@@ -63126,10 +63079,12 @@ fe80::1%lo0 localhost
 0.0.0.0 snoobi.com
 0.0.0.0 softclick.com.br
 0.0.0.0 sonobi.com
+0.0.0.0 sortable.com
 0.0.0.0 sparkstudios.com
 0.0.0.0 specially4u.net
 0.0.0.0 specificmedia.co.uk
 0.0.0.0 spectacularsnail.com
+0.0.0.0 speedomizer.com
 0.0.0.0 spezialreporte.de
 0.0.0.0 spillvacation.com
 0.0.0.0 sponsorads.de
@@ -63169,7 +63124,6 @@ fe80::1%lo0 localhost
 0.0.0.0 straightnest.com
 0.0.0.0 strivesidewalk.com
 0.0.0.0 structuresofa.com
-0.0.0.0 suavalds.com
 0.0.0.0 subscribe.hearstmags.com
 0.0.0.0 succeedscene.com
 0.0.0.0 sumo.com
@@ -63308,6 +63262,7 @@ fe80::1%lo0 localhost
 0.0.0.0 videoegg.com
 0.0.0.0 view4cash.de
 0.0.0.0 viewpoint.com
+0.0.0.0 visiblemeasures.com
 0.0.0.0 visistat.com
 0.0.0.0 visitbox.de
 0.0.0.0 visual-pagerank.fr
@@ -63379,6 +63334,7 @@ fe80::1%lo0 localhost
 0.0.0.0 yabuka.com
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com
+0.0.0.0 yieldads.com
 0.0.0.0 yieldlab.net
 0.0.0.0 yieldmanager.com
 0.0.0.0 yieldmo.com
@@ -63426,6 +63382,7 @@ fe80::1%lo0 localhost
 0.0.0.0 anonymousnews.ru
 0.0.0.0 anotherdayintheempire.com
 0.0.0.0 areyouasleep.com
+0.0.0.0 asamericanasapplepie.org
 0.0.0.0 asheepnomore.net
 0.0.0.0 asia-pacificresearch.com
 0.0.0.0 assassinationscience.com
@@ -63433,6 +63390,7 @@ fe80::1%lo0 localhost
 0.0.0.0 awarenessact.com
 0.0.0.0 awazetribune.com
 0.0.0.0 awdnews.com
+0.0.0.0 babylonbee.com
 0.0.0.0 badcriminals.com
 0.0.0.0 baltimoregazette.com
 0.0.0.0 bb4sp.com
@@ -63487,7 +63445,6 @@ fe80::1%lo0 localhost
 0.0.0.0 conservativerefocus.com
 0.0.0.0 conservativestate.com
 0.0.0.0 conservativetribune.com
-0.0.0.0 consortiumnews.com
 0.0.0.0 conspiracydailyupdate.com
 0.0.0.0 conspiracyplanet.com
 0.0.0.0 countdowntozerotime.com
@@ -63505,6 +63462,7 @@ fe80::1%lo0 localhost
 0.0.0.0 dailynews11.com
 0.0.0.0 dailynewsposts.info
 0.0.0.0 dailyoccupation.com
+0.0.0.0 dailypostfeed.com
 0.0.0.0 dandygoat.com
 0.0.0.0 davidduke.com
 0.0.0.0 dcleaks.com
@@ -63739,7 +63697,6 @@ fe80::1%lo0 localhost
 0.0.0.0 theantimedia.org
 0.0.0.0 theblacksphere.net
 0.0.0.0 thebostontribune.com
-0.0.0.0 thedailywtf.com
 0.0.0.0 thedcgazette.com
 0.0.0.0 theduran.com
 0.0.0.0 theeconomiccollapseblog.com
@@ -63895,7 +63852,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.dailynewsbin.com
 0.0.0.0 www.dailysquib.co.uk
 0.0.0.0 www.dailystormer.com
-0.0.0.0 www.dailywire.com
 0.0.0.0 www.dangerandplay.com
 0.0.0.0 www.darkmoon.me
 0.0.0.0 www.darkpolitricks.com
