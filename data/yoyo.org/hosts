@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 04 Jan 2018 20:06:45 GMT
-# entries:        2528
+# last updated:   Sun, 21 Jan 2018 18:08:40 GMT
+# entries:        2545
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 13 Jan 1998 00:00:00
+# start date:    Tue, 27 Jan 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -25,6 +25,7 @@
 0.0.0.0 2mdn.net
 0.0.0.0 2o7.net
 0.0.0.0 360yield.com
+0.0.0.0 3lift.com
 0.0.0.0 4affiliate.net
 0.0.0.0 4d5.net
 0.0.0.0 50websads.com
@@ -275,6 +276,7 @@
 0.0.0.0 admanagement.ch
 0.0.0.0 admanager.btopenworld.com
 0.0.0.0 admanager.carsoup.com
+0.0.0.0 admantx.com
 0.0.0.0 admarketplace.net
 0.0.0.0 admarvel.com
 0.0.0.0 admax.nexage.com
@@ -555,7 +557,6 @@
 0.0.0.0 ads.pennet.com
 0.0.0.0 ads.penny-arcade.com
 0.0.0.0 ads.phpclasses.org
-0.0.0.0 ads.pickmeup-ltd.com
 0.0.0.0 ads.planet.nl
 0.0.0.0 ads.pni.com
 0.0.0.0 ads.pof.com
@@ -778,6 +779,7 @@
 0.0.0.0 adsrv.iol.co.za
 0.0.0.0 adsrvr.org
 0.0.0.0 adsstat.com
+0.0.0.0 adstage.io
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adstest.weather.com
 0.0.0.0 adsupply.com
@@ -867,6 +869,7 @@
 0.0.0.0 affiliate.dtiserv.com
 0.0.0.0 affiliate.gamestop.com
 0.0.0.0 affiliate.mercola.com
+0.0.0.0 affiliate.mogs.com
 0.0.0.0 affiliate.offgamers.com
 0.0.0.0 affiliate.travelnow.com
 0.0.0.0 affiliate.viator.com
@@ -906,6 +909,7 @@
 0.0.0.0 americash.com
 0.0.0.0 amung.us
 0.0.0.0 an.tacoda.net
+0.0.0.0 anahtars.com
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.live.com
@@ -929,6 +933,7 @@
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 atdmt.com
 0.0.0.0 athena-ads.wikia.com
+0.0.0.0 attributiontracker.com
 0.0.0.0 atwola.com
 0.0.0.0 auctionads.com
 0.0.0.0 auctionads.net
@@ -950,6 +955,7 @@
 0.0.0.0 b.aol.com
 0.0.0.0 b.engadget.com
 0.0.0.0 b0b1o.bid
+0.0.0.0 b59812ee54afcabd.com
 0.0.0.0 ba.afl.rakuten.co.jp
 0.0.0.0 babs.tv2.dk
 0.0.0.0 backbeatmedia.com
@@ -1090,6 +1096,7 @@
 0.0.0.0 boomads.com
 0.0.0.0 boost-my-pr.de
 0.0.0.0 boudja.com
+0.0.0.0 bounceexchange.com
 0.0.0.0 box.anchorfree.net
 0.0.0.0 bpath.com
 0.0.0.0 braincash.com
@@ -1293,6 +1300,7 @@
 0.0.0.0 curtaincows.com
 0.0.0.0 customad.cnn.com
 0.0.0.0 cutecushion.com
+0.0.0.0 cxense.com
 0.0.0.0 cyberbounty.com
 0.0.0.0 cybermonitor.com
 0.0.0.0 d.adroll.com
@@ -1398,7 +1406,6 @@
 0.0.0.0 eusta.de
 0.0.0.0 evergage.com
 0.0.0.0 evidencecleanergold.com
-0.0.0.0 evidon.com
 0.0.0.0 ewebcounter.com
 0.0.0.0 exchange-it.com
 0.0.0.0 exchange.bg
@@ -1548,6 +1555,7 @@
 0.0.0.0 hotlog.ru
 0.0.0.0 hotrank.com.tw
 0.0.0.0 hs-analytics.net
+0.0.0.0 htmlhubing.xyz
 0.0.0.0 httpool.com
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hydramedia.com
@@ -1565,7 +1573,6 @@
 0.0.0.0 icptrack.com
 0.0.0.0 idcounter.com
 0.0.0.0 identads.com
-0.0.0.0 idregie.com
 0.0.0.0 idtargeting.com
 0.0.0.0 ientrymail.com
 0.0.0.0 iesnare.com
@@ -1743,6 +1750,7 @@
 0.0.0.0 mediaserver.bwinpartypartners.it
 0.0.0.0 mediatext.com
 0.0.0.0 mediatrking.com
+0.0.0.0 mediavine.com
 0.0.0.0 mediavoice.com
 0.0.0.0 mediax.angloinfo.com
 0.0.0.0 mediaz.angloinfo.com
@@ -1756,6 +1764,7 @@
 0.0.0.0 methodcash.com
 0.0.0.0 metrics.cnn.com
 0.0.0.0 metrics.ctv.ca
+0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 mgid.com
@@ -1793,7 +1802,6 @@
 0.0.0.0 myaffiliateprogram.com
 0.0.0.0 mybloglog.com
 0.0.0.0 mycounter.ua
-0.0.0.0 mymoneymakingapp.com
 0.0.0.0 mypagerank.net
 0.0.0.0 mypagerank.ru
 0.0.0.0 mypowermall.com
@@ -1857,6 +1865,7 @@
 0.0.0.0 oascentral.chicagobusiness.com
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 oascentral.register.com
+0.0.0.0 oclasrv.com
 0.0.0.0 oewa.at
 0.0.0.0 oewabox.at
 0.0.0.0 offerforge.com
@@ -1894,7 +1903,6 @@
 0.0.0.0 oxado.com
 0.0.0.0 oxcash.com
 0.0.0.0 oxen.hillcountrytexas.com
-0.0.0.0 oyster.ws
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
@@ -1980,7 +1988,6 @@
 0.0.0.0 privatecash.com
 0.0.0.0 privy.com
 0.0.0.0 pro-advertising.com
-0.0.0.0 pro.i-doctor.co.kr
 0.0.0.0 proext.com
 0.0.0.0 profero.com
 0.0.0.0 profitrumour.com
@@ -2051,6 +2058,7 @@
 0.0.0.0 readgoldfish.com
 0.0.0.0 readserver.net
 0.0.0.0 realcastmedia.com
+0.0.0.0 realclever.com
 0.0.0.0 realclix.com
 0.0.0.0 realmedia-a800.d4p.net
 0.0.0.0 realtechnetwork.com
@@ -2123,6 +2131,7 @@
 0.0.0.0 secure.webconnect.net
 0.0.0.0 sedoparking.com
 0.0.0.0 sedotracker.com
+0.0.0.0 segment.com
 0.0.0.0 sendmepixel.com
 0.0.0.0 sensismediasmart.com.au
 0.0.0.0 separatesilver.com
@@ -2265,6 +2274,7 @@
 0.0.0.0 t.pusk.ru
 0.0.0.0 taboola.com
 0.0.0.0 tacoda.net
+0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tagular.com
 0.0.0.0 tailsweep.co.uk
 0.0.0.0 tailsweep.com
@@ -2272,6 +2282,7 @@
 0.0.0.0 takru.com
 0.0.0.0 tangerinenet.biz
 0.0.0.0 tapad.com
+0.0.0.0 tapinfluence.com
 0.0.0.0 targad.de
 0.0.0.0 targetingnow.com
 0.0.0.0 targetnet.com
@@ -2297,8 +2308,10 @@
 0.0.0.0 thrnt.com
 0.0.0.0 throattrees.com
 0.0.0.0 thruport.com
+0.0.0.0 tia.timeinc.net
 0.0.0.0 tidytrail.com
 0.0.0.0 tinybar.com
+0.0.0.0 tinypass.com
 0.0.0.0 tizers.net
 0.0.0.0 tlvmedia.com
 0.0.0.0 tnkexchange.com
@@ -2424,6 +2437,7 @@
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 videoadex.com
 0.0.0.0 videoegg.com
+0.0.0.0 vidora.com
 0.0.0.0 view4cash.de
 0.0.0.0 viewpoint.com
 0.0.0.0 visiblemeasures.com
@@ -2439,6 +2453,7 @@
 0.0.0.0 vs.tucows.com
 0.0.0.0 vungle.com
 0.0.0.0 warlog.ru
+0.0.0.0 watchingthat.com
 0.0.0.0 wdads.sx.atl.publicus.com
 0.0.0.0 web-stat.com
 0.0.0.0 web.informer.com
@@ -2463,6 +2478,7 @@
 0.0.0.0 webstat.net
 0.0.0.0 webstats4u.com
 0.0.0.0 webtrackerplus.com
+0.0.0.0 webtracky.com
 0.0.0.0 webtraffic.se
 0.0.0.0 webtrendslive.com
 0.0.0.0 werbung.meteoxpress.com
@@ -2472,6 +2488,7 @@
 0.0.0.0 whispa.com
 0.0.0.0 whoisonline.net
 0.0.0.0 wholesaletraffic.info
+0.0.0.0 widdit.com
 0.0.0.0 widespace.com
 0.0.0.0 widgetbucks.com
 0.0.0.0 wikia-ads.wikia.com
@@ -2479,11 +2496,11 @@
 0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 witch-counter.de
 0.0.0.0 wlmarketing.com
-0.0.0.0 wmirk.ru
 0.0.0.0 wonderlandads.com
 0.0.0.0 wondoads.de
 0.0.0.0 woopra.com
 0.0.0.0 worldwide-cash.net
+0.0.0.0 wpnrtnmrewunrtok.xyz
 0.0.0.0 ws-gateway.com
 0.0.0.0 wtlive.com
 0.0.0.0 www-banner.chat.ru
