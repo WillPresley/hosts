@@ -3,14 +3,14 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 04 Feb 2018 20:50:56 GMT
-# entries:        2585
+# entries:        2583
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 10 Feb 1998 00:00:00
+# start date:    Fri, 20 Feb 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -201,7 +201,6 @@
 0.0.0.0 adcell.de
 0.0.0.0 adcenter.mdf.se
 0.0.0.0 adcenter.net
-0.0.0.0 adcentriconline.com
 0.0.0.0 adcept.net
 0.0.0.0 adclick.com
 0.0.0.0 adclient.uimserv.net
@@ -427,7 +426,6 @@
 0.0.0.0 ads.economist.com
 0.0.0.0 ads.edbindex.dk
 0.0.0.0 ads.egrana.com.br
-0.0.0.0 ads.einmedia.com
 0.0.0.0 ads.electrocelt.com
 0.0.0.0 ads.elitetrader.com
 0.0.0.0 ads.emirates.net.ae
