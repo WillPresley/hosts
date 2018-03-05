@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 16 Feb 2018 at 03:27:25 GMT
+# Last updated: Mon, 05 Mar 2018 at 08:35:53 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -66,16 +66,16 @@
 # this will prevent your browser from downloading banner ads, or sending
 # your information back to a company.
 
-#<localhost>
+#
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
 255.255.255.255	broadcasthost
 ::1		localhost
 127.0.0.1	local
 #fe80::1%lo0	localhost
-#</localhost>
+#
 
-#<shock-sites>
+#
 # For example, to block unpleasant pages, try:
 0.0.0.0 goatse.cx       # More information on sites such as 
 0.0.0.0 www.goatse.cx   # these can be found in this article
@@ -269,21 +269,21 @@
 0.0.0.0 www.zentastic.com
 0.0.0.0 youaresogay.com
 0.0.0.0 zentastic.com
-#</shock-sites>
+#
 
-#<shortcut-examples>
+#
 # As well by specifying the ipaddress of a server, you can gain access
 #   to some of your favourite sites with a single letter, instead of
 #   using the whole domain name
 # It is perhaps a better solution to use Favourites/Bookmarks instead.
 #216.34.181.45   s        # slashdot.org
 #74.125.127.105	g        # google.com
-#</shortcut-examples>
+#
 
-#<hijack-sites>
+#
 # The sites ads234.com and ads345.com -- These sites hijack internet explorer 
 # and redirect all requests through their servers. You may need to use spyware 
-# removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this 
+# removal programs such as SpyBotS&D, AdAware or HijackThis to remove this 
 # nasty parasite. It's possible that blocking these sites using a hosts file 
 # may not work, in which case you should remove the following lines from this
 # file and try the tools listed above immediately. Don't forget to reboot 
@@ -292,10 +292,10 @@
 0.0.0.0 ads345.com
 0.0.0.0 www.ads234.com
 0.0.0.0 www.ads345.com
-#</hijack-sites>
+#
 
 
-#<spyware-sites>
+#
 # Spyware and user tracking
 # By entering domains here, it will prevent certain companies from
 # gathering information on your surfing habits. These servers do not
@@ -306,7 +306,7 @@
 # Uncomment (remove the #) the lines that you wish to block, as some
 # may provide you with services you like.
 
-#<maybe-spy>
+#
 #0.0.0.0 auto.search.msn.com  # Microsoft uses this server to redirect
                                 # mistyped URLs to search engines. They
                                 # log all such errors.
@@ -331,7 +331,7 @@
 					# problems with NPR.org
 #0.0.0.0 www.google-analytics.com		# breaks some sites
 #0.0.0.0 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
-#</maybe-spy>
+#
 
 0.0.0.0 006.free-counter.co.uk
 0.0.0.0 006.freecounters.co.uk
@@ -409,6 +409,7 @@
 0.0.0.0 app.yesware.com
 0.0.0.0 a.predictvideo.com
 0.0.0.0 arbo.hit.gemius.pl
+0.0.0.0 asdfanlli-jdna.org
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 au052.insightexpress.com
 0.0.0.0 aus-mec-tracking.adalyser.com
@@ -1103,6 +1104,7 @@
 0.0.0.0 nht-2.extreme-dm.com
 0.0.0.0 nl.nedstatbasic.net
 #0.0.0.0 nl.sitestat.com	# may interfere with duo.nl
+0.0.0.0 noticias.life
 0.0.0.0 o.addthis.com
 0.0.0.0 objects.tremormedia.com
 0.0.0.0 okcounter.com
@@ -1956,7 +1958,6 @@
 0.0.0.0 www.specificclick.com
 0.0.0.0 www.specificpop.com
 0.0.0.0 www.spklds.com
-0.0.0.0 www.spot.im
 0.0.0.0 www.statcount.com
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.statsession.com
@@ -1982,12 +1983,13 @@
 0.0.0.0 www.xxxcounter.com
 0.0.0.0 x.cb.kount.com
 0.0.0.0 xcnn.com
+0.0.0.0 xtrasizeoriginal.com.br
 0.0.0.0 xxxcounter.com
 0.0.0.0 xyz.freelogs.com
 0.0.0.0 zsisk.com
 0.0.0.0 zz.cqcounter.com
-#</spyware-sites>
-#<malware-sites>
+#
+#
 
 # sites with known trojans, phishing, or other malware
 0.0.0.0 05tz2e9.com
@@ -2590,6 +2592,7 @@
 0.0.0.0 segob.gob.mx
 0.0.0.0 sexymarissa.net
 0.0.0.0 shapado.com
+0.0.0.0 shawinternets.com
 0.0.0.0 shell.xhhow4.com
 0.0.0.0 shoppstop.comood.opsource.net
 0.0.0.0 shop.skin-safety.com
@@ -2889,9 +2892,9 @@
 0.0.0.0 zip.er.cz
 0.0.0.0 ztrf.net
 0.0.0.0 zviframe.biz
-#</malware-sites>
+#
 
-#<doubleclick-sites>
+#
 
 0.0.0.0 3ad.doubleclick.net
 0.0.0.0 ad2.doubleclick.net
@@ -3198,9 +3201,9 @@
 0.0.0.0 uunyadgda1.doubleclick.net
 0.0.0.0 uunyadgds1.doubleclick.net
 0.0.0.0 www.ukrpts.net
-#</doubleclick-sites>
+#
 
-#<intellitxt-sites>
+#
 
 0.0.0.0 1up.us.intellitxt.com
 0.0.0.0 5starhiphop.us.intellitxt.com
@@ -3305,9 +3308,9 @@
 0.0.0.0 warp2search.us.intellitxt.com
 0.0.0.0 wi-fitechnology.uk.intellitxt.com
 0.0.0.0 worldnetdaily.us.intellitxt.com
-#</intellitxt-sites>
+#
 
-#<red-sheriff-sites>
+#
 
 # Red Sheriff and imrworldwide.com  -- server side tracking
 0.0.0.0 devfw.imrworldwide.com
@@ -3362,9 +3365,9 @@
 0.0.0.0 www.imrworldwide.com
 0.0.0.0 www.imrworldwide.com.au
 0.0.0.0 www.redsheriff.com
-#</red-sheriff-sites>
+#
 
-#<cydoor-sites>
+#
 
 # cydoor -- server side tracking
 0.0.0.0 cydoor.com
@@ -3432,7 +3435,7 @@
 0.0.0.0 jumcna.cjt1.net
 0.0.0.0 jwebbsense.cjt1.net
 0.0.0.0 www.cydoor.com
-#</cydoor-sites>
+#
 
 #<2o7-sites>
 
@@ -3897,9 +3900,9 @@
 0.0.0.0 yrkeve.112.2o7.net
 0.0.0.0 ziffdavisglobal.112.2o7.net
 0.0.0.0 ziffdavispennyarcade.112.2o7.net
-#</2o7-sites>
+#2o7-sites>
 
-#<oewabox-sites>
+#
 
 # oewabox.at -- 'Austrian Webanalysis Society'
 0.0.0.0 1000ps.oewabox.at
@@ -4027,10 +4030,10 @@
 0.0.0.0 woche.oewabox.at
 0.0.0.0 wohnnet.oewabox.at
 0.0.0.0 zfm.oewabox.at
-#</oewabox-sites>
+#
 
-#<ad-sites>
-#<maybe-ads>
+#
+#
 #0.0.0.0 adfarm.mediaplex.com		# may interfere with ebay
 #0.0.0.0 ads.msn.com			#This may cause problems with zone.msn.com
 #0.0.0.0 ak.imgfarm.com		# may cause problems with iwon.com
@@ -4043,7 +4046,7 @@
 #0.0.0.0 www.tkqlhce.com		#qksrv
 #0.0.0.0 ad.ca.doubleclick.net	#intereferes with video on globeandmail.com
 #0.0.0.0 transfer.go.com		#may interfere with Disney websites
-#</maybe-ads>
+#
 
 # ads
 0.0.0.0 0101011.com
@@ -4132,6 +4135,7 @@
 0.0.0.0 a5.websponsors.com
 0.0.0.0 a7cleaner.com
 0.0.0.0 a98spolicies.com
+0.0.0.0 a.adexchangemachine.com
 0.0.0.0 a.admaxserver.com
 0.0.0.0 a.admob.com
 0.0.0.0 a.adorika.net
@@ -6680,6 +6684,7 @@
 0.0.0.0 babanetwork.adk2x.com
 0.0.0.0 babycenter.tt.omtrdc.net
 0.0.0.0 backoffice.evobinary.com
+0.0.0.0 b.adexchangemachine.com
 0.0.0.0 b.admob.com
 0.0.0.0 b.ads2.msn.com
 0.0.0.0 badservant.guj.de
@@ -6971,6 +6976,7 @@
 0.0.0.0 cache.unicast.com
 0.0.0.0 c.actiondesk.com
 0.0.0.0 c.ad6media.fr
+0.0.0.0 c.adexchangemachine.com
 0.0.0.0 c.admob.com
 0.0.0.0 c.adroll.com
 0.0.0.0 califia.imaginemedia.com
@@ -7316,6 +7322,7 @@
 0.0.0.0 collectiveads.net
 0.0.0.0 col.mobileads.msn.com
 0.0.0.0 comadverts.bcmpweb.co.nz
+0.0.0.0 combinationsmart.bid
 0.0.0.0 comcastresidentialservices.tt.omtrdc.net
 0.0.0.0 com.cool-premiums-now.com
 0.0.0.0 come-see-it-all.com
@@ -7381,8 +7388,10 @@
 0.0.0.0 cornflakes.pathfinder.com
 0.0.0.0 corusads.dserv.ca
 0.0.0.0 cosmeticscentre.uk.com
+0.0.0.0 costcoworld.life
 0.0.0.0 count6.51yes.com
 0.0.0.0 count.casino-trade.com
+0.0.0.0 coupongifts.life
 0.0.0.0 cover.m2y.siemens.ch
 0.0.0.0 c.ph.msn.com
 0.0.0.0 cpm20.com
@@ -7477,6 +7486,7 @@
 0.0.0.0 damavandkuh.com
 0.0.0.0 darakht.com
 0.0.0.0 darmowe-liczniki.info
+0.0.0.0 darmowe-zakupy.com
 0.0.0.0 dart.chron.com
 0.0.0.0 dash001.prxio.site
 0.0.0.0 dashbo15myapp.com
@@ -7502,6 +7512,7 @@
 0.0.0.0 dealitright.click
 0.0.0.0 dearerfonder.info
 0.0.0.0 decouvre.la
+0.0.0.0 defpush.com
 0.0.0.0 del1.phillyburbs.com
 0.0.0.0 delb.mspaceads.com
 0.0.0.0 delivery.adyea.com
@@ -7514,6 +7525,7 @@
 0.0.0.0 delivery.w00tads.com
 0.0.0.0 delivery.way2traffic.com
 0.0.0.0 deloton.com
+0.0.0.0 delta-promotion-usa.com
 0.0.0.0 demr.mspaceads.com
 0.0.0.0 demr.opt.fimserve.com
 0.0.0.0 depo.realist.gen.tr
@@ -7528,6 +7540,7 @@
 0.0.0.0 devart.adbureau.net
 0.0.0.0 devlp1.linkpulse.com
 0.0.0.0 dev.sfbg.com
+0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 dgm2.com
 0.0.0.0 dgmaustralia.com
 0.0.0.0 dg.specificclick.net
@@ -7668,7 +7681,7 @@
 0.0.0.0 enquete-annuelle.info
 0.0.0.0 entertainment-rewardpath.com
 0.0.0.0 entertainment-specials.com
-0.0.0.0 ɢoogle.com
+0.0.0.0 xn--oogle-wmc.com
 0.0.0.0 epomads2.4shared.com
 0.0.0.0 erie.smartage.com
 0.0.0.0 ero-advertising.com
@@ -7708,7 +7721,9 @@
 0.0.0.0 f2.p0y.com
 0.0.0.0 f3.p0y.com
 0.0.0.0 f4.p0y.com
+0.0.0.0 fabryka-nagrod.com
 0.0.0.0 f.admob.com
+0.0.0.0 fajnefanty.com
 0.0.0.0 falkag.net
 0.0.0.0 family-offer.com
 0.0.0.0 farm.plista.com
@@ -8245,6 +8260,7 @@
 0.0.0.0 impact.cossette-webpact.com
 0.0.0.0 imp.adsmogo.com
 0.0.0.0 impbe.tradedoubler.com
+0.0.0.0 impl.onscroll.com
 0.0.0.0 import.globalsources.com
 0.0.0.0 imp.partner2profit.com
 0.0.0.0 imppl.tradedoubler.com
@@ -8289,6 +8305,7 @@
 0.0.0.0 INDpolice.com
 0.0.0.0 industry-deals.com
 0.0.0.0 infinite-ads.com
+0.0.0.0 informacja-dnia.com
 0.0.0.0 infos-bourses.com
 0.0.0.0 in.getclicky.com
 0.0.0.0 inklineglobal.com
@@ -8436,6 +8453,7 @@
 0.0.0.0 kitaratrk.com
 0.0.0.0 kithrup.matchlogic.com
 0.0.0.0 kixer.com
+0.0.0.0 klikasz-i-masz.com
 0.0.0.0 klikk.linkpulse.com
 0.0.0.0 klikmoney.net
 0.0.0.0 kliks.affiliate4you.nl
@@ -8797,6 +8815,7 @@
 0.0.0.0 mobileanalytics.us-west-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
 0.0.0.0 mobile.bet.pt
+0.0.0.0 mobile-browser.me
 0.0.0.0 mobile.juicyads.com
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mobscan.info
@@ -8819,6 +8838,7 @@
 0.0.0.0 motosal.net
 0.0.0.0 movieads.imgs.sapo.pt
 0.0.0.0 movsflix.com
+0.0.0.0 mozebyctwoje.com
 0.0.0.0 mp3playersource.com
 0.0.0.0 mpartner.googleadservices.com
 0.0.0.0 m.pl.pornzone.tv
@@ -8883,6 +8903,8 @@
 0.0.0.0 n4p.ru.redtram.com
 0.0.0.0 na.ads.yahoo.com
 0.0.0.0 n.admob.com
+0.0.0.0 nagroda-dla-ciebie.com
+0.0.0.0 najlepszedlaciebie.com
 0.0.0.0 nanoadexchange.com
 0.0.0.0 nanocluster.reklamz.com
 0.0.0.0 nationalissuepanel.com
@@ -9062,6 +9084,8 @@
 0.0.0.0 om.elvenar.com
 0.0.0.0 ometrics.warnerbros.com
 0.0.0.0 onclickads.net
+0.0.0.0 onclickmega.com
+0.0.0.0 onclicksuper.com
 0.0.0.0 onclkds.com
 0.0.0.0 oneluckyvisitor.org
 0.0.0.0 onlinadverts.com
@@ -9090,6 +9114,7 @@
 0.0.0.0 openx.shinyads.com
 0.0.0.0 openx.xenium.pl
 0.0.0.0 openxxx.viragemedia.com
+0.0.0.0 oplaca-sie.pl
 0.0.0.0 optimizedby.openx.com
 #0.0.0.0 optimized-by.rubiconproject.com
 0.0.0.0 optimized.by.vitalads.net
@@ -9277,6 +9302,8 @@
 0.0.0.0 ploaz54.com
 0.0.0.0 p.l.qq.com
 0.0.0.0 pl.spanel.gem.pl
+0.0.0.0 pl.superando.net
+0.0.0.0 pl.web.toleadoo.com
 0.0.0.0 pmelon.com
 0.0.0.0 pmstrk.mercadolivre.com.br
 0.0.0.0 pm.w55c.net
@@ -9506,6 +9533,7 @@
 0.0.0.0 rdsa2012.com
 0.0.0.0 reactads.cdn.adglare.net
 0.0.0.0 realads.realmedia.com
+0.0.0.0 realcouponnow.com
 0.0.0.0 realgfsbucks.com
 0.0.0.0 realizemobicom.com
 0.0.0.0 realizmobi.com
@@ -9592,6 +9620,7 @@
 0.0.0.0 rich.qq.com
 0.0.0.0 ridepush.com
 0.0.0.0 ringtonepartner.com
+0.0.0.0 rivalo.network
 0.0.0.0 r.ligatus.com
 0.0.0.0 rmbn.ru
 0.0.0.0 rmcdn.2mdn.net
@@ -9757,7 +9786,7 @@
 0.0.0.0 secimage.adtech.de
 0.0.0.0 secimage.adtech.fr
 0.0.0.0 secimage.adtech.us
-0.0.0.0 secret.ɢoogle.com
+0.0.0.0 secret.xn--oogle-wmc.com
 0.0.0.0 secserv.adtech.de
 0.0.0.0 secserv.adtech.fr
 0.0.0.0 secserv.adtech.us
@@ -10159,6 +10188,8 @@
 0.0.0.0 syn.verticalacuity.com
 0.0.0.0 sysadmin.map24.com
 0.0.0.0 sysip.net
+0.0.0.0 szalonenagrody.com
+0.0.0.0 szalonepromocje.com
 0.0.0.0 t1.adserver.com
 0.0.0.0 t2.junbi-tracker.com
 0.0.0.0 t4.liverail.com
@@ -10173,6 +10204,7 @@
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 tags.hypeads.org
+0.0.0.0 tags.onscroll.com
 0.0.0.0 tags.rllcll.com
 0.0.0.0 tags.tagcade.com
 0.0.0.0 tags.toroadvertising.com
@@ -10181,6 +10213,7 @@
 0.0.0.0 takeprofitsystem.com
 0.0.0.0 taking-technology.com
 0.0.0.0 taloussanomat.linkpulse.com
+0.0.0.0 tanio-najtaniej.com
 0.0.0.0 taobaoafp.allyes.cn
 0.0.0.0 taobaoafp.allyes.com
 #0.0.0.0 tap2-cdn.rubiconproject.com
@@ -10382,13 +10415,19 @@
 0.0.0.0 ttarget.adbureau.net
 0.0.0.0 ttnet.yandex.com.tr
 0.0.0.0 ttuk.offers4u.mobi
-0.0.0.0 tupperware.ipapercms.dk
 0.0.0.0 turn.com
 0.0.0.0 turnerapac.d1.sc.omtrdc.net
 0.0.0.0 tv2no.linkpulse.com
 0.0.0.0 tvshowsnow.tvmax.hop.clickbank.net
 0.0.0.0 tw.adserver.yahoo.com
 0.0.0.0 twnads.weather.ca # Canadian Weather Network
+0.0.0.0 twoj-bon.pl
+0.0.0.0 twoje-nagrody.com.pl
+0.0.0.0 twoje-nagrody.pl
+0.0.0.0 twoj-macbook.pl
+0.0.0.0 twojszczesliwydzien.com
+0.0.0.0 twoj-typ.pl
+0.0.0.0 twoj-voucher.com
 0.0.0.0 u85foldero.com
 0.0.0.0 ua2.admixer.net
 0.0.0.0 uac.advertising.com
@@ -10883,6 +10922,7 @@
 0.0.0.0 www.adreporting.com
 0.0.0.0 www.ads2srv.com
 0.0.0.0 www.adscience.nl
+0.0.0.0 www.adsensecustomsearchads.com
 0.0.0.0 www.adsentnetwork.com
 0.0.0.0 www.adserver.co.il
 0.0.0.0 www.adserver.com
@@ -10938,6 +10978,7 @@
 0.0.0.0 www.affpartners.com
 0.0.0.0 www.afterdownload.com
 0.0.0.0 www.agkn.com
+0.0.0.0 www.airfrance.life
 0.0.0.0 www.ajalis.com
 0.0.0.0 www.alexxe.com
 0.0.0.0 www.algocashmaster.com
@@ -11661,6 +11702,7 @@
 0.0.0.0 www.trkfl.com
 0.0.0.0 www.trndsys.mobi
 0.0.0.0 www.ttnet.yandex.com.tr
+0.0.0.0 www.xn--turkishirlines-1p8g.com
 0.0.0.0 www.turn.com
 0.0.0.0 www.tutop.com
 0.0.0.0 www.tuttosessogratis.org
@@ -11688,6 +11730,7 @@
 0.0.0.0 www.view4cash.de
 0.0.0.0 www.vipromoffers.com
 0.0.0.0 www.virtumundo.com
+0.0.0.0 www.visualwebsiteoptimizer.com
 0.0.0.0 www.vmcsatellite.com
 0.0.0.0 www.voucher-for-you.online
 0.0.0.0 wwww.8cr.purredheanb.online
@@ -11717,6 +11760,7 @@
 0.0.0.0 www.wtp101.com
 0.0.0.0 www.xaxis.com
 0.0.0.0 www.xbn.ru		# exclusive banner network (Russian)
+0.0.0.0 www.xn--turkishirlines-1p8g.com
 0.0.0.0 www.yceml.net
 0.0.0.0 www.yibaruxet.cn
 0.0.0.0 www.yieldmanager.net
@@ -11740,6 +11784,10 @@
 0.0.0.0 www.zevents.com
 0.0.0.0 www.zlothonline.info
 0.0.0.0 www.zytpirwai.net
+0.0.0.0 wybieraj-wygrywaj.pl
+0.0.0.0 wytypowana-osoba-wygrywajaca.pl
+0.0.0.0 wytypowany-zwyciezca.com
+0.0.0.0 wytypowany-zwyciezca.pl
 0.0.0.0 x65zz.popularprizes.8981275.com
 0.0.0.0 x86adserve006.adtech.de
 0.0.0.0 x.admob.com
@@ -11766,6 +11814,7 @@
 0.0.0.0 xml.mediashakers.com
 0.0.0.0 xml.yepmedia.com
 0.0.0.0 x.mochiads.com
+0.0.0.0 xn--lt-68s.com
 0.0.0.0 xpantivirus.com
 0.0.0.0 xpcs.ads.yahoo.com
 0.0.0.0 xstatic.nk-net.pl
@@ -11839,10 +11888,10 @@
 0.0.0.0 zu1.november-lax.com
 0.0.0.0 zuzzer5.com
 0.0.0.0 zytpirwai.net
-#</ad-sites>
+#
 
 # https://securehomes.esat.kuleuven.be/~gacar/persistent/index.html
-#<canvass-fingerprinting-sites>
+#
 0.0.0.0 admicro1.vcmedia.vn
 0.0.0.0 ct1.addthis.com
 0.0.0.0 cya2.net
@@ -11851,18 +11900,18 @@
 0.0.0.0 shorte.st
 0.0.0.0 src.kitcode.net
 0.0.0.0 stat.ringier.cz
-#</canvass-fingerprinting-sites>
+#
 
-#<evercookies-sites>
+#
 0.0.0.0 ar.hao123.com
 0.0.0.0 irs01.net
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 simg.sinajs.cn
 0.0.0.0 tv.sohu.com
 0.0.0.0 y3.ifengimg.com
-#</evercookies-sites>
+#
 
-#<yahoo-ad-sites>
+#
 
 # yahoo banner ads
 0.0.0.0 eur.a1.yimg.com
@@ -11895,9 +11944,9 @@
 0.0.0.0 us.x1.yimg.com
 0.0.0.0 us.y1.yimg.com
 0.0.0.0 us.z1.yimg.com
-#</yahoo-ad-sites>
+#
 
-#<hitbox-sites>
+#
 
 # hitbox.com web bugs
 0.0.0.0 1cgi.hitbox.com
@@ -12264,9 +12313,9 @@
 0.0.0.0 y2k.hitbox.com
 0.0.0.0 yang.hitbox.com
 0.0.0.0 ying.hitbox.com
-#</hitbox-sites>
+#
 
-#<extreme-dm-sites>
+#
 
 # www.extreme-dm.com tracking
 0.0.0.0 extreme-dm.com
@@ -12299,9 +12348,9 @@
 0.0.0.0 z0.extreme-dm.com
 0.0.0.0 z1.extreme-dm.com
 0.0.0.0 z.extreme-dm.com
-#</extreme-dm-sites>
+#
 
-#<realmedia-sites>
+#
 
 # realmedia.com's Open Ad Stream
 0.0.0.0 ap.oasfile.aftenposten.no
@@ -12485,9 +12534,9 @@
 0.0.0.0 oas.uniontrib.com
 0.0.0.0 oas.villagevoice.com
 0.0.0.0 oas.vtsgonline.com
-#</realmedia-sites>
+#
 
-#<fastclick-sites>
+#
 
 # fastclick banner ads
 0.0.0.0 media1.fastclick.net
@@ -12590,9 +12639,9 @@
 0.0.0.0 media98.fastclick.net
 0.0.0.0 media99.fastclick.net
 0.0.0.0 fastclick.net
-#</fastclick-sites>
+#
 
-#<belo-interactive-sites>
+#
 
 # belo interactive ads
 0.0.0.0 te.about.com
@@ -12638,9 +12687,9 @@
 0.0.0.0 te.trb.com
 0.0.0.0 te.versiontracker.com
 0.0.0.0 te.wsls.com
-#</belo-interactive-sites>
+#
 
-#<popup-traps>
+#
 
 # popup traps -- sites that bounce you around or won't let you leave
 0.0.0.0 24hwebsex.com
@@ -12671,9 +12720,9 @@
 0.0.0.0 www.xxxnightly.com
 0.0.0.0 www.xxxtoolbar.com
 0.0.0.0 www.yourfuckbook.com
-#</popup-traps>
+#
 
-#<ecard-scam-sites>
+#
 
 # malicious e-card -- these sites send out mass quantities of spam 
 	# and some distribute adware and spyware
@@ -12700,9 +12749,9 @@
 0.0.0.0 www.friendgreetings.net
 0.0.0.0 www.laugh-mail.com
 0.0.0.0 www.laugh-mail.net
-#</ecard-scam-sites>
+#
 
-#<IVW-sites>
+#
 
 # European network of tracking sites
 0.0.0.0 1und1.ivwbox.de
@@ -12714,9 +12763,9 @@
 0.0.0.0 onvis.ivwbox.de
 0.0.0.0 spiegel.ivwbox.de
 0.0.0.0 www.ivwbox.de
-#</IVW-sites>
+#
 
-#<wiki-spam-sites>
+#
 
 # message board and wiki spam -- these sites are linked in 
 	# message board spam and are unlikely to be real sites
@@ -13528,15 +13577,14 @@
 0.0.0.0 zyrtec.1.p2l.info
 0.0.0.0 zyrtec.3.p2l.info
 0.0.0.0 zyrtec.4.p2l.info
-#</wiki-spam-sites>
+#
 
-#<Windows10>
+#
 
 # Windows 10 reporting domains. 
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 adnexus.net
 0.0.0.0 aidps.atdmt.com
-0.0.0.0 a-msedge.net
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
 0.0.0.0 b.ads1.msn.com
@@ -13554,7 +13602,6 @@
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 live.rads.msn.com
 0.0.0.0 m.adnxs.com
-0.0.0.0 msedge.net
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 preview.msn.com
@@ -13566,7 +13613,7 @@
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 wes.df.telemetry.microsoft.com
-#</Windows10>
+#
 
 # Acknowledgements
 # I'd like to thank the following people for submitting sites, and
@@ -13595,8 +13642,8 @@
 #  Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
 #  Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
 #  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas 
-#  Marschall, Michael Tompkins, Michael O'Donnell, Jos&eacute; Lucas Teixeira
-#  de Oliveira, M. &Ouml;mer G&ouml;lgeli, and Anthony Gelibert for helping to build 
+#  Marschall, Michael Tompkins, Michael O'Donnell, José Lucas Teixeira
+#  de Oliveira, M. Ömer Gölgeli, and Anthony Gelibert for helping to build 
 #  the hosts file.
 # Russell O'Connor for OS/2 information
 # kwadronaut for Windows 7 and Vista information

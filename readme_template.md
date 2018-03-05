@@ -39,13 +39,19 @@ folders.
 
 ## Generate your own unified hosts file
 
+**Note** if you are using Python 3, please install the dependencies with:
+
+    pip3 install --user -r requirements.txt
+
+**Note** if you are using Python 2, please install the dependencies with:
+
+    pip2 install --user -r requirements_python2.txt
+
+**Note** we recommend the `--user` flag which installs the required dependencies at the user level. More information about it can be found on pip [documentation](https://pip.pypa.io/en/stable/reference/pip_install/?highlight=--user#cmdoption-user).
+
 To run unit tests, in the top level directory, just run:
 
     python testUpdateHostsFile.py
-
-**Note** if you are using Python 2, you must first install the `mock` library:
-
-    pip install mock
 
 The `updateHostsFile.py` script, which is Python 2.7 and Python 3-compatible,
 will generate a unified hosts file based on the sources in the local `data/`
@@ -104,9 +110,9 @@ in a subfolder.  If the subfolder does not exist, it will be created.
 section at the top, containing lines like `127.0.0.1 localhost`.  This is
 useful for configuring proximate DNS services on the local network.
 
-`--compress`, or `-c`: `false` (default) or `true`, *Compress* the hosts file 
-ignoring non-necessary lines (empty lines and comments) and putting multiple 
-domains in each line. Reducing the number of lines of the hosts file improves 
+`--compress`, or `-c`: `false` (default) or `true`, *Compress* the hosts file
+ignoring non-necessary lines (empty lines and comments) and putting multiple
+domains in each line. Reducing the number of lines of the hosts file improves
 the performances under Windows (with DNS Client service enabled).
 
 `--minimise`, or `-m`: `false` (default) or `true`, like `--compress`, but puts
@@ -254,6 +260,9 @@ You can also refer to the "Third-Party Hosts Managers" section for further recom
 Your operating system will cache DNS lookups. You can either reboot or run the following commands to
 manually flush your DNS cache once the new hosts file is in place.
 
+| The Google Chrome browser may require manually cleaning up its DNS Cache on `chrome://net-internals/#dns` page to thereafter see the changes in your hosts file. See: https://superuser.com/questions/723703
+:-----------------------------------------------------------------------------------------
+
 ### Windows
 
 Open a command prompt with administrator privileges and run this command:
@@ -330,3 +339,5 @@ devices under a variety of operating systems.
 * [Block ads, malware, and deploy parental controls via local DualServer DNS/DHCP server](https://scripttiger.github.io/dualserver "Block ads, malware, and deploy parental controls via local DualServer DNS/DHCP server") (for BSD, Windows & Linux): Set up a blacklist for everyone on your network using the power of the unified hosts reformatted for DualServer. And if you're on Windows, this project also maintains an update script to make updating DualServer's blacklist even easier.
 
 * [Blocking ads and malwares with unbound](https://deadc0de.re/articles/unbound-blocking-ads.html "Blocking ads and malwares with unbound") – [Unbound](https://www.unbound.net/ "Unbound is a validating, recursive, and caching DNS resolver.")  is a validating, recursive, and caching DNS resolver.
+
+* [DNSMasq conversion script](https://gist.github.com/erlepereira/c11f4f7a3f60cd2071e79018e895fc8a#file-dnsmasq-antimalware) This github gist has a short shell script (bash, will work on any 'nix) and uses 'wget' & 'awk' present in most distros, to fetch a specified hosts file and convert it the format required by dnsmasq. Supports ipv4 and ipv6. Designed to be used as either a shell script, or can be dropped into /etc/cron.weekly (or wherever suits). Script is short and easily edited, also has a short document attached with notes on dnsmasq setup. 
