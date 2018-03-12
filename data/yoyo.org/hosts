@@ -3,14 +3,14 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 05 Mar 2018 11:42:20 GMT
-# entries:        2602
+# entries:        2600
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 15 Mar 1998 00:00:00
+# start date:    Tue, 17 Mar 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -2065,7 +2065,6 @@
 0.0.0.0 qctop.com
 0.0.0.0 qnsr.com
 0.0.0.0 quaintcan.com
-0.0.0.0 qualtrics.com
 0.0.0.0 quantcast.com
 0.0.0.0 quantserve.com
 0.0.0.0 quantummetric.com
@@ -2360,7 +2359,6 @@
 0.0.0.0 thruport.com
 0.0.0.0 tia.timeinc.net
 0.0.0.0 tinybar.com
-0.0.0.0 tinypass.com
 0.0.0.0 tizers.net
 0.0.0.0 tlvmedia.com
 0.0.0.0 tnkexchange.com
