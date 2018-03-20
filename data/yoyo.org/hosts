@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 05 Mar 2018 11:42:20 GMT
-# entries:        2600
+# last updated:   Tue, 20 Mar 2018 00:19:15 GMT
+# entries:        2613
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 17 Mar 1998 00:00:00
+# start date:    Wed, 25 Mar 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -50,6 +50,7 @@
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
 0.0.0.0 a.xanga.com
+0.0.0.0 a135.wftv.com
 0.0.0.0 a32.g.a.yimg.com
 0.0.0.0 aaddzz.com
 0.0.0.0 abacho.net
@@ -318,7 +319,6 @@
 0.0.0.0 adplus.co.id
 0.0.0.0 adplxmd.com
 0.0.0.0 adprofile.net
-0.0.0.0 adprojekt.pl
 0.0.0.0 adq.nextag.com
 0.0.0.0 adrazzi.com
 0.0.0.0 adreactor.com
@@ -880,6 +880,7 @@
 0.0.0.0 affiliates.digitalriver.com
 0.0.0.0 affiliates.globat.com
 0.0.0.0 affiliates.internationaljock.com
+0.0.0.0 affiliates.rozetka.com.ua
 0.0.0.0 affiliates.streamray.com
 0.0.0.0 affiliates.thinkhost.net
 0.0.0.0 affiliates.thrixxx.com
@@ -889,6 +890,7 @@
 0.0.0.0 affiliatewindow.com
 0.0.0.0 affiliation-france.com
 0.0.0.0 afftracking.justanswer.com
+0.0.0.0 afterview.ru
 0.0.0.0 agreemand.com
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
@@ -915,6 +917,7 @@
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.live.com
+0.0.0.0 analytics.newsinc.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 annonser.dagbladet.no
@@ -922,6 +925,7 @@
 0.0.0.0 apester.com
 0.0.0.0 api.intensifier.de
 0.0.0.0 app.adblockhyper.us
+0.0.0.0 app.pendo.io
 0.0.0.0 appsflyer.com
 0.0.0.0 apture.com
 0.0.0.0 apusx.com
@@ -1095,7 +1099,6 @@
 0.0.0.0 bn.bfast.com
 0.0.0.0 boersego-ads.de
 0.0.0.0 boilingbeetle.com
-0.0.0.0 boldchat.com
 0.0.0.0 boom.ro
 0.0.0.0 boomads.com
 0.0.0.0 boost-my-pr.de
@@ -1173,6 +1176,7 @@
 0.0.0.0 cjlog.com
 0.0.0.0 claria.com
 0.0.0.0 class-act-clicks.com
+0.0.0.0 clearbit.com
 0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
@@ -1245,6 +1249,7 @@
 0.0.0.0 contextweb.com
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversionruler.com
+0.0.0.0 conviva.com
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 copperchickens.com
 0.0.0.0 copycarpenter.com
@@ -1409,6 +1414,7 @@
 0.0.0.0 euroclick.com
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
+0.0.0.0 eventbeacon.ca
 0.0.0.0 evergage.com
 0.0.0.0 evidencecleanergold.com
 0.0.0.0 ewebcounter.com
@@ -1487,6 +1493,7 @@
 0.0.0.0 fuzzyflavor.com
 0.0.0.0 fxstyle.net
 0.0.0.0 g3j2wzmon8b.com
+0.0.0.0 ga.clearbit.com
 0.0.0.0 ga87z2o.com
 0.0.0.0 galaxien.com
 0.0.0.0 game-advertising-online.com
@@ -1632,7 +1639,6 @@
 0.0.0.0 intelliads.com
 0.0.0.0 intellitxt.com
 0.0.0.0 interactive.forthnet.gr
-0.0.0.0 intercom.com
 0.0.0.0 intergi.com
 0.0.0.0 internetfuel.com
 0.0.0.0 interreklame.de
@@ -1649,6 +1655,7 @@
 0.0.0.0 itsptp.com
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
+0.0.0.0 janrain.com
 0.0.0.0 jcount.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
@@ -1717,7 +1724,6 @@
 0.0.0.0 logger.snackly.co
 0.0.0.0 logrocket.com
 0.0.0.0 logua.com
-0.0.0.0 looker.com
 0.0.0.0 lop.com
 0.0.0.0 lopsidedspoon.com
 0.0.0.0 loudloss.com
@@ -1748,7 +1754,6 @@
 0.0.0.0 matchcraft.com
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
-0.0.0.0 matomo.org
 0.0.0.0 max.i12.de
 0.0.0.0 maximumcash.com
 0.0.0.0 mbs.megaroticlive.com
@@ -1793,6 +1798,7 @@
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 metrilo.com
+0.0.0.0 mg2connext.com
 0.0.0.0 mgid.com
 0.0.0.0 miarroba.com
 0.0.0.0 microstatic.pl
@@ -1888,6 +1894,7 @@
 0.0.0.0 numax.nu-1.com
 0.0.0.0 nuseek.com
 0.0.0.0 nzaza.com
+0.0.0.0 o0bc.com
 0.0.0.0 oas.benchmark.fr
 0.0.0.0 oas.foxnews.com
 0.0.0.0 oas.repubblica.it
@@ -1917,6 +1924,7 @@
 0.0.0.0 onlinecash.com
 0.0.0.0 onlinecashmethod.com
 0.0.0.0 onlinerewardcenter.com
+0.0.0.0 onscroll.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 openad.tf1.fr
 0.0.0.0 openad.travelnow.com
@@ -1930,6 +1938,7 @@
 0.0.0.0 optimizely.com
 0.0.0.0 optimost.com
 0.0.0.0 optmd.com
+0.0.0.0 optmstr.com
 0.0.0.0 ordingly.com
 0.0.0.0 ota.cartrawler.com
 0.0.0.0 otto-images.developershed.com
@@ -1965,7 +1974,6 @@
 0.0.0.0 peacepowder.com
 0.0.0.0 peep-auktion.de
 0.0.0.0 peer39.com
-0.0.0.0 pendo.io
 0.0.0.0 pennyweb.com
 0.0.0.0 pepperjamnetwork.com
 0.0.0.0 percentmobile.com
@@ -2086,6 +2094,7 @@
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
+0.0.0.0 ranking-street.de
 0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankyou.com
@@ -2144,6 +2153,7 @@
 0.0.0.0 rose.ixbt.com
 0.0.0.0 rotabanner.com
 0.0.0.0 roxr.net
+0.0.0.0 rpxnow.com
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
 0.0.0.0 rtmark.net
@@ -2200,6 +2210,7 @@
 0.0.0.0 sharethrough.com
 0.0.0.0 shelterstraw.com
 0.0.0.0 sher.index.hu
+0.0.0.0 shermore.info
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 shiveringsail.com
@@ -2399,6 +2410,7 @@
 0.0.0.0 tracedesire.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.anchorfree.com
+0.0.0.0 track.contently.com
 0.0.0.0 track.dating-4-you.com
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
@@ -2485,7 +2497,6 @@
 0.0.0.0 vertadnet.com
 0.0.0.0 veruta.com
 0.0.0.0 vervewireless.com
-0.0.0.0 viafoura.co
 0.0.0.0 vibrantmedia.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 videoadex.com
@@ -2506,6 +2517,7 @@
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
 0.0.0.0 vungle.com
+0.0.0.0 wantmobi.bid
 0.0.0.0 warlog.ru
 0.0.0.0 watchingthat.com
 0.0.0.0 wdads.sx.atl.publicus.com
@@ -2545,6 +2557,7 @@
 0.0.0.0 wholesaletraffic.info
 0.0.0.0 widdit.com
 0.0.0.0 widespace.com
+0.0.0.0 widget.intercom.io
 0.0.0.0 widgetbucks.com
 0.0.0.0 wikia-ads.wikia.com
 0.0.0.0 window.nixnet.cz
