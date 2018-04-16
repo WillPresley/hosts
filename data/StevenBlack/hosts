@@ -366,7 +366,7 @@
 0.0.0.0 sf-3.st.adtekmedia.com
 0.0.0.0 sf3.east.kobenetwork.com
 0.0.0.0 sionicmedia.com
-0.0.0.0.spiegel-de.spiegel.de
+0.0.0.0 spiegel-de.spiegel.de
 0.0.0.0 ssp.face2trade.com
 0.0.0.0 static.elixmedia.com
 0.0.0.0 tracker.clickopon.com
@@ -420,6 +420,35 @@
 0.0.0.0 taboola-d.openx.net
 0.0.0.0 vidutils.taboola.com
 0.0.0.0 wf.taboola.com
+0.0.0.0 graph.accountkit.com
+0.0.0.0 ma312-r.analytics.edgesuite.net
+0.0.0.0 wzrkt.com
+0.0.0.0 www.wzrkt.com
+0.0.0.0 cdn5.userzoom.com
+
+# Block ads on Hotstar streaming app by @anudeepND
+0.0.0.0 app-measurement.com
+0.0.0.0 agl.hotstar.com
+0.0.0.0 adserver.adtech.de
+0.0.0.0 segment.hotstar.com
+0.0.0.0 service.videoplaza.tv
+0.0.0.0 cdn.segment.com
+0.0.0.0 cdn.mxpnl.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 sentry.io
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 in-star.videoplaza.tv
+0.0.0.0 segment.hotstar.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 hotstar.worldgravity.com
+0.0.0.0 service.videoplaza.tv
+0.0.0.0 cdn.mxpnl.com
+0.0.0.0 cdn.segment.com
+0.0.0.0 ssl.widgets.webengage.com
+0.0.0.0 ap-sonar.sociomantic.com
+0.0.0.0 chuknu.sokrati.com
+0.0.0.0 tag.hockeycurve.com
+0.0.0.0 agl-intl.hotstar.com
 
 # Spam domains
 # If your software is able, the below domains and all subdomains should be blocked
@@ -427,4 +456,11 @@
 #*.angiemktg.com
 127.0.0.1 weconfirmyou.com
 #*.weconfirmyou.com
+
+# These stink-up yahoo finance
+0.0.0.0 beap-bc.yahoo.com
+0.0.0.0 secure.footprint.net
+0.0.0.0 token.rubiconproject.com
+0.0.0.0 fc.yahoo.com
+0.0.0.0 pr-bh.ybp.yahoo.com
 #=====================================

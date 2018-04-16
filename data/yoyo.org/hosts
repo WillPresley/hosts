@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 29 Mar 2018 08:49:56 GMT
-# entries:        2647
+# last updated:   Fri, 13 Apr 2018 07:47:55 GMT
+# entries:        2660
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 07 Apr 1998 00:00:00
+# start date:    Tue, 21 Apr 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -237,6 +237,7 @@
 0.0.0.0 adgridwork.com
 0.0.0.0 adhese.be
 0.0.0.0 adhese.com
+0.0.0.0 adhoc4.net
 0.0.0.0 adimage.guardian.co.uk
 0.0.0.0 adimages.been.com
 0.0.0.0 adimages.carsoup.com
@@ -351,6 +352,7 @@
 0.0.0.0 ads.adultswim.com
 0.0.0.0 ads.advance.net
 0.0.0.0 ads.adverline.com
+0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
 0.0.0.0 ads.allvatar.com
@@ -440,6 +442,7 @@
 0.0.0.0 ads.expedia.com
 0.0.0.0 ads.factorymedia.com
 0.0.0.0 ads.fairfax.com.au
+0.0.0.0 ads.fasttrack-ignite.com
 0.0.0.0 ads.faxo.com
 0.0.0.0 ads.ferianc.com
 0.0.0.0 ads.filmup.com
@@ -464,6 +467,7 @@
 0.0.0.0 ads.gaming-universe.de
 0.0.0.0 ads.gawker.com
 0.0.0.0 ads.geekswithblogs.net
+0.0.0.0 ads.getlucky.com
 0.0.0.0 ads.glispa.com
 0.0.0.0 ads.gmodules.com
 0.0.0.0 ads.goyk.com
@@ -501,20 +505,23 @@
 0.0.0.0 ads.iwon.com
 0.0.0.0 ads.jewishfriendfinder.com
 0.0.0.0 ads.jiwire.com
+0.0.0.0 ads.joaffs.com
 0.0.0.0 ads.jobsite.co.uk
 0.0.0.0 ads.jpost.com
 0.0.0.0 ads.jubii.dk
 0.0.0.0 ads.justhungry.com
+0.0.0.0 ads.kabooaffiliates.com
 0.0.0.0 ads.kaktuz.net
 0.0.0.0 ads.kelbymediagroup.com
 0.0.0.0 ads.kinobox.cz
 0.0.0.0 ads.kinxxx.com
 0.0.0.0 ads.kompass.com
 0.0.0.0 ads.krawall.de
+0.0.0.0 ads.larryaffiliates.com
+0.0.0.0 ads.leovegas.com
 0.0.0.0 ads.lesbianpersonals.com
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.linuxfoundation.org
-0.0.0.0 ads.linuxjournal.com
 0.0.0.0 ads.linuxsecurity.com
 0.0.0.0 ads.livenation.com
 0.0.0.0 ads.mariuana.it
@@ -524,6 +531,7 @@
 0.0.0.0 ads.medienhaus.de
 0.0.0.0 ads.mgnetwork.com
 0.0.0.0 ads.mmania.com
+0.0.0.0 ads.mobilautomaten.com
 0.0.0.0 ads.moceanads.com
 0.0.0.0 ads.motor-forum.nl
 0.0.0.0 ads.motormedia.nl
@@ -598,6 +606,7 @@
 0.0.0.0 ads.sptimes.com
 0.0.0.0 ads.stackoverflow.com
 0.0.0.0 ads.sun.com
+0.0.0.0 ads.suomiautomaatti.com
 0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.t-online.de
 0.0.0.0 ads.tahono.com
@@ -1072,6 +1081,7 @@
 0.0.0.0 bbn.img.com.ua
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beamincrease.com
+0.0.0.0 beamkite.com
 0.0.0.0 begun.ru
 0.0.0.0 behavioralengine.com
 0.0.0.0 belstat.com
@@ -1177,7 +1187,6 @@
 0.0.0.0 checkstat.nl
 0.0.0.0 cherrythread.com
 0.0.0.0 chestionar.ro
-0.0.0.0 chiefcurrent.com
 0.0.0.0 chitika.net
 0.0.0.0 christingel.com
 0.0.0.0 cinstein.com
@@ -1244,6 +1253,7 @@
 0.0.0.0 cointraffic.io
 0.0.0.0 colonize.com
 0.0.0.0 comclick.com
+0.0.0.0 commandwalk.com
 0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
 0.0.0.0 compactbanner.com
@@ -1311,6 +1321,7 @@
 0.0.0.0 critictruck.com
 0.0.0.0 croissed.info
 0.0.0.0 crowdgravity.com
+0.0.0.0 crownclam.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctnet2.in
@@ -1335,6 +1346,7 @@
 0.0.0.0 debtbusterloans.com
 0.0.0.0 decisiveducks.com
 0.0.0.0 decknetwork.net
+0.0.0.0 delightdriving.com
 0.0.0.0 deloo.de
 0.0.0.0 deloton.com
 0.0.0.0 demandbase.com
@@ -1344,6 +1356,7 @@
 0.0.0.0 dialerporn.com
 0.0.0.0 dianomi.com
 0.0.0.0 didtheyreadit.com
+0.0.0.0 differentdesk.com
 0.0.0.0 digital-ads.s3.amazonaws.com
 0.0.0.0 digitalmerkat.com
 0.0.0.0 direct-xxx-access.com
@@ -1496,6 +1509,7 @@
 0.0.0.0 freestats.com
 0.0.0.0 freestats.tv
 0.0.0.0 freewebcounter.com
+0.0.0.0 frtyj.com
 0.0.0.0 fullstory.com
 0.0.0.0 functionalclam.com
 0.0.0.0 funklicks.com
@@ -1507,7 +1521,6 @@
 0.0.0.0 fxstyle.net
 0.0.0.0 g3j2wzmon8b.com
 0.0.0.0 ga.clearbit.com
-0.0.0.0 ga87z2o.com
 0.0.0.0 galaxien.com
 0.0.0.0 game-advertising-online.com
 0.0.0.0 gamehouse.com
@@ -1567,7 +1580,6 @@
 0.0.0.0 hit.ua
 0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 hitbox.com
-0.0.0.0 hitcents.com
 0.0.0.0 hitfarm.com
 0.0.0.0 hitiz.com
 0.0.0.0 hitlist.ru
@@ -1872,6 +1884,7 @@
 0.0.0.0 nativeroll.tv
 0.0.0.0 navigator.io
 0.0.0.0 navrcholu.cz
+0.0.0.0 nbhxgjz.com
 0.0.0.0 nbjmp.com
 0.0.0.0 ncaudienceexchange.com
 0.0.0.0 ndparking.com
@@ -1990,7 +2003,6 @@
 0.0.0.0 pbnet.ru
 0.0.0.0 pbterra.com
 0.0.0.0 pcash.imlive.com
-0.0.0.0 peacepowder.com
 0.0.0.0 peep-auktion.de
 0.0.0.0 peer39.com
 0.0.0.0 pennyweb.com
@@ -2088,7 +2100,6 @@
 0.0.0.0 publicidees.com
 0.0.0.0 pubmatic.com
 0.0.0.0 pubs.lemonde.fr
-0.0.0.0 pushcrew.com
 0.0.0.0 pushengage.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 q.azcentral.com
@@ -2109,7 +2120,6 @@
 0.0.0.0 radiate.com
 0.0.0.0 rampidads.com
 0.0.0.0 rank-master.com
-0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
@@ -2136,6 +2146,9 @@
 0.0.0.0 realtechnetwork.com
 0.0.0.0 realtracker.com
 0.0.0.0 receptiveink.com
+0.0.0.0 record.affiliates.karjalakasino.com
+0.0.0.0 record.bonniergaming.com
+0.0.0.0 record.mrwin.com
 0.0.0.0 redirectvoluum.com
 0.0.0.0 reduxmedia.com
 0.0.0.0 referralware.com
@@ -2402,7 +2415,6 @@
 0.0.0.0 tnkexchange.com
 0.0.0.0 tns-counter.ru
 0.0.0.0 tntclix.co.uk
-0.0.0.0 top-casting-termine.de
 0.0.0.0 top-site-list.com
 0.0.0.0 top.list.ru
 0.0.0.0 top.mail.ru
@@ -2445,6 +2457,7 @@
 0.0.0.0 track.viewdeos.com
 0.0.0.0 track1.viewdeos.com
 0.0.0.0 trackalyzer.com
+0.0.0.0 tracker-pm2.spilleren.com
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracking.crunchiemedia.com
@@ -2551,6 +2564,7 @@
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
 0.0.0.0 vungle.com
+0.0.0.0 vutzmxahqio.co
 0.0.0.0 wantmobi.bid
 0.0.0.0 warlog.ru
 0.0.0.0 watchingthat.com
@@ -2655,6 +2669,5 @@
 0.0.0.0 zenzuu.com
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
-0.0.0.0 zintext.com
 0.0.0.0 zmedia.com
 0.0.0.0 zqtk.net
