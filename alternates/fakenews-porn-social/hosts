@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: April 12 2018
+# Date: April 26 2018
 # Extensions added to this file: fakenews, porn, social
-# Number of unique domains: 66,390
+# Number of unique domains: 66,234
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-social/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -15,10 +15,15 @@
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
 255.255.255.255 broadcasthost
-::1 localhost ip6-localhost ip6-loopback
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
 fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.
@@ -36,12 +41,17 @@ ff02::2 ip6-allrouters
 0.0.0.0 2468.go2cloud.org
 0.0.0.0 adsmws.cloudapp.net
 0.0.0.0 androidads23.adcolony.com
+0.0.0.0 analytics.publitas.com
 0.0.0.0 annualconsumersurvey.com
+0.0.0.0 amarktflow.com
 0.0.0.0 apps.id.net
 0.0.0.0 breaksurvey.com
 0.0.0.0 data.cnn.com
 0.0.0.0 canuck-method.com
+0.0.0.0 consumerproductsusa.com
+0.0.0.0 ceromobi.club
 0.0.0.0 com-notice.info
+0.0.0.0 cws.conviva.com
 0.0.0.0 www.com-notice.info
 0.0.0.0 apple.com-notice.info
 0.0.0.0 www.apple.com-notice.info
@@ -108,7 +118,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 apps3.cointraffic.io
 
 
-0.0.0.0 players.brightcove.net
 0.0.0.0 cfvod.kaltura.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 ping.chartbeat.net
@@ -117,7 +126,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 postmediamontrealgazette2.files.wordpress.com
-0.0.0.0 edge.api.brightcove.com
 0.0.0.0 cdnapi.kaltura.com
 0.0.0.0 tvmds.tvpassport.com
 0.0.0.0 stats.wp.com
@@ -136,6 +144,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.security-check-551.com
 0.0.0.0 www.www.cpm20.com
 0.0.0.0 www.btds.artplay.info
+0.0.0.0 videoplayer.vice.technology
 
 
 # Analytics
@@ -471,7 +480,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 js-agent.newrelic.com
-0.0.0.0 sentry.io
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 in-star.videoplaza.tv
 0.0.0.0 hotstar.worldgravity.com
@@ -480,6 +488,49 @@ ff02::2 ip6-allrouters
 0.0.0.0 chuknu.sokrati.com
 0.0.0.0 tag.hockeycurve.com
 0.0.0.0 agl-intl.hotstar.com
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 adservice.google.co.in
+0.0.0.0 apiv2.moengage.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 logs.gaana.com
+0.0.0.0 apiv3.moengage.com
+0.0.0.0 e-ssl.apsalar.com
+0.0.0.0 ase.clmbtech.com
+0.0.0.0 api.moengage.com
+0.0.0.0 udm.scorecardresearch.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 stat-c.maxthon.com
+0.0.0.0 hotstar.pubnub.net
+0.0.0.0 in-starlive.videoplaza.tv
+0.0.0.0 cdn-settings.segment.com
+0.0.0.0 decide.mixpanel.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 api.taplytics.com
+0.0.0.0 in-starlive-preroll.videoplaza.tv
+0.0.0.0 cdn.auditude.com
+0.0.0.0 ibeat.indiatimes.com
+0.0.0.0 static.clmbtech.com
+0.0.0.0 api.branch.io
+0.0.0.0 camsoda.com
+0.0.0.0 www.camsoda.com
+0.0.0.0 msmetrics.ws.sonos.com
+
+
+# Block ads on Voot streaming app @anudeepND
+
+0.0.0.0 in-viacom18.videoplaza.tv
+0.0.0.0 dev.appboy.com
+0.0.0.0 register.appsflyer.com
+
+
+# Windows 10 'Connected User Experience' Telemetry
+
+# Connected User Experience and Diagnostic component endpoint for Windows 10, version 1709 or earlier
+
+0.0.0.0 v10.vortex-win.data.microsoft.com
+# Connected User Experience and Diagnostic component endpoint for operating systems older than Windows 10
+
 
 
 # Spam domains
@@ -1861,7 +1912,7 @@ ff02::2 ip6-allrouters
 
 
 
-# Last updated: Thu, 12 Apr 2018 at 02:54:00 GMT
+# Last updated: Tue, 24 Apr 2018 at 15:24:47 GMT
 
 
 
@@ -2361,6 +2412,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amer.hops.glbdns.microsoft.com
 0.0.0.0 amer.rel.msn.com
 0.0.0.0 analytics.msnbc.msn.com
+0.0.0.0 analytics.myfinances.com
 0.0.0.0 analytics.prx.org
 0.0.0.0 a-nj.1rx.io
 0.0.0.0 anm.intelli-direct.com
@@ -2426,7 +2478,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bserver.blick.com
 0.0.0.0 bstats.adbrite.com
 0.0.0.0 b.stats.paypal.com
-0.0.0.0 buy.tinypass.com
 0.0.0.0 by.optimost.com
 0.0.0.0 c0.adalyser.com
 0.0.0.0 c10.statcounter.com
@@ -2800,7 +2851,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 0.0.0.0 es.optimost.com
 0.0.0.0 exch.quantserve.com
-0.0.0.0 experience.tinypass.com
 0.0.0.0 extremereach.com
 0.0.0.0 eztrck.com
 0.0.0.0 fastcounter.bcentral.com
@@ -4427,6 +4477,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 nextbestgame.org
 0.0.0.0 no1.unternehemen.com
 0.0.0.0 no3.unternehmen.org
+0.0.0.0 noteupgrade.themainplacesetnowforcontentsgo.win
 0.0.0.0 novemberrainx.com
 0.0.0.0 nowgetsoft.pushingnewforcontentsafeload.download
 0.0.0.0 nowinstallupgrade.goodcentralupdatesall.bid
@@ -4562,6 +4613,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rd.alphabirdnetwork.com
 0.0.0.0 reacherinst.com
 0.0.0.0 readheadstick.biz
+0.0.0.0 readyupdate.thelatestmostreadytocontentgetnowfast.top
 0.0.0.0 regardens.info
 0.0.0.0 reward-survey.net
 0.0.0.0 rickrolling.com
@@ -4862,6 +4914,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.servertasarimbu.com
 0.0.0.0 www.sexytiger.ru
 0.0.0.0 www.shinilchurch.net
+0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.siom.ac.cn
 0.0.0.0 www.speedtestbeta.com
@@ -7653,6 +7706,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.wemnet.nl
 0.0.0.0 adserver.wietforum.nl
 0.0.0.0 adserver.x3.hu
+0.0.0.0 adserver.xpanama.net
 0.0.0.0 adserver.ya.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserver.zaz.com.br
@@ -7665,6 +7719,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserv.iafrica.com
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.au
 0.0.0.0 adservices.google.com
 0.0.0.0 adservices.picadmedia.com
 0.0.0.0 adservicestats.com
@@ -8481,6 +8536,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.yadro.ru
 0.0.0.0 ad.yemeksepeti.com
 0.0.0.0 ad.yieldmanager.com
+0.0.0.0 a.dynad.net
 0.0.0.0 adz.afterdawn.net
 0.0.0.0 ad.zaman.com
 0.0.0.0 ad.zaman.com.tr
@@ -9011,6 +9067,7 @@ ff02::2 ip6-allrouters
 #0.0.0.0 b.scorecardresearch.com	# interferes with Huffington Post slideshows
 
 0.0.0.0 bs.israelinfo.ru
+0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bt.linkpulse.com
 0.0.0.0 bumerangshowsites.hurriyet.com.tr
@@ -9241,6 +9298,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.yottos.com
 0.0.0.0 cdn.zeusclicks.com
 0.0.0.0 cds.adecn.com
+0.0.0.0 c.dynad.net
 0.0.0.0 c.eblastengine.com
 0.0.0.0 cecash.com
 0.0.0.0 ced.sascdn.com
@@ -10366,6 +10424,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 immediadement-arretez-ezhez-identfcie-jasdasd1233-9057.com
 0.0.0.0 im.of.pl
 0.0.0.0 impact.cossette-webpact.com
+0.0.0.0 imp.admarketplace.net
 0.0.0.0 imp.adsmogo.com
 0.0.0.0 impbe.tradedoubler.com
 0.0.0.0 impl.onscroll.com
@@ -11271,6 +11330,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 p3p.alibaba.com
 0.0.0.0 p3p.mmstat.com
 0.0.0.0 p4psearch.china.alibaba.com
+0.0.0.0 pacificnet.host
 0.0.0.0 paclitor.com
 0.0.0.0 p.admob.com
 0.0.0.0 p.adpdx.com
@@ -11891,6 +11951,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 s.di.com.pl
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 s.domob.cn
+0.0.0.0 s.dynad.net
 0.0.0.0 se.adserver.yahoo.com
 0.0.0.0 search.addthis.com
 0.0.0.0 search.freeonline.com
@@ -12351,6 +12412,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tdameritrade.tt.omtrdc.net
 0.0.0.0 tdc.advertorials.dk
 0.0.0.0 tdkads.ads.dk
+0.0.0.0 t.dynad.net
 0.0.0.0 team4heat.net
 0.0.0.0 teatac4bath.com
 0.0.0.0 techasiamusicsvr.com
@@ -13988,6 +14050,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 zc1.zeroredirect11.com
 0.0.0.0 z.ceotrk.com
 0.0.0.0 zdads.e-media.com
+0.0.0.0 z.dynad.net
 0.0.0.0 zeevex-online.com
 0.0.0.0 zemgo.com
 0.0.0.0 zeroredirect10.com
@@ -14009,6 +14072,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 zlothonline.info
 0.0.0.0 z.moatads.com
 0.0.0.0 z-na.amazon-adsystem.com
+0.0.0.0 zrh.bewilderinglyalbumin.com
 0.0.0.0 zu1.november-lax.com
 0.0.0.0 zuzzer5.com
 0.0.0.0 zytpirwai.net
@@ -15892,7 +15956,7 @@ ff02::2 ip6-allrouters
 
 #**********************************************************#
 
-# --------------- Updated: March-04-2018 ----------------- #
+# --------------- Updated: April-15-2018 ----------------- #
 
 #**********************************************************#
 
@@ -15951,7 +16015,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 content.ad20.net
 0.0.0.0 core.ad20.net
 0.0.0.0 banner.ad.nu
-0.0.0.0 www.adbanner.ro
 0.0.0.0 wad.adbasket.net
 0.0.0.0 adbox.hu
 0.0.0.0 b.adbox.lv
@@ -15982,7 +16045,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 s.adframesrc.com
 0.0.0.0 media.adfrontiers.com
 0.0.0.0 www.adgitize.com
-0.0.0.0 code.ad-gbn.com
 0.0.0.0 findadvertise.engine.adglare.net
 0.0.0.0 www.ad-groups.com
 0.0.0.0 adhall.com
@@ -16040,14 +16102,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.oas-c17.adnxs.com
 0.0.0.0 tt11.adobe.com
 0.0.0.0 ace.adoftheyear.com
-0.0.0.0 ad02.adonspot.com
 0.0.0.0 adperium.com
 0.0.0.0 www.adperium.com
 0.0.0.0 img.adplan-ds.com
 0.0.0.0 res.adplus.co.id
 0.0.0.0 e.adpower.bg
 0.0.0.0 ab.adpro.com.ua
-0.0.0.0 pop.adrent.net
 0.0.0.0 n.ads1-adnow.com
 0.0.0.0 n.ads2-adnow.com
 0.0.0.0 n.ads3-adnow.com
@@ -16114,7 +16174,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mfad1.advantage.as
 0.0.0.0 adve.net
 0.0.0.0 ad.adver.com.tw
-0.0.0.0 apps.advertlets.com
 0.0.0.0 ads.advertise.net
 0.0.0.0 img.adverticum.net
 0.0.0.0 imgs.adverticum.net
@@ -16463,7 +16522,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.direct-stats.com
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 www.divx.it
-0.0.0.0 dltags.com
 0.0.0.0 analyticsv2.dol.gr
 0.0.0.0 banners.dol.gr
 0.0.0.0 return.domainnamesales.com
@@ -16502,7 +16560,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.ebannertraffic.com
 0.0.0.0 ox.e-card.bg
 0.0.0.0 ox-s.e-card.bg
-0.0.0.0 prom.ecato.net
 0.0.0.0 ads.eccentrix.com
 0.0.0.0 c.ecliks.com
 0.0.0.0 webstats.eco.de
@@ -16643,7 +16700,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.fusestats.com
 0.0.0.0 fwbntw.com
 0.0.0.0 fxyc0dwa.com
-0.0.0.0 fxlayer.net
 0.0.0.0 adserving.fyi-marketing.com
 # [G]
 
@@ -16655,6 +16711,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.gateway.bg
 0.0.0.0 analytics.gazeta.pl
 0.0.0.0 top.gde.ru
+0.0.0.0 geoip-db.com
 0.0.0.0 www.geoplugin.net
 0.0.0.0 adv.gepime.com
 0.0.0.0 cloud.getpopunder.com
@@ -16698,6 +16755,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.gumgum.com
 0.0.0.0 c.gumgum.com
 0.0.0.0 cdn.gumgum.com
+# 0.0.0.0 www.sdad.guru #[affects msn.com]
+
 0.0.0.0 guruads.de
 0.0.0.0 beacon.gutefrage.net
 0.0.0.0 adhese.gva.be
@@ -16759,6 +16818,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.hypertracker.com
 # [I]
 
+0.0.0.0 metric-agent.i10c.net
 0.0.0.0 ev.ib-ibi.com
 0.0.0.0 r.ibg.bg
 0.0.0.0 bbcdn-bbnaut.ibillboard.com
@@ -17061,7 +17121,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stat.mystat.hu
 0.0.0.0 www.mystats.nl
 0.0.0.0 www2.mystats.nl
-0.0.0.0 www.mytoplist.gen.tr
 # [N]
 
 0.0.0.0 n214adserv.com
@@ -17178,7 +17237,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 invitation.opinionbar.com
 0.0.0.0 ad.orbitel.bg
 0.0.0.0 www.oreware.com
-0.0.0.0 servedby.orn-adserver.nl
 0.0.0.0 otclick-adv.ru
 0.0.0.0 otracking.com
 0.0.0.0 odb.outbrain.com
@@ -17256,7 +17314,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.popwin.net
 0.0.0.0 ht.pornhub.com
 0.0.0.0 porntraff.com
-0.0.0.0 www2.portdetective.com
 0.0.0.0 inapi.posst.co
 0.0.0.0 prstats.postrelease.com
 0.0.0.0 www.ppctracking.net
@@ -17347,14 +17404,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 sr.rlcdn.com
 0.0.0.0 ads.rnmd.net
 0.0.0.0 ro2.biz
-0.0.0.0 www.rockingclicks.com
 0.0.0.0 tex-sync.rockyou.net
 0.0.0.0 ads.rohea.com
 0.0.0.0 ads.rol.ro
 0.0.0.0 adcode.rontar.com
 0.0.0.0 laurel.rovicorp.com
 0.0.0.0 gbjfc.rsvpgenius.com
-0.0.0.0 analytics.rtbf.be
 0.0.0.0 count.rtl.de
 0.0.0.0 ad.rtl.hr
 0.0.0.0 rtrgt2.com
@@ -17484,7 +17539,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics.strangeloopnetworks.com
 0.0.0.0 straightresults.com
 0.0.0.0 go.straightresults.com
-0.0.0.0 gsorder.berlin.strato.de
 0.0.0.0 adv.stznews.bg
 0.0.0.0 webservices.sub2tech.com
 0.0.0.0 ads.sun.com
@@ -17546,7 +17600,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 webstats.thesoul-publishing.com
 0.0.0.0 www.thesocialsexnetwork.com
 0.0.0.0 www.thickcash.com
-0.0.0.0 ad.thinkmedia.cn
 0.0.0.0 oas.tidningsnatet.se
 0.0.0.0 www.tinbuadserv.com
 0.0.0.0 www.tinka.ru
@@ -17562,7 +17615,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.top100.lt
 0.0.0.0 www.topblogging.com
 0.0.0.0 hit.topc.org
-0.0.0.0 banners.topcities.com
 0.0.0.0 topeuro.biz
 0.0.0.0 www.toplist.sk
 0.0.0.0 counter.topphoto.ru
@@ -17665,7 +17717,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.undertonenetworks.com
 0.0.0.0 adserving.unibet.com
 0.0.0.0 www.unicast.com
-0.0.0.0 advertisment.unimatrix.si
 0.0.0.0 ads.univision.com
 0.0.0.0 web.unltd.info
 0.0.0.0 adrequisitor-af.lp.uol.com.br
@@ -18218,7 +18269,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 icon.cubics.com
 # [Adknowledge][216.21.208.0 - 216.21.223.255]
 
-0.0.0.0 bidsystem.adknowledge.com
 0.0.0.0 bsclick.adknowledge.com
 0.0.0.0 web.adknowledge.com
 0.0.0.0 updates.desktop.ak-networks.com
@@ -18236,7 +18286,6 @@ ff02::2 ip6-allrouters
 # [AdOcean]
 
 0.0.0.0 ad.adocean.pl
-0.0.0.0 afilv.adocean.pl
 0.0.0.0 aripaee.adocean.pl
 0.0.0.0 b92rs.adocean.pl
 0.0.0.0 bg.adocean.pl
@@ -18246,7 +18295,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 by.adocean.pl
 0.0.0.0 cz.adocean.pl
 0.0.0.0 delfiee.adocean.pl
-0.0.0.0 delfilt.adocean.pl
 0.0.0.0 delfilv.adocean.pl
 0.0.0.0 digital4ro.adocean.pl
 0.0.0.0 edipresse.adocean.pl
@@ -18267,7 +18315,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 my.adocean.pl
 0.0.0.0 pracuj.adocean.pl
 0.0.0.0 protvmd.adocean.pl
-0.0.0.0 realitatero.adocean.pl
 0.0.0.0 ringierro.adocean.pl
 0.0.0.0 ringierrs.adocean.pl
 0.0.0.0 ro.adocean.pl
@@ -18277,7 +18324,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rsgde.adocean.pl
 0.0.0.0 s1.sk.adocean.pl
 0.0.0.0 s1.czgde.adocean.pl
-0.0.0.0 s1.delfilt.adocean.pl
 0.0.0.0 s1.edipresse.adocean.pl
 0.0.0.0 s1.my.adocean.pl
 0.0.0.0 s1.myao.adocean.pl
@@ -18548,13 +18594,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 img.en25.com
 0.0.0.0 tiads.essence.com
 0.0.0.0 tiads.ew.com
-0.0.0.0 s.fl-ads.com
 0.0.0.0 promo.freshdirect.com
 # 0.0.0.0 cdns.gigya.com #[affects IHeartRadio]
 
 0.0.0.0 www30a6.glam.com
 0.0.0.0 tiads.health.com
-0.0.0.0 ads-a-darwin.hulu.com
 0.0.0.0 cdn.innity.net
 0.0.0.0 cdn.media.innity.net
 0.0.0.0 s-static.innovid.com
@@ -18573,8 +18617,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 adcache.nymag.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn3.optimizely.com
+0.0.0.0 amplify.outbrain.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 storage.outbrain.com
+0.0.0.0 tr.outbrain.com
 0.0.0.0 vra.outbrain.com
 0.0.0.0 cdn.polmontventures.com
 0.0.0.0 a.postrelease.com
@@ -18761,7 +18807,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.ehealthcaresolutions.com
 0.0.0.0 www.euroconcept.ro
 0.0.0.0 track.eyeviewads.com
-0.0.0.0 engine.fl-ads.com
 0.0.0.0 click.gospect.com
 0.0.0.0 a.idio.co
 0.0.0.0 dts.innovid.com
@@ -18792,7 +18837,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 s.shopify.com
 0.0.0.0 pix.silverpush.co
 0.0.0.0 ads.skinected.com
-0.0.0.0 l.springmetrics.com
 0.0.0.0 ads.supplyframe.com
 # 0.0.0.0 analytics.supplyframe.com #[affects findchips.com]
 
@@ -18816,7 +18860,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 server1.beaconpush.com
 0.0.0.0 socpixel.bidsystem.com
 0.0.0.0 static.brsrvr.com
-0.0.0.0 www.caphyon-analytics.com
 0.0.0.0 adunit.chango.ca
 0.0.0.0 ads.chango.com
 0.0.0.0 adunit.chango.com
@@ -18990,6 +19033,7 @@ ff02::2 ip6-allrouters
 # [Amazon.com][AS16509][13.32.0.0 - 13.35.255.255]
 
 0.0.0.0 connatix.com
+0.0.0.0 ads-d.viber.com
 # [Amazon.com][AS14618][23.20.0.0 - 23.23.255.255]
 
 0.0.0.0 static.adk2.com
@@ -19028,7 +19072,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stage.traffiliate.com
 0.0.0.0 ads.tunein.com
 0.0.0.0 services.webspectator.com
-0.0.0.0 ads.yashi.com
 0.0.0.0 cdn.vdopia.com
 # [Amazon.com][AS14618][34.192.0.0 - 34.255.255.255]
 
@@ -19036,17 +19079,20 @@ ff02::2 ip6-allrouters
 0.0.0.0 blobar.org
 0.0.0.0 api.circularhub.com
 0.0.0.0 schwab.demdex.net
+0.0.0.0 geo.qualaroo.com
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 collect-us-east-1.tealiumiq.com
 0.0.0.0 tracking.revimedia.com
 0.0.0.0 n.targetctracker.com
 0.0.0.0 trackcmp.net
+0.0.0.0 log.quora.com
+0.0.0.0 ads.viber.com
+0.0.0.0 ads.aws.viber.com
 0.0.0.0 www.whizstats.com
 # [Amazon.com][AS39111][35.152.0.0 - 35.183.255.255]
 
 0.0.0.0 www.currentupdateconcepts.com
 0.0.0.0 api.segment.io
-0.0.0.0 www.tagclearbits.com
 0.0.0.0 ssp.videostat.com
 # [Amazon.com][AS39111][46.137.0.0 - 46.137.127.255]
 
@@ -19194,7 +19240,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 s.tagsrvcs.com
 0.0.0.0 d.t.tailtarget.com
 0.0.0.0 www.trackingclick.net
-0.0.0.0 g8qxp.ads.tremorhub.com
 0.0.0.0 m6dqx-ad3hl.ads.tremorhub.com
 0.0.0.0 trueclickads.net
 0.0.0.0 track.ultragaming.biz
@@ -19224,7 +19269,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 c.f5mtrack.com
 0.0.0.0 fastnclick.com
-0.0.0.0 www.guardappsfarm.com
 0.0.0.0 track.leadin.com
 0.0.0.0 mantodea.mantisadnetwork.com
 0.0.0.0 sync.monarchads.com
@@ -19256,10 +19300,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 dz2fz0bgyq9tn.cloudfront.net
 0.0.0.0 cdn.cquotient.com
+0.0.0.0 rscdn.cxense.com
 0.0.0.0 www.hotdogsandads.com
 0.0.0.0 htl.bid
 0.0.0.0 contentz.mkt61.net
 0.0.0.0 cdn.my-pc-cleaner.org
+0.0.0.0 tracker.nbcuas.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 dove.saymedia.com
 0.0.0.0 go.searchlock.com
@@ -19272,11 +19318,9 @@ ff02::2 ip6-allrouters
 # [Amazon.com][AS14618][54.144.0.0 - 54.159.255.255]
 
 0.0.0.0 t.adk2.com
-0.0.0.0 www.applicationsflashbinaries.com
 0.0.0.0 www.bitsfarmclean.com
 0.0.0.0 www.bitspresentdownload.com
 0.0.0.0 www.bundlerepositorycontent.com
-0.0.0.0 www.guardcyclequick.com
 0.0.0.0 www.megagiftcity.com
 0.0.0.0 cdn.opensubcontent.com
 0.0.0.0 advrts-1.revenue-tracker.com
@@ -19351,13 +19395,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 resources.kiosked.com
 0.0.0.0 cdn.listrakbi.com
-0.0.0.0 www.livefyre.com
+# 0.0.0.0 www.livefyre.com #[affects startribune.com]
+
 0.0.0.0 cdn.matheranalytics.com
 0.0.0.0 t.mdn2015x2.com
 0.0.0.0 stag.mdotlabs.com
 0.0.0.0 ads.mic.com
 0.0.0.0 dbg52463.moatads.com
-0.0.0.0 t.mtagmonetizationa.com
 0.0.0.0 files.native.ad
 0.0.0.0 ps.ns-cdn.com
 0.0.0.0 ap.octopuspop.com
@@ -19383,7 +19427,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 arena.altitude-arena.com
 0.0.0.0 ca.altitude-arena.com
 0.0.0.0 pstats.blogworks.com
-0.0.0.0 clicksimpact.cashtrk.com
 0.0.0.0 a.centrum.cz
 0.0.0.0 click.clktraker.com
 0.0.0.0 stats.cloudwp.io
@@ -19404,8 +19447,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.moreniche.com
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 www.onadstracker.com
-0.0.0.0 odds.optimizely.com
-0.0.0.0 api.revcontent.com
 0.0.0.0 bomcl.richmetrics.com
 0.0.0.0 seb.scorecardresearch.com
 0.0.0.0 d.tailtarget.com
@@ -19447,11 +19488,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 t.beanstalkdata.com
 0.0.0.0 ad.broadstreetads.com
 0.0.0.0 cdn.broadstreetads.com
-0.0.0.0 pageurl.btrll.com
-0.0.0.0 pageurl-brx.btrll.com
-0.0.0.0 pix.btrll.com
-0.0.0.0 shim.btrll.com
-0.0.0.0 vw.btrll.com
 0.0.0.0 cdn.bttrack.com
 0.0.0.0 adg.bzgint.com
 0.0.0.0 dynamic.cannedbanners.com
@@ -19493,7 +19529,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 intbrands.t.domdex.com
 0.0.0.0 td.demdex.net
 0.0.0.0 tags-cdn.deployads.com
-0.0.0.0 xch.directrev.com
 0.0.0.0 tiscali.js.ad.dotandad.com
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 col.eum-appdynamics.com
@@ -19536,13 +19571,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 content.mkt932.com
 0.0.0.0 contentz.mkt932.com
 0.0.0.0 contentz.mkt941.com
-0.0.0.0 w.mlv-cdn.com
 0.0.0.0 track.moreniche.com
-0.0.0.0 t.mtagmonetizationc.com
 0.0.0.0 c.mtro.co
 0.0.0.0 zdbb.netshelter.net
 0.0.0.0 mix-test.uts.ngdata.com
-0.0.0.0 eu.npario-inc.net
 0.0.0.0 ninja.onap.io
 0.0.0.0 cdn.onscroll.com
 0.0.0.0 vast.optimatic.com
@@ -19550,7 +19582,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.pebblemedia.be
 0.0.0.0 analytics.dev.popdust.com
 0.0.0.0 static.proximic.com
-0.0.0.0 i.pxlad.io
 0.0.0.0 static.pxlad.io
 0.0.0.0 embed-stats.rbl.ms
 0.0.0.0 frontpage-stats.rbl.ms
@@ -20007,7 +20038,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 x.clickcertain.com
 0.0.0.0 ads.clovenetwork.com
 0.0.0.0 ads.cpxinteractive.com
-0.0.0.0 ads.deliads.com
 0.0.0.0 ads.digitalthrottle.com
 0.0.0.0 ads.exactdrive.com
 0.0.0.0 ads.fidelity-media.com
@@ -20088,8 +20118,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.meetic-partners.com
 0.0.0.0 ad.prismamediadigital.com
 0.0.0.0 ads.publicidad.net
-# [Autonomous][AS43489][193.232.159.0 - 193.232.159.255]
-
 # [Awknet Communications][AS17048][69.42.208.0 - 69.42.223.255]
 
 0.0.0.0 adtegrity.com
@@ -20097,15 +20125,10 @@ ff02::2 ip6-allrouters
 # [Axill][72.3.140.224 - 72.3.140.231]
 
 0.0.0.0 www.axill.com
-# [Axill Europe][84.45.70.0 - 84.45.70.255]
+# [Axill Europe][AS41813][84.45.63.0 - 84.45.70.255]
 
 0.0.0.0 www.globe7.com
-# [Axill Europe][AS41813][84.45.63.0 - 84.45.63.255]
-
 # [Aznet][AS44976][194.150.236.0 - 194.150.237.255]
-
-0.0.0.0 www.cashtrafic.com
-# [Bahnhof][AS21503][AS8473][5.150.195.160 - 5.150.195.191]
 
 # [Bay Area / Visistat][AS7151][209.128.64.0 - 209.128.127.255]
 
@@ -20125,8 +20148,6 @@ ff02::2 ip6-allrouters
 # [Beanfield][AS21949][76.9.192.0 - 76.9.223.255]
 
 0.0.0.0 ard.sweetdiscreet.com
-# [Bell Canada][AS6539][209.139.192.0 - 209.139.255.255]
-
 # [Bell Canada][AS6539][216.18.0.0 - 216.18.127.255]
 
 0.0.0.0 api.nrelate.com
@@ -20155,8 +20176,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ua5.hit.stat24.com
 0.0.0.0 uk4.hit.stat24.com
 0.0.0.0 www.stat24.com
-# [Beyond The Network][AS3491][205.177.0.0 - 205.177.255.255]
-
 # [Beyond The Network][AS3491][205.252.0.0 - 205.252.255.255]
 
 0.0.0.0 clicktrace.info
@@ -20273,23 +20292,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pub49.bravenet.com
 0.0.0.0 pub50.bravenet.com
 0.0.0.0 xml.bravenet.com
-# [BrightRoll][AS39995][162.208.20.0 - 162.208.23.255]
-
-0.0.0.0 geo-um.btrll.com
-0.0.0.0 segs.btrll.com
-0.0.0.0 vast.bp3855098.btrll.com
-0.0.0.0 vast.bp3855099.btrll.com
-0.0.0.0 vast.bp3854536.btrll.com
-0.0.0.0 vast.bp3855984.btrll.com
-0.0.0.0 vast.bp3855987.btrll.com
-0.0.0.0 vast.bp3855989.btrll.com
-0.0.0.0 vast.bp3855991.btrll.com
-0.0.0.0 vast.bp3855992.btrll.com
-0.0.0.0 yrtas.btrll.com
-# [BrightRoll][AS39995][165.254.0.0 - 165.254.255.255]
-
-0.0.0.0 brxserv-21.btrll.com
-0.0.0.0 geo-errserv.btrll.com
 # [Broadband Enterprises][AS3561][64.15.238.64 - 64.15.238.127]
 
 0.0.0.0 addirector.vindicosuite.com
@@ -20354,8 +20356,6 @@ ff02::2 ip6-allrouters
 # [C4L / Globalcharge-net][AS25577][84.45.71.0 - 84.45.71.255]
 
 0.0.0.0 www.globalcharge.com
-# [California Regional][AS10439][209.126.128.0 - 209.126.255.255]
-
 # [California Regional / i-Serve][AS10439][71.6.128.0 - 71.6.255.255]
 
 0.0.0.0 pluto.adcycle.com
@@ -20623,9 +20623,6 @@ ff02::2 ip6-allrouters
 
 0.0.0.0 www.free-choices.com
 0.0.0.0 piwik.n24.de
-0.0.0.0 ads.planet49.com
-# [ClaraNET][AS8426][78.40.37.128 - 78.40.37.135]
-
 # [ClaraNET][AS8426][95.0.0.0 - 95.255.255.255]
 
 0.0.0.0 ads.adnet-media.net
@@ -20673,7 +20670,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdnmedia.xyz
 0.0.0.0 wp1.cor-natty.com
 0.0.0.0 count.im
-0.0.0.0 datattro.xyz
 0.0.0.0 cdn.districtm.ca
 0.0.0.0 prebid.districtm.ca
 0.0.0.0 extra.eboundservices.com
@@ -20703,7 +20699,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www1.pip-pip-pop.com
 0.0.0.0 code.poptm.com
 0.0.0.0 ads.proboards.com
-0.0.0.0 promable.com
 0.0.0.0 proudclick.com
 0.0.0.0 www.ps7894.com
 0.0.0.0 cdn.pubexchange.com
@@ -20742,7 +20737,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ozertesa.com
 0.0.0.0 pinion.gg
 0.0.0.0 bin.pinion.gg
-0.0.0.0 cdn.pinion.gg
 0.0.0.0 www.pstats.com
 0.0.0.0 theads.me
 0.0.0.0 www.xyfex.com
@@ -20964,9 +20958,6 @@ ff02::2 ip6-allrouters
 # [Colocall][AS15497][62.149.28.0 - 62.149.28.255]
 
 0.0.0.0 e2.molbuk.ua
-# [Colocation Clients][85.14.38.16 - 85.14.38.255]
-
-0.0.0.0 ads.premiership.bg
 # [Colocation Clients][AS8262][85.14.6.0 - 85.14.6.255]
 
 0.0.0.0 eadsrv.com
@@ -21393,6 +21384,8 @@ ff02::2 ip6-allrouters
 
 # [EdgeCast][AS15133][117.18.232.0 - 117.18.239.255]
 
+# [EdgeCast][AS15133][152.176.0.0 - 152.199.255.255]
+
 # [EdgeCast Networks][AS15133][192.229.128.0 - 192.229.255.255]
 
 0.0.0.0 vlibs.advertising.com
@@ -21492,6 +21485,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 now.eloqua.com
 0.0.0.0 s323.t.eloqua.com
 0.0.0.0 s1184.t.eloqua.com
+0.0.0.0 s1325.t.eloqua.com
 0.0.0.0 s1471.t.eloqua.com
 0.0.0.0 s1481.t.eloqua.com
 0.0.0.0 s2150.t.eloqua.com
@@ -21628,6 +21622,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 bh.contextweb.com
 0.0.0.0 cdslog.contextweb.com
 0.0.0.0 tag-st.contextweb.com
+0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 beacon.wikia-services.com
 # [Fdcservers.net][AS30058][208.53.128.0 - 208.53.191.255]
 
 0.0.0.0 banners.virtuagirlhd.com
@@ -22277,7 +22273,6 @@ ff02::2 ip6-allrouters
 
 0.0.0.0 ip-geo.appspot.com
 0.0.0.0 nojsstats.appspot.com
-0.0.0.0 gae.caspion.com
 0.0.0.0 ad-ace.doubleclick.net
 0.0.0.0 ad.bg.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
@@ -22899,7 +22894,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 utm.trk.zwinky.com
 0.0.0.0 help.mysearch.com
 0.0.0.0 www.mysearch.com
-0.0.0.0 bar.mytotalsearch.com
 0.0.0.0 www.mytotalsearch.com
 0.0.0.0 mywebsearch.com
 0.0.0.0 edits.mywebsearch.com
@@ -23102,7 +23096,6 @@ ff02::2 ip6-allrouters
 # [Internet Billboard][AS2819][62.168.44.112 - 62.168.44.127]
 
 0.0.0.0 bbcdn.go.adlv.bbelements.com
-0.0.0.0 bbcdn.go.idmnet.bbelements.com
 0.0.0.0 go.gba.bbelements.com
 0.0.0.0 video-adserver.ibillboard.com
 # [Internet Billboard][AS2819][62.209.227.208 - 62.209.227.223]
@@ -23222,7 +23215,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.singlesadnetwork.com
 0.0.0.0 vom.sitescout.com
 0.0.0.0 wam-ads.sitescout.com
-0.0.0.0 monk.sitescoutadserver.com
 # [Isprime][66.230.128.0 - 66.230.191.255]
 
 0.0.0.0 www.ads180.com
@@ -23241,8 +23233,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.realtextads.com
 0.0.0.0 www.ruclicks.com
 0.0.0.0 banners.thiswillshockyou.com
-# [ISPrime / Reality Check][64.111.206.0 - 64.111.208.255]
-
 # [ISPrime / Reality Check][64.111.216.0 - 64.111.217.255]
 
 0.0.0.0 banners.amfibi.com
@@ -23270,7 +23260,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 244657-12903.link.iwanttodeliver.com
 0.0.0.0 38707-223419.link.iwanttodeliver.com
 0.0.0.0 4902-145639.link.iwanttodeliver.com
-0.0.0.0 www.loading-delivery1.com
 0.0.0.0 www.loading-delivery2.com
 0.0.0.0 banners.meccahoo.com
 0.0.0.0 www.targetingnow.com
@@ -23499,7 +23488,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 vktr073.net
 # [Leaseweb][AS16265][5.61.32.0 - 5.61.47.255]
 
-0.0.0.0 assculo.com
 # [Leaseweb][AS16265][5.79.64.0 - 5.79.127.255]
 
 0.0.0.0 adservone.com
@@ -23604,7 +23592,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.itmcash.com
 0.0.0.0 s6.lebenna.com
 0.0.0.0 linktarget.com
-0.0.0.0 wwa.pacific-yield.com
 0.0.0.0 adv.rockstar.bg
 0.0.0.0 webmasters.videarn.com
 0.0.0.0 ad.wingads.com
@@ -23642,7 +23629,6 @@ ff02::2 ip6-allrouters
 # [Level3 / InsightExpress][AS3356][209.244.0.0 - 209.247.255.255]
 
 0.0.0.0 ad.insightexpress.com
-0.0.0.0 invite.insightexpress.com
 0.0.0.0 www.insightexpress.com
 0.0.0.0 icompass.insightexpressai.com
 0.0.0.0 rb.insightexpressai.com
@@ -24571,7 +24557,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 clips.coolerads.com
 0.0.0.0 www.dolanadserver.com
 0.0.0.0 advertising.embarcaderopublishing.com
-0.0.0.0 iklan.emedia.com.my
 0.0.0.0 www.gcmadvertising.com
 0.0.0.0 mouads.com
 0.0.0.0 up.nytimes.com
@@ -24682,7 +24667,8 @@ ff02::2 ip6-allrouters
 
 0.0.0.0 scripts.chitika.net
 0.0.0.0 rtbcdn.doubleverify.com
-0.0.0.0 s.marketwatch.com
+# 0.0.0.0 s.marketwatch.com #[affects marketwatch]
+
 # [Ntt America][198.104.0.0 - 198.104.255.255]
 
 0.0.0.0 www.secure-processingcenter.com
@@ -26287,7 +26273,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 green.erne.co
 0.0.0.0 geoloc4.geovisite.com
 0.0.0.0 adyoulike.omnitagjs.com
-0.0.0.0 prosearchs.in
 0.0.0.0 whoads.net
 # [Ovh Sas][AS16276][178.32.18.128 - 178.33.18.191]
 
@@ -26328,6 +26313,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 a20.x-traceur.com
 0.0.0.0 logos.x-traceur.com
 0.0.0.0 services.x-traceur.com
+# [Ovh Sas][217.182.0.0 - 217.182.255.255]
+
 # [Ovh Sas][AS16276][37.187.128.0 - 37.187.135.255]
 
 0.0.0.0 eu1.heatmap.it
@@ -26440,9 +26427,12 @@ ff02::2 ip6-allrouters
 
 # [Peer 1][AS13768][209.15.0.0 - 209.15.255.255]
 
+0.0.0.0 appie.com
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 btprmnav.com
+0.0.0.0 btnativedirect.com
 0.0.0.0 bttrack.com
+0.0.0.0 pixel-a.basis.net
 0.0.0.0 pixel.crosspixel.net
 0.0.0.0 pixel-a.sitescout.com
 # [Peer 1][209.25.128.0 - 209.25.255.255]
@@ -26542,7 +26532,6 @@ ff02::2 ip6-allrouters
 # [Peer 1][66.199.128.0 - 66.199.191.255]
 
 0.0.0.0 banner.titanpoker.com
-0.0.0.0 banner.vegasred.com
 # [Peer 1][AS11388][66.33.0.0 - 66.33.127.255]
 
 # [Peer 1][AS11388][66.40.0.0 - 66.40.255.25550]
@@ -27163,7 +27152,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver2.exgfnetwork.com
 0.0.0.0 analytics.fuckingawesome.com
 0.0.0.0 ads.jo-games.com
-0.0.0.0 ads.myjizztube.com
 0.0.0.0 www.tubehits.com
 0.0.0.0 ads.watchmygf.net
 0.0.0.0 openx.watchmygf.net
@@ -27319,7 +27307,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.pornsponsors.com
 0.0.0.0 in.riskymail4free.com
 0.0.0.0 www.riskymail4free.com
-0.0.0.0 img.xratedbucks.com
 0.0.0.0 bigtits.xxxallaccesspass.com
 # [Secured Servers][AS20454][108.170.0.0 - 108.170.63.255]
 
@@ -27347,7 +27334,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.sedotracker.de
 # [Sedo / Cachenetworks][AS23352][AS30081][205.234.175.0 - 205.234.175.255]
 
-0.0.0.0 js.dmtry.com
 0.0.0.0 static.parkingpanel.com
 0.0.0.0 img.sedoparking.com
 # [Sedo][82.98.86.0 - 82.98.86.255]
@@ -27361,7 +27347,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.incentivenetworks2.com
 # [ServePath][173.1.0.0 - 173.1.127.255]
 
-0.0.0.0 ggo.directrev.com
 0.0.0.0 itunesdownloadstore.com
 # [ServePath][AS26228][173.204.0.0 - 173.204.255.255]
 
@@ -28179,7 +28164,6 @@ ff02::2 ip6-allrouters
 
 # [Theplanet.com][207.44.128.0 - 207.44.255.255]
 
-0.0.0.0 mmaadnet.ad-control-panel.com
 0.0.0.0 as.gostats.com
 0.0.0.0 ded.gostats.com
 0.0.0.0 www.searchmachine.com
@@ -28407,8 +28391,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 privatamateure.com
 0.0.0.0 webmaster.privatamateure.com
 0.0.0.0 www.privatamateure.com
-# [Turk Telekom][AS9121][212.174.200.96 - 212.174.200.127]
-
 # [Turk Telekom][AS9121][85.96.0.0 - 85.111.255.255]
 
 # [TutHost / Samotlortelecom][AS44820][91.203.4.0 - 91.203.7.255]
@@ -28422,8 +28404,6 @@ ff02::2 ip6-allrouters
 # [Tw Telecom][AS4323][216.120.224.0 - 216.120.255.255]
 
 0.0.0.0 boloz.com
-# [Tw Telecom][AS4323][216.136.0.0 - 216.136.127.255]
-
 # [Tw Telecom][AS4323][66.192.0.0 - 66.195.255.255]
 
 0.0.0.0 testats.inuvo.com
@@ -28435,9 +28415,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.proz.com
 0.0.0.0 theaffiliateprogram.com
 0.0.0.0 www.theaffiliateprogram.com
-# [UK2.net][AS13213][109.123.95.0 - 109.123.95.255]
-
-0.0.0.0 robtopol.in
 # [UK2.net][AS13213][83.170.64.0 - 83.170.127.255]
 
 0.0.0.0 err.000webhost.com
@@ -29411,10 +29388,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 092706152958.c.mystat-in.net
 0.0.0.0 102106151057.c.mystat-in.net
 0.0.0.0 112006133326.c.mystat-in.net
-# [W Net Isp][AS15772][92.60.176.0 - 92.60.191.255]
-
-# [Wahome / 2x4.ru][AS41947][92.241.168.0 - 92.241.169.254]
-
 # [WAN Worldcom / Live Technology][AS11486][206.65.169.128 - 206.65.169.191]
 
 0.0.0.0 14713804a.l2m.net
@@ -29433,6 +29406,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 click.zipcodez.com
 # [Webair][AS27257][173.239.42.214]
 
+0.0.0.0 dsp.adkernel.com
 0.0.0.0 sync.adkernel.com
 0.0.0.0 filter.adxfactory.com
 0.0.0.0 xml.adxfactory.com
@@ -29825,7 +29799,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 oascentral.katv.com
 0.0.0.0 oascentral.lifetimetv.com
 0.0.0.0 oas.maktoobblog.com
-0.0.0.0 oascentral.metrotimes.com
 0.0.0.0 oascentral.metrowestdailynews.com
 0.0.0.0 oascentral.miaminewtimes.com
 0.0.0.0 oascentral.modernhealthcare.com
@@ -29837,7 +29810,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 oascentral.news-record.com
 0.0.0.0 oascentral.newstimeslive.com
 0.0.0.0 oas-fr.video.on.nytimes.com
-0.0.0.0 oascentral.ocweekly.com
 0.0.0.0 oascentral.onthesnow.com
 0.0.0.0 oascentral.oprah.com
 0.0.0.0 oascentral.planetatv.com
@@ -29896,14 +29868,10 @@ ff02::2 ip6-allrouters
 
 0.0.0.0 cpaclickoffer.com
 0.0.0.0 jsn.mgid.com
-# [Wz Communications][199.101.132.0 - 199.101.135.255]
-
-0.0.0.0 www.adshost1.com
 # [Wz Communications][AS40824][204.155.144.0 - 204.155.159.255]
 
 0.0.0.0 track.ad4mmo.com
 0.0.0.0 n149adserv.com
-0.0.0.0 n44adshostnet.com
 0.0.0.0 cdn.mgid.com
 # [Wz Communications][AS40824][206.54.177.0 - 206.54.177.255]
 
@@ -29928,12 +29896,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 counter.mgid.com
 0.0.0.0 servicer.mgid.com
 0.0.0.0 i3.putags.com
-# [Xentronix][AS16265][85.12.43.0 - 85.12.43.255]
-
-# [X-host.ua Network][AS25456][193.200.255.0 - 193.200.255.255]
-
-# [XO Communications][AS2828][206.111.0.0 - 206.111.255.255]
-
 # [XO Communications][AS40935][208.36.0.0 - 208.37.255.255]
 
 0.0.0.0 smartad.mercadolibre.com.ar
@@ -29956,12 +29918,6 @@ ff02::2 ip6-allrouters
 # [XO Communications][AS2828][66.104.0.0 - 66.107.255.255]
 
 0.0.0.0 advertising.finditt.com
-# [XO Communications][AS2828][67.104.0.0 - 67.111.255.255]
-
-# [X Plus One][AS53563][75.98.46.0 - 75.98.46.255]
-
-# [Xs4all Internet][AS3265][213.222.29.96 - 213.222.29.127]
-
 # [Xs4all Internet][AS3265][82.161.231.0 - 82.161.231.255]
 
 0.0.0.0 www.mediahighway.net
@@ -29985,8 +29941,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 s01-delivery.addynamo.net
 0.0.0.0 static.addynamo.net
 0.0.0.0 static-uk.addynamo.net
-# [YabaMedia][AS49097][91.212.135.0 - 91.212.135.255]
-
 # [Yahoo][AS38689][119.161.0.0 - 119.161.31.255]
 
 # [Yahoo Taiwan][AS24506][116.214.0.0 - 116.214.15.255]
@@ -30008,13 +29962,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 e.yieldmanager.net
 # [Yahoo / Right Media][208.67.64.0 - 208.67.71.255]
 
-0.0.0.0 my.adtegrity.net
 0.0.0.0 ym.bannerconnect.net
-0.0.0.0 reporting.cpxinteractive.com
-0.0.0.0 api.yieldmanager.com
-0.0.0.0 my.yieldmanager.com
-# [Yahoo][209.191.64.0 - 209.191.127.255]
-
 # [Yahoo Europe][AS15635][217.12.3.0 - 217.12.4.255]
 
 0.0.0.0 be.adserver.yahoo.com
@@ -30045,7 +29993,6 @@ ff02::2 ip6-allrouters
 
 # [Yahoo][AS14778][76.13.0.0 - 76.13.255.255]
 
-0.0.0.0 ad.creafi.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.hi5.com
 0.0.0.0 ae.adserver.yahoo.com
@@ -30072,7 +30019,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 beap.adx.yahoo.com
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 gd.ads.vip.gq1.yahoo.com
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 ci.beap.ad.yieldmanager.net
 0.0.0.0 ac.ybinst0.ec.yimg.com
@@ -30192,9 +30138,9 @@ ff02::2 ip6-allrouters
 
 # ----
 
-# last updated:   Sun, 08 Apr 2018 21:14:29 GMT
+# last updated:   Thu, 19 Apr 2018 15:23:21 GMT
 
-# entries:        2663
+# entries:        2658
 
 # format:         hosts (hosts -- in hosts file format)
 
@@ -30208,7 +30154,7 @@ ff02::2 ip6-allrouters
 
 #
 
-# start date:    Fri, 17 Apr 1998 00:00:00
+# start date:    Fri, 01 May 1998 00:00:00
 
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -30470,7 +30416,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.grindinggears.com
 0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
-0.0.0.0 ads.hardwaresecrets.com
 0.0.0.0 ads.hideyourarms.com
 0.0.0.0 ads.horsehero.com
 0.0.0.0 ads.ibest.com.br
@@ -30811,7 +30756,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bidclix.com
 0.0.0.0 bidr.io
 0.0.0.0 bidswitch.net
-0.0.0.0 bidtrk.com
 0.0.0.0 bigbangmedia.com
 0.0.0.0 bigclicks.com
 0.0.0.0 billboard.cz
@@ -31105,6 +31049,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foresee.com
 0.0.0.0 forex-affiliate.net
+0.0.0.0 forter.com
 0.0.0.0 fpctraffic.com
 0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 free-banners.com
@@ -31112,6 +31057,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 freepay.com
 0.0.0.0 freeskreen.com
 0.0.0.0 freestats.tv
+0.0.0.0 frtyj.com
 0.0.0.0 fullstory.com
 0.0.0.0 functionalclam.com
 0.0.0.0 funklicks.com
@@ -31169,7 +31115,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hit.bg
 0.0.0.0 hit.ua
 0.0.0.0 hit.webcentre.lycos.co.uk
-0.0.0.0 hitcents.com
 0.0.0.0 hitfarm.com
 0.0.0.0 hitiz.com
 0.0.0.0 hitlist.ru
@@ -31252,7 +31197,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 itsptp.com
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
-0.0.0.0 janrain.com
 0.0.0.0 jcount.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
@@ -31315,6 +31259,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 lucidmedia.com
 0.0.0.0 lucklayed.info
 0.0.0.0 lumpyleaf.com
+0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
 0.0.0.0 m.trb.com
 0.0.0.0 m32.media
@@ -31444,6 +31389,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 novem.pl
 0.0.0.0 ns1p.net
 0.0.0.0 ntv.io
+0.0.0.0 ntvk1.ru
 0.0.0.0 nuggad.net
 0.0.0.0 numax.nu-1.com
 0.0.0.0 nuseek.com
@@ -31567,6 +31513,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 promotion-campaigns.com
 0.0.0.0 pronetadvertising.com
 0.0.0.0 propellerads.com
+0.0.0.0 props.id
 0.0.0.0 proranktracker.com
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com
@@ -31597,7 +31544,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 radiate.com
 0.0.0.0 rampidads.com
 0.0.0.0 rank-master.com
-0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-id.de
@@ -31655,7 +31601,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rose.ixbt.com
 0.0.0.0 rotabanner.com
 0.0.0.0 roxr.net
-0.0.0.0 rpxnow.com
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
 0.0.0.0 rtmark.net
@@ -32045,7 +31990,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 zenzuu.com
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
-0.0.0.0 zintext.com
 0.0.0.0 zmedia.com
 0.0.0.0 zqtk.net
 # This hosts file is brought to you by Mitchell Krog
@@ -32106,7 +32050,7 @@ ff02::2 ip6-allrouters
 
 ###################################################
 
-### Version: V1.2018.04.5590
+### Version: V1.2018.04.6141
 
 ##### Version Information ##
 
@@ -32232,7 +32176,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 123cha.com
 0.0.0.0 123ero.nl
 0.0.0.0 123kia.free.fr
-0.0.0.0 123kontaktanzeigen.de
 0.0.0.0 123kuma.com
 0.0.0.0 123laceypink.com
 0.0.0.0 123latina.free.fr
@@ -32585,7 +32528,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 91.205.157.38
 0.0.0.0 91.212.132.230
 0.0.0.0 91abcw.com
-0.0.0.0 925.lt
 0.0.0.0 94cdn.com
 0.0.0.0 96id.de
 0.0.0.0 97fn1ej0.myutilitydomain.com
@@ -32692,7 +32634,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 abouthomesdecorating.com
 0.0.0.0 aboutproperty.co.uk
 0.0.0.0 above.com
-0.0.0.0 abovetherivernc.com
 0.0.0.0 abrahamschildren.com
 0.0.0.0 absinths.com
 0.0.0.0 absolute-live.com
@@ -32879,7 +32820,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.springclick.com
 0.0.0.0 ads-storm.de
 0.0.0.0 ads-support-info-notify.com
-0.0.0.0 adstat.fgsta.com
 0.0.0.0 adstat.net
 0.0.0.0 ads.thebulgarianpost.com
 0.0.0.0 ads.tremorhub.com
@@ -33042,7 +32982,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adzerg.com
 0.0.0.0 adzpower.com
 0.0.0.0 aeazz.super-promo.quhu.info
-0.0.0.0 aed4uozi.com
 0.0.0.0 aedme.org.mx
 0.0.0.0 aedoctor.com
 0.0.0.0 aeghae5y.com
@@ -33144,7 +33083,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 aimayangzhi.com
 0.0.0.0 aimonking.com
 0.0.0.0 aioria.info
-0.0.0.0 airbnb.com-rooms-apartment-3078097-location-madrid.digitalocean.pw
 0.0.0.0 airbnb.tools
 0.0.0.0 air-edem.ru
 0.0.0.0 airfhtyo.bid
@@ -33209,10 +33147,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 alberguecasaanita.com
 0.0.0.0 alblux.com
 0.0.0.0 alboautotrasportatori.it
-0.0.0.0 albumsuper.info
-0.0.0.0 alcatel.handy.sms13.de
-0.0.0.0 alcatel.one.touch.first.sms13.de
-0.0.0.0 alcatel.sel.sms13.de
 0.0.0.0 alcohort.com
 0.0.0.0 aldersgatencsc.org
 0.0.0.0 aldik.com
@@ -33251,7 +33185,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 aliecspres.com
 0.0.0.0 alienwheel.es
 0.0.0.0 alienwheels.de
-0.0.0.0 aliexpresscashback.club
 0.0.0.0 alif-ba-ta.com
 0.0.0.0 alihanmaron.com
 0.0.0.0 a.liktirov.com
@@ -33352,9 +33285,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 alongpay.com
 0.0.0.0 aloofly.com
 0.0.0.0 alot.com
-0.0.0.0 alotofhotgirls.com
-0.0.0.0 alpa.co.za
-0.0.0.0 alphabetshares.com
 0.0.0.0 alphaforum.ru
 0.0.0.0 alphahoverboards.com
 0.0.0.0 alphamkt.net
@@ -33422,7 +33352,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 amateurpornplanet.com
 0.0.0.0 amateurpornzone.com
 0.0.0.0 amateur-pussy-pictures.com
-0.0.0.0 amateur.rules.nu
 0.0.0.0 amateurs-cam.0my.net
 0.0.0.0 amateursconvert.com
 0.0.0.0 amateursdoingporn.com
@@ -33571,7 +33500,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 analwhore.schoolreference.com
 0.0.0.0 a.namitol.com
 0.0.0.0 ananashotel.com
-0.0.0.0 anapa-inns.ru
 0.0.0.0 anatomytrains.co.uk
 0.0.0.0 anbstudios.com
 0.0.0.0 anchorpoint.co.za
@@ -33583,7 +33511,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 andrewrobertsllc.info
 0.0.0.0 andrewtheis.net
 0.0.0.0 android4fun.org
-0.0.0.0 androids-store.com
 0.0.0.0 android-style.com
 0.0.0.0 android-systems.ru
 0.0.0.0 an-droid-tv.de
@@ -33682,7 +33609,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 anonsociety.com
 0.0.0.0 anonturk.com
 0.0.0.0 anonym-im-web.info
-0.0.0.0 anonymizeme.pro
 0.0.0.0 anonymousbrowse.info
 0.0.0.0 a-n-o-n-y-m-o-u-s.info
 0.0.0.0 anonymous.ri.la
@@ -33728,7 +33654,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 apcalculus.info
 0.0.0.0 apccargo.com
 0.0.0.0 apc.edu.ph
-0.0.0.0 apelsinnik.website
 0.0.0.0 apenologia.pt
 0.0.0.0 apepix.com
 0.0.0.0 aphrodisia01.free.fr
@@ -33810,10 +33735,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 appyaviator.com
 0.0.0.0 aprddnfuzc.bid
 0.0.0.0 aprendainglesya.com.ve
-0.0.0.0 apronconsulting.com
-0.0.0.0 aproposde.com
 0.0.0.0 a.propos.free.fr
-0.0.0.0 apsaraicecreams.com
 0.0.0.0 ap.senai.br
 0.0.0.0 aptra.mx
 0.0.0.0 apushistory.info
@@ -34067,9 +33989,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ass-2-mouth.com
 0.0.0.0 assbusters.net
 0.0.0.0 assculturaleincontri.it
-0.0.0.0 asseenontvonline.ru
 0.0.0.0 asseenontv.ru
-0.0.0.0 asses.co.uk
 0.0.0.0 assessni.co.uk
 0.0.0.0 assess.vet.cmu.ac.th
 0.0.0.0 assfrenzy.com
@@ -34153,7 +34073,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 aussie-prizes.com
 0.0.0.0 australia-opening-times.com
 0.0.0.0 australiasuggsuks.info
-0.0.0.0 auth-bedachungen.de
 0.0.0.0 authenticguccionsalex.info
 0.0.0.0 authenticitylighting.com
 0.0.0.0 authentos.com
@@ -34324,7 +34243,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 babblecore.com
 0.0.0.0 babeangel.com
 0.0.0.0 b-a-b-e.com
-0.0.0.0 babedatabase.com
 0.0.0.0 babeking.be
 0.0.0.0 babelinks.org
 0.0.0.0 babesadult.nu
@@ -34416,8 +34334,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 balook.com
 0.0.0.0 baltgem.com
 0.0.0.0 bambi.ck.ua
-0.0.0.0 bambini.ir
-0.0.0.0 bamboocha.biz
 0.0.0.0 bambooclothings.com
 0.0.0.0 bamo.xsl.pt
 0.0.0.0 bamrot.com
@@ -34477,7 +34393,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 barcai.com
 0.0.0.0 bard-real.com.ua
 0.0.0.0 bareback.ca
-0.0.0.0 bareback.rules.nu
 0.0.0.0 barefootshiatsumassage.com
 0.0.0.0 barelpincho.com
 0.0.0.0 barelyjust18.com
@@ -34731,7 +34646,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bestsumppumpreviews.com
 0.0.0.0 besttrannies.info
 0.0.0.0 bestware.org
-0.0.0.0 best-way.men
 0.0.0.0 bestwaypest.com
 0.0.0.0 bestwaystogetpaid.us
 0.0.0.0 bestwebsiteawards.com
@@ -34763,8 +34677,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 betterscooter.com
 0.0.0.0 betterstay.cn
 0.0.0.0 bettes-free-porn-pictures.gocunt.com
-0.0.0.0 bettingwinning.se
-0.0.0.0 betto.com
 0.0.0.0 betune.onlinewebshop.net
 0.0.0.0 betwinservice.com
 0.0.0.0 beufosew.bid
@@ -34803,7 +34715,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 biermanns-hof.de
 0.0.0.0 bier.win
 0.0.0.0 bieshubbs.com
-0.0.0.0 bif-ru.info
 0.0.0.0 bigairusa.com
 0.0.0.0 bigames.online
 0.0.0.0 big-ass-sex.com
@@ -34832,7 +34743,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 big-fucking-orgy.inhit.com
 0.0.0.0 bigfuckingtits.info
 0.0.0.0 biggestdickinporn.samplehosting.com
-0.0.0.0 biggest.rules.nu
 0.0.0.0 biginterracialmovies.com
 0.0.0.0 bigiron4sale.com
 0.0.0.0 biglistofwebsites.com
@@ -34904,7 +34814,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bio.trade-jp.net
 0.0.0.0 biozz.super-promo.quhu.info
 0.0.0.0 bipetclic.free.fr
-0.0.0.0 birbenins.com
 0.0.0.0 birminghamphotographyclass.com
 0.0.0.0 birzha-truda.eu
 0.0.0.0 biscuitbutt.com
@@ -35035,7 +34944,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 blasemaul.de.lv
 0.0.0.0 blasen.la
 0.0.0.0 blasen-lecken-ohne-kondom.de.lv
-0.0.0.0 blasfilme.de
 0.0.0.0 blasir.com
 0.0.0.0 blau-weiss-50-baabe.de
 0.0.0.0 blavia.00author.com
@@ -35151,8 +35059,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bochemit.com.ua
 0.0.0.0 bocoarchives.org
 0.0.0.0 bocu.info
-0.0.0.0 bodaclickusa.com
-0.0.0.0 bodrumpansiyonlar.com
 0.0.0.0 bodybuilding-shop.biz
 0.0.0.0 bodyflying.se
 0.0.0.0 bogocn.com
@@ -35187,7 +35093,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bondage-here.com
 0.0.0.0 bondagemart.com
 0.0.0.0 bondagepics.nu
-0.0.0.0 bondageporn.100toppages.com
 0.0.0.0 bondage-porn.net
 0.0.0.0 bondageporn.nu
 0.0.0.0 bondage-teens.com
@@ -35369,7 +35274,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bsmarcas.com.br
 0.0.0.0 bsnteamsports.co
 0.0.0.0 bsrv.adohana.com
-0.0.0.0 bsterra.com
 0.0.0.0 b-styles.xyz
 0.0.0.0 bswlive.com
 0.0.0.0 bsx-girl.at
@@ -35462,11 +35366,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bustymilfs.biz
 0.0.0.0 bustysites.com
 0.0.0.0 busunda.pop3.ru
-0.0.0.0 buthen.com
-0.0.0.0 butstrap.space
-0.0.0.0 buttaibarn.com.au
-0.0.0.0 buttarmor.com
-0.0.0.0 buttermilkcirspytenders.com
 0.0.0.0 buttfuckedteens.samplehosting.com
 0.0.0.0 buttfuckers.nu
 0.0.0.0 buttfucking.nu
@@ -35547,7 +35446,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 c0m.it
 0.0.0.0 c0nfrim-supoort22.regist3r2.ga
 0.0.0.0 c3club.es
-0.0.0.0 c3sngvwp.com
 0.0.0.0 caalnt.com
 0.0.0.0 caam.es
 0.0.0.0 cabinmysore.com
@@ -35577,7 +35475,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 calculate.de
 0.0.0.0 calendale.free.fr
 0.0.0.0 calendar.bingodata.com
-0.0.0.0 californiaautoinsurancehq.org
 0.0.0.0 californiacs.com
 0.0.0.0 californianews.cf
 0.0.0.0 californiaproxy.info
@@ -35597,7 +35494,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 callusmiller.com
 0.0.0.0 callys-hardcore-sex-pics.gocunt.com
 0.0.0.0 calstaterealty.us
-0.0.0.0 calvaryassemblyofgod.org
 0.0.0.0 calvet.altervista.org
 0.0.0.0 calzini.it
 0.0.0.0 cam4date.de
@@ -35682,7 +35578,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 canrole.com
 0.0.0.0 canvashub.com
 0.0.0.0 canword.com
-0.0.0.0 canyonranchdestination.com
 0.0.0.0 canzoni.ru
 0.0.0.0 capacitacionyaprendizaje.com
 0.0.0.0 capacitarse.info
@@ -35781,12 +35676,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 castlist.net
 0.0.0.0 catacredit.com
 0.0.0.0 catalogovehiculos.dercocenter.cl
-0.0.0.0 catalogs-parts.com
-0.0.0.0 catbears.com
-0.0.0.0 catfightbitch.com
-0.0.0.0 catfishracingbodies.com
-0.0.0.0 catgirl.dk
-0.0.0.0 catiaonline.com
 0.0.0.0 catmountainhoa.com
 0.0.0.0 cat-sa.com
 0.0.0.0 cats-berlin.de
@@ -36089,7 +35978,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 chrandinc.com
 0.0.0.0 chra.org.au
 0.0.0.0 christianlouboutinoutletstores.us
-0.0.0.0 christianlouboutinreplica.pw
 0.0.0.0 christianlouboutinsaleonline.us
 0.0.0.0 christianlouboutinsaleoutletonline.us
 0.0.0.0 christianlouboutinshoes.xyz
@@ -36100,9 +35988,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 christishake.freehost.pl
 0.0.0.0 christophercreekcabin.com
 0.0.0.0 chris-ukorg.org
-0.0.0.0 chsdata.se
-0.0.0.0 chubby-boobs.com
-0.0.0.0 chubclaims.com
 0.0.0.0 chuckguilford.com
 0.0.0.0 chukweb.com
 0.0.0.0 chungmok.net
@@ -36300,7 +36185,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cmdvoice.com
 0.0.0.0 cmhomestayagency.com
 0.0.0.0 c.mrdarkddos.com
-0.0.0.0 cmrpunto.raya.cl
 0.0.0.0 cnbc7.com
 0.0.0.0 cncreativemarketing.com
 0.0.0.0 cned.de
@@ -36453,7 +36337,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 com-verification.com
 0.0.0.0 concealcarrycourse.com
 0.0.0.0 concealthyself.com
-0.0.0.0 conceptcircles.com
 0.0.0.0 conciergegroup.org
 0.0.0.0 concordexoticrentals.com
 0.0.0.0 concordphysi.com.au
@@ -36642,7 +36525,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 creatives.adbetclickin.pink
 0.0.0.0 creativeteam.it
 0.0.0.0 creatnewsummerinfo.com
-0.0.0.0 crediblesourcing.co.uk
 0.0.0.0 credidcarma.com
 0.0.0.0 credistacks.com
 0.0.0.0 credit-agricole.fr.particulier.raphaperu.com
@@ -36650,7 +36532,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 creditmoney.com.ua
 0.0.0.0 creditnation.ru
 0.0.0.0 credit-respect.ru
-0.0.0.0 credits-moins-cher.info
 0.0.0.0 creditwell.ru
 0.0.0.0 cremation.de
 0.0.0.0 cresgnockng.com
@@ -36706,7 +36587,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cs-gra.pl
 0.0.0.0 csk2014.info
 0.0.0.0 csk.ru
-0.0.0.0 cs.loneday.com
 0.0.0.0 csmc.org
 0.0.0.0 cs-passion.pl
 0.0.0.0 cstrespsurvey.ca
@@ -36831,20 +36711,15 @@ ff02::2 ip6-allrouters
 0.0.0.0 dadsexsonmovies.com
 0.0.0.0 dafabonus.com
 0.0.0.0 dafatiri.com
-0.0.0.0 dagpen.com
-0.0.0.0 dah0ooy4doe.info
 0.0.0.0 dailyanal.net
 0.0.0.0 dailycelebz.com
 0.0.0.0 dailyfinancefix.com
 0.0.0.0 dailylegs.net
-0.0.0.0 daily-mature.net
 0.0.0.0 dailymovie.us
 0.0.0.0 dailypetphoto.com
 0.0.0.0 dailyplanet.com.au
 0.0.0.0 dailyrank.net
 0.0.0.0 dailystrength.org
-0.0.0.0 daily-tits.info
-0.0.0.0 daily-xxx-stories.inhit.com
 0.0.0.0 dairyindia.in
 0.0.0.0 daisybok.se
 0.0.0.0 dakhinerkonthosor.com
@@ -37053,8 +36928,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 desinstalacion.deletebrowserinfection.com
 0.0.0.0 desireddestinations.com
 0.0.0.0 desire.nl
-0.0.0.0 desirland.free.fr
-0.0.0.0 deskbabes.eu
 0.0.0.0 desnudas.nu
 0.0.0.0 desperate-top.info
 0.0.0.0 desrencontresgratuites.com
@@ -37165,7 +37038,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dieselvehicles.com
 0.0.0.0 dieswaene.com
 0.0.0.0 dieta.100plus.cz
-0.0.0.0 dieta-personalna.pl
 0.0.0.0 diethealthresource4u.com
 0.0.0.0 dietpersonalized.com
 0.0.0.0 diewaescherei.de
@@ -37196,7 +37068,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 digsinfo.com
 0.0.0.0 dikkepikken.linkgids.net
 0.0.0.0 diktatstarten.de
-0.0.0.0 dikx.gdn
 0.0.0.0 dilara.at
 0.0.0.0 dildo.adultnet.in
 0.0.0.0 dildobabes.net
@@ -37256,7 +37127,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 diskursbygg.se
 0.0.0.0 disney.numbers.phone.world.sms13.de
 0.0.0.0 disneystote.com
-0.0.0.0 dispo.de
 0.0.0.0 dispute-transaction.review
 0.0.0.0 disruptingdinnerparties.com
 0.0.0.0 distancephotography.com
@@ -37538,7 +37408,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dreamoutloud.biz
 0.0.0.0 dreamsexe.com
 0.0.0.0 dreams-island.com
-0.0.0.0 dream-slips.de
 0.0.0.0 dreamwear.org
 0.0.0.0 dreamwhistlerz.com
 0.0.0.0 dream-x.net
@@ -37628,7 +37497,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dubai.best-top.biz
 0.0.0.0 dubaidesertrose.com
 0.0.0.0 dubaisecurity.com
-0.0.0.0 dubai-vakanties.com
 0.0.0.0 dubbelpijpen.nl
 0.0.0.0 dubsundays.com
 0.0.0.0 dubump.com
@@ -37696,9 +37564,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dyt.net
 0.0.0.0 dziennik24.uyp.pl
 0.0.0.0 dziewczyny.biz.pl
-0.0.0.0 dziewczyny.qii.pl
-0.0.0.0 dziwkinatelefon.pl
-0.0.0.0 dzuklgyo.bid
 0.0.0.0 e1i1t0updui0iqf.cc
 0.0.0.0 e2b8u3v8.map2.ssl.hwcdn.net
 0.0.0.0 e4porn.com
@@ -37752,7 +37617,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 eatpaste.com
 0.0.0.0 eatpussy.nu
 0.0.0.0 eatw.com
-0.0.0.0 e-avon.ru
 0.0.0.0 eavo.ru
 0.0.0.0 ebackback.com
 0.0.0.0 e-banner.lookmy.info
@@ -37884,8 +37748,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ehnova.com.br
 0.0.0.0 ehui.info
 0.0.0.0 eighteeny.com
-0.0.0.0 eikonesagion.com
-0.0.0.0 einfach-sex.com
 0.0.0.0 eireloom.com
 0.0.0.0 eiwrwjc.com
 0.0.0.0 eixst.ru
@@ -37894,7 +37756,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ejaculation69.com
 0.0.0.0 ejaculationfemininex.com
 0.0.0.0 ejk.ca
-0.0.0.0 ejohnny.org
 0.0.0.0 ekabox.ru
 0.0.0.0 ekaterinburg.xrus.org
 0.0.0.0 ekn-art.se
@@ -37995,7 +37856,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 elvel.com.ua
 0.0.0.0 elvenar.com
 0.0.0.0 elviramm.stumbleupon.com
-0.0.0.0 email00.com
 0.0.0.0 emailaccountlogin.co
 0.0.0.0 emailexpress.in
 0.0.0.0 emailing-maroc.com
@@ -38096,7 +37956,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 entretiencapital.com
 0.0.0.0 envaseslotusama.com
 0.0.0.0 enva-systems.de
-0.0.0.0 envelbank.pl
 0.0.0.0 en-verify.com
 0.0.0.0 en-videos.com
 0.0.0.0 enviousminds.co.za
@@ -38142,8 +38001,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ereko.ru
 0.0.0.0 ergo-eg.com
 0.0.0.0 erhpodgijusvi.bid
-0.0.0.0 ericandersson.ca
-0.0.0.0 ericcson.se
 0.0.0.0 ericverberne.nl
 0.0.0.0 erie.smartage.net
 0.0.0.0 erimo-marimo.com
@@ -38276,7 +38133,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 erotikbilder.nu
 0.0.0.0 erotik-bordelle.at
 0.0.0.0 erotikchat-24.com
-0.0.0.0 erotik.clickseller-leipzig.de
 0.0.0.0 erotikclup.net
 0.0.0.0 erotikcorner.com
 0.0.0.0 erotikdating4u.de
@@ -38465,7 +38321,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 everydresses.com
 0.0.0.0 everytalk.tv
 0.0.0.0 everythingisstory.com
-0.0.0.0 evesaddictin.com
 0.0.0.0 evil69.com
 0.0.0.0 evile.co.uk
 0.0.0.0 evilsex.nu
@@ -38597,10 +38452,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ezigarettenshop1.yolasite.com
 0.0.0.0 ezigarettenshop2.myblog.de
 0.0.0.0 ezigarettenshop2.postbit.com
-0.0.0.0 ezigaretteshop2.mywapblog.com
-0.0.0.0 ezigaretteshop2.vefblog.net
-0.0.0.0 ezigaretteshop.webs.com
-0.0.0.0 ezmm.ru
 0.0.0.0 ezofest.sk
 0.0.0.0 ezona.cidadeinternet.com.br
 0.0.0.0 ezproxee.info
@@ -38671,7 +38522,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fagtech.com
 0.0.0.0 fahrschule-viersen.de
 0.0.0.0 fahvoxmhh.top
-0.0.0.0 fairjets.de
 0.0.0.0 fairlight.dk
 0.0.0.0 fairway-ford.com
 0.0.0.0 faisaliya.com
@@ -38813,7 +38663,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fd4.eye.to
 0.0.0.0 fdetc.org
 0.0.0.0 fdzone.org
-0.0.0.0 fealq.com
 0.0.0.0 fearcrow.com
 0.0.0.0 featureporn.com
 0.0.0.0 fedchik.org.ua
@@ -38831,7 +38680,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 feetfetish.nu
 0.0.0.0 feetjobwhores.com
 0.0.0.0 feet.nu
-0.0.0.0 fefo.gdn
 0.0.0.0 feicht.com
 0.0.0.0 feieo.com
 0.0.0.0 fejspejs.pl
@@ -38858,22 +38706,15 @@ ff02::2 ip6-allrouters
 0.0.0.0 femfootfetish.com
 0.0.0.0 femininetouch.free.fr
 0.0.0.0 femme-collant.com
-0.0.0.0 femmelinks.com
 0.0.0.0 femme-mature.sitecul.com
 0.0.0.0 femme-noire-nue.com
-0.0.0.0 femmeobese.com
-0.0.0.0 femmes-bcbg.com
-0.0.0.0 femme-scato.com
 0.0.0.0 femmeschaude.free.fr
 0.0.0.0 femmesdenudees.com
 0.0.0.0 femmes-fortes.com
-0.0.0.0 femme-silicone.com
 0.0.0.0 femmes-in-charge.com
 0.0.0.0 femmes-matures.be.tc
 0.0.0.0 femmes-mures.be
 0.0.0.0 femmes-mures.be.tc
-0.0.0.0 femme-soumise.com
-0.0.0.0 femme-x.com
 0.0.0.0 fendom.org
 0.0.0.0 fengwutong.com
 0.0.0.0 fenoyl.batcave.net
@@ -38948,7 +38789,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fetroshok.ru
 0.0.0.0 fette-fotzen.de.lv
 0.0.0.0 fettefrauen.net
-0.0.0.0 fettensex.de
 0.0.0.0 fettetitten.net
 0.0.0.0 fettzeppelin.de
 0.0.0.0 feuchte-fotzen.info
@@ -38958,7 +38798,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ff6164.com
 0.0.0.0 ffaxxx.com
 0.0.0.0 ffbb9039.amy.gs
-0.0.0.0 ff.sky3way.com
 0.0.0.0 fg.bibleandbullets.com
 0.0.0.0 fgj.us
 0.0.0.0 fhg.allanimemovies.com
@@ -38970,7 +38809,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fiberally.com
 0.0.0.0 fick-affairen.com
 0.0.0.0 fickblock18.com
-0.0.0.0 ficken.4iso.de
 0.0.0.0 ficken-bumsen.de.lv
 0.0.0.0 ficken-frauen.de
 0.0.0.0 ficken.la
@@ -39065,7 +38903,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 filxbus.de
 0.0.0.0 filzgalerie.de
 0.0.0.0 finally.nu
-0.0.0.0 finals.travian.com
 0.0.0.0 finance-daily.ru
 0.0.0.0 financetip.eu
 0.0.0.0 financialnewsupdates.com
@@ -39304,21 +39141,16 @@ ff02::2 ip6-allrouters
 0.0.0.0 forskningsresultat.se
 0.0.0.0 fortuna-group.com.ua
 0.0.0.0 fortworth-locksmithservice.com
-0.0.0.0 forum-4-all.de
-0.0.0.0 forum.alicefans.se
-0.0.0.0 forum.amplecredit.com
 0.0.0.0 forum.angelinfo.com
 0.0.0.0 forum.briko.pl
 0.0.0.0 forum.camcorderinfo.com
 0.0.0.0 forum.cefey.ru
-0.0.0.0 forum.classicality.pl
 0.0.0.0 forum.dairyfreeuk.com
 0.0.0.0 forum.dejm.pl
 0.0.0.0 forumdelivros.com
 0.0.0.0 forumdifotografia.it
 0.0.0.0 forum.doctissimo.fr
 0.0.0.0 forum.emarkowo.pl
-0.0.0.0 forum-engineering.ru
 0.0.0.0 forum.envergadura.com
 0.0.0.0 forumforn22everw.com
 0.0.0.0 forumforneverwind2.com
@@ -39348,7 +39180,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 forumsdediscussion.com
 0.0.0.0 forum.slntech.net
 0.0.0.0 forum.soloalfa.it
-0.0.0.0 forum.stfi.pl
 0.0.0.0 forums.thatchickensite.com
 0.0.0.0 forum.stilgi.ru
 0.0.0.0 forum.svetikova.net
@@ -39420,7 +39251,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 franklinleadershipcenter.com
 0.0.0.0 frankrock.com
 0.0.0.0 franksucks.com
-0.0.0.0 frankuhlenbrock.de
 0.0.0.0 fransiza.sk
 0.0.0.0 fransizporno.com
 0.0.0.0 franziska-rosenfeld.de
@@ -39529,11 +39359,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 free-lesbian-movies.com
 0.0.0.0 free-lesbian-sex-pictures.gocunt.com
 0.0.0.0 freelifeclub.org
-0.0.0.0 freelifetimefuckbook.com
-0.0.0.0 freelifetme3danime.com
-0.0.0.0 freelivesluts.com
-0.0.0.0 freelivevideo.nu
-0.0.0.0 freelivewebcam.info
 0.0.0.0 freelotto.com
 0.0.0.0 freelyrics.win
 0.0.0.0 freemags.cc
@@ -40066,7 +39891,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gay-camz.nl
 0.0.0.0 gaycartoons.info
 0.0.0.0 gaycited.com
-0.0.0.0 gay-cock.de
 0.0.0.0 gay.cybersteam.com
 0.0.0.0 gaydates.be
 0.0.0.0 gaydefrance.free.fr
@@ -40107,11 +39931,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 gaymen-blog.com
 0.0.0.0 gaymen-xxx.com
 0.0.0.0 gaynetz.com
-0.0.0.0 gayonline.us
 0.0.0.0 gay.org.au
 0.0.0.0 gay-orgy-xxx.inhit.com
 0.0.0.0 gay-pimmel.com
-0.0.0.0 gaypissingporn.com
 0.0.0.0 gayporn.erotic-place.org
 0.0.0.0 gay-porn.fr
 0.0.0.0 gaypornhome.com
@@ -40205,7 +40027,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 geeksdrivesavers.com
 0.0.0.0 geekyporno.nu
 0.0.0.0 geezter.com
-0.0.0.0 gefc.gdn
 0.0.0.0 geheimtip-des-herzens.de
 0.0.0.0 geile-aersche.cl.tc
 0.0.0.0 geile-bildersammlung.cl.tc
@@ -40224,7 +40045,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 geilegids.nu
 0.0.0.0 geilegrietjes.nl
 0.0.0.0 geilehausfrauen.net
-0.0.0.0 geilejongetieners.nl
 0.0.0.0 geile-ladies.cl.tc
 0.0.0.0 geile-lelly.eu
 0.0.0.0 geile-luder.de
@@ -40254,7 +40074,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gemara.com
 0.0.0.0 gembird.com
 0.0.0.0 geminiindia.com
-0.0.0.0 gemshairandbeauty.com
 0.0.0.0 gencleryt.com
 0.0.0.0 gencseks.com
 0.0.0.0 geneibra.com
@@ -40303,15 +40122,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 gesgc.com
 0.0.0.0 gesika.info
 0.0.0.0 gespensterwelt.de
-0.0.0.0 gesperu.com
-0.0.0.0 gesynchronycapital.com
 0.0.0.0 getadvancenow.com
 0.0.0.0 getapussy.com
 0.0.0.0 getbynow.com
 0.0.0.0 getcashloansnowhere.com
 0.0.0.0 getfatburn.com
 0.0.0.0 getflappybirdnow.com
-0.0.0.0 get-free-traffic-now.com
 0.0.0.0 getfucked.nu
 0.0.0.0 getgasfree.com
 0.0.0.0 getip.gq
@@ -40330,7 +40146,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 getporns.com
 0.0.0.0 getreservations.com
 0.0.0.0 getresponse.com
-0.0.0.0 get-sex.net
 0.0.0.0 getsexquick.com
 0.0.0.0 getsoftware.today
 0.0.0.0 getteenpics.com
@@ -40511,7 +40326,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gobettygo.com
 0.0.0.0 go.biz
 0.0.0.0 gobljmgamwfjrc.bid
-0.0.0.0 gobongo.info
 0.0.0.0 gobusinessloan.com
 0.0.0.0 gocitytext.com
 0.0.0.0 goddessvip.com
@@ -40606,7 +40420,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 googlemare.com
 0.0.0.0 googleplaycards.dlcodes.com
 0.0.0.0 google.plle.pl
-0.0.0.0 googlepl.pl
 0.0.0.0 googlepositions.com
 0.0.0.0 google-space.com
 0.0.0.0 google-trade.com
@@ -40768,13 +40581,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 grosses-femmes-nues.com
 0.0.0.0 gross-kleeberg.de
 0.0.0.0 groupfetish.com
-0.0.0.0 group-i.com
 0.0.0.0 groupielovedvd.com
-0.0.0.0 group-message.com
 0.0.0.0 groupmoney.ru
 0.0.0.0 grouppics.allmanpages.com
-0.0.0.0 group-rape.com
-0.0.0.0 group-sex-orgies.boinkers.com
 0.0.0.0 groupsexxx.com
 0.0.0.0 growingconfidence.org
 0.0.0.0 growmyfunds.ca
@@ -40926,8 +40735,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hairy-babes.com
 0.0.0.0 hairyhere.biz
 0.0.0.0 hairymen.allmanpages.com
-0.0.0.0 hairymen.rules.nu
-0.0.0.0 hairy.nichetoplist.com
 0.0.0.0 hairypussy.nu
 0.0.0.0 hairysearchengine.com
 0.0.0.0 hairywomenvideos.net
@@ -40936,7 +40743,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hallmarkteam.com
 0.0.0.0 hallwaystreetsigns.com
 0.0.0.0 halstad.se
-0.0.0.0 hamburggirls.de
 0.0.0.0 hamburg-tonight.de
 0.0.0.0 hamedori.org
 0.0.0.0 hamilton.ca
@@ -40950,10 +40756,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 handicapbathtubarea.com
 0.0.0.0 handicapvansarea.com
 0.0.0.0 handicapvantoday.com
-0.0.0.0 handicraftsindia.in
-0.0.0.0 handjobs.de.lv
-0.0.0.0 handsandlegs.ru
-0.0.0.0 handy.auskunft.sms13.de
 0.0.0.0 handy.logos.porno.sms13.de
 0.0.0.0 handy.mms.voyeur.sms13.de
 0.0.0.0 handy.nummern.sms13.de
@@ -41058,7 +40860,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hardcorewarez.nu
 0.0.0.0 hardcore-webcams.com
 0.0.0.0 hardcore-xxx-teen-sex.com
-0.0.0.0 hard-drive.net
 0.0.0.0 hardfinder.com
 0.0.0.0 hard-kore.com
 0.0.0.0 hardmedic.com
@@ -41251,7 +41052,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 heraldgroup.com.ge
 0.0.0.0 herbalpharmvalue.ru
 0.0.0.0 hgm.world
-0.0.0.0 hh8d47.com
 0.0.0.0 hhdbbixxs.bid
 0.0.0.0 hhnamywutsvovm.bid
 0.0.0.0 hhnvtfiiitzf.bid
@@ -41275,7 +41075,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hidemybrowsing.com
 0.0.0.0 hidemytraffic.com
 0.0.0.0 hideproxy.eu
-0.0.0.0 hider.club
 0.0.0.0 hiderefer.net
 0.0.0.0 hiderm.net
 0.0.0.0 hideschool.com
@@ -41402,8 +41201,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 holoam.com
 0.0.0.0 holspi.com
 0.0.0.0 holyeros.com
-0.0.0.0 homcityicesettlement.com
-0.0.0.0 home56.ru
 0.0.0.0 homeandhealth.ru
 0.0.0.0 homebath.ru
 0.0.0.0 homecams.co.uk
@@ -41413,7 +41210,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 homegrownpornmovies.com
 0.0.0.0 homeinns.com
 0.0.0.0 home.kobatochan.co
-0.0.0.0 homemade.gq
 0.0.0.0 homemature.net
 0.0.0.0 home.mobile.nebraska.sale.sms13.de
 0.0.0.0 homempegs.com
@@ -41445,20 +41241,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 honghaiqc.com
 0.0.0.0 hongphuchotel.com
 0.0.0.0 hongzao99.com
-0.0.0.0 honourableud.top
 0.0.0.0 hoo1luha.com
 0.0.0.0 hoo2835.codns.com
 0.0.0.0 hoochiehut.com
 0.0.0.0 hookersandwhores.com
 0.0.0.0 hookupsnearby.com
 0.0.0.0 hooperfoloaz.top
-0.0.0.0 hooporno.com
 0.0.0.0 hoo.ru
-0.0.0.0 hootersgallery.com
-0.0.0.0 hoowoo.net
-0.0.0.0 hopeandopportunitytc.com
-0.0.0.0 hopeonthestreet.co.uk
-0.0.0.0 hoporno.com
 0.0.0.0 horeen.com
 0.0.0.0 hornetgroup.com
 0.0.0.0 horneyblokes.com
@@ -41671,13 +41460,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 houseofrose.com
 0.0.0.0 houseofsmut.com
 0.0.0.0 house.sieraddns.com
-0.0.0.0 housewivesnaked.com
 0.0.0.0 housewives-sex.lip.st
-0.0.0.0 housewivex.lip.st
 0.0.0.0 hous.pl
-0.0.0.0 houstonmethodis.org
-0.0.0.0 houston-vikings.com
-0.0.0.0 hoverboard360.de
 0.0.0.0 hoverboard360.se
 0.0.0.0 hoverboardforsaledirect.com
 0.0.0.0 howbeats.com
@@ -41904,7 +41688,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 iflycapetown.co.za
 0.0.0.0 ifmo.ru
 0.0.0.0 iforgotappple.com
-0.0.0.0 ifpn2g.com
 0.0.0.0 iframe911.com
 0.0.0.0 iframe.cc
 0.0.0.0 iframes.pornprosnetwork.com
@@ -42105,7 +41888,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 info0.ru
 0.0.0.0 info112kff198.000webhostapp.com
 0.0.0.0 info24.uyp.pl
-0.0.0.0 info-ads-verify-identify.com
 0.0.0.0 infobabki.ru
 0.0.0.0 infocam.de
 0.0.0.0 infodocsportal.com
@@ -42145,7 +41927,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 innmg.com
 0.0.0.0 innocnthigh.com
 0.0.0.0 innodgfdriverhm.aircus.com
-0.0.0.0 innovative3d.co.za
 0.0.0.0 innovativedigitalmedia.com
 0.0.0.0 innylon.com
 0.0.0.0 inome.com.ua
@@ -42272,7 +42053,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 iphant.de
 0.0.0.0 iphide.tk
 0.0.0.0 iphone4fodral.se
-0.0.0.0 iphoneutstyr.no
 0.0.0.0 iphwttyqzuhucw.bid
 0.0.0.0 ipintu.com.cn
 0.0.0.0 ipmsc.com
@@ -42369,7 +42149,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 it-helpdeskadmin.000webhostapp.com
 0.0.0.0 itibook.com
 0.0.0.0 itindustry.net
-0.0.0.0 itis4you.com
 0.0.0.0 itj.cz
 0.0.0.0 itm2012.com
 0.0.0.0 itm4u.com
@@ -42387,15 +42166,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 itserviceemailupdate.sitey.me
 0.0.0.0 itservicesthatworkforyou.com
 0.0.0.0 itsfetish.com
-0.0.0.0 itsonlypoker.net
-0.0.0.0 itunescardsnew.dlcodes.com
-0.0.0.0 itunes.music2716-sudis-appleid.vrs-gravsdelectronic-electronicalverification.arteirapatchwork.com.br
-0.0.0.0 itunes-uk.org
-0.0.0.0 itworms.com
-0.0.0.0 iubridges.org
-0.0.0.0 iunknown.net
-0.0.0.0 iuohahuwa.hostami.me
-0.0.0.0 iusstf.org
 0.0.0.0 ivanafukalot.biz
 0.0.0.0 ivannoval.es
 0.0.0.0 ivanovo.zrus.org
@@ -42405,7 +42175,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ivis2016.org
 0.0.0.0 ivoiremarketing.com
 0.0.0.0 ivoiretechnocom.ci
-0.0.0.0 iv-r.de
 0.0.0.0 iwantagirlfriend.com
 0.0.0.0 iwantbooty.com
 0.0.0.0 iwantedmoney.com
@@ -42431,7 +42200,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 izmirhome.com
 0.0.0.0 izoll.ru
 0.0.0.0 izoou.com
-0.0.0.0 j0.nl
 0.0.0.0 j33.fr
 0.0.0.0 j33x.com
 0.0.0.0 j94kp2o.com
@@ -42604,7 +42372,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 jflescorts.com
 0.0.0.0 jflion.com
 0.0.0.0 jfxiirxbl.bid
-0.0.0.0 jg1guxxw.com
 0.0.0.0 jikoman.info
 0.0.0.0 jillepille.com
 0.0.0.0 jimbramblettproductions.com
@@ -42704,7 +42471,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 jomjb.com
 0.0.0.0 jonasmc.se
 0.0.0.0 jonathanfield0.com
-0.0.0.0 jonathonsplumbing.com
 0.0.0.0 jondi.ru
 0.0.0.0 jonubickpsyd.com
 0.0.0.0 joodie.free.fr
@@ -42794,10 +42560,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 justbii.com
 0.0.0.0 justbrowse.net
 0.0.0.0 justdate.net
-0.0.0.0 justfindout.de
-0.0.0.0 justflyc.com
-0.0.0.0 justgiiving.com
-0.0.0.0 justhighheels.com
 0.0.0.0 justinterracialsex.com
 0.0.0.0 justintimetac.com
 0.0.0.0 justme2ztr.com
@@ -42899,7 +42661,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 karma18.com
 0.0.0.0 karpun-iris.ru
 0.0.0.0 karsxxx.com
-0.0.0.0 karting196.ru
 0.0.0.0 kartiniresto.com
 0.0.0.0 karupcha.com
 0.0.0.0 karupsc.com
@@ -43029,7 +42790,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 kidslanguageresources.com
 0.0.0.0 kiel-automeile.de
 0.0.0.0 kieselmann.su
-0.0.0.0 kihi.gdn
 0.0.0.0 kihmdiimzzab.bid
 0.0.0.0 kiiksafety.co.id
 0.0.0.0 kiken.jp
@@ -43074,14 +42834,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 kino2018.club
 0.0.0.0 kinobaks.com
 0.0.0.0 kinocccp.net
-0.0.0.0 kinocda.pl
-0.0.0.0 kinofak.net
 0.0.0.0 kino-filmi.com
-0.0.0.0 kinoflux.net
 0.0.0.0 kino-fun.ru
-0.0.0.0 kinogolos.ru
-0.0.0.0 kinogonew.ru
-0.0.0.0 kinohall.ru
 0.0.0.0 kinohit1.ru
 0.0.0.0 kino-key.info
 0.0.0.0 kinoplen.ru
@@ -43162,7 +42916,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 knigonosha.net
 0.0.0.0 knockeduphotties.com
 0.0.0.0 knogg.net
-0.0.0.0 knol.pw
 0.0.0.0 knowyournextmove.com
 0.0.0.0 knq.biz
 0.0.0.0 knubbig.se
@@ -43236,7 +42989,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 krynica.info
 0.0.0.0 ks1234.com
 0.0.0.0 ks1-nl.travian.com
-0.0.0.0 ks2-cz.travian.com
 0.0.0.0 ks2-de.travian.com
 0.0.0.0 ks2-ru.travian.com
 0.0.0.0 ks4-com.travian.com
@@ -43269,7 +43021,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 kuqylnamtv.bid
 0.0.0.0 kurdart.com
 0.0.0.0 kurdish-homes.com
-0.0.0.0 kursusfotografi.info
 0.0.0.0 kursy-ege.ru
 0.0.0.0 kurwa.org
 0.0.0.0 kurwa.win
@@ -43383,7 +43134,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 lagranorgia.com.ar
 0.0.0.0 lagubox.net
 0.0.0.0 lailasaroma.se
-0.0.0.0 lajaniquerafm.com
 0.0.0.0 la-jeune-fille.com
 0.0.0.0 lakeecogroup.com
 0.0.0.0 lakemedelsvarket.se
@@ -43486,59 +43236,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 lavo.info
 0.0.0.0 lawee.org
 0.0.0.0 lawfirmediscovery.com
-0.0.0.0 laxdrills.com
-0.0.0.0 layola.biz.tc
-0.0.0.0 laytonhubble.com
-0.0.0.0 lazy-z.com
-0.0.0.0 lboevbwgg.top
-0.0.0.0 lc0pyfn.com
-0.0.0.0 lceb.org
 0.0.0.0 lceihiuarfqbn.bid
-0.0.0.0 lchfdiet.com
 0.0.0.0 lcnvxuipvq.bid
 0.0.0.0 l.com
-0.0.0.0 lcoulombeau.free.fr
-0.0.0.0 lcvc.co.uk
-0.0.0.0 ld82ydd.com
 0.0.0.0 ldlritslfej.bid
-0.0.0.0 ldrtrack.com
-0.0.0.0 leadcheese.com
-0.0.0.0 leadersinchildcare.com
-0.0.0.0 leadn.pl
-0.0.0.0 leadwayau.com
-0.0.0.0 leakagevideo.net
-0.0.0.0 leakingmilfs.nichedsites.com
-0.0.0.0 leansixsigmamkt.com.br
-0.0.0.0 learnable.info
-0.0.0.0 learnabouttriactol.com
-0.0.0.0 learningenglishonline.info
-0.0.0.0 leatherbuddies.allmanpages.com
-0.0.0.0 lebbi.com
-0.0.0.0 lebensfreunde50.de
-0.0.0.0 leblancdesyeux.ca
-0.0.0.0 leboard.ru
-0.0.0.0 lecerclelibertin.com
-0.0.0.0 lechenie-gemorroya.com
-0.0.0.0 lechtaczka.net
-0.0.0.0 lecoin.free.fr
-0.0.0.0 ledermueller.de
-0.0.0.0 le-dial.com
-0.0.0.0 ledis.top
-0.0.0.0 ledpolice.ru
-0.0.0.0 led-projekt.ru
-0.0.0.0 leehollow.com
-0.0.0.0 leesideweb.net
-0.0.0.0 legaction.nu
-0.0.0.0 legalhelpmn.org
-0.0.0.0 legal-nurse-consultants.org
-0.0.0.0 legalrc.biz
-0.0.0.0 legenebank.com
-0.0.0.0 legepladsen.nu
-0.0.0.0 legfetish.net
-0.0.0.0 lego4x4.ru
-0.0.0.0 legsandhose.com
 0.0.0.0 legsandlegs.com
-0.0.0.0 leg.sexy.st
 0.0.0.0 legsfetish.blogspot.ca
 0.0.0.0 legsfetish.blogspot.ch
 0.0.0.0 legsfetish.blogspot.co.id
@@ -43581,7 +43283,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 leparadisdesfakes2.free.fr
 0.0.0.0 lepetitbonhommeenmouss.eu
 0.0.0.0 lepetitmignon.de
-0.0.0.0 le-portable.com
 0.0.0.0 lernbroker.de
 0.0.0.0 lernur.net
 0.0.0.0 lerporn.info
@@ -43814,26 +43515,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 listmx.com
 0.0.0.0 liteflight.us
 0.0.0.0 liteful.com
-0.0.0.0 litemail.eu
 0.0.0.0 little-amadeus.de
-0.0.0.0 littleberry.ru
 0.0.0.0 little-bitch.com
-0.0.0.0 little.darkhost.info
-0.0.0.0 littlefinger-net.com
-0.0.0.0 littlefuckers.net
-0.0.0.0 littlegirlcunts.com
-0.0.0.0 littlegirlsfucking.com
-0.0.0.0 littlejohnny.org
-0.0.0.0 littleleague.com.au
-0.0.0.0 littlelovespuppydogs.com
-0.0.0.0 littlemutt-gals.com
 0.0.0.0 little-ones.net
-0.0.0.0 littlepussy.biz
-0.0.0.0 littlesunraiser.com
-0.0.0.0 little-teens.info
-0.0.0.0 littletreasuresonline.co.uk
-0.0.0.0 liupis.com
-0.0.0.0 liuzzasnola.com
 0.0.0.0 live2casino.com
 0.0.0.0 livebare.biz
 0.0.0.0 live.biz.pl
@@ -43842,19 +43526,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 livecam.de.lv
 0.0.0.0 livecams.cu.com
 0.0.0.0 livecams.dreamnet.com
-0.0.0.0 live-cam-sex.de
 0.0.0.0 livecams.rulen.de
 0.0.0.0 livecamstreams.com
 0.0.0.0 livecam-telefonsex.de.lv
 0.0.0.0 live.chartboost.com
 0.0.0.0 livechatpartner.com
-0.0.0.0 live-erotikshow.de
-0.0.0.0 live-fetish.com
 0.0.0.0 livefixer.com
 0.0.0.0 livefucking.nu
 0.0.0.0 livegayporn.net
-0.0.0.0 live-gefickt.de
-0.0.0.0 live-girls.be
 0.0.0.0 livegirlvideo.com
 0.0.0.0 livehardcore.nu
 0.0.0.0 livehomade.com
@@ -43867,10 +43546,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 livejasmins.org
 0.0.0.0 liveland.info
 0.0.0.0 livelnternet.net
-0.0.0.0 live-lust.com
 0.0.0.0 livenudechat.us
 0.0.0.0 liveporn.de
-0.0.0.0 live-porno-voyeur.com
 0.0.0.0 livepornusa.com
 0.0.0.0 livepornworld.com
 0.0.0.0 liver-chintai.org
@@ -43880,10 +43557,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 livesexbunnys.com
 0.0.0.0 livesexcams.in
 0.0.0.0 live-sexcams.info
-0.0.0.0 live-sex-cams.net
-0.0.0.0 live-sex-cams.org
 0.0.0.0 live-sexcam.tk
-0.0.0.0 live-sex-chat.biz
 0.0.0.0 live-sexchat.ru
 0.0.0.0 live-sexe-film.artlinkslist.com
 0.0.0.0 livesex.gr
@@ -43892,8 +43566,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 livesex-sexchat.com
 0.0.0.0 livesex-spass.net
 0.0.0.0 livesexsquirt.com
-0.0.0.0 live-sex-web-cam.com
-0.0.0.0 live-sex-webcams.net
 0.0.0.0 liveshemales.nl
 0.0.0.0 liveshoppersmac.com
 0.0.0.0 livetorrents.com
@@ -43941,7 +43613,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 lmjpcirfvt.bid
 0.0.0.0 lmmex.com
 0.0.0.0 lockerz.com
-0.0.0.0 lockerz-invit.eu
 0.0.0.0 locksmith.jp
 0.0.0.0 lodgerva.com
 0.0.0.0 lodki-pvh.dp.ua
@@ -44022,7 +43693,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 looking4stars2.free.fr
 0.0.0.0 lookingatporn.com
 0.0.0.0 lookingglassemb.com
-0.0.0.0 looklisten.ru
 0.0.0.0 lookmeupat.com
 0.0.0.0 lookout2000.com
 0.0.0.0 lopoyra.co.be
@@ -44038,7 +43708,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 lostallone.it
 0.0.0.0 lost-alpha.ru
 0.0.0.0 lostfilm-online.ru
-0.0.0.0 lostiphonefinder-lcloud.review
 0.0.0.0 lotomoney.biz
 0.0.0.0 lotot.pl
 0.0.0.0 lotsofteens.com
@@ -44130,7 +43799,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 lunettenoire.com
 0.0.0.0 lusciousbutts.com
 0.0.0.0 lusha.co.uk
-0.0.0.0 lushkitchengarden.com.au
 0.0.0.0 lussuria.biz
 0.0.0.0 lustcastle.com
 0.0.0.0 lusted.biz
@@ -44181,36 +43849,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 maboneng.com
 0.0.0.0 macdaddypimp.com
 0.0.0.0 macdamaged.space
-0.0.0.0 macerichards.com
-0.0.0.0 machanindianrestaurant.com.au
-0.0.0.0 macintosh-vn.com
-0.0.0.0 mackeeper-land-672695126.us-east-1.elb.amazonaws.com
-0.0.0.0 macnewtech.com
-0.0.0.0 macotool.com
-0.0.0.0 macresource.co.uk
-0.0.0.0 macrotek.ru
 0.0.0.0 mac-shield.com
-0.0.0.0 mactechinfo.info
-0.0.0.0 madamtv.com
-0.0.0.0 madan-mohan-college.com
-0.0.0.0 mad-dog.nu
-0.0.0.0 madeline-sex.com
-0.0.0.0 madeua.info
-0.0.0.0 madot.onlinewebshop.net
-0.0.0.0 madpornblogs.com
-0.0.0.0 madri-troie.com
-0.0.0.0 mad-sex.sibari-sm.com
-0.0.0.0 mad-sound.com
-0.0.0.0 madthumbs.nu
-0.0.0.0 madurasputas.net
-0.0.0.0 maebtjn.com
-0.0.0.0 maedchenporn.net
-0.0.0.0 maedchen-spiele.de
-0.0.0.0 maffia.nu
-0.0.0.0 mafint.com
-0.0.0.0 magaliconsulting.com.au
-0.0.0.0 magazin-pics.ru
-0.0.0.0 magazintiande.ru
 0.0.0.0 magda-gadalka.ru
 0.0.0.0 magento-crew.net
 0.0.0.0 magicalfind-a.akamaihd.net
@@ -44523,7 +44162,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mebelcomplekt.ru
 0.0.0.0 mebeldekor.com.ua
 0.0.0.0 mebel-vstroika.ru
-0.0.0.0 meble-bogart.info
 0.0.0.0 mebserier.se
 0.0.0.0 mecash.ru
 0.0.0.0 mechanicfuckers.com
@@ -44538,14 +44176,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 media-adserver.de
 0.0.0.0 mediacces.com
 0.0.0.0 media-convert.com
-0.0.0.0 mediadellarte.gr
-0.0.0.0 mediafires.biz
 0.0.0.0 media.itexpertjobs.com
-0.0.0.0 medialimbo.com
-0.0.0.0 mediamente-per-klick.de
-0.0.0.0 medianeo.pl
 0.0.0.0 media.nubile-art.com
-0.0.0.0 mediaselect.se
 0.0.0.0 mediaxpart.com
 0.0.0.0 medicaidchoice.com
 0.0.0.0 medicalbillingschools17.com
@@ -44656,7 +44288,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mexicosleevegastrectomy.com
 0.0.0.0 mexicotravelnet.com
 0.0.0.0 m.facebook.com----------------securelogin----acount-confirm.aggly.com
-0.0.0.0 m.facebook.com-----------------------------securelogin-----viewaccount.javatechnologycenter.com
 0.0.0.0 m-fb-security.000webhostapp.com
 0.0.0.0 mgba.org
 0.0.0.0 mggraffiti.de
@@ -44743,7 +44374,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 milfs-movies.com
 0.0.0.0 milfswantcock.com
 0.0.0.0 milf-video.net
-0.0.0.0 militairy.rules.nu
 0.0.0.0 militarysale.pro
 0.0.0.0 milkeat.com
 0.0.0.0 millennium-teens.com
@@ -44774,7 +44404,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 minotti.rs
 0.0.0.0 minovici.ro
 0.0.0.0 mintsex.com
-0.0.0.0 minut45.ru
 0.0.0.0 minyetki.ru
 0.0.0.0 mir-academy.co.kr
 0.0.0.0 miraclems.de
@@ -44879,7 +44508,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 moddahome.com
 0.0.0.0 modelanne.de
 0.0.0.0 model-gina.de
-0.0.0.0 modelguru.de
 0.0.0.0 modellecke.de
 0.0.0.0 modelsnext.com
 0.0.0.0 modelsuperportal.net
@@ -44931,7 +44559,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 monarhs.info
 0.0.0.0 monclercheap.xyz
 0.0.0.0 monclerjacketsoutlet.pw
-0.0.0.0 monclerjp.com
 0.0.0.0 moncleroutletonline.pw
 0.0.0.0 monclervests.xyz
 0.0.0.0 mondaynightpoker.com
@@ -45088,7 +44715,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mrcsa.com.au
 0.0.0.0 mrdani-dvere-zadni-porno-fotky-video.superczech.com
 0.0.0.0 mrinsidesales.com
-0.0.0.0 mriyadh.com
 0.0.0.0 mrknowsit.com
 0.0.0.0 mrlmedia.net
 0.0.0.0 mrpornoxxx.com
@@ -45107,7 +44733,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 msw-technologies.de
 0.0.0.0 mt2-fire.com
 0.0.0.0 mtpleasantwaterworks.com
-0.0.0.0 mtquiz.blufysh.com
 0.0.0.0 mtsoft.net
 0.0.0.0 mturkcontent.com
 0.0.0.0 mtv2.telemedia.la
@@ -45117,11 +44742,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 mudanzas.de
 0.0.0.0 muenstergemeinde.de
 0.0.0.0 muenzwirkert.de
-0.0.0.0 mufila.club
 0.0.0.0 mug-na-chas-moscow.ru
 0.0.0.0 muizre.ru
 0.0.0.0 mujeres40.com
-0.0.0.0 mujeres809.com
 0.0.0.0 mujeres-desnudas.biz
 0.0.0.0 mujeres-desnudas.net
 0.0.0.0 mujeresdesnudasxxx.com
@@ -45221,10 +44844,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 myfetish.info
 0.0.0.0 myfight.info
 0.0.0.0 myfiletop.com
-0.0.0.0 myfitness.ma
-0.0.0.0 myfreecams.com
-0.0.0.0 myfreegals.com
-0.0.0.0 myfreemp3.eu
 0.0.0.0 myfreepaysite.info
 0.0.0.0 myfreeporn.nu
 0.0.0.0 myfreeporn.us
@@ -45244,7 +44863,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 myhornyteens.com
 0.0.0.0 myhotsamples.com
 0.0.0.0 myindospace.com
-0.0.0.0 myintranet.cl
 0.0.0.0 myiptest.com
 0.0.0.0 myitdetective.com
 0.0.0.0 my-jobhunter.com
@@ -45425,7 +45043,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 nastyporno.net
 0.0.0.0 nastysexgalleries.com
 0.0.0.0 nastytraffic.com
-0.0.0.0 naszemisto.pl
 0.0.0.0 natachax.com
 0.0.0.0 nataliegold.com
 0.0.0.0 natashaporn.com
@@ -45551,11 +45168,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 newadsclicks.com
 0.0.0.0 newamericanteaparty.com
 0.0.0.0 new-apps.ru
-0.0.0.0 newbdsmonline.com
-0.0.0.0 newbookworm.com
-0.0.0.0 newbostonvillage.com
-0.0.0.0 newcustomads.com
-0.0.0.0 newdesktop.ru
 0.0.0.0 newgirlsweekly.com
 0.0.0.0 newhairstylesformen2014.com
 0.0.0.0 newlifewwm.com.au
@@ -45873,7 +45485,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 nvtrailmaps.com
 0.0.0.0 nvvdtfqboy.bid
 0.0.0.0 nwooatwtmhfdh.bid
-0.0.0.0 nwwbalance.com
 0.0.0.0 nxxzsawanmunmoewssazxxsvnmmsaexzs.maunc.flu.cc
 0.0.0.0 ny.contentmatch.net
 0.0.0.0 nycticketviolation.com
@@ -45900,7 +45511,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 nzssjqjv.bid
 0.0.0.0 o00.in
 0.0.0.0 o333o.com
-0.0.0.0 o4nf2970.com
 0.0.0.0 o8810lc.com
 0.0.0.0 oabmmdjlmfk.bid
 0.0.0.0 oakda.com
@@ -45961,9 +45571,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 oferte.pl
 0.0.0.0 ofertypan.pl
 0.0.0.0 offermeet.com
-0.0.0.0 offerpage.net
 0.0.0.0 offer-pills.ru
-0.0.0.0 offerpills.ru
 0.0.0.0 offer-today.com
 0.0.0.0 offer.wpsecurity.website
 0.0.0.0 offf.info
@@ -46066,7 +45674,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 onceambientstore.com
 0.0.0.0 onceuponatimebr.net
 0.0.0.0 onclickpredictiv.com
-0.0.0.0 onclkads.com
 0.0.0.0 onderpalet.com
 0.0.0.0 one-and-lonely.com
 0.0.0.0 onebiz.cl
@@ -46179,7 +45786,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 oops-cinema.ru
 0.0.0.0 ooq5z.com
 0.0.0.0 oorthbosomx.blogspot.com
-0.0.0.0 op2.web.kuaiwan.com
 0.0.0.0 opale100.free.fr
 0.0.0.0 openabove.com
 0.0.0.0 openads.tvnorge.no
@@ -46215,7 +45821,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 optom-deshevo.ru
 0.0.0.0 opuboikiriko.com
 0.0.0.0 opus-sexy.com
-0.0.0.0 op.web.kuaiwan.com
 0.0.0.0 oqc.eu
 0.0.0.0 oqnsnzwwnm6zb7y.optionpaymentprak.com
 0.0.0.0 oral-addiction.inhit.com
@@ -46243,28 +45848,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ordercheapestpriligyhere.com
 0.0.0.0 ordernorxx.com
 0.0.0.0 order-pills.ru
-0.0.0.0 orderpills.ru
-0.0.0.0 orecommons.org
-0.0.0.0 orel-reshka.net
-0.0.0.0 orenburg-gsm.ru
-0.0.0.0 oren-cats.ru
-0.0.0.0 orex.in
-0.0.0.0 organized.it
-0.0.0.0 organosexual.com
-0.0.0.0 orgasmchannel.com
-0.0.0.0 orgasmhere.com
-0.0.0.0 orgasmictipsforgirls.com
-0.0.0.0 orgasmixxx.free.fr
-0.0.0.0 orgasmus-virtual.com
-0.0.0.0 orgiegangbang.com
-0.0.0.0 orgixx.free.fr
-0.0.0.0 orgydungeon.com
-0.0.0.0 orgyhot.nu
-0.0.0.0 orgyoffice.com
-0.0.0.0 orgy-photos.nu
-0.0.0.0 orhonit.com
-0.0.0.0 oriental-delights.com
-0.0.0.0 oriental-dynamite.blogomer.com
 0.0.0.0 oriental-gay.com
 0.0.0.0 orientalteensex.com
 0.0.0.0 origin-ics.fivemillionfriends.com
@@ -46357,7 +45940,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 oxfordsex.com
 0.0.0.0 oxigas.com.br
 0.0.0.0 oxigenoverde.org
-0.0.0.0 oxxymiron.ru
 0.0.0.0 oxy-gen.com
 0.0.0.0 oxyhi.com
 0.0.0.0 oynat.info
@@ -46553,7 +46135,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 paypyr.org
 0.0.0.0 paysagiste-isere.com
 0.0.0.0 paysefeed.com
-0.0.0.0 paytrenberjaya.com
 0.0.0.0 pazorial.com
 0.0.0.0 pb-dv.ru
 0.0.0.0 pbhzz.pcloadletter.quhu.info
@@ -46666,7 +46247,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 perm.xrus.org
 0.0.0.0 perosan.com
 0.0.0.0 perpharm.com
-0.0.0.0 persephone.bubblestat.com
 0.0.0.0 persianstat.ir
 0.0.0.0 personal-contact.punter.de
 0.0.0.0 personalloanexplorer.com
@@ -46734,21 +46314,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 petsex.net
 0.0.0.0 peugeot-club.org
 0.0.0.0 peugeotscooter.dk
-0.0.0.0 pewit.pw
-0.0.0.0 pfdnlwyu.in
-0.0.0.0 pferde-messe.de
-0.0.0.0 pflegekasse.com
-0.0.0.0 pflexads.com
-0.0.0.0 phantomsuperchargers.com
-0.0.0.0 pharaohvision.com
-0.0.0.0 pharmacieenlignepascher.com
-0.0.0.0 pharmacyincity.com
-0.0.0.0 pharmacytax.com
-0.0.0.0 pharmacywellbeing.com
 0.0.0.0 pharmafinanceholding.com
 0.0.0.0 pharmascop.com
 0.0.0.0 pharmondo.com
-0.0.0.0 pharm-shop.biz
 0.0.0.0 phaseyou.com
 0.0.0.0 phee1oci.com
 0.0.0.0 pheihoe8.com
@@ -46897,8 +46465,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pingback.cpushpop.com
 0.0.0.0 pingo5.cn
 0.0.0.0 pingxpong.com
-0.0.0.0 pinkavenue.net
-0.0.0.0 pinkbike.co
 0.0.0.0 pinkbox.pl
 0.0.0.0 pink-chocolate.com
 0.0.0.0 pinkduck.ga
@@ -46909,7 +46475,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pinkpussy.ch
 0.0.0.0 pinkteens.nu
 0.0.0.0 pinktoys.biz
-0.0.0.0 pink-velvet.com
 0.0.0.0 pinkwire.net
 0.0.0.0 pinkxporno.com
 0.0.0.0 pinkymart.com
@@ -46955,7 +46520,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pissingtop.dk
 0.0.0.0 pissingwars.com
 0.0.0.0 pissing-women.com
-0.0.0.0 pisslovers.rules.nu
 0.0.0.0 pissnmoan.com
 0.0.0.0 piss-top.info
 0.0.0.0 pissvideo.de
@@ -46964,7 +46528,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pitbullwestcoast.pl
 0.0.0.0 piter.xrus.org
 0.0.0.0 pitfield.co.uk
-0.0.0.0 pittigetieners.nl
 0.0.0.0 piuminiita.com
 0.0.0.0 piwiarniawarka.opole.pl
 0.0.0.0 pix24x7.com
@@ -46973,7 +46536,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pix.com.au
 0.0.0.0 pixell.club
 0.0.0.0 pixelrz.com
-0.0.0.0 pixel.socialtechtrader.co
 0.0.0.0 pixgood.com
 0.0.0.0 pix-hd.com
 0.0.0.0 pixhunters.com
@@ -47014,7 +46576,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 planebaby.com
 0.0.0.0 planetarelax.com
 0.0.0.0 planetatierra.cl
-0.0.0.0 planetavirtual.com.br
 0.0.0.0 planetcancerfree.se
 0.0.0.0 planetdesign3.com
 0.0.0.0 planeteporno.com
@@ -47038,7 +46599,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 plastjulgranar.se
 0.0.0.0 plastweb.ru
 0.0.0.0 plater-emilii.naszebanki.pl
-0.0.0.0 platesauto.com
 0.0.0.0 platinumcpr.com
 0.0.0.0 platinum-girls.com
 0.0.0.0 plattangsborste.se
@@ -47286,7 +46846,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 porno-bilder.me
 0.0.0.0 porno.biz.pl
 0.0.0.0 pornoblo.com
-0.0.0.0 pornoblood.com
 0.0.0.0 pornoblow.com
 0.0.0.0 pornobola.com
 0.0.0.0 pornobomb.net
@@ -47501,13 +47060,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pornolinks.nu
 0.0.0.0 pornoliz.com
 0.0.0.0 pornollio.com
-0.0.0.0 pornolook.net
-0.0.0.0 pornoloot.com
-0.0.0.0 pornoluola.com
-0.0.0.0 pornomafija.com
-0.0.0.0 pornomamie.com
 0.0.0.0 porno-mania.com.ar
-0.0.0.0 pornomania.nu
 0.0.0.0 pornomap.ru
 0.0.0.0 pornomaten.dk
 0.0.0.0 pornomatt.com
@@ -47566,7 +47119,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pornopopo.com
 0.0.0.0 porno-porn.nu
 0.0.0.0 pornoporn.nu
-0.0.0.0 porno-porno-porno.com
 0.0.0.0 pornopribehy.cz
 0.0.0.0 pornoprinsessen.dk
 0.0.0.0 porno-pub.net
@@ -47633,7 +47185,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pornostory.biz
 0.0.0.0 pornostrapon.com
 0.0.0.0 pornosubee.com
-0.0.0.0 pornosucher.de
 0.0.0.0 pornosuk.com
 0.0.0.0 pornosuki.com
 0.0.0.0 porno-supreme.com
@@ -47860,7 +47411,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 praximoto.se
 0.0.0.0 premiumprovide.com
 0.0.0.0 preparevideosafesystem4unow.space
-0.0.0.0 preparufinotamayo.com
 0.0.0.0 prepschoolsluts.com
 0.0.0.0 preschooltc.com
 0.0.0.0 presentedopapaiamericanas.com
@@ -47927,7 +47477,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 privat-girl.net
 0.0.0.0 privatov-zapisi.ru
 0.0.0.0 privat-treff.com
-0.0.0.0 privat-und-sexy.com
 0.0.0.0 priveshow.nl
 0.0.0.0 privhosting.com
 0.0.0.0 prizeestates.cricket
@@ -47960,7 +47509,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 prohibidoentrar.com
 0.0.0.0 prohoster.info
 0.0.0.0 prohouselkv.com
-0.0.0.0 prointer.net.ua
 0.0.0.0 projectforte.ru
 0.0.0.0 projectmanagementmethodologies.com.au
 0.0.0.0 projectnet.sineti.com
@@ -48060,7 +47608,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 proxy.rkania.com
 0.0.0.0 proxy.seecosmetics.com
 0.0.0.0 proxy-servers.biz
-0.0.0.0 proxy-servers.eu
 0.0.0.0 proxysites.im
 0.0.0.0 proxy-sites.info
 0.0.0.0 proxysites.tn
@@ -48240,10 +47787,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 putty.ch
 0.0.0.0 puzo2arbuza.ru
 0.0.0.0 puzzleweb.ru
-0.0.0.0 pvc-gumlac.de
-0.0.0.0 pvcporno.com
-0.0.0.0 pvgfdgv.com
-0.0.0.0 pvtcams.net
 0.0.0.0 pvypal.com
 0.0.0.0 pweaatek.com
 0.0.0.0 pwwysydh.com
@@ -48668,30 +48211,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 reverse-mortgage-info.com
 0.0.0.0 reverse.phone.check.sms13.de
 0.0.0.0 reversing.cc
-0.0.0.0 reviewcity.ru
 0.0.0.0 reviewer.de
 0.0.0.0 revistaindustria.com
-0.0.0.0 revokocha.000webhostapp.com
-0.0.0.0 revoluciondigital.com
-0.0.0.0 rewardit.com
-0.0.0.0 rexisfantasy.com
-0.0.0.0 reyalmadrid.com
-0.0.0.0 reydelpoker.es
-0.0.0.0 reyel1985.webnode.fr
-0.0.0.0 rezeptiblud.ru
-0.0.0.0 rezponslife.se
-0.0.0.0 rfd-split.hr
-0.0.0.0 rfeelinit.com
-0.0.0.0 rff-cfal.info
-0.0.0.0 rgshost.com
-0.0.0.0 rgzv-erfordia.de
-0.0.0.0 rheumatism.sa
-0.0.0.0 rhino-linings.com
-0.0.0.0 rhodeislandvoters.com
-0.0.0.0 rhythmvideos.com
-0.0.0.0 rialp.getenjoyment.net
-0.0.0.0 riastugan.se
-0.0.0.0 ribieiendom.no
 0.0.0.0 ricaricheelettricheauto.com
 0.0.0.0 ricebistrochicago.com
 0.0.0.0 richinvestmonitor.com
@@ -48925,7 +48446,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 r.x-pictures.org
 0.0.0.0 ry1wnld.com
 0.0.0.0 rybalka-opt.ru
-0.0.0.0 s3ilmupeternakan.pps.unud.ac.id
 0.0.0.0 s3x3.fr
 0.0.0.0 s8j1e.com
 0.0.0.0 s8-nowy-wygraj.comli.com
@@ -49000,7 +48520,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sandiegosecuritiesattorney.com
 0.0.0.0 sandra.stone.sms13.de
 0.0.0.0 sandra-strip.de
-0.0.0.0 sandstr2.de
 0.0.0.0 sandwich-zdarma-kunda-hardcore-porno.superczech.com
 0.0.0.0 saniceramics.com
 0.0.0.0 sanimex.com
@@ -49108,7 +48627,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 schoenbach-druck.de
 0.0.0.0 schoenewelt.org
 0.0.0.0 schokkendgeil.com
-0.0.0.0 schoolboys.rules.nu
 0.0.0.0 school-diplomat.ru
 0.0.0.0 school-girl-panties.com
 0.0.0.0 schoolhider.info
@@ -49230,7 +48748,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 securedocumentdownload.usa.cc
 0.0.0.0 secured.soon.it
 0.0.0.0 secure-server-connection-sv1.top
-0.0.0.0 s.ecureserver.net
 0.0.0.0 secure.smart-online-shop.com
 0.0.0.0 secure.vidhack.com
 0.0.0.0 securityallianceservices.com
@@ -49589,26 +49106,21 @@ ff02::2 ip6-allrouters
 0.0.0.0 sexivideolar.org
 0.0.0.0 sexizletr.org
 0.0.0.0 sexizlex.com
-0.0.0.0 sexjokes.nl
 0.0.0.0 sex-joy.nu
 0.0.0.0 sexkamerka.wa.pl
 0.0.0.0 sexkamerki.biz
 0.0.0.0 sexkings.nu
 0.0.0.0 sexkinky.nu
 0.0.0.0 sexkiss-24.web-go.net
-0.0.0.0 sex-kitten.com
 0.0.0.0 sex.klingeltoene.sms.sms13.de
 0.0.0.0 sexkogal.com
-0.0.0.0 sex-kontaktanzeige.org
 0.0.0.0 sexkontakteao.info
 0.0.0.0 sexkontakte-seite.com
 0.0.0.0 sexkrasivo.net
-0.0.0.0 sex-ks.com
 0.0.0.0 sex.kuncsaft.hu
 0.0.0.0 sexkupon.com
 0.0.0.0 sexkurier.com
 0.0.0.0 sexland.ch
-0.0.0.0 sex-latina.com
 0.0.0.0 sexlaughs.com
 0.0.0.0 sexlesbian.nu
 0.0.0.0 sex-lesbians.nu
@@ -49636,7 +49148,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sex-masturbation.com
 0.0.0.0 sexmax.de
 0.0.0.0 sex.md
-0.0.0.0 sex-meisjes.nl
 0.0.0.0 sexmen.ru
 0.0.0.0 sex-me.nu
 0.0.0.0 sexmessen.dk
@@ -49678,7 +49189,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sexogratis.nu
 0.0.0.0 sexogratistgp.com
 0.0.0.0 sexointimo.com
-0.0.0.0 sexok.pl
 0.0.0.0 sexolandia.com.br
 0.0.0.0 sexoloko.com
 0.0.0.0 sexoma.info
@@ -49871,7 +49381,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sexville.nu
 0.0.0.0 sexvirus.nu
 0.0.0.0 sexvisio.com
-0.0.0.0 sexvotes.ch
 0.0.0.0 sexvporno.ru
 0.0.0.0 sexvsporn.com
 0.0.0.0 sexwaiter.com
@@ -50078,11 +49587,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 sharebutton.net
 0.0.0.0 sharebutton.org
 0.0.0.0 share-buttons-for-free.com
-0.0.0.0 sharebutton.to
 0.0.0.0 sharetherake.com
 0.0.0.0 shariki-zuma-lines.ru
 0.0.0.0 sharingnewhope.net
-0.0.0.0 sharonbyrdcards.com
 0.0.0.0 sharon.stone.kuss.sms13.de
 0.0.0.0 sharon.stone.sms13.de
 0.0.0.0 sharpchallenge.com
@@ -50169,7 +49676,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 shoesonlinebuy.cn
 0.0.0.0 shoesonlinebuy.xyz
 0.0.0.0 shohanb.com
-0.0.0.0 shomergroup.com
 0.0.0.0 shop.acim.org
 0.0.0.0 shopalliedpools.com
 0.0.0.0 shopbitcoin.ru
@@ -50390,8 +49896,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 slutservice.com
 0.0.0.0 slutsinlingerie.com
 0.0.0.0 slutsonfilm.com
-0.0.0.0 slutsspanking.com
-0.0.0.0 slutsx.com
 0.0.0.0 slut-tee.com
 0.0.0.0 slut.teenage-girl.nu
 0.0.0.0 sluttyasiangirls.com
@@ -50420,7 +49924,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 smartroutefinder.com
 0.0.0.0 smartshoppymac.com
 0.0.0.0 smashtheflash.com
-0.0.0.0 smcopenhagen.dk
 0.0.0.0 smegma.ca
 0.0.0.0 smehelp.org
 0.0.0.0 smellflow.com
@@ -50434,7 +49937,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 smkn2ponorogo.sch.id
 0.0.0.0 smokersblogs.com
 0.0.0.0 smokesonstate.com
-0.0.0.0 smokewithrabbits.com
 0.0.0.0 smokingfetish.aq.pl
 0.0.0.0 smoking-fetish.gocunt.com
 0.0.0.0 sms2x2.ru
@@ -50571,7 +50073,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sorhen.com
 0.0.0.0 sorongraya.com
 0.0.0.0 sorpetalerusa.com
-0.0.0.0 sortthemesitesby.com
 0.0.0.0 sorup.com
 0.0.0.0 soscigarette.com
 0.0.0.0 soscisurvery.de
@@ -50622,7 +50123,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 spermadelen.be
 0.0.0.0 spermaschlampen.de.lv
 0.0.0.0 spermaspuiten.nu
-0.0.0.0 sperm.dk
 0.0.0.0 sperme-en-bouche.com
 0.0.0.0 spicycams.de
 0.0.0.0 spicymoves.com
@@ -50755,7 +50255,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stars-du-porno.fr
 0.0.0.0 starsnude.biz
 0.0.0.0 starsnues.biz
-0.0.0.0 startadvertisement.com
 0.0.0.0 startlmes.com
 0.0.0.0 start.myplaycity.com
 0.0.0.0 startonmonday.com
@@ -50851,8 +50350,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 storyxxx.ru
 0.0.0.0 stpicks.com
 0.0.0.0 stpolice.com
-0.0.0.0 straightboysnude.com
-0.0.0.0 straightfratboys.com
 0.0.0.0 straightlineteam.com
 0.0.0.0 strakketietjes.nl
 0.0.0.0 strana-krasoty.ru
@@ -50886,7 +50383,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stroicol.net
 0.0.0.0 stroilka.info
 0.0.0.0 stroimajor.ru
-0.0.0.0 stroiminsk.org
 0.0.0.0 stroishop.by
 0.0.0.0 strokeitout.com
 0.0.0.0 stromerrealty.com
@@ -51032,8 +50528,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 susilyons.com
 0.0.0.0 suspensioncourriel.weebly.com
 0.0.0.0 suttonsurveyors.com.au
-0.0.0.0 suvsukzone.com
-0.0.0.0 sux.dk
 0.0.0.0 suxes.nl
 0.0.0.0 suzeeq.com
 0.0.0.0 svanaturals.com
@@ -51139,7 +50633,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tabfor.com
 0.0.0.0 tableporn.us
 0.0.0.0 tabletkinaodchudzanie.com.pl
-0.0.0.0 tacbelarus.ru
 0.0.0.0 tafbar.com
 0.0.0.0 tafika.ru
 0.0.0.0 tagil.zrus.org
@@ -51158,7 +50651,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 takethatad.com
 0.0.0.0 tako3.com
 0.0.0.0 taksirat.com.mk
-0.0.0.0 talant-factory.ru
 0.0.0.0 talebetube.com
 0.0.0.0 talentohumanotemporales.com
 0.0.0.0 talesofsex.com
@@ -51185,7 +50677,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tanzbar-beach.de
 0.0.0.0 tape.at
 0.0.0.0 tapelock.com
-0.0.0.0 tapety.zw.pl
 0.0.0.0 taqplayer.info
 0.0.0.0 taqywu51.soup.io
 0.0.0.0 tarad.com
@@ -51398,7 +50889,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 terapiaderegresionreconstructiva.com
 0.0.0.0 terpav.com
 0.0.0.0 terrabellaperu.com
-0.0.0.0 terrabrs.com
 0.0.0.0 terraclicks.com
 0.0.0.0 terracon-news.com
 0.0.0.0 terracota.info
@@ -51597,8 +51087,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 theyrecomingtotakemeawayhahaproxy.info
 0.0.0.0 thfox.com
 0.0.0.0 thiegs.reco.ws
-0.0.0.0 thigh-high-boots.com
-0.0.0.0 thinkalvesinc.com
 0.0.0.0 thinktanks.co.za
 0.0.0.0 thirdshiftdesign.com
 0.0.0.0 thirteenstitches.com
@@ -51753,10 +51241,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tomsuithoorn.nl
 0.0.0.0 toneexcelgreat.com
 0.0.0.0 tongkatmadura.info
-0.0.0.0 tonightcams.com
-0.0.0.0 tonyquinn.com
-0.0.0.0 toogether.se
-0.0.0.0 toohot.dk
 0.0.0.0 tooloftrade.com.au
 0.0.0.0 toolsky.com
 0.0.0.0 tooncity.org
@@ -51999,7 +51483,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 truefilen32.com
 0.0.0.0 truefiles.net
 0.0.0.0 truelolita.com
-0.0.0.0 truemfilelj.gq
 0.0.0.0 truepasswords.com
 0.0.0.0 trueporncartoons.com
 0.0.0.0 true-porno.com
@@ -52285,7 +51768,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 universalhack.net
 0.0.0.0 universals.com.ua
 0.0.0.0 unixmanga.co
-0.0.0.0 unix.ticbeat.co
 0.0.0.0 unknowntwinks.info
 0.0.0.0 unkosher.org
 0.0.0.0 unlimitedporn.org
@@ -52402,7 +51884,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 uveework.ru
 0.0.0.0 uveous-surveys.000webhostapp.com
 0.0.0.0 uvgt.com
-0.0.0.0 uvozdeckych.info
 0.0.0.0 uyesiz.org
 0.0.0.0 uytmaster.ru
 0.0.0.0 uzmanhavuz.com
@@ -52451,7 +51932,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 varbergsvind.se
 0.0.0.0 vardenafil2k.org
 0.0.0.0 varikoz24.com
-0.0.0.0 vasanacreative.com
 0.0.0.0 vasellina.com
 0.0.0.0 vashsvet.com
 0.0.0.0 vashzaym24.ru
@@ -52464,7 +51944,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 vavilone.com
 0.0.0.0 vazounaweb.com.br
 0.0.0.0 vbabule.net
-0.0.0.0 vb.serverknecht.de
 0.0.0.0 vcaf.com
 0.0.0.0 vcdporn.com
 0.0.0.0 vcgent.com
@@ -52893,9 +52372,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 webbee.co.kr
 0.0.0.0 web-betting.ru
 0.0.0.0 webboys.net
-0.0.0.0 webcam2sexe.com
-0.0.0.0 webcamangel.info
-0.0.0.0 webcamcheck.de
 0.0.0.0 webcamdevochka.com
 0.0.0.0 webcamgirls.es
 0.0.0.0 webcam-girls.me
@@ -53020,9 +52496,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 westermarkanjou.se
 0.0.0.0 westfieldsports.nsw.edu.au
 0.0.0.0 westgateleisureresort.com
-0.0.0.0 westindo.com
-0.0.0.0 westlondonescorts.com
-0.0.0.0 westmadebeats.com
 0.0.0.0 westsextube.com
 0.0.0.0 west.thecarseatcompany.com
 0.0.0.0 westum.se
@@ -53221,7 +52694,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 workchopapp.com
 0.0.0.0 workcompbroadcasting.com
 0.0.0.0 workingirl.com
-0.0.0.0 workle.website
 0.0.0.0 works.if.ua
 0.0.0.0 workurwayup.xyz
 0.0.0.0 world-adultsex.com
@@ -53351,7 +52823,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.huaxintrip.com
 0.0.0.0 www.ibps.com
 0.0.0.0 www.immobaustein.de
-0.0.0.0 wwwinbank.pl
 0.0.0.0 www.jaybeee.name
 0.0.0.0 www.jebetting.com
 0.0.0.0 www.kennethjustice.com
@@ -53576,7 +53047,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 xn--80aodinpgi.xn--p1ai
 0.0.0.0 xn-----8kcatubaocd1bneepefojs1h2e.xn--p1ai
 0.0.0.0 xn----8sbdbjgb1ap7a9c4czbh.xn--p1acf
-0.0.0.0 xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai
 0.0.0.0 xn--90acenikpebbdd4f6d.xn--p1ai
 0.0.0.0 xn--9ckxbq5co.com
 0.0.0.0 xn--avgng-ora.se
@@ -53596,12 +53066,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 xn--e1ap.com
 0.0.0.0 xn--elektriker-malm-ntb.nu
 0.0.0.0 xn--fortunadsseldorf-qzb.de
-0.0.0.0 xn--frgafrst-b0a7o.se
-0.0.0.0 xn--gar-hla.io
-0.0.0.0 xn--genvgar-8wa.nu
-0.0.0.0 xn--h1aakne2ba.xn--p1ai
-0.0.0.0 xn--h1ahbi.com.ua
-0.0.0.0 xn--hanfdmmung-u5a.com
 0.0.0.0 xn--hcksler-5wa.com
 0.0.0.0 xn--hl0bw67b.com
 0.0.0.0 xn--hxtt49a0mzjrd.com
@@ -53626,7 +53090,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 xn--telusmobilit-meb.com
 0.0.0.0 xn--tierheim-lbeck-psb.de
 0.0.0.0 xn--tnsbergkommune-qqb.no
-0.0.0.0 xn--u8jtdyb1ew67y.com
 0.0.0.0 xnudeteens.com
 0.0.0.0 xn--verschlsselt-jlb.com
 0.0.0.0 xn--vns90erw5e.com
@@ -53718,10 +53181,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 xxlovers.com
 0.0.0.0 xxltraffic.biz
 0.0.0.0 xxooss.com
-0.0.0.0 xxpasswordxx.com
-0.0.0.0 xxrated.net
-0.0.0.0 xxray.de
-0.0.0.0 xxsluts.com
 0.0.0.0 xxss.de
 0.0.0.0 xxx18.org
 0.0.0.0 xxx2.info
@@ -53998,7 +53457,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 youngnaked.net
 0.0.0.0 youngnaked.nu
 0.0.0.0 youngnwet.com
-0.0.0.0 young.rules.nu
 0.0.0.0 youngsbeautysupplygr.com
 0.0.0.0 young-sex.tk
 0.0.0.0 youngsexysluts.com
@@ -54290,7 +53748,7 @@ ff02::2 ip6-allrouters
 
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
 
-# Last modified: 12 04 2018 00:01
+# Last modified: 26 04 2018 04:57
 
 # [CoinBlocker hosts List browser by ZeroDot1]
 
@@ -54302,7 +53760,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 1q2w3.me
 0.0.0.0 1q2w3.top
 0.0.0.0 1q2w3.website
-0.0.0.0 2giga.dowload
+0.0.0.0 2giga.download
 0.0.0.0 2giga.link
 0.0.0.0 2ledhenone.com
 0.0.0.0 300ca0d0.space
@@ -54344,6 +53802,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adless.io
 0.0.0.0 admin.cpufan.club
 0.0.0.0 adminer.com
+0.0.0.0 adplusplus.fr
 0.0.0.0 adrenali.gq
 0.0.0.0 adzjzewsma.cf
 0.0.0.0 aeon.hashvault.pro
@@ -54414,12 +53873,15 @@ ff02::2 ip6-allrouters
 0.0.0.0 appelamule.com
 0.0.0.0 april-js.github.io
 0.0.0.0 aqqgli3vle.bid
+0.0.0.0 arizona-miner.tk
 0.0.0.0 as.cfcdist.loan
 0.0.0.0 as.cfcnet.top
 0.0.0.0 as1.cfcnet.gdn
 0.0.0.0 aservices.party
 0.0.0.0 asia.monerise.com
 0.0.0.0 asia1.cpufan.club
+0.0.0.0 aster18cdn.nl
+0.0.0.0 aster18prx.nl
 0.0.0.0 asvoxod.ru
 0.0.0.0 atlanta01.monero.hashvault.pro
 0.0.0.0 audioknigi.club
@@ -54428,6 +53890,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 authedmine.eu
 0.0.0.0 authedwebmine.cz
 0.0.0.0 auto.monerise.com
+0.0.0.0 autologica.ga
 0.0.0.0 averoconnector.com
 0.0.0.0 avualrhg9p.bid
 0.0.0.0 avualrhg9p0.bid
@@ -54437,12 +53900,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 bablace.com
 0.0.0.0 back4.2giga.link
 0.0.0.0 banner.boostbox.com.br
+0.0.0.0 basepush.com
 0.0.0.0 bauersagtnein.myeffect.net
 0.0.0.0 bcn.cpufan.club
 0.0.0.0 becanium.com
 0.0.0.0 befirstcdn.com
 0.0.0.0 berateveng.ru
 0.0.0.0 berserkpl.net.pl
+0.0.0.0 bestcoinsignals.com
 0.0.0.0 bestmobiworld.com
 0.0.0.0 bestsecurepractice.com
 0.0.0.0 beta.coinblind.com
@@ -54546,6 +54011,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 coinpirate.cf
 0.0.0.0 coinpot.co
 0.0.0.0 coinrail.io
+0.0.0.0 coinwebmining.com
 0.0.0.0 coinworker.com
 0.0.0.0 colnhive.com
 0.0.0.0 community.monerise.com
@@ -54644,7 +54110,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 enjoyableoffers.club
 0.0.0.0 es.cookiescript.info
 0.0.0.0 escobar.pr0gramm.com
-0.0.0.0 estream.to
 0.0.0.0 et-code.ru
 0.0.0.0 etacontent.com
 0.0.0.0 eth-pocket.de
@@ -54661,6 +54126,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 eu2.cfcnet.gdn
 0.0.0.0 eu2.cpufan.club
 0.0.0.0 eu2.monerise.com
+0.0.0.0 eucsoft.com
 0.0.0.0 europe.monerise.com
 0.0.0.0 evengparme.com
 0.0.0.0 ewtuyytdf45.com
@@ -54678,6 +54144,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 financeforum.ru
 0.0.0.0 firmware.center
 0.0.0.0 flare-analytics.com
+0.0.0.0 flnqmin.org
 0.0.0.0 flophous.cf
 0.0.0.0 formulawire.com
 0.0.0.0 fortrader.ru
@@ -54704,6 +54171,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 g-content.bid
 0.0.0.0 gasolina.ml
 0.0.0.0 gate.hws.ru
+0.0.0.0 gekko.coinnebula.com
 0.0.0.0 get.webxmr.com
 0.0.0.0 getcryptotab.com
 0.0.0.0 global.crypto.csgocpu.com
@@ -54735,6 +54203,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 hegrinhar.com
 0.0.0.0 hemnes.win
 0.0.0.0 hhb123.tk
+0.0.0.0 hide.ovh
 0.0.0.0 hive.tubetitties.com
 0.0.0.0 hiy.vidzi.tv
 0.0.0.0 hjnbvg.ru
@@ -54783,7 +54252,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 karbowanec.crypto-webminer.com
 0.0.0.0 kedtise.com
 0.0.0.0 kho3au7l4z.me
-0.0.0.0 kickass.cd
 0.0.0.0 kinohabr.net
 0.0.0.0 kippbeak.cf
 0.0.0.0 kissdoujin.com
@@ -54794,6 +54262,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 kunay.nullrefexcep.com
 0.0.0.0 l-shop.nullrefexcep.com
 0.0.0.0 l33tsite.info
+0.0.0.0 laferia.cr
 0.0.0.0 lan.datasecu.download
 0.0.0.0 laserveradedomaina.com
 0.0.0.0 latestpromotions.club
@@ -54819,13 +54288,16 @@ ff02::2 ip6-allrouters
 0.0.0.0 m.pr0gramm.com
 0.0.0.0 m001.monerise.com
 0.0.0.0 m1.monerise.com
+0.0.0.0 m1.stream.vidzi.tv
 0.0.0.0 m1.streaming.estream.to
 0.0.0.0 m1.videos.vidto.me
 0.0.0.0 m2.cdn-jquery.host
+0.0.0.0 m2.stream.vidzi.tv
 0.0.0.0 m2.streaming.estream.to
 0.0.0.0 m2.videos.vidto.me
 0.0.0.0 m3.cdn-jquery.host
 0.0.0.0 m4.cdn-jquery.host
+0.0.0.0 m5.cdn-jquery.host
 0.0.0.0 machieved.com
 0.0.0.0 mail.coinhive-manager.com
 0.0.0.0 mail.cookiescript.info
@@ -54858,6 +54330,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 miner.cryptobara.com
 0.0.0.0 miner.nablabee.com
 0.0.0.0 minerclaim.net
+0.0.0.0 minercry.pt
 0.0.0.0 minero.cc
 0.0.0.0 minescripts.info
 0.0.0.0 minexmr.com
@@ -54874,6 +54347,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 miscws027.coinhive.com
 0.0.0.0 miscws029.coinhive.com
 0.0.0.0 mjija.github.io
+0.0.0.0 mmc.center
 0.0.0.0 mmpool.org
 0.0.0.0 momwentthere.cf
 0.0.0.0 monad.network
@@ -54921,6 +54395,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 nexttime.ovh
 0.0.0.0 nfwebminer.com
 0.0.0.0 niematego.tk
+0.0.0.0 nimiq.watch
+0.0.0.0 nimiqpool.com
+0.0.0.0 nimiqtest.net
 0.0.0.0 ningtoldrop.ru
 0.0.0.0 nitsche.top
 0.0.0.0 nkxdyorwbt.com
@@ -54946,18 +54423,16 @@ ff02::2 ip6-allrouters
 0.0.0.0 ocean.cryptaloot.pro
 0.0.0.0 ocean.cryptoloot.pro
 0.0.0.0 ocean.webmine.pro
+0.0.0.0 ogondkskyahxa.ru
 0.0.0.0 ogrid.org
 0.0.0.0 ohac.github.io
 0.0.0.0 oinkinns.tk
 0.0.0.0 okexysylgzo.ru
 0.0.0.0 okeyletsgo.ml
-0.0.0.0 oload.info
-0.0.0.0 onion.top
 0.0.0.0 onlinereserchstatistics.online
 0.0.0.0 open-hive-server-1.pp.ua
 0.0.0.0 openkatalog.com
 0.0.0.0 oxwwoeukjispema.ru
-0.0.0.0 p.estream.to
 0.0.0.0 p.hemnes.win
 0.0.0.0 p.tidafors.xyz
 0.0.0.0 p1.assetscdn.stream
@@ -54984,6 +54459,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 phx-3.xmrpool.net
 0.0.0.0 phx-4.xmrpool.net
 0.0.0.0 platform.jsecoin.com
+0.0.0.0 play.stream.vidzi.tv
+0.0.0.0 play.streaming.estream.to
+0.0.0.0 play.video.estream.nu
 0.0.0.0 player.h-cdn.com
 0.0.0.0 playerassets.info
 0.0.0.0 plexcoin.info
@@ -55027,7 +54505,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 questionfly.com
 0.0.0.0 r8nu86wg.me
 0.0.0.0 rack.cryptaloot.pro
-0.0.0.0 rapidvideo.com
+0.0.0.0 rand.com.ru
 0.0.0.0 ratingtoplist.com
 0.0.0.0 realnetwrk.com
 0.0.0.0 reasedoper.pw
@@ -55041,6 +54519,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rineventrec.com
 0.0.0.0 rintindown.com
 0.0.0.0 rintinwa.com
+0.0.0.0 rmawm7mw.top
 0.0.0.0 rock.cryptaloot.pro
 0.0.0.0 rock.webmine.pro
 0.0.0.0 ron.si
@@ -55056,12 +54535,15 @@ ff02::2 ip6-allrouters
 0.0.0.0 s1.vidtod.me
 0.0.0.0 s2.analytics.blue
 0.0.0.0 s2.appelamule.com
+0.0.0.0 s2.video.estream.nu
 0.0.0.0 s2.vidtod.me
 0.0.0.0 s23.crypto-loot.com
 0.0.0.0 s3.analytics.blue
 0.0.0.0 s3.gasolina.ml
 0.0.0.0 s3.minexmr.com
+0.0.0.0 s3.video.estream.nu
 0.0.0.0 s3.vidtod.me
+0.0.0.0 s7ven.com
 0.0.0.0 sa.monerise.com
 0.0.0.0 saas.webmine.pro
 0.0.0.0 safelinkconverter.com
@@ -55076,6 +54558,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 seasonaloffers.club
 0.0.0.0 seattle01.monero.hashvault.pro
 0.0.0.0 secumine.net
+0.0.0.0 seed1.nimiqtest.net
+0.0.0.0 seed2.nimiqtest.net
+0.0.0.0 seed3.nimiqtest.net
+0.0.0.0 seed4.nimiqtest.net
 0.0.0.0 sen-to-zdrowie.ml
 0.0.0.0 sentry.nullrefexcep.com
 0.0.0.0 serie-vostfr.com
@@ -55083,6 +54569,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 server.jsecoin.com
 0.0.0.0 server4.nullrefexcep.com
 0.0.0.0 shrink-service.it
+0.0.0.0 sickrage.ca
 0.0.0.0 silimbompom.com
 0.0.0.0 silver.crypto.csgocpu.com
 0.0.0.0 simpleco.in
@@ -55127,7 +54614,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stone.webmine.pro
 0.0.0.0 stonecalcom.com
 0.0.0.0 stream.nullrefexcep.com
-0.0.0.0 streamplay.top
 0.0.0.0 subloader.cf
 0.0.0.0 sumo.cpufan.club
 0.0.0.0 sumo.cryptonoter.com
@@ -55135,6 +54621,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sumokoin.crypto-webminer.com
 0.0.0.0 sumokoin.hashvault.pro
 0.0.0.0 sunhd.info
+0.0.0.0 support.2giga.link
 0.0.0.0 supportxmr.com
 0.0.0.0 svivqrhrh.ru
 0.0.0.0 swanson.ron.si
@@ -55179,6 +54666,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 traffic-tech-service.info
 0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 traumasister.tk
+0.0.0.0 traviilo.com
 0.0.0.0 tubetitties.com
 0.0.0.0 tulip18.com
 0.0.0.0 turnsocial.com
@@ -55206,17 +54694,19 @@ ff02::2 ip6-allrouters
 0.0.0.0 verresof.com
 0.0.0.0 vg02h8z1ul.me
 0.0.0.0 viaxmr.com
+0.0.0.0 video.stream.vidzi.tv
 0.0.0.0 video.streaming.estream.to
 0.0.0.0 video.videos.vidto.me
-0.0.0.0 vidfile.net
 0.0.0.0 vip.cfcnet.top
 0.0.0.0 vjcyehtqm9.me
 0.0.0.0 vl8c4g7tmo.me
 0.0.0.0 vpzccwpyilvoyg.ru
 0.0.0.0 vxelkrhl.info
 0.0.0.0 vzhjnorkudcxbiy.com
+0.0.0.0 vzzexalcirfgrf.ru
 0.0.0.0 w13.coinhive.com
 0.0.0.0 wallet.brominer.com
+0.0.0.0 wasm24.ru
 0.0.0.0 wc3-soft.sbhmn-miner.com
 0.0.0.0 wckp.sbhmn-miner.com
 0.0.0.0 web-master.sbhmn-miner.com
@@ -55241,6 +54731,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 whathyx.com
 0.0.0.0 whchsvlxch.site
 0.0.0.0 whereismommy.gq
+0.0.0.0 whysoserius.club
 0.0.0.0 wijzeman.sbhmn-miner.com
 0.0.0.0 wildianing.ru
 0.0.0.0 willacrit.com
@@ -55348,6 +54839,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ws009.ws.tidafors.xyz
 0.0.0.0 ws009.www.datasecu.download
 0.0.0.0 ws009.www.jqwww.download
+0.0.0.0 ws01.coinlab.biz
 0.0.0.0 ws01.coinnebula.com
 0.0.0.0 ws01.crypto-loot.com
 0.0.0.0 ws01.ppoi.org
@@ -55558,6 +55050,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ws2.bmst.pw
 0.0.0.0 ws2.coin-have.com
 0.0.0.0 ws2.g-content.bid
+0.0.0.0 ws2.minr.pw
 0.0.0.0 ws2.stati.bid
 0.0.0.0 ws2.statistic.date
 0.0.0.0 ws20.crypto-loot.com
@@ -55582,6 +55075,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ws3.bmnr.pw
 0.0.0.0 ws3.coin-have.com
 0.0.0.0 ws3.g-content.bid
+0.0.0.0 ws3.minr.pw
 0.0.0.0 ws3.statistic.date
 0.0.0.0 ws30.crypto-loot.com
 0.0.0.0 ws31.crypto-loot.com
@@ -55702,6 +55196,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.coinhive.com
 0.0.0.0 www.coinhub.win
 0.0.0.0 www.coinlab.biz
+0.0.0.0 www.coinnebula.com
 0.0.0.0 www.coinpot.co
 0.0.0.0 www.coinrail.io
 0.0.0.0 www.cookiescript.info
@@ -55769,6 +55264,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 xgmc6lu8fs.me
 0.0.0.0 xml.mining.best
 0.0.0.0 xmr.coinlab.biz
+0.0.0.0 xmr.cool
 0.0.0.0 xmr.cpufan.club
 0.0.0.0 xmr.crypto-pool.fr
 0.0.0.0 xmr.cryptonoter.com
@@ -55784,10 +55280,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 xmrm.pw
 0.0.0.0 xmrminingproxy.com
 0.0.0.0 xmrpool.net
+0.0.0.0 xvideosharing.site
 0.0.0.0 xy.nullrefexcep.com
 0.0.0.0 youporn.sexy
 0.0.0.0 yrdrtzmsmt.com
 0.0.0.0 yuyyio.com
+0.0.0.0 zavzlen.ru
 0.0.0.0 zgdfz6h7po.me
 0.0.0.0 ziykrgc.ru
 0.0.0.0 zjemch.ru
@@ -56141,6 +55639,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 wyniki-konkursu2017.eu
 0.0.0.0 kiinomaniak.pl
 0.0.0.0 samochod-odbior.pl
+0.0.0.0 itis4you.com
 0.0.0.0 health-line.me
 0.0.0.0 ecoslimmer.pro
 0.0.0.0 pelna-wersja.pl
@@ -56158,6 +55657,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 quiznow.pl
 0.0.0.0 wizjatv-kody.pl
 0.0.0.0 wizjatv.za-darmo.eu
+0.0.0.0 leadn.pl
 0.0.0.0 pobeiranie.pl
 0.0.0.0 kinujemy.pl
 0.0.0.0 firebid.pl
@@ -56684,6 +56184,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 widget-eforsa.pl
 0.0.0.0 m3gadownload.pl
 0.0.0.0 4k-player.pl
+0.0.0.0 dieta-personalna.pl
 0.0.0.0 yourmovies.pl
 0.0.0.0 konkursowo-24.pl
 0.0.0.0 monety-pokemony.pl
@@ -57918,7 +57419,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 bananarepubic.com
 0.0.0.0 bannanarepublic.com
 0.0.0.0 banner.scasino.com
+0.0.0.0 banner.vegasred.com
 0.0.0.0 bannerpromotion.it
+0.0.0.0 bar.mytotalsearch.com
 0.0.0.0 barclaysghana.org
 0.0.0.0 bdsmcompany.com
 0.0.0.0 bdsmtours.com
@@ -58005,6 +57508,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 click.kidslivesafe.com
 0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 click.watchjmp.com
+0.0.0.0 clicksimpact.cashtrk.com
 0.0.0.0 client.browseraccelerator.com
 0.0.0.0 clikz.mytvplayer.hop.clickbank.net
 0.0.0.0 cliop.com
@@ -58044,6 +57548,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 d1.windows8downloads.com
 0.0.0.0 dance-alarm.de
 0.0.0.0 data.browseraccelerator.com
+0.0.0.0 datattro.xyz
 0.0.0.0 dateck.com
 0.0.0.0 dcm5.com
 0.0.0.0 dddcc.com
@@ -58165,6 +57670,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 funtopliste.de
 0.0.0.0 funwebproducts.com
 0.0.0.0 fuviseni.angelfire.com
+0.0.0.0 fxlayer.net
 0.0.0.0 fxstra.com
 0.0.0.0 fyxm.net
 0.0.0.0 g.zeroredirect.com
@@ -58253,6 +57759,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 imagesmovies.com
 0.0.0.0 img.coldstoragemn.com
 0.0.0.0 img.thebugs.ws
+0.0.0.0 img.xratedbucks.com
 0.0.0.0 img2.sankakustatic.com
 0.0.0.0 info.com
 0.0.0.0 infospace.tk
@@ -58556,6 +58063,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ringtonematcher.com
 0.0.0.0 riskymail4free.com
 0.0.0.0 rngetek.com
+0.0.0.0 robtopol.in
 0.0.0.0 rokus-tgy.hu
 0.0.0.0 root--servers.org
 0.0.0.0 rowanmclean.com
@@ -58680,7 +58188,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 towerecords.com
 0.0.0.0 track.clickbooth.com
 0.0.0.0 track.viralvidi.com
-0.0.0.0 tracker.nbcuas.com
 0.0.0.0 trackertracker.com
 0.0.0.0 tracking-stats-tr.usa.cc
 0.0.0.0 tracking.conduit.com
@@ -59099,6 +58606,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.gratisweb.com
 0.0.0.0 www.grendizer.biz
 0.0.0.0 www.guaranty.com.cn
+0.0.0.0 www.guardappsfarm.com
+0.0.0.0 www.guardcyclequick.com
 0.0.0.0 www.gulf-industrial.com
 0.0.0.0 www.gvc.vn
 0.0.0.0 www.gwmtracker.com
@@ -60377,6 +59886,75 @@ ff02::2 ip6-allrouters
 
 # Porn Domains
 
+
+
+0.0.0.0 anybunny.com
+0.0.0.0 br.youporn.com
+0.0.0.0 cn.txxx.com
+0.0.0.0 cz.pornhub.com
+0.0.0.0 daftsex.com
+0.0.0.0 damplips.com
+0.0.0.0 de.pornhub.com
+0.0.0.0 de.spankbang.com
+0.0.0.0 de.txxx.com
+0.0.0.0 de.xhamster.com
+0.0.0.0 de.youporn.com
+0.0.0.0 dk.xhamster.com
+0.0.0.0 dtvideo.com
+0.0.0.0 emb.y-porn.com
+0.0.0.0 en.spankbang.com
+0.0.0.0 es.pornhub.com
+0.0.0.0 es.spankbang.com
+0.0.0.0 es.txxx.com
+0.0.0.0 es.xhamster.com
+0.0.0.0 es.youporn.com
+0.0.0.0 fr.pornhub.com
+0.0.0.0 fr.spankbang.com
+0.0.0.0 fr.txxx.com
+0.0.0.0 fr.xhamster.com
+0.0.0.0 fr.youporn.com
+0.0.0.0 hdreporn.com
+0.0.0.0 iporntv.net
+0.0.0.0 it.pornhub.com
+0.0.0.0 it.spankbang.com
+0.0.0.0 it.txxx.com
+0.0.0.0 it.youporn.com
+0.0.0.0 jp.pornhub.com
+0.0.0.0 jp.txxx.com
+0.0.0.0 jp.xhamster.com
+0.0.0.0 jp.youporn.com
+0.0.0.0 kr.xhamster.com
+0.0.0.0 ludwig-walkenhorst.com
+0.0.0.0 m.4tube.com
+0.0.0.0 m.de.xhamster.com
+0.0.0.0 m.dk.xhamster.com
+0.0.0.0 m.drtuber.com
+0.0.0.0 m.es.xhamster.com
+0.0.0.0 m.fr.xhamster.com
+0.0.0.0 m.jp.xhamster.com
+0.0.0.0 m.kr.xhamster.com
+0.0.0.0 m.porntube.com
+0.0.0.0 m.se.xhamster.com
+0.0.0.0 m.spankbang.com
+0.0.0.0 m.xhamster.com
+0.0.0.0 m.youporn.com
+0.0.0.0 nl.pornhub.com
+0.0.0.0 nl.txxx.com
+0.0.0.0 nl.youporn.com
+0.0.0.0 pl.pornhub.com
+0.0.0.0 pl.txxx.com
+0.0.0.0 pl.youporn.com
+0.0.0.0 porn00.org
+0.0.0.0 pt.pornhub.com
+0.0.0.0 pt.txxx.com
+0.0.0.0 pt.youporn.com
+0.0.0.0 rt.pornhub.com
+0.0.0.0 ru.pornhub.com
+0.0.0.0 ru.txxx.com
+0.0.0.0 se.xhamster.com
+0.0.0.0 tr.youporn.com
+0.0.0.0 v-rn.slutload-media.com
+0.0.0.0 veporn.video
 0.0.0.0 www.0013langford.tumblr.com
 0.0.0.0 www.007angels.com
 0.0.0.0 www.00webcams.com
@@ -60392,6 +59970,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.18andabused.tv
 0.0.0.0 www.18comix.com
 0.0.0.0 www.18eighteenz.com
+0.0.0.0 www.18girlsex.net
 0.0.0.0 www.18phd.com
 0.0.0.0 www.18porno.tv
 0.0.0.0 www.18teenvid.com
@@ -60408,9 +59987,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.1watchmygf.com
 0.0.0.0 www.2001positions.com
 0.0.0.0 www.2013znakomstva.datingsprivate2013.com
+0.0.0.0 www.2016porno.com
 0.0.0.0 www.2017porn.com
 0.0.0.0 www.21x.org
 0.0.0.0 www.24h-porn.net
+0.0.0.0 www.24sobre7.com
 0.0.0.0 www.24videos.tv
 0.0.0.0 www.2bigtobetrue.com
 0.0.0.0 www.2busty.net
@@ -60425,6 +60006,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.3arabporn.com
 0.0.0.0 www.3at3ot.com
 0.0.0.0 www.3dbadgirls.com
+0.0.0.0 www.3dporntubex.info
 0.0.0.0 www.3dxchat.com
 0.0.0.0 www.3movs.com
 0.0.0.0 www.3redangels.com
@@ -60491,6 +60073,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.absolute-live.com
 0.0.0.0 www.abtracker.adultbouncer.com
 0.0.0.0 www.achaudry4.tumblr.com
+0.0.0.0 www.acompanhanteportugalmafalda.com
+0.0.0.0 www.acompanhantes.pt
+0.0.0.0 www.acompanhantesdeluxo.eu
+0.0.0.0 www.acompanhantesdoprazerevora.pt
+0.0.0.0 www.acompanhantesluxo.com
+0.0.0.0 www.acompanhantesmadeira.com
+0.0.0.0 www.acompanhantez.com
 0.0.0.0 www.actual-porn.org
 0.0.0.0 www.ad.blackystars.com
 0.0.0.0 www.ad.jokeroo.com
@@ -60637,6 +60226,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.adultmoneymakers.com
 0.0.0.0 www.adultmoviegroup.com
 0.0.0.0 www.adultoffline.com
+0.0.0.0 www.adultosclassificados.com
 0.0.0.0 www.adultpopunders.com
 0.0.0.0 www.adultrevenueservice.com
 0.0.0.0 www.adultscandy.com
@@ -60676,11 +60266,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.akibathewolf.tumblr.com
 0.0.0.0 www.alaa168.angelfire.com
 0.0.0.0 www.alamalditasea.tumblr.com
+0.0.0.0 www.alanahrae.com
 0.0.0.0 www.alcuda.com
 0.0.0.0 www.aleexball.tumblr.com
 0.0.0.0 www.alexa-xxx.com
+0.0.0.0 www.alexistexas.com
 0.0.0.0 www.alexisvirgin.com
 0.0.0.0 www.alfamina.com
+0.0.0.0 www.algarve-girls.com
 0.0.0.0 www.alison-angel-1.com
 0.0.0.0 www.alison-angel.biz
 0.0.0.0 www.alison-angel.org
@@ -60724,6 +60317,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.alt.com
 0.0.0.0 www.altassafadeza.tumblr.com
 0.0.0.0 www.altingramfiyati.org
+0.0.0.0 www.alurajensonxxx.com
 0.0.0.0 www.amabitch.com
 0.0.0.0 www.amadorasblog.tumblr.com
 0.0.0.0 www.amaland.com
@@ -60758,6 +60352,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.amsterdam-webcams.com
 0.0.0.0 www.amsterdamned.com
 0.0.0.0 www.amsterdamnightlife.com
+0.0.0.0 www.amybrookexxx.com
 0.0.0.0 www.amyvirgin.com
 0.0.0.0 www.anal-porn76.tumblr.com
 0.0.0.0 www.anal-webcams.com
@@ -60926,6 +60521,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.angelinas-bodytalk.com
 0.0.0.0 www.angelinas-cam.de
 0.0.0.0 www.angelinas-heels.de
+0.0.0.0 www.angelinavalentine.com
 0.0.0.0 www.angelinavalentineblog.net
 0.0.0.0 www.angelinavirgin.com
 0.0.0.0 www.angelinax.fr.st
@@ -61068,14 +60664,18 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.annasangels.co.uk
 0.0.0.0 www.annasassets.com
 0.0.0.0 www.annavirgin.com
+0.0.0.0 www.annmarierios.com
 0.0.0.0 www.annuaire-x.com
 0.0.0.0 www.anony-sex.tumblr.com
 0.0.0.0 www.anotherpornblog.tumblr.com
 0.0.0.0 www.antarvasnapornvideos.com
 0.0.0.0 www.antivirgins.com
+0.0.0.0 www.anunciosgratis.pt
+0.0.0.0 www.anunciosintimos.pt
 0.0.0.0 www.anyporn.com
 0.0.0.0 www.anysex.com
 0.0.0.0 www.ao-putaria.tumblr.com
+0.0.0.0 www.apartadox.com
 0.0.0.0 www.apetube.com
 0.0.0.0 www.aphrodite.porntrack.com
 0.0.0.0 www.api.ero-advertising.com
@@ -61083,6 +60683,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.apinaporn.com
 0.0.0.0 www.apo.ero-advertising.com
 0.0.0.0 www.apornmovie.com
+0.0.0.0 www.apornvideos.com
 0.0.0.0 www.applefoam.angelfire.com
 0.0.0.0 www.aquiwebcams.com
 0.0.0.0 www.arab66.com
@@ -61104,6 +60705,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.ard.xxxblackbook.com
 0.0.0.0 www.arenaporno.com
 0.0.0.0 www.arhangelsk.name
+0.0.0.0 www.ariellaferrera.com
 0.0.0.0 www.arkhangelskiy.com
 0.0.0.0 www.arrobapay.com
 0.0.0.0 www.artworks-blog.tumblr.com
@@ -61159,12 +60761,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.atkpremium.com
 0.0.0.0 www.atkpussies.com
 0.0.0.0 www.atmmovieblog.angelfire.com
+0.0.0.0 www.atrevidascam.net
 0.0.0.0 www.attractivesex.com
 0.0.0.0 www.auctions.playboy.com
 0.0.0.0 www.auntjudys.com
 0.0.0.0 www.auntmia.com
 0.0.0.0 www.austrian-angels.at
 0.0.0.0 www.autolinkweb.com
+0.0.0.0 www.avadevine.com
 0.0.0.0 www.avalaurenblog.com
 0.0.0.0 www.avalon.topbucks.com
 0.0.0.0 www.avatarcash.com
@@ -61317,7 +60921,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.beemtube.com
 0.0.0.0 www.beerandshots.com
 0.0.0.0 www.befuck.com
+0.0.0.0 www.bellagals.com
 0.0.0.0 www.bellebulle.tumblr.com
+0.0.0.0 www.bellesa.co
 0.0.0.0 www.belloporno.it
 0.0.0.0 www.benbigben7.tumblr.com
 0.0.0.0 www.bertox.tumblr.com
@@ -61462,6 +61068,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.br.youporn.com
 0.0.0.0 www.brandibelle.bangbros1.com
 0.0.0.0 www.brandys-box.com
+0.0.0.0 www.brandytalorevip.com
 0.0.0.0 www.brasiltudoliberado.com
 0.0.0.0 www.bravoteens.com
 0.0.0.0 www.bravotube.net
@@ -61471,6 +61078,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.brazzers.com
 0.0.0.0 www.brazzersnetwork.com
 0.0.0.0 www.brdteengal.com
+0.0.0.0 www.breannebenson.com
 0.0.0.0 www.breathlessangel.com
 0.0.0.0 www.briceangel.over-blog.com
 0.0.0.0 www.brickhousebetty.net
@@ -61480,6 +61088,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.britneyvirgin.com
 0.0.0.0 www.broadcaster.streamate.com
 0.0.0.0 www.bronzeadultblogs.com
+0.0.0.0 www.brookewyldexxx.com
 0.0.0.0 www.brothelangelsladies.com
 0.0.0.0 www.brownbunnies.com
 0.0.0.0 www.browneyedangel83.freewebpages.org
@@ -61514,6 +61123,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.busty-and-hot.tumblr.com
 0.0.0.0 www.busty-asian.org
 0.0.0.0 www.bustyasians.site
+0.0.0.0 www.bustycafe.net
 0.0.0.0 www.bustygirlsblog.com
 0.0.0.0 www.bustyvixen.net
 0.0.0.0 www.buttgifs.com
@@ -61556,7 +61166,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.camsangels.com
 0.0.0.0 www.camshowdownloads.com
 0.0.0.0 www.camshunt.com
-0.0.0.0 www.camsoda.com
 0.0.0.0 www.camster.com
 0.0.0.0 www.camwhores.co
 0.0.0.0 www.camwhores.tv
@@ -61591,7 +61200,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.cbtextremeuk.tumblr.com
 0.0.0.0 www.cbtforfun.tumblr.com
 0.0.0.0 www.ccgals.com
-0.0.0.0 www.ccleaner.com
 0.0.0.0 www.cdn-i-am-bored.com
 0.0.0.0 www.cdn.alleliteads.com
 0.0.0.0 www.cdn.engine.phn.doublepimp.com
@@ -61622,6 +61230,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.cgi1.sexlist.com
 0.0.0.0 www.champnewgameronline.angelfire.com
 0.0.0.0 www.chan.sankakucomplex.com
+0.0.0.0 www.chanelprestonxxx.com
 0.0.0.0 www.changelingpress.com
 0.0.0.0 www.changels.net
 0.0.0.0 www.charlisangels.com
@@ -61656,6 +61265,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.chloes-angels.com
 0.0.0.0 www.chris.virginradioblog.fr
 0.0.0.0 www.chrisangel.canalblog.com
+0.0.0.0 www.christiestevens.com
 0.0.0.0 www.christinaangel.com
 0.0.0.0 www.chubby-teen.com
 0.0.0.0 www.chumleaf.com
@@ -61671,8 +61281,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.circleofxxx.com
 0.0.0.0 www.citysex.com
 0.0.0.0 www.clamsangels.com
+0.0.0.0 www.classificadosx.com
+0.0.0.0 www.classificadosx.net
 0.0.0.0 www.classy-angel.com
 0.0.0.0 www.classyangel.com
+0.0.0.0 www.claudiavalentinexxx.com
 0.0.0.0 www.click.dtiserv2.com
 0.0.0.0 www.click.payserve.com
 0.0.0.0 www.click.revsharecash.com
@@ -61738,11 +61351,16 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.club-virgins.com
 0.0.0.0 www.clubaudriannaangel.com
 0.0.0.0 www.clubbestangels.de
+0.0.0.0 www.clubcharismaxxx.com
 0.0.0.0 www.cluberosatlanta.com
 0.0.0.0 www.clubevaangelina.net
+0.0.0.0 www.clubkatiesummers.com
+0.0.0.0 www.clubkatsuni.com
+0.0.0.0 www.clubrachellove.com
 0.0.0.0 www.clubrejal.com
 0.0.0.0 www.clubseventeen.com
 0.0.0.0 www.clubseventeenvideos.com
+0.0.0.0 www.clubveronicaavluv.com
 0.0.0.0 www.clubvirgins.com
 0.0.0.0 www.cluster-03.topbucks.com
 0.0.0.0 www.cluster.adultadworld.com
@@ -61763,6 +61381,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.college-webcams.com
 0.0.0.0 www.collegegirlwebcams.com
 0.0.0.0 www.collegerules.com
+0.0.0.0 www.collegesexlives.com
 0.0.0.0 www.collegevirgins.com
 0.0.0.0 www.collegewildparties.com
 0.0.0.0 www.colliderporn.com
@@ -61777,6 +61396,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.content2.adameve.com
 0.0.0.0 www.content3.adameve.com
 0.0.0.0 www.contents.sex-explorer.com
+0.0.0.0 www.conviviocm.pt
+0.0.0.0 www.conviviox.com
 0.0.0.0 www.coomgirls.com
 0.0.0.0 www.coopguy.tumblr.com
 0.0.0.0 www.copyrait.angelfire.com
@@ -61784,6 +61405,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.coquine-angeline.net
 0.0.0.0 www.corta-pra-18-sp.tumblr.com
 0.0.0.0 www.corta-pra-18.tumblr.com
+0.0.0.0 www.cosmid.net
 0.0.0.0 www.cougar-rencontre.net
 0.0.0.0 www.cougarlife.com
 0.0.0.0 www.cougarsandcream.com
@@ -61820,6 +61442,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.counter9.sextracker.de
 0.0.0.0 www.counterimg1.adultrevenueservice.com
 0.0.0.0 www.couplesseduceteens.com
+0.0.0.0 www.courtneytaylor.xxx
 0.0.0.0 www.courtneyvirgin.com
 0.0.0.0 www.cousinherm.tumblr.com
 0.0.0.0 www.cover9.adultfriendfinder.com
@@ -61895,10 +61518,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.dailee.com
 0.0.0.0 www.dailybasis.com
 0.0.0.0 www.dakarlove.virginradioblog.fr
+0.0.0.0 www.damadolove.com
 0.0.0.0 www.damimage.com
 0.0.0.0 www.damnage.com
 0.0.0.0 www.damnhellasskings.com
 0.0.0.0 www.damnlinks.com
+0.0.0.0 www.damplips.com
 0.0.0.0 www.damselsandothersexyness.tumblr.com
 0.0.0.0 www.dan81.com
 0.0.0.0 www.dancefox.net
@@ -61935,6 +61560,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.de.pornhub.com
 0.0.0.0 www.de.youporn.com
 0.0.0.0 www.deep-in-me-please.tumblr.com
+0.0.0.0 www.deepinsidejoslyn.com
 0.0.0.0 www.deesseangelina.free.fr
 0.0.0.0 www.definebabe.com
 0.0.0.0 www.definefetish.com
@@ -61950,6 +61576,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.der-wallstreet-trick.eu
 0.0.0.0 www.desadesangels.com
 0.0.0.0 www.descobertasdoprazer.tumblr.com
+0.0.0.0 www.desejos.net
 0.0.0.0 www.desibees.com
 0.0.0.0 www.desihotpoint.com
 0.0.0.0 www.desikahani.net
@@ -61967,6 +61594,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.dex59.exmasters.com
 0.0.0.0 www.dex75.exmasters.com
 0.0.0.0 www.dgyjeic.angelfire.com
+0.0.0.0 www.diamondfoxxx.com
 0.0.0.0 www.dick-n-jane.com
 0.0.0.0 www.dickievirgin.com
 0.0.0.0 www.dickievirgin.org
@@ -62011,6 +61639,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.dixiedonovanlive.tumblr.com
 0.0.0.0 www.dla3hotbanat.info
 0.0.0.0 www.dlisted.com
+0.0.0.0 www.dluxrelax.com
+0.0.0.0 www.dm.damcdn.net
 0.0.0.0 www.dmssapp.tumblr.com
 0.0.0.0 www.dnvideos.com
 0.0.0.0 www.doctor-adventures.xlogz.com
@@ -62094,6 +61724,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.elitedollars.com
 0.0.0.0 www.elunesangels.com
 0.0.0.0 www.emeraldporn.com
+0.0.0.0 www.emilysplayground.com
 0.0.0.0 www.eminotobursa.com
 0.0.0.0 www.emo-porn.com
 0.0.0.0 www.emoandscenegirls.com
@@ -62119,6 +61750,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.enter.teenslikeitbig.com
 0.0.0.0 www.eonline.com
 0.0.0.0 www.eporner.com
+0.0.0.0 www.ericalaurenxxx.com
 0.0.0.0 www.erinvirgin.com
 0.0.0.0 www.erito.com
 0.0.0.0 www.ero-advertising.com
@@ -62158,11 +61790,17 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.es.pornhub.com
 0.0.0.0 www.es.youporn.com
 0.0.0.0 www.escort23.com
+0.0.0.0 www.escort69.pt
 0.0.0.0 www.escortankarada.org
 0.0.0.0 www.escortankarali.net
 0.0.0.0 www.escortbayanankaratc.net
 0.0.0.0 www.escortdirectory.com
+0.0.0.0 www.escortera.com
 0.0.0.0 www.escortguide.com
+0.0.0.0 www.escortportomafalda.tk
+0.0.0.0 www.escortportoportugalmafalda.com
+0.0.0.0 www.escortportugalgirlfriend.com
+0.0.0.0 www.escortprivada.com
 0.0.0.0 www.escortvips.net
 0.0.0.0 www.escravadoprazer.tumblr.com
 0.0.0.0 www.eskisehirhayal.com
@@ -62196,6 +61834,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.evaangelinapics.com
 0.0.0.0 www.evaangelinavideos.net
 0.0.0.0 www.evaangelinax.com
+0.0.0.0 www.evaangelinaxxxx.com
 0.0.0.0 www.evababy90.tumblr.com
 0.0.0.0 www.evaevangelina.net
 0.0.0.0 www.evangelicaloutpost.com
@@ -62205,6 +61844,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.evangelinelilly.free.fr
 0.0.0.0 www.evangelio.com
 0.0.0.0 www.evangelion-lemon.freehostia.com
+0.0.0.0 www.evanotty.com
 0.0.0.0 www.evasiveangels.com
 0.0.0.0 www.evavirgin.com
 0.0.0.0 www.eve-angel.com
@@ -62514,6 +62154,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.freudbox.com
 0.0.0.0 www.frhsex.com
 0.0.0.0 www.fritchy.com
+0.0.0.0 www.frutoproibido.eu
 0.0.0.0 www.frwebcams.com
 0.0.0.0 www.ftop.ru
 0.0.0.0 www.ftvblog.info
@@ -62550,6 +62191,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.fuckyoucash.com
 0.0.0.0 www.fudochi.angelfire.com
 0.0.0.0 www.fukfantasi3s.tumblr.com
+0.0.0.0 www.fukks.com
 0.0.0.0 www.fullhdxxx.com
 0.0.0.0 www.fullteensporn.com
 0.0.0.0 www.fullxxxmovies.net
@@ -62607,6 +62249,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.gapingangels.com
 0.0.0.0 www.garotoesperto.com
 0.0.0.0 www.garrett95959595.tumblr.com
+0.0.0.0 www.gatasdovale.com
 0.0.0.0 www.gatelevel.angelfire.com
 0.0.0.0 www.gay-webcams.com
 0.0.0.0 www.gay.xxxcounter.com
@@ -62631,6 +62274,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.getbigvids.com
 0.0.0.0 www.getfiredup4.tumblr.com
 0.0.0.0 www.getfirefox.com
+0.0.0.0 www.gethdporn.com
 0.0.0.0 www.getnudies.com
 0.0.0.0 www.gettinghardertoshowit.tumblr.com
 0.0.0.0 www.gfleaks.com
@@ -62652,6 +62296,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.gifsfor.com
 0.0.0.0 www.gifshub.com
 0.0.0.0 www.giftube.com
+0.0.0.0 www.gigiriveraxxx.com
+0.0.0.0 www.ginalynn.com
 0.0.0.0 www.girlfriend-selfies.tumblr.com
 0.0.0.0 www.girlfriendgalleries.net
 0.0.0.0 www.girlfriendsfilms.com
@@ -62661,11 +62307,22 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.girlmovieit.tumblr.com
 0.0.0.0 www.girlongirlong1rl.tumblr.com
 0.0.0.0 www.girls-girls-girls-only.tumblr.com
+0.0.0.0 www.girlsbcn.asia
+0.0.0.0 www.girlsbcn.cat
+0.0.0.0 www.girlsbcn.co.uk
+0.0.0.0 www.girlsbcn.de
+0.0.0.0 www.girlsbcn.fr
+0.0.0.0 www.girlsbcn.it
+0.0.0.0 www.girlsbcn.jp.net
+0.0.0.0 www.girlsbcn.net
+0.0.0.0 www.girlsbcn.pt
+0.0.0.0 www.girlsbcn.ru
 0.0.0.0 www.girlscanner.com
 0.0.0.0 www.girlsdoporn.com
 0.0.0.0 www.girlsgirlsand-moregirls.tumblr.com
 0.0.0.0 www.girlsgonewild.com
 0.0.0.0 www.girlslovejizz.tumblr.com
+0.0.0.0 www.girlslux.pt
 0.0.0.0 www.girlsongirlstube.com
 0.0.0.0 www.girlsontheknees.tumblr.com
 0.0.0.0 www.girlsphotohunting.tumblr.com
@@ -62688,6 +62345,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.godsartnudes.com
 0.0.0.0 www.gogoangels.com
 0.0.0.0 www.goldhdtube.com
+0.0.0.0 www.goldporntube.com
 0.0.0.0 www.goldteenvideos.com
 0.0.0.0 www.gonorar.com
 0.0.0.0 www.goobenz.tumblr.com
@@ -62695,6 +62353,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.gotowebcams.com
 0.0.0.0 www.gotporn.com
 0.0.0.0 www.gotwhatideserved.tumblr.com
+0.0.0.0 www.gozacomigo.com
+0.0.0.0 www.gp-pt.net
 0.0.0.0 www.gqigjgs.angelfire.com
 0.0.0.0 www.grafix.xxxcounter.com
 0.0.0.0 www.gramponante.com
@@ -62768,6 +62428,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.hardxxxclips.com
 0.0.0.0 www.hardxxxvids.com
 0.0.0.0 www.hardyoungporn.com
+0.0.0.0 www.harem.pt
 0.0.0.0 www.hazehim.com
 0.0.0.0 www.hbobs-tube.com
 0.0.0.0 www.hbrowse.com
@@ -62791,9 +62452,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.hdzog.com
 0.0.0.0 www.heartfeltangels.com
 0.0.0.0 www.heartless-angels.discutfree.com
+0.0.0.0 www.heatherstarletxxx.com
 0.0.0.0 www.heaven666.org
 0.0.0.0 www.heavenlytranny.com
 0.0.0.0 www.heavensangelsreadings.com
+0.0.0.0 www.heavy-r.com
 0.0.0.0 www.hegixic.angelfire.com
 0.0.0.0 www.hell-angel.com
 0.0.0.0 www.hello.sexer.com
@@ -62834,6 +62497,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.hesporn.com
 0.0.0.0 www.hetero.xxxcounter.com
 0.0.0.0 www.hetewebcams.com
+0.0.0.0 www.heuteporno.com
 0.0.0.0 www.heyculito.tumblr.com
 0.0.0.0 www.hiddenwebcams.com
 0.0.0.0 www.hide-porn.winsite.com
@@ -62925,12 +62589,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.hotgirlcentral.com
 0.0.0.0 www.hotgirlsfc.tumblr.com
 0.0.0.0 www.hothothotpixxx.tumblr.com
+0.0.0.0 www.hotlatexdreams.com
 0.0.0.0 www.hotmalepics.com
 0.0.0.0 www.hotmasturbatingchicks.tumblr.com
 0.0.0.0 www.hotmilfpictures.com
 0.0.0.0 www.hotmomfree.com
 0.0.0.0 www.hotmovs.com
 0.0.0.0 www.hotnakedmoms.com
+0.0.0.0 www.hotparadise.net
 0.0.0.0 www.hotporndaily.tumblr.com
 0.0.0.0 www.hotpornshow.com
 0.0.0.0 www.hotsaunababes.info
@@ -62951,6 +62617,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.hotyoungnude.com
 0.0.0.0 www.housewifebangers.com
 0.0.0.0 www.housewifewebcams.com
+0.0.0.0 www.housewivesadventures.com
 0.0.0.0 www.hpiffnt.angelfire.com
 0.0.0.0 www.hpjav.com
 0.0.0.0 www.hq69.com
@@ -63192,11 +62859,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.jb1341.tumblr.com
 0.0.0.0 www.jbace1.tumblr.com
 0.0.0.0 www.jdforum.net
-0.0.0.0 www.jdownloader.org
 0.0.0.0 www.jealoussissy.tumblr.com
 0.0.0.0 www.jeeves28.tumblr.com
+0.0.0.0 www.jennahaze.com
 0.0.0.0 www.jennavirgin.com
 0.0.0.0 www.jenniporn.com
+0.0.0.0 www.jenxstudios.com
 0.0.0.0 www.jerk2it.com
 0.0.0.0 www.jerkoknet.tumblr.com
 0.0.0.0 www.jesse.9hz.com
@@ -63204,6 +62872,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.jessicavirgin.com
 0.0.0.0 www.jessyjames85.tumblr.com
 0.0.0.0 www.jet-set-angels.com
+0.0.0.0 www.jetescorts.com
 0.0.0.0 www.jgalz.net
 0.0.0.0 www.jigglegifs.com
 0.0.0.0 www.jiggleholic.com
@@ -63270,6 +62939,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.juggsarea.com
 0.0.0.0 www.juicywebcams.com
 0.0.0.0 www.julesjordan.com
+0.0.0.0 www.julie-skyhigh.com
 0.0.0.0 www.just-hot-models-here-xxx.tumblr.com
 0.0.0.0 www.justbarelylegal.com
 0.0.0.0 www.justblowjobgifs.tumblr.com
@@ -63282,12 +62952,15 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.jwswinging.tumblr.com
 0.0.0.0 www.kadu-amadoras.tumblr.com
 0.0.0.0 www.kagbz.com
+0.0.0.0 www.kagneylinnkarter.com
 0.0.0.0 www.kaotic.com
 0.0.0.0 www.kaplog.com
 0.0.0.0 www.karupsbabes.com
 0.0.0.0 www.karupsgals.com
 0.0.0.0 www.kaskoos.com
 0.0.0.0 www.kateeowengif.tumblr.com
+0.0.0.0 www.katefrost.com
+0.0.0.0 www.katerinakayxxx.com
 0.0.0.0 www.katestube.com
 0.0.0.0 www.katys-hotpussy.tumblr.com
 0.0.0.0 www.kazatube.com
@@ -63297,6 +62970,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.keezlive.com
 0.0.0.0 www.keezmovies.com
 0.0.0.0 www.kellyfind.com
+0.0.0.0 www.kendralustxxx.com
 0.0.0.0 www.kicknuts.tumblr.com
 0.0.0.0 www.kickpom.tumblr.com
 0.0.0.0 www.kidzilla.info
@@ -63315,6 +62989,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.kipafaqi.angelfire.com
 0.0.0.0 www.kissingangels.deluxepass.com
 0.0.0.0 www.kissteenclub.com
+0.0.0.0 www.kitazenxxx.com
 0.0.0.0 www.kitnkayboodle.comicgenesis.com
 0.0.0.0 www.kittysangels.com
 0.0.0.0 www.km-pics.phncdn.com
@@ -63351,14 +63026,21 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.lanaporno.tumblr.com
 0.0.0.0 www.langelul.nl
 0.0.0.0 www.laotk.tumblr.com
+0.0.0.0 www.laralarsen.com
 0.0.0.0 www.largehdtube.comen
 0.0.0.0 www.largeporntube.com
 0.0.0.0 www.late-lust.tumblr.com
 0.0.0.0 www.latenightwebcams.com
 0.0.0.0 www.latestalisonangel.com
+0.0.0.0 www.latex-bitches.com
+0.0.0.0 www.latex-dream.com
+0.0.0.0 www.latex-fantasies.com
+0.0.0.0 www.latex-post.com
 0.0.0.0 www.latexangel.com
 0.0.0.0 www.latexangel.net
 0.0.0.0 www.latexangelic.com
+0.0.0.0 www.latexbest.com
+0.0.0.0 www.latexfetishpics.com
 0.0.0.0 www.latin-angel.com
 0.0.0.0 www.latin-webcams.com
 0.0.0.0 www.latinacast.com
@@ -63403,6 +63085,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.letterstoanangel.com
 0.0.0.0 www.levelsex.com
 0.0.0.0 www.lewild.tumblr.com
+0.0.0.0 www.lexibelle.com
 0.0.0.0 www.leyesmessenger.com
 0.0.0.0 www.lezbohoneys.com
 0.0.0.0 www.lezcuties.com
@@ -63518,6 +63201,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.lustporngifs.tumblr.com
 0.0.0.0 www.lustywebcams.com
 0.0.0.0 www.lux-angels.com
+0.0.0.0 www.lynxdollars.com
 0.0.0.0 www.lyrics.filestube.com
 0.0.0.0 www.m-ulata.tumblr.com
 0.0.0.0 www.m.cliphunter.com
@@ -63549,10 +63233,15 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.maniacpass.com
 0.0.0.0 www.manos-heracleio.tumblr.com
 0.0.0.0 www.manytitsandasses.tumblr.com
+0.0.0.0 www.manyvids.com
+0.0.0.0 www.mariemccray.com
 0.0.0.0 www.market1.the-adult-company.com
 0.0.0.0 www.market2.the-adult-company.com
 0.0.0.0 www.mart4angel.freeuk.com
 0.0.0.0 www.marylovesporn.tumblr.com
+0.0.0.0 www.massagem-exotica.com
+0.0.0.0 www.massagens.net
+0.0.0.0 www.massagensdeluxo.com
 0.0.0.0 www.masterreb.tumblr.com
 0.0.0.0 www.mastersitepass.com
 0.0.0.0 www.masterwanker.com
@@ -63614,6 +63303,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.meetav.com
 0.0.0.0 www.meetlocals.com
 0.0.0.0 www.megasesso.com
+0.0.0.0 www.megatube.xxx
 0.0.0.0 www.megaupload-xxx.com
 0.0.0.0 www.megayoungsex.com
 0.0.0.0 www.melissasdirtydiary.tumblr.com
@@ -63643,6 +63333,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.metaporn.com
 0.0.0.0 www.mexicanvirgin.com
 0.0.0.0 www.mhbakker.tumblr.com
+0.0.0.0 www.michellethornexxxposed.com
 0.0.0.0 www.mikangel.free.fr
 0.0.0.0 www.mike7388.tumblr.com
 0.0.0.0 www.miki151964.tumblr.com
@@ -63658,6 +63349,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.milta1980.co.uk
 0.0.0.0 www.miltoncage.tumblr.com
 0.0.0.0 www.mimadinha--safada.tumblr.com
+0.0.0.0 www.mindimink.com
 0.0.0.0 www.minxteens.tumblr.com
 0.0.0.0 www.mirangelov.com
 0.0.0.0 www.mirror-selfies.tumblr.com
@@ -63675,6 +63367,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.mmksir.tumblr.com
 0.0.0.0 www.mnfclub.com
 0.0.0.0 www.mobile.juicyads.com
+0.0.0.0 www.modelox.net
 0.0.0.0 www.mofonetwork.net
 0.0.0.0 www.mofos.com
 0.0.0.0 www.mofosex.com
@@ -63683,12 +63376,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.moglietroia.it
 0.0.0.0 www.molnijenosniy.tumblr.com
 0.0.0.0 www.mom-video.com
+0.0.0.0 www.momentosdeprazer.com
 0.0.0.0 www.mommygotboobs.com
 0.0.0.0 www.mommyneedsmoney.com
 0.0.0.0 www.momsbangteens.com
 0.0.0.0 www.momsextube.xxx
 0.0.0.0 www.mon-yesmessenger.com
 0.0.0.0 www.moneytree.sextracker.com
+0.0.0.0 www.moniquealexander.com
 0.0.0.0 www.monkeycock.net
 0.0.0.0 www.monliveshow.com
 0.0.0.0 www.monstersandangels.com
@@ -63739,9 +63434,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.mrstiff.com
 0.0.0.0 www.mrvideoporno.xxx
 0.0.0.0 www.mrvideoscaseros.xxx
+0.0.0.0 www.mrvideospornogratis.xxx
 0.0.0.0 www.msbehaviour.co.uk
 0.0.0.0 www.msxolne.angelfire.com
 0.0.0.0 www.mulherescomcigarros.com
+0.0.0.0 www.mulheresvip.net
 0.0.0.0 www.mulhollanddriveatnight.tumblr.com
 0.0.0.0 www.multiplos-orgasmos.tumblr.com
 0.0.0.0 www.muscleangels.com
@@ -63769,6 +63466,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.mydirtyporngifs.tumblr.com
 0.0.0.0 www.mydulcemadness.tumblr.com
 0.0.0.0 www.myebonygf.com
+0.0.0.0 www.myescortberlin.com
 0.0.0.0 www.myex.com
 0.0.0.0 www.myfappening.org
 0.0.0.0 www.myfreeblack.com
@@ -63899,6 +63597,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.newangelicseduction.com
 0.0.0.0 www.newbienudes.com
 0.0.0.0 www.newestxxx.com
+0.0.0.0 www.newlux.pt
 0.0.0.0 www.newsfilter.org
 0.0.0.0 www.newstats.sexlist.com
 0.0.0.0 www.newt1.adultadworld.com
@@ -63920,6 +63619,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.nifty.org
 0.0.0.0 www.nightangel.com
 0.0.0.0 www.nikicamsex.tumblr.com
+0.0.0.0 www.nikita-vonjames.com
+0.0.0.0 www.nina.com
 0.0.0.0 www.ninavirgin.com
 0.0.0.0 www.nineteenporn.com
 0.0.0.0 www.nite2silent.tumblr.com
@@ -64021,6 +63722,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.oldpornsite.com
 0.0.0.0 www.olduvsen.cz
 0.0.0.0 www.olgasangels.net
+0.0.0.0 www.olhares.sapo.pt
 0.0.0.0 www.omanko-exposure.com
 0.0.0.0 www.omwex.com
 0.0.0.0 www.oneclickwebcams.com
@@ -64119,6 +63821,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.peach-angel.com
 0.0.0.0 www.peachangel.com
 0.0.0.0 www.peachyforum.com
+0.0.0.0 www.pecadooriginal.pt
+0.0.0.0 www.pecadosexy.com
 0.0.0.0 www.peekvids.com
 0.0.0.0 www.peelads.hustler.com
 0.0.0.0 www.pei-ads.playboy.com
@@ -64159,11 +63863,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.phatwebcams.com
 0.0.0.0 www.phicatube.net
 0.0.0.0 www.phil-flash.com
+0.0.0.0 www.phoenixmarie.com
 0.0.0.0 www.phone-angel.de
 0.0.0.0 www.phoneangels.com
 0.0.0.0 www.phonevirgin.com
 0.0.0.0 www.photo-angels.biz
 0.0.0.0 www.photo.voffka.com
+0.0.0.0 www.photomodels.com.pt
 0.0.0.0 www.photonaturals.com
 0.0.0.0 www.photos.cams.com
 0.0.0.0 www.photos.freeones.com
@@ -64191,6 +63897,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.pimpwebcams.com
 0.0.0.0 www.pin-up-angels.net
 0.0.0.0 www.pinaccesscode.com
+0.0.0.0 www.pinflix.com
 0.0.0.0 www.pinkbabes.net
 0.0.0.0 www.pinkcherryaffiliate.com
 0.0.0.0 www.pinkfineart.com
@@ -64202,6 +63909,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.pinkytoy.com
 0.0.0.0 www.pinporngifs.tumblr.com
 0.0.0.0 www.piporno.com
+0.0.0.0 www.piquete24h.com
 0.0.0.0 www.piradinhas.com
 0.0.0.0 www.piratecams.com
 0.0.0.0 www.pirocapretaba.tumblr.com
@@ -64277,8 +63985,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.porn.org
 0.0.0.0 www.porn.to
 0.0.0.0 www.porn.xxx
+0.0.0.0 www.porn00.org
 0.0.0.0 www.porn18sex.com
 0.0.0.0 www.porn2.com
+0.0.0.0 www.porn300.com
 0.0.0.0 www.porn4ladies.tumblr.com
 0.0.0.0 www.porn8.com
 0.0.0.0 www.pornaccess.com
@@ -64300,6 +64010,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.porncomix.info
 0.0.0.0 www.porncomixonline.com
 0.0.0.0 www.porncor.com
+0.0.0.0 www.porndeva.com
 0.0.0.0 www.porndex.com
 0.0.0.0 www.porndig.com
 0.0.0.0 www.porndiglesbian.com
@@ -64355,6 +64066,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.porno-sutra.com
 0.0.0.0 www.porno-teens-free.com
 0.0.0.0 www.porno-videot.com
+0.0.0.0 www.porno-wonder.com
 0.0.0.0 www.pornoamador.xxx
 0.0.0.0 www.pornoamateurvip.com
 0.0.0.0 www.pornoamatoriali.net
@@ -64386,6 +64098,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.pornomexicana.com.mx
 0.0.0.0 www.pornomovies.com
 0.0.0.0 www.pornonacionais.com
+0.0.0.0 www.pornony.com
 0.0.0.0 www.pornoorzel.com
 0.0.0.0 www.pornopics.co
 0.0.0.0 www.pornopim.com
@@ -64397,10 +64110,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.pornotorrent.com.br
 0.0.0.0 www.pornototale.com
 0.0.0.0 www.pornotrio.com
+0.0.0.0 www.pornotube.rs
 0.0.0.0 www.pornovideoshub.com
 0.0.0.0 www.pornoxo.com
 0.0.0.0 www.pornoxxx.it
 0.0.0.0 www.pornoxxxclips.com
+0.0.0.0 www.pornperv.com
 0.0.0.0 www.pornpics.com
 0.0.0.0 www.pornpicsmovies.net
 0.0.0.0 www.pornpin.com
@@ -64408,6 +64123,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.pornprosnetwork.com
 0.0.0.0 www.pornprox.com
 0.0.0.0 www.pornrabbit.com
+0.0.0.0 www.pornrox.com
 0.0.0.0 www.pornroxxx.com
 0.0.0.0 www.pornsavant.com
 0.0.0.0 www.pornsblr.tumblr.com
@@ -64418,6 +64134,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.pornsitechoice.com
 0.0.0.0 www.pornstarbook.com
 0.0.0.0 www.pornstarcompendium.com
+0.0.0.0 www.pornstarjustice.com
+0.0.0.0 www.pornstarplatinum.com
 0.0.0.0 www.pornstarslikeitbig.co.uk
 0.0.0.0 www.pornstreams.eu
 0.0.0.0 www.porntitan.com
@@ -64433,6 +64151,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.pornvideos.com
 0.0.0.0 www.pornvil.com
 0.0.0.0 www.pornwaiter.com
+0.0.0.0 www.pornwatchers.com
 0.0.0.0 www.pornwhite.com
 0.0.0.0 www.pornworms.com
 0.0.0.0 www.pornxs.com
@@ -64441,6 +64160,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.portablesex.com
 0.0.0.0 www.portaladelaide.com.br
 0.0.0.0 www.portalangels.com.sapo.pt
+0.0.0.0 www.portalerotica.net
+0.0.0.0 www.portalprivado.com
 0.0.0.0 www.poseparty.com
 0.0.0.0 www.postimage.org
 0.0.0.0 www.postyourgirls.com
@@ -64453,6 +64174,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.preggowebcams.com
 0.0.0.0 www.premierimagehosting.com
 0.0.0.0 www.premium.pervnetwork.com
+0.0.0.0 www.premiumcash.com
 0.0.0.0 www.premiumhdv.com
 0.0.0.0 www.prendiporno.tv
 0.0.0.0 www.pretty-angels.de
@@ -64464,6 +64186,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.primeskype.com
 0.0.0.0 www.princesa-safada.tumblr.com
 0.0.0.0 www.princessblueyez.com
+0.0.0.0 www.princeyahshua.com
 0.0.0.0 www.private-angels.net
 0.0.0.0 www.privatecams.ws
 0.0.0.0 www.privatefeeds.com
@@ -64501,6 +64224,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.pt.porn.com
 0.0.0.0 www.pt.pornhub.com
 0.0.0.0 www.pt.youporn.com
+0.0.0.0 www.ptencontros.com
 0.0.0.0 www.public.porn.fr
 0.0.0.0 www.publicexposurephotos.com
 0.0.0.0 www.publicexposurepics.com
@@ -64565,6 +64289,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.ratchetny.tumblr.com
 0.0.0.0 www.rateme.km.ru
 0.0.0.0 www.ratiugle.tumblr.com
+0.0.0.0 www.ravenbayxxx.com
 0.0.0.0 www.rawporn.org
 0.0.0.0 www.rawporno.tumblr.com
 0.0.0.0 www.rawtube.com
@@ -64574,6 +64299,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.realandnatural.com
 0.0.0.0 www.realblacklesbians.com
 0.0.0.0 www.realdoll.com
+0.0.0.0 www.realezas.com
 0.0.0.0 www.realfatgirls.net
 0.0.0.0 www.realgfporn.com
 0.0.0.0 www.realgijoe.tumblr.com
@@ -64643,6 +64369,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.rosebuttboard.com
 0.0.0.0 www.rosettastonecomic.com
 0.0.0.0 www.rotanaz.com
+0.0.0.0 www.rotlichtmodelle.de
 0.0.0.0 www.roundandbrown.com
 0.0.0.0 www.royalan1489.tumblr.com
 0.0.0.0 www.royalbluemedia.com
@@ -64655,6 +64382,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.ru-denial.tumblr.com
 0.0.0.0 www.ru-traffic.com
 0.0.0.0 www.ru.porn.com
+0.0.0.0 www.rua69.com
+0.0.0.0 www.rubberteens.com
 0.0.0.0 www.rubias19.com
 0.0.0.0 www.rubmaps.com
 0.0.0.0 www.rude.com
@@ -64704,6 +64433,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.sapphicangels.com
 0.0.0.0 www.saraangell.com
 0.0.0.0 www.sarahsnaughtyplace.tumblr.com
+0.0.0.0 www.sarastone.com
 0.0.0.0 www.sashafucksdasha.com
 0.0.0.0 www.sassy-angels.com
 0.0.0.0 www.sassyangel.com
@@ -64755,6 +64485,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.seducedangel.com
 0.0.0.0 www.seemygf.com
 0.0.0.0 www.seeteenvideos.com
+0.0.0.0 www.segredosdeluxo.pt
 0.0.0.0 www.selfie-village.tumblr.com
 0.0.0.0 www.selfiesamateurblog.tumblr.com
 0.0.0.0 www.selfishselfies.tumblr.com
@@ -64766,6 +64497,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.sensual-kiss.tumblr.com
 0.0.0.0 www.sensualcinderella.tumblr.com
 0.0.0.0 www.sensualphonemistress.tumblr.com
+0.0.0.0 www.sensualradar.com
 0.0.0.0 www.sensualwriter.com
 0.0.0.0 www.sentrypc.com
 0.0.0.0 www.seo1.org
@@ -64819,6 +64551,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.sexloading.com
 0.0.0.0 www.sexmaxx.com
 0.0.0.0 www.sexo-sem-hora.tumblr.com
+0.0.0.0 www.sexobarato.pt
 0.0.0.0 www.sexole.com
 0.0.0.0 www.sexoteric.com
 0.0.0.0 www.sexpeeper.com
@@ -64856,12 +64589,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.sexyfuckingmachines.tumblr.com
 0.0.0.0 www.sexygifs-majkel.tumblr.com
 0.0.0.0 www.sexygirlbutts.com
+0.0.0.0 www.sexygirlspics.com
 0.0.0.0 www.sexygorgeouswomen.com
 0.0.0.0 www.sexyhumorgames.com
 0.0.0.0 www.sexymaturethumbs.com
 0.0.0.0 www.sexyoung.us
 0.0.0.0 www.sexypornstargifs.tumblr.com
 0.0.0.0 www.sexytout.com
+0.0.0.0 www.sexyvanessa.com
 0.0.0.0 www.sexzoznamka.eu
 0.0.0.0 www.sf1-1.yobt.com
 0.0.0.0 www.sf1-2.yobt.com
@@ -64881,6 +64616,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.shareporno.com
 0.0.0.0 www.sharingwifes.tumblr.com
 0.0.0.0 www.shavkunovayb4a.tumblr.com
+0.0.0.0 www.shawnalenee.tv
 0.0.0.0 www.sheballbustsforliving.tumblr.com
 0.0.0.0 www.shefuckedmybully.tumblr.com
 0.0.0.0 www.shegotass.info
@@ -64927,6 +64663,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.simonaaltimari.tumblr.com
 0.0.0.0 www.simplenu.com
 0.0.0.0 www.simply-hentai.com
+0.0.0.0 www.sindeejennings.com
 0.0.0.0 www.sindystroker.tumblr.com
 0.0.0.0 www.sinfulsexualdesire.tumblr.com
 0.0.0.0 www.sinisterangel.com
@@ -64988,6 +64725,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.somaiores-pinkpussy.tumblr.com
 0.0.0.0 www.sophiassecrets.com
 0.0.0.0 www.sotransexuais.com
+0.0.0.0 www.sousexy.pt
 0.0.0.0 www.sovujva.angelfire.com
 0.0.0.0 www.spamfreeforums.com
 0.0.0.0 www.spank-otk.com
@@ -64997,6 +64735,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.spankoff-the-smoke.tumblr.com
 0.0.0.0 www.spankwire.com
 0.0.0.0 www.speedriven1.tumblr.com
+0.0.0.0 www.spekula.com
 0.0.0.0 www.spunkysheets.com
 0.0.0.0 www.squirters0.thumblogger.com
 0.0.0.0 www.squirtinggirlshub.tumblr.com
@@ -65121,12 +64860,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.superdeefox.tumblr.com
 0.0.0.0 www.superhotwtf.tumblr.com
 0.0.0.0 www.superporbbaa.ru
+0.0.0.0 www.supersexyn1.com
 0.0.0.0 www.superspine79.tumblr.com
 0.0.0.0 www.supertightvirgins.com
 0.0.0.0 www.superwebcams.com
 0.0.0.0 www.superzooi.com
 0.0.0.0 www.support.sextronix.com
 0.0.0.0 www.surreal-visions.tumblr.com
+0.0.0.0 www.suzepps.com
 0.0.0.0 www.svetlanapornblog.tumblr.com
 0.0.0.0 www.swapfinder.com
 0.0.0.0 www.swapsmut.com
@@ -65151,6 +64892,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.swolangedijk.angelfire.com
 0.0.0.0 www.sxe-girls.tumblr.com
 0.0.0.0 www.sxx.com
+0.0.0.0 www.sybiansolos.com
 0.0.0.0 www.sybianvirgins.com
 0.0.0.0 www.t-s-s-a.com
 0.0.0.0 www.taboosex.club
@@ -65159,6 +64901,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.takezoo.com
 0.0.0.0 www.tantoporno.com
 0.0.0.0 www.taradosacana.tumblr.com
+0.0.0.0 www.taraholidayxxx.com
 0.0.0.0 www.tastyangels.com
 0.0.0.0 www.tatagirls.com
 0.0.0.0 www.tats.cybererotica.com
@@ -65182,6 +64925,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.teen.imlive.com
 0.0.0.0 www.teen.streamate.com
 0.0.0.0 www.teen.xxxcounter.com
+0.0.0.0 www.teenageslut.net
 0.0.0.0 www.teenbookmark.com
 0.0.0.0 www.teenburg.com
 0.0.0.0 www.teencumdumpsters.com
@@ -65209,6 +64953,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.teenselfpix.com
 0.0.0.0 www.teensexmovs.com
 0.0.0.0 www.teensexreality.com
+0.0.0.0 www.teensfirstthreesome.com
 0.0.0.0 www.teensforcash.com
 0.0.0.0 www.teensgotboobs.net
 0.0.0.0 www.teenshdtube.com
@@ -65225,6 +64970,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.teeny.thumblogger.com
 0.0.0.0 www.teenyblack.com
 0.0.0.0 www.teenywebcams.com
+0.0.0.0 www.tegansummers.com
 0.0.0.0 www.tel.adult-arab.com
 0.0.0.0 www.telefonsexpalast.de
 0.0.0.0 www.temploangelina.com
@@ -65259,6 +65005,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.theamourangels.com
 0.0.0.0 www.theangelina.com
 0.0.0.0 www.theater.aebn.net
+0.0.0.0 www.theavaaddams.com
 0.0.0.0 www.thebeautyoflust.tumblr.com
 0.0.0.0 www.thebestblowjobgifs.tumblr.com
 0.0.0.0 www.thebestpornvid.tumblr.com
@@ -65280,6 +65027,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.theindianporn.com
 0.0.0.0 www.thejay1.tumblr.com
 0.0.0.0 www.thelandofeuphoria.tumblr.com
+0.0.0.0 www.thelesbianconnection.com
 0.0.0.0 www.themasturbatoreum.tumblr.com
 0.0.0.0 www.themeetlocal.com
 0.0.0.0 www.themoretheorgier.tumblr.com
@@ -65334,6 +65082,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.tiavaswebcams.com
 0.0.0.0 www.tibalkani.tumblr.com
 0.0.0.0 www.ticklegasms.tumblr.com
+0.0.0.0 www.tiffanytyler.com
 0.0.0.0 www.tigershark.adultadworld.com
 0.0.0.0 www.tight-virgins.com
 0.0.0.0 www.tightangels.com
@@ -65402,11 +65151,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.toptoonsites.com
 0.0.0.0 www.topwebcams.com
 0.0.0.0 www.tor.redlightcenter.com
+0.0.0.0 www.toriblack.com
 0.0.0.0 www.torinoerotica.com
 0.0.0.0 www.torontoangels.com
 0.0.0.0 www.toroporno.com
 0.0.0.0 www.torrentsgroup.com
 0.0.0.0 www.torture.adult-extreme.com
+0.0.0.0 www.torylane.com
 0.0.0.0 www.totalexposure.com
 0.0.0.0 www.totallynsfw.com
 0.0.0.0 www.toteme.com
@@ -65466,6 +65217,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.tube18.xxx
 0.0.0.0 www.tube555.com
 0.0.0.0 www.tube8.com
+0.0.0.0 www.tube8.fr
 0.0.0.0 www.tubeanalporn.com
 0.0.0.0 www.tubedupe.com
 0.0.0.0 www.tubegalore.com
@@ -65557,9 +65309,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.vampire-ass.tumblr.com
 0.0.0.0 www.van.redlightcenter.com
 0.0.0.0 www.vanillafucker.tumblr.com
+0.0.0.0 www.ve-porn.net
 0.0.0.0 www.vemkeselambusa.tumblr.com
 0.0.0.0 www.vemsentir-prazer.tumblr.com
 0.0.0.0 www.veporn.net
+0.0.0.0 www.veporn.video
 0.0.0.0 www.veraezz.angelfire.com
 0.0.0.0 www.verbalangels.com
 0.0.0.0 www.veritiesandbald3rdash.tumblr.com
@@ -65590,6 +65344,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.videolovesyou.com
 0.0.0.0 www.videos2stars.com
 0.0.0.0 www.videos666.com
+0.0.0.0 www.videosexarchive.com
 0.0.0.0 www.videosexoonline.com
 0.0.0.0 www.videosexperts.com
 0.0.0.0 www.videoso.withsex.com
@@ -65608,7 +65363,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.vintagepinupgirls.net
 0.0.0.0 www.vipangelz.com
 0.0.0.0 www.vipergirls.to
+0.0.0.0 www.viphomens.net
 0.0.0.0 www.vipissy.com
+0.0.0.0 www.viplocal-hookups.com
+0.0.0.0 www.vipluxuria.com
+0.0.0.0 www.vipportugal.net
+0.0.0.0 www.viptransex.net
 0.0.0.0 www.viptube.com
 0.0.0.0 www.virgin-cocks.com
 0.0.0.0 www.virgin-coconut-oil.info
@@ -65841,6 +65601,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.whatporntoday.com
 0.0.0.0 www.white.sexer.com
 0.0.0.0 www.whitneywisconsin.tumblr.com
+0.0.0.0 www.whoretodaygonetomorrow.com
 0.0.0.0 www.wicked.com
 0.0.0.0 www.wickedpictures.com
 0.0.0.0 www.wickedwildwives.tumblr.com
@@ -65968,8 +65729,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.xtoplists.com
 0.0.0.0 www.xtube.com
 0.0.0.0 www.xuk.ru
+0.0.0.0 www.xvideo.eu.org
 0.0.0.0 www.xvideohard.com
 0.0.0.0 www.xvideos.com
+0.0.0.0 www.xvideos.eu.org
 0.0.0.0 www.xvideos5.com.br
 0.0.0.0 www.xvideosamador.com.br
 0.0.0.0 www.xvideosf.com
@@ -65986,6 +65749,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.xxx-r.com
 0.0.0.0 www.xxx.com
 0.0.0.0 www.xxx.cqcounter.com
+0.0.0.0 www.xxx.harem.pt
 0.0.0.0 www.xxx4live.com
 0.0.0.0 www.xxxadultcinema.com
 0.0.0.0 www.xxxaporn.com
@@ -66047,6 +65811,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.yoslut.com
 0.0.0.0 www.youanmeme.tumblr.com
 0.0.0.0 www.youav.com
+0.0.0.0 www.youfreeporntube.com
 0.0.0.0 www.youhavetofaponthesebeforeyoudie.tumblr.com
 0.0.0.0 www.youhdporno.com
 0.0.0.0 www.youjizz.com
@@ -66075,6 +65840,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.youpornhd.co
 0.0.0.0 www.youpornmate.com
 0.0.0.0 www.youpornru.com
+0.0.0.0 www.youpornx.com
 0.0.0.0 www.youpunish.com
 0.0.0.0 www.your-bootylover-stuff.tumblr.com
 0.0.0.0 www.your-daily-girl.com
@@ -66101,6 +65867,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.yumm.net
 0.0.0.0 www.yummy-cummy.ccnwebcams.com
 0.0.0.0 www.yuotubeporno.tripod.com
+0.0.0.0 www.yuriluv.com
 0.0.0.0 www.yuvutu.com
 0.0.0.0 www.ywebcams.com
 0.0.0.0 www.za3ror.com
@@ -66108,12 +65875,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.zbiornik.com
 0.0.0.0 www.zebkbeer.com
 0.0.0.0 www.zendog2121.tumblr.com
+0.0.0.0 www.zerinho.pt
 0.0.0.0 www.zevera.com
 0.0.0.0 www.zhirok.com
 0.0.0.0 www.zimbio.com
 0.0.0.0 www.zloeradio.net
 0.0.0.0 www.zmature.com
 0.0.0.0 www.zoig.com
+0.0.0.0 www.zonaintima.pt
 0.0.0.0 www.zonawebcams.com
 0.0.0.0 www.zonewebcams.com
 0.0.0.0 www.zoo-fuck.net
@@ -66127,99 +65896,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.zuzandra.com
 0.0.0.0 www.zzcartoon.com
 0.0.0.0 www.zzgays.com
-0.0.0.0 www.damplips.com
-0.0.0.0 damplips.com
-0.0.0.0 y-porn.com
-0.0.0.0 emb.y-porn.com
-0.0.0.0 m.spankbang.com
-0.0.0.0 fr.spankbang.com
-0.0.0.0 it.spankbang.com
-0.0.0.0 es.spankbang.com
-0.0.0.0 en.spankbang.com
-0.0.0.0 de.spankbang.com
 0.0.0.0 xhcdn.com
-0.0.0.0 www.videosexarchive.com
+0.0.0.0 y-porn.com
 0.0.0.0 yespornplease.com
-0.0.0.0 daftsex.com
-0.0.0.0 www.porno-wonder.com
-0.0.0.0 m.xhamster.com
-0.0.0.0 m.drtuber.com
-0.0.0.0 m.youporn.com
-0.0.0.0 www.heavy-r.com
-0.0.0.0 iporntv.net
-0.0.0.0 www.goldporntube.com
-0.0.0.0 www.xvideos.eu.org
-0.0.0.0 www.xvideo.eu.org
-0.0.0.0 www.pornwatchers.com
-0.0.0.0 fr.xhamster.com
-0.0.0.0 es.xhamster.com
-0.0.0.0 de.xhamster.com
-0.0.0.0 se.xhamster.com
-0.0.0.0 dk.xhamster.com
-0.0.0.0 jp.xhamster.com
-0.0.0.0 kr.xhamster.com
-0.0.0.0 m.fr.xhamster.com
-0.0.0.0 m.es.xhamster.com
-0.0.0.0 m.de.xhamster.com
-0.0.0.0 m.se.xhamster.com
-0.0.0.0 m.dk.xhamster.com
-0.0.0.0 m.jp.xhamster.com
-0.0.0.0 m.kr.xhamster.com
-0.0.0.0 www.porn00.org
-0.0.0.0 porn00.org
-0.0.0.0 m.4tube.com
-0.0.0.0 m.porntube.com
-0.0.0.0 www.porn300.com
-0.0.0.0 hdreporn.com
-0.0.0.0 www.youfreeporntube.com
-0.0.0.0 www.ve-porn.net
-0.0.0.0 it.youporn.com
-0.0.0.0 es.youporn.com
-0.0.0.0 nl.youporn.com
-0.0.0.0 fr.youporn.com
-0.0.0.0 jp.youporn.com
-0.0.0.0 de.youporn.com
-0.0.0.0 pt.youporn.com
-0.0.0.0 br.youporn.com
-0.0.0.0 pl.youporn.com
-0.0.0.0 tr.youporn.com
-0.0.0.0 fr.pornhub.com
-0.0.0.0 it.pornhub.com
-0.0.0.0 de.pornhub.com
-0.0.0.0 es.pornhub.com
-0.0.0.0 jp.pornhub.com
-0.0.0.0 pt.pornhub.com
-0.0.0.0 nl.pornhub.com
-0.0.0.0 cz.pornhub.com
-0.0.0.0 pl.pornhub.com
-0.0.0.0 rt.pornhub.com
-0.0.0.0 ru.pornhub.com
-0.0.0.0 veporn.video
-0.0.0.0 www.veporn.video
-0.0.0.0 fr.txxx.com
-0.0.0.0 es.txxx.com
-0.0.0.0 pt.txxx.com
-0.0.0.0 nl.txxx.com
-0.0.0.0 cn.txxx.com
-0.0.0.0 jp.txxx.com
-0.0.0.0 pl.txxx.com
-0.0.0.0 ru.txxx.com
-0.0.0.0 de.txxx.com
-0.0.0.0 it.txxx.com
-0.0.0.0 www.pornrox.com
-0.0.0.0 www.gethdporn.com
-0.0.0.0 www.pinflix.com
-0.0.0.0 www.2016porno.com
-0.0.0.0 www.apornvideos.com
-0.0.0.0 ludwig-walkenhorst.com
-0.0.0.0 www.pornperv.com
-0.0.0.0 www.pornony.com
-0.0.0.0 www.pornotube.rs
-0.0.0.0 anybunny.com
-0.0.0.0 dtvideo.com
-0.0.0.0 www.porndeva.com
-0.0.0.0 v-rn.slutload-media.com
-0.0.0.0 www.megatube.xxx
+
+
 
 
 # Snuff domains
@@ -66331,6 +66012,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.anon-v.com
 0.0.0.0 ads.jerk2it.com
 0.0.0.0 ads.mucunki.com
+0.0.0.0 ads.myjizztube.com
 0.0.0.0 ads.premiumaccounts.com
 0.0.0.0 ads.privatefeeds.com
 0.0.0.0 ads.sextvx.com
@@ -67037,7 +66719,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 camsangels.com
 0.0.0.0 camshowdownloads.com
 0.0.0.0 camshunt.com
-0.0.0.0 camsoda.com
 0.0.0.0 camster.com
 0.0.0.0 camwhores.co
 0.0.0.0 camwhores.tv
@@ -68077,6 +67758,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 javstreams.me
 0.0.0.0 javtasty.com
 0.0.0.0 jdforum.net
+0.0.0.0 www.jdownloader.org
 0.0.0.0 jennavirgin.com
 0.0.0.0 jenniporn.com
 0.0.0.0 jerk2it.com
@@ -68429,6 +68111,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 myebonygf.com
 0.0.0.0 myfappening.org
 0.0.0.0 myfreeblack.com
+0.0.0.0 myfreecams.com
 0.0.0.0 mygaysites.com
 0.0.0.0 mygaywebcams.com
 0.0.0.0 myhomeclip.com
@@ -69920,6 +69603,156 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.nudespree.com
 0.0.0.0 redporn.xxx
 0.0.0.0 www.redporn.xxx
+
+
+0.0.0.0 myescortberlin.com
+0.0.0.0 rotlichtmodelle.de
+0.0.0.0 julie-skyhigh.com
+0.0.0.0 heuteporno.com
+0.0.0.0 manyvids.com
+0.0.0.0 tube8.fr
+0.0.0.0 youpornx.com
+0.0.0.0 mrvideospornogratis.xxx
+0.0.0.0 ipornogratis.xxx
+
+
+0.0.0.0 alexistexas.com
+0.0.0.0 premiumcash.com
+0.0.0.0 mariemccray.com
+0.0.0.0 latexbest.com
+0.0.0.0 latexfetishpics.com
+0.0.0.0 latex-bitches.com
+0.0.0.0 hotlatexdreams.com
+0.0.0.0 spekula.com
+0.0.0.0 chanelprestonxxx.com
+0.0.0.0 rubberteens.com
+0.0.0.0 nina.com
+0.0.0.0 kagneylinnkarter.com
+0.0.0.0 lynxdollars.com
+0.0.0.0 diamondfoxxx.com
+0.0.0.0 latex-dream.com
+0.0.0.0 michellethornexxxposed.com
+0.0.0.0 sexygirlspics.com
+0.0.0.0 angelinavalentine.com
+0.0.0.0 laralarsen.com
+0.0.0.0 suzepps.com
+0.0.0.0 latex-fantasies.com
+0.0.0.0 bustycafe.net
+0.0.0.0 moniquealexander.com
+0.0.0.0 bellagals.com
+0.0.0.0 heatherstarletxxx.com
+0.0.0.0 latex-post.com
+0.0.0.0 breannebenson.com
+0.0.0.0 brandytalorevip.com
+0.0.0.0 annmarierios.com
+0.0.0.0 sindeejennings.com
+0.0.0.0 sarastone.com
+0.0.0.0 kitazenxxx.com
+0.0.0.0 clubcharismaxxx.com
+0.0.0.0 mindimink.com
+0.0.0.0 pornstarjustice.com
+0.0.0.0 evanotty.com
+0.0.0.0 clubrachellove.com
+0.0.0.0 yuriluv.com
+0.0.0.0 princeyahshua.com
+0.0.0.0 clubkatiesummers.com
+0.0.0.0 taraholidayxxx.com
+0.0.0.0 fukks.com
+0.0.0.0 gigiriveraxxx.com
+0.0.0.0 emilysplayground.com
+0.0.0.0 claudiavalentinexxx.com
+0.0.0.0 avadevine.com
+0.0.0.0 ericalaurenxxx.com
+0.0.0.0 sexyvanessa.com
+0.0.0.0 katefrost.com
+0.0.0.0 tegansummers.com
+0.0.0.0 clubveronicaavluv.com
+0.0.0.0 phoenixmarie.com
+0.0.0.0 christiestevens.com
+0.0.0.0 courtneytaylor.xxx
+0.0.0.0 brookewyldexxx.com
+0.0.0.0 deepinsidejoslyn.com
+0.0.0.0 katerinakayxxx.com
+0.0.0.0 whoretodaygonetomorrow.com
+0.0.0.0 ariellaferrera.com
+0.0.0.0 ravenbayxxx.com
+0.0.0.0 alurajensonxxx.com
+0.0.0.0 amybrookexxx.com
+0.0.0.0 tiffanytyler.com
+0.0.0.0 kendralustxxx.com
+0.0.0.0 nikita-vonjames.com
+0.0.0.0 shawnalenee.tv
+0.0.0.0 alanahrae.com
+0.0.0.0 torylane.com
+0.0.0.0 theavaaddams.com
+0.0.0.0 evaangelinaxxxx.com
+0.0.0.0 lexibelle.com
+0.0.0.0 clubkatsuni.com
+0.0.0.0 ginalynn.com
+0.0.0.0 teensfirstthreesome.com
+0.0.0.0 housewivesadventures.com
+0.0.0.0 sybiansolos.com
+0.0.0.0 jenxstudios.com
+0.0.0.0 jennahaze.com
+0.0.0.0 pornstarplatinum.com
+0.0.0.0 toriblack.com
+
+
+0.0.0.0 xxxfatclips.com
+0.0.0.0 runporn.com
+0.0.0.0 freesex.xxx
+0.0.0.0 creampietubeporn.com
+0.0.0.0 grannymommy.com
+0.0.0.0 fetishkimmy.com
+0.0.0.0 bigtitsgf.com
+0.0.0.0 porn666.net
+0.0.0.0 mylovedfatclips.com
+0.0.0.0 slutanal.com
+0.0.0.0 matures-naked.com
+0.0.0.0 pornpicsamateur.com
+0.0.0.0 nakedtube.com
+0.0.0.0 sexstalk.com
+0.0.0.0 hornyjourney.com
+0.0.0.0 asexstories.com
+0.0.0.0 curvyfemales.com
+0.0.0.0 xxxbanjo.com
+0.0.0.0 nurxxx.mobi
+0.0.0.0 tubedb.net
+0.0.0.0 apornstories.com
+0.0.0.0 pornhubdeutsch.net
+0.0.0.0 fucktube.website
+0.0.0.0 juicywives.com
+0.0.0.0 hotmilfclips.com
+0.0.0.0 ebenporno.com
+0.0.0.0 fatxxxfuck.com
+0.0.0.0 plumperporn.xxx
+
+
+0.0.0.0 deutschsex.com
+0.0.0.0 latexandnylon.com
+0.0.0.0 latexheaven.com
+0.0.0.0 tacamateurs.com
+0.0.0.0 farimg.com
+0.0.0.0 myhotzpic.com
+0.0.0.0 hotntubes.com
+0.0.0.0 domsubtube.com
+0.0.0.0 mamapics.com
+0.0.0.0 youtrannytube.com
+0.0.0.0 femdom-fetish-tube.com
+0.0.0.0 longsextubes.com
+0.0.0.0 epicweapon666.tumblr.com
+0.0.0.0 scat-porn-xxx.com
+0.0.0.0 femaleshaved.com
+0.0.0.0 amateurfetishist.com
+0.0.0.0 chubinrubber.tumblr.com
+0.0.0.0 scat-extreme.org
+0.0.0.0 schokomaus.com
+0.0.0.0 connectsport.tumblr.com
+0.0.0.0 mistress-simone.tumblr.com
+0.0.0.0 painfullanal.com
+0.0.0.0 hotgrannypics.com
+0.0.0.0 tours-78-94.wellhello.com
+0.0.0.0 grqqk.bonedmilfs.com
 # Social media hosts
 
 # Updated January 5, 2018

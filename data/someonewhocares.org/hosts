@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 16 Apr 2018 at 02:03:36 GMT
+# Last updated: Thu, 26 Apr 2018 at 06:01:38 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -394,7 +394,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 amer.hops.glbdns.microsoft.com
 0.0.0.0 amer.rel.msn.com
 0.0.0.0 analytics.msnbc.msn.com
+0.0.0.0 analytics.myfinances.com
 0.0.0.0 analytics.prx.org
+0.0.0.0 analytics.publitas.com
 0.0.0.0 a-nj.1rx.io
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 an.mlb.com
@@ -459,7 +461,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 bserver.blick.com
 0.0.0.0 bstats.adbrite.com
 0.0.0.0 b.stats.paypal.com
-0.0.0.0 buy.tinypass.com
 0.0.0.0 by.optimost.com
 0.0.0.0 c0.adalyser.com
 0.0.0.0 c10.statcounter.com
@@ -834,7 +835,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 0.0.0.0 es.optimost.com
 0.0.0.0 exch.quantserve.com
-0.0.0.0 experience.tinypass.com
 0.0.0.0 extremereach.com
 0.0.0.0 eztrck.com
 0.0.0.0 fastcounter.bcentral.com
@@ -2585,6 +2585,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 rd.alphabirdnetwork.com
 0.0.0.0 reacherinst.com
 0.0.0.0 readheadstick.biz
+0.0.0.0 readyupdate.thelatestmostreadytocontentgetnowfast.top
 0.0.0.0 regardens.info
 0.0.0.0 reward-survey.net
 0.0.0.0 rickrolling.com
@@ -2885,6 +2886,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.servertasarimbu.com
 0.0.0.0 www.sexytiger.ru
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
+0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.siom.ac.cn
 0.0.0.0 www.speedtestbeta.com
@@ -5622,6 +5624,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 adserver.wemnet.nl
 0.0.0.0 adserver.wietforum.nl
 0.0.0.0 adserver.x3.hu
+0.0.0.0 adserver.xpanama.net
 0.0.0.0 adserver.ya.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserver.zaz.com.br
@@ -5634,6 +5637,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 adserv.iafrica.com
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.au
 0.0.0.0 adservices.google.com
 0.0.0.0 adservices.picadmedia.com
 0.0.0.0 adservicestats.com
@@ -6450,6 +6454,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ad.yadro.ru
 0.0.0.0 ad.yemeksepeti.com
 0.0.0.0 ad.yieldmanager.com
+0.0.0.0 a.dynad.net
 0.0.0.0 adz.afterdawn.net
 0.0.0.0 ad.zaman.com
 0.0.0.0 ad.zaman.com.tr
@@ -6982,6 +6987,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bsads.looksmart.com
 #0.0.0.0 b.scorecardresearch.com	# interferes with Huffington Post slideshows
 0.0.0.0 bs.israelinfo.ru
+0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 bs.serving-sys.com	#eyeblaster.com
 0.0.0.0 bt.linkpulse.com
 0.0.0.0 bumerangshowsites.hurriyet.com.tr
@@ -7211,6 +7217,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cdn.yottos.com
 0.0.0.0 cdn.zeusclicks.com
 0.0.0.0 cds.adecn.com
+0.0.0.0 c.dynad.net
 0.0.0.0 c.eblastengine.com
 0.0.0.0 cecash.com
 0.0.0.0 ced.sascdn.com
@@ -8332,6 +8339,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 immediadement-arretez-ezhez-identfcie-jasdasd1233-9057.com
 0.0.0.0 im.of.pl
 0.0.0.0 impact.cossette-webpact.com
+0.0.0.0 imp.admarketplace.net
 0.0.0.0 imp.adsmogo.com
 0.0.0.0 impbe.tradedoubler.com
 0.0.0.0 impl.onscroll.com
@@ -9861,6 +9869,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 s.di.com.pl
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 s.domob.cn
+0.0.0.0 s.dynad.net
 0.0.0.0 se.adserver.yahoo.com
 0.0.0.0 search.addthis.com
 0.0.0.0 search.freeonline.com
@@ -10320,6 +10329,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tdameritrade.tt.omtrdc.net
 0.0.0.0 tdc.advertorials.dk
 0.0.0.0 tdkads.ads.dk
+0.0.0.0 t.dynad.net
 0.0.0.0 team4heat.net
 0.0.0.0 teatac4bath.com
 0.0.0.0 techasiamusicsvr.com
@@ -11959,6 +11969,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 zc1.zeroredirect11.com
 0.0.0.0 z.ceotrk.com
 0.0.0.0 zdads.e-media.com
+0.0.0.0 z.dynad.net
 0.0.0.0 zeevex-online.com
 0.0.0.0 zemgo.com
 0.0.0.0 zeroredirect10.com
@@ -13709,6 +13720,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 sO.2mdn.net
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
 #</Windows10>
 

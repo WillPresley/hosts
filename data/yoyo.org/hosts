@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 13 Apr 2018 07:47:55 GMT
-# entries:        2660
+# last updated:   Thu, 19 Apr 2018 15:23:21 GMT
+# entries:        2651
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 21 Apr 1998 00:00:00
+# start date:    Tue, 05 May 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -365,7 +365,6 @@
 0.0.0.0 ads.appsgeyser.com
 0.0.0.0 ads.as4x.tmcs.net
 0.0.0.0 ads.as4x.tmcs.ticketmaster.com
-0.0.0.0 ads.asia1.com.sg
 0.0.0.0 ads.asiafriendfinder.com
 0.0.0.0 ads.ask.com
 0.0.0.0 ads.aspalliance.com
@@ -479,7 +478,6 @@
 0.0.0.0 ads.guardian.co.uk
 0.0.0.0 ads.guardianunlimited.co.uk
 0.0.0.0 ads.guru3d.com
-0.0.0.0 ads.hardwaresecrets.com
 0.0.0.0 ads.harpers.org
 0.0.0.0 ads.hbv.de
 0.0.0.0 ads.hearstmags.com
@@ -532,7 +530,6 @@
 0.0.0.0 ads.mgnetwork.com
 0.0.0.0 ads.mmania.com
 0.0.0.0 ads.mobilautomaten.com
-0.0.0.0 ads.moceanads.com
 0.0.0.0 ads.motor-forum.nl
 0.0.0.0 ads.motormedia.nl
 0.0.0.0 ads.msn.com
@@ -540,7 +537,6 @@
 0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
-0.0.0.0 ads.netmechanic.com
 0.0.0.0 ads.networksolutions.com
 0.0.0.0 ads.newdream.net
 0.0.0.0 ads.newgrounds.com
@@ -738,7 +734,6 @@
 0.0.0.0 adserver.janes.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.news.com.au
-0.0.0.0 adserver.ngz-network.de
 0.0.0.0 adserver.nydailynews.com
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adserver.oddschecker.com
@@ -1094,7 +1089,6 @@
 0.0.0.0 bidclix.net
 0.0.0.0 bidr.io
 0.0.0.0 bidswitch.net
-0.0.0.0 bidtrk.com
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigbangmedia.com
 0.0.0.0 bigclicks.com
@@ -1316,7 +1310,6 @@
 0.0.0.0 creatives.as4x.tmcs.net
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 credishe.com
-0.0.0.0 crispads.com
 0.0.0.0 criteo.com
 0.0.0.0 critictruck.com
 0.0.0.0 croissed.info
@@ -1377,7 +1370,6 @@
 0.0.0.0 docksalmon.com
 0.0.0.0 domaining.in
 0.0.0.0 domainsponsor.com
-0.0.0.0 domainsteam.de
 0.0.0.0 domdex.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
@@ -1496,6 +1488,7 @@
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foresee.com
 0.0.0.0 forex-affiliate.net
+0.0.0.0 forter.com
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fqtag.com
@@ -1549,7 +1542,6 @@
 0.0.0.0 gorgeousground.com
 0.0.0.0 gostats.com
 0.0.0.0 gp.dejanews.com
-0.0.0.0 gpr.hu
 0.0.0.0 grafstat.ro
 0.0.0.0 grahamdigital.com
 0.0.0.0 grapeshot.co.uk
@@ -1682,7 +1674,6 @@
 0.0.0.0 itsptp.com
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
-0.0.0.0 janrain.com
 0.0.0.0 jcount.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
@@ -1759,6 +1750,7 @@
 0.0.0.0 lucidmedia.com
 0.0.0.0 lucklayed.info
 0.0.0.0 lumpyleaf.com
+0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
 0.0.0.0 m.trb.com
 0.0.0.0 m1.webstats4u.com
@@ -1845,7 +1837,6 @@
 0.0.0.0 moatads.com
 0.0.0.0 mobclix.com
 0.0.0.0 mobileiconnect.com
-0.0.0.0 mocean.mobi
 0.0.0.0 moggattice.com
 0.0.0.0 monetate.net
 0.0.0.0 moneyexpert.com
@@ -1921,6 +1912,7 @@
 0.0.0.0 novem.pl
 0.0.0.0 ns1p.net
 0.0.0.0 ntv.io
+0.0.0.0 ntvk1.ru
 0.0.0.0 nuggad.net
 0.0.0.0 numax.nu-1.com
 0.0.0.0 nuseek.com
@@ -2030,7 +2022,6 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.digitru.st
-0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.watch
@@ -2082,6 +2073,7 @@
 0.0.0.0 promotion-campaigns.com
 0.0.0.0 pronetadvertising.com
 0.0.0.0 propellerads.com
+0.0.0.0 props.id
 0.0.0.0 proranktracker.com
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com
@@ -2189,7 +2181,6 @@
 0.0.0.0 rose.ixbt.com
 0.0.0.0 rotabanner.com
 0.0.0.0 roxr.net
-0.0.0.0 rpxnow.com
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
 0.0.0.0 rtmark.net
