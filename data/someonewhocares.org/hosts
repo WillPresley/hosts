@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 15 May 2018 at 07:33:18 GMT
+# Last updated: Thu, 24 May 2018 at 07:36:07 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -339,7 +339,6 @@ ff02::3		ip6-allhosts
 #0.0.0.0 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
 #</maybe-spy>
 
-0.0.0.0
 0.0.0.0 006.free-counter.co.uk
 0.0.0.0 006.freecounters.co.uk
 0.0.0.0 06272002-dbase.hitcountz.net # Web bugs in spam
@@ -823,6 +822,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 easy-web-stats.com
 0.0.0.0 ecestats.theglobeandmail.com
 0.0.0.0 economisttestcollect.insightfirst.com
+0.0.0.0 eds.ca.matchbox.maruhub.com
 0.0.0.0 educing.info
 0.0.0.0 ehg.fedex.com
 0.0.0.0 eitbglobal.ojdinteractiva.com
@@ -1161,6 +1161,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 pong.qubitproducts.com
 0.0.0.0 postclick.adcentriconline.com
 0.0.0.0 postgazettecollect.247realmedia.com
+0.0.0.0 postmedia.us.janrainsso.com
 0.0.0.0 precisioncounter.com
 0.0.0.0 p.reuters.com
 0.0.0.0 printmail.biz
@@ -2341,6 +2342,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 lilovakia.info
 0.0.0.0 livecheck2update.thepointofforcontentingclear.bid
 0.0.0.0 livecheck.theperfectsystoupdating.date
+0.0.0.0 liveupdate.feednowforbrandnewcontestdistributor.win
 0.0.0.0 load.jsecoin.com
 0.0.0.0 loseweight.asdjiiw.com
 0.0.0.0 lp7.mobilescaner.today
@@ -2794,6 +2796,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www21.counsellor.gov.cn
 0.0.0.0 www4.gy7k.net
 0.0.0.0 www.abetterinternet.com
+0.0.0.0 www.activeindexer.com
 0.0.0.0 www.adshufffle.com
 0.0.0.0 www.adwords.google.lloymlincs.com
 0.0.0.0 www.afantispy.com
@@ -2886,6 +2889,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.proflashdata.com			# Facebook trojan
 0.0.0.0 www.puush.in
 0.0.0.0 www.randki-sex.com
+0.0.0.0 www.remotepartition.com
 0.0.0.0 www.rickrolling.com
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.schedmemory.com
@@ -2916,6 +2920,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.vippotexa.ru
 0.0.0.0 www.wantsfly.com
 0.0.0.0 www.webassembly.stream
+0.0.0.0 www.webpartition.com
 0.0.0.0 www.webpaypal.com
 0.0.0.0 www.webwise.com
 0.0.0.0 www.webwise.net
@@ -6654,6 +6659,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 appnexus.com
 0.0.0.0 appodeal.com
 0.0.0.0 apps5.oingo.com
+0.0.0.0 apps9039.super-your-prize33.loan
 0.0.0.0 app.scanscout.com
 0.0.0.0 appsrv1.madserving.cn
 0.0.0.0 ap.read.mediation.pns.ap.orangeads.fr
@@ -7546,6 +7552,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 c.tw.msn.com
 0.0.0.0 ctxtad.tribalfusion.com
 0.0.0.0 c.uk.msn.com
+0.0.0.0 cursosobej.sslblindado.com
 0.0.0.0 custom.allistracking.com
 0.0.0.0 customerscreensavers.com
 0.0.0.0 cxoadfarm.dyndns.info
@@ -7681,6 +7688,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 dnps.com
 0.0.0.0 dnse.linkpulse.com
 0.0.0.0 dock.inmobi.com
+0.0.0.0 doesok.top
 0.0.0.0 domwpm.stream
 0.0.0.0 donnez-votre-avis.org
 0.0.0.0 dosugcz.biz
@@ -7695,6 +7703,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 downloadmpplayer.com
 0.0.0.0 downloads.larivieracasino.com
 0.0.0.0 downloads.mytvandmovies.com
+0.0.0.0 download.wholestuff.win
 0.0.0.0 download.yesmessenger.com
 0.0.0.0 dp1.33across.com
 0.0.0.0 dqs001.adtech.de
@@ -7828,6 +7837,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 f3.p0y.com
 0.0.0.0 f4.p0y.com
 0.0.0.0 fabryka-nagrod.com
+0.0.0.0 fadadosexo.com.br
 0.0.0.0 f.admob.com
 0.0.0.0 fajnefanty.com
 0.0.0.0 falkag.net
@@ -7959,6 +7969,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 fwdservice.com
 #0.0.0.0 fwmrm.net	#may interfere with nhl.com
 0.0.0.0 fw.qq.com
+0.0.0.0 g1-globo.com-b4.info
+0.0.0.0 g1-globosaude.com
 0.0.0.0 g1.idg.pl
 0.0.0.0 g2.gumgum.com
 0.0.0.0 g3t4d5.madison.com
@@ -8723,6 +8735,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ma.baidu.com
 0.0.0.0 macaddictads.snv.futurenet.com
 0.0.0.0 macads.net
+0.0.0.0 macaxpower.com.br
 0.0.0.0 maccleanersecurity.com
 0.0.0.0 macdamaged.tech
 0.0.0.0 macfixingsoftware.space
@@ -9014,6 +9027,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 my-rewardsvault.com
 0.0.0.0 mysagagame.com
 0.0.0.0 myseostats.com
+0.0.0.0 mytimerpro.com
 0.0.0.0 my.trgino.com
 0.0.0.0 myusersonline.com
 0.0.0.0 myyearbookdigital.checkm8.com
@@ -9099,6 +9113,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 nospartenaires.com
 0.0.0.0 nothing-but-value.com
 0.0.0.0 noticiasftpsrv.com
+0.0.0.0 notifyday.com
 0.0.0.0 novafinanza.com
 0.0.0.0 novem.onet.pl
 0.0.0.0 nowcheck.seethisamazinguogradeswinmacawesome.win
@@ -9616,6 +9631,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 purredheanb.online
 0.0.0.0 purryowl.com
 0.0.0.0 push-ad.com
+0.0.0.0 push-notification.tools
 0.0.0.0 pussl22.com
 0.0.0.0 px10.net
 0.0.0.0 px.moatads.com
@@ -9673,6 +9689,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 realizmobi.com
 0.0.0.0 realmedia-a800.d4p.net	# Scientific American
 0.0.0.0 realmedia.advance.net
+0.0.0.0 rebevengwas.com
 0.0.0.0 reboot.sitescout.com
 0.0.0.0 record.commissionlounge.com
 0.0.0.0 recreation-leisure-rewardpath.com
@@ -9719,6 +9736,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 reklam.yonlendir.com
 0.0.0.0 reklamy.sfd.pl
 0.0.0.0 re.kontera.com
+0.0.0.0 relatable.top
 0.0.0.0 relestar.com
 0.0.0.0 remotead.cnet.com
 0.0.0.0 rencontreavenue.com
@@ -10401,6 +10419,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 t.frtyg.com
 0.0.0.0 tgpmanager.com
 0.0.0.0 thanfocus.com
+0.0.0.0 the-adblocker.website
 0.0.0.0 the-binary-trader.biz
 0.0.0.0 thebrighttag.com
 0.0.0.0 thebuzz.today
@@ -10446,6 +10465,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 top1site.3host.com
 0.0.0.0 top5.mail.ru
+0.0.0.0 top-application-web-online.site
 0.0.0.0 topbestgames.com
 0.0.0.0 topbrandrewards.com
 0.0.0.0 topconsumergifts.com
@@ -10558,6 +10578,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tste.ivillage.com
 0.0.0.0 tste.mcclatchyinteractive.com
 0.0.0.0 tste.startribune.com
+0.0.0.0 tsyndicate.com
 0.0.0.0 ttarget.adbureau.net
 0.0.0.0 ttnet.yandex.com.tr
 0.0.0.0 ttuk.offers4u.mobi
@@ -10708,6 +10729,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 vip1.tw.adserver.yahoo.com
 0.0.0.0 vipfastmoney.com
 0.0.0.0 viralture.com
+0.0.0.0 viralvideos.tips
+0.0.0.0 vistawebs-top-shop-soft.site
 0.0.0.0 vk.18sexporn.ru
 0.0.0.0 vmcsatellite.com
 0.0.0.0 vmix.adbureau.net

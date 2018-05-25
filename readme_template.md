@@ -1,3 +1,5 @@
+![readme](https://user-images.githubusercontent.com/36028424/40330477-9df2c2e0-5d7f-11e8-8ac8-511d719a5eae.png)
+
 [![Build Status](https://travis-ci.org/StevenBlack/hosts.svg?branch=master)](https://travis-ci.org/StevenBlack/hosts)
 
 # Unified hosts file @EXTENSIONS_HEADER@
@@ -7,6 +9,7 @@ into a unified hosts file with duplicates removed.  A variety of tailored hosts 
 
 * Last updated: **@GEN_DATE@**.
 * Here's the [raw hosts file @EXTENSIONS_HEADER@](https://raw.githubusercontent.com/StevenBlack/hosts/master/@SUBFOLDER@hosts) containing @NUM_ENTRIES@ entries.
+* Logo by @Tobaloidee
 
 
 ### List of all hosts file variants
@@ -299,6 +302,8 @@ Open a Terminal and run with root privileges:
 **Arch Linux/Manjaro with Network Manager**: `sudo systemctl restart NetworkManager.service`
 
 **Arch Linux/Manjaro with Wicd**: `sudo systemctl restart wicd.service`
+
+**RHEL/Centos**: `sudo /etc/init.d/network restart`
 
 **Others**: Consult [this wikipedia article](https://en.wikipedia.org/wiki/Hosts_%28file%29#Location_in_the_file_system).
 

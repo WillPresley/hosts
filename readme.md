@@ -1,3 +1,5 @@
+![readme](https://user-images.githubusercontent.com/36028424/40330477-9df2c2e0-5d7f-11e8-8ac8-511d719a5eae.png)
+
 [![Build Status](https://travis-ci.org/StevenBlack/hosts.svg?branch=master)](https://travis-ci.org/StevenBlack/hosts)
 
 # Unified hosts file with fakenews extensions
@@ -5,8 +7,9 @@
 This repository consolidates several reputable `hosts` files, and merges them
 into a unified hosts file with duplicates removed.  A variety of tailored hosts files are provided.
 
-* Last updated: **May 16 2018**.
-* Here's the [raw hosts file with fakenews extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 68,483 entries.
+* Last updated: **May 25 2018**.
+* Here's the [raw hosts file with fakenews extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 69,504 entries.
+* Logo by @Tobaloidee
 
 
 ### List of all hosts file variants
@@ -18,7 +21,7 @@ with Github download links.
 Host file recipe | Readme | Raw hosts | Unique domains | Non Github mirror
 ---------------- |:------:|:---------:|:--------------:|:-------------:
 Unified hosts = **(adware + malware)** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 56,279 | [link](http://sbc.io/hosts/hosts)
-Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 68,483 | [link](http://sbc.io/hosts/hosts)
+Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 69,504 | [link](http://sbc.io/hosts/hosts)
 Unified hosts **+ gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | 57,791 | [link](http://sbc.io/hosts/alternates/gambling/hosts)
 Unified hosts **+ porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts) | 65,816 | [link](http://sbc.io/hosts/alternates/porn/hosts)
 Unified hosts **+ social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts) | 57,426 | [link](http://sbc.io/hosts/alternates/social/hosts)
@@ -55,6 +58,7 @@ CoinBlocker | Simple lists that can help prevent cryptomining in the browser or 
 Cryptecks - Adobe List | Adobe activation servers. |[link](https://cryptecks.cf/) | [raw](https://cryptecks.cf/hosts/adobe-list/hosts) | occasionally |   | [issues](https://willpresley.cf/) 
 Cryptecks - Spybot List | A version of the built-in Spybot Search and Destroy quarantine list. |[link](https://cryptecks.cf/) | [raw](https://cryptecks.cf/hosts/spybot-list/hosts) | occasionally |   | [issues](https://willpresley.cf/) 
 KADhosts | Fraud/adware/scam websites. |[link](https://github.com/azet12/KADhosts) | [raw](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) | frequently | GPLv3  | [issues](https://github.com/azet12/KADhosts/issues) 
+lightswitch05 | Block ad and tracking domains. |[link](https://github.com/lightswitch05/hosts) | [raw](https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt) | occasionally | Apache-2.0  | [issues](https://github.com/lightswitch05/hosts/issues) 
 Malware Domain List | Malware Domain List is a non-commercial community project. |[link](http://www.malwaredomainlist.com/) | [raw](http://www.malwaredomainlist.com/hostslist/hosts.txt) | weekly | 'can be used for free by anyone'  | [issues](http://www.malwaredomainlist.com/contact.php) 
 MVPS hosts file | The purpose of this site is to provide the user with a high quality custom HOSTS file. |[link](http://winhelp2002.mvps.org/) | [raw](http://winhelp2002.mvps.org/hosts.txt) | monthly | CC BY-NC-SA 4.0  | [issues](mailto:winhelp2002@gmail.com) 
 Dan Pollock – [someonewhocares](http://someonewhocares.org) | How to make the internet not suck (as much). |[link](http://someonewhocares.org/hosts/) | [raw](http://someonewhocares.org/hosts/zero/hosts) | frequently | non-commercial with attribution  | [issues](hosts@someonewhocares.org) 
@@ -332,6 +336,8 @@ Open a Terminal and run with root privileges:
 **Arch Linux/Manjaro with Network Manager**: `sudo systemctl restart NetworkManager.service`
 
 **Arch Linux/Manjaro with Wicd**: `sudo systemctl restart wicd.service`
+
+**RHEL/Centos**: `sudo /etc/init.d/network restart`
 
 **Others**: Consult [this wikipedia article](https://en.wikipedia.org/wiki/Hosts_%28file%29#Location_in_the_file_system).
 
