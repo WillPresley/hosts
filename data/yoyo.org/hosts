@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 25 May 2018 23:55:06 GMT
-# entries:        2640
+# last updated:   Tue, 12 Jun 2018 19:57:04 GMT
+# entries:        2637
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 03 Jun 1998 00:00:00
+# start date:    Thu, 18 Jun 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -137,6 +137,7 @@
 0.0.0.0 ad.nwt.cz
 0.0.0.0 ad.onad.eu
 0.0.0.0 ad.pandora.tv
+0.0.0.0 ad.period-calendar.com
 0.0.0.0 ad.preferances.com
 0.0.0.0 ad.profiwin.de
 0.0.0.0 ad.prv.pl
@@ -255,6 +256,7 @@
 0.0.0.0 adinterax.com
 0.0.0.0 adisfy.com
 0.0.0.0 adition.com
+0.0.0.0 adition.de
 0.0.0.0 adition.net
 0.0.0.0 adizio.com
 0.0.0.0 adjix.com
@@ -526,6 +528,7 @@
 0.0.0.0 ads.mediaodyssey.com
 0.0.0.0 ads.medienhaus.de
 0.0.0.0 ads.mgnetwork.com
+0.0.0.0 ads.miarroba.com
 0.0.0.0 ads.mmania.com
 0.0.0.0 ads.mobilautomaten.com
 0.0.0.0 ads.motor-forum.nl
@@ -773,7 +776,6 @@
 0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
 0.0.0.0 adsonar.com
-0.0.0.0 adspace.ro
 0.0.0.0 adspeed.net
 0.0.0.0 adspirit.de
 0.0.0.0 adsponse.de
@@ -1171,7 +1173,6 @@
 0.0.0.0 checkm8.com
 0.0.0.0 checkstat.nl
 0.0.0.0 cherrythread.com
-0.0.0.0 chestionar.ro
 0.0.0.0 chiefcurrent.com
 0.0.0.0 chitika.net
 0.0.0.0 christingel.com
@@ -1223,7 +1224,6 @@
 0.0.0.0 clikerz.net
 0.0.0.0 cliksolution.com
 0.0.0.0 clixgalore.com
-0.0.0.0 clkads.com
 0.0.0.0 clkrev.com
 0.0.0.0 cloudcoins.biz
 0.0.0.0 clrstm.com
@@ -1249,6 +1249,7 @@
 0.0.0.0 connatix.com
 0.0.0.0 connextra.com
 0.0.0.0 consciouscabbage.com
+0.0.0.0 contadores.miarroba.com
 0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
@@ -1317,7 +1318,6 @@
 0.0.0.0 cutecushion.com
 0.0.0.0 cxense.com
 0.0.0.0 cyberbounty.com
-0.0.0.0 cybermonitor.com
 0.0.0.0 d.adroll.com
 0.0.0.0 d2cmedia.ca
 0.0.0.0 dakic-ia-300.com
@@ -1527,7 +1527,6 @@
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
 0.0.0.0 google-analytics.com
-0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 gorgeousground.com
@@ -1562,6 +1561,7 @@
 0.0.0.0 hit.ua
 0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 hitbox.com
+0.0.0.0 hitcounters.miarroba.com
 0.0.0.0 hitfarm.com
 0.0.0.0 hitiz.com
 0.0.0.0 hitlist.ru
@@ -1682,7 +1682,6 @@
 0.0.0.0 kindads.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 kliks.nl
-0.0.0.0 kniverto.com
 0.0.0.0 knorex.com
 0.0.0.0 koinser.in
 0.0.0.0 komoona.com
@@ -1810,7 +1809,6 @@
 0.0.0.0 metrilo.com
 0.0.0.0 mg2connext.com
 0.0.0.0 mgid.com
-0.0.0.0 miarroba.com
 0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
 0.0.0.0 midnightclicking.com
@@ -1933,6 +1931,7 @@
 0.0.0.0 onestat.com
 0.0.0.0 onestatfree.com
 0.0.0.0 online-metrix.net
+0.0.0.0 online.miarroba.com
 0.0.0.0 onlinecash.com
 0.0.0.0 onlinecashmethod.com
 0.0.0.0 onlinerewardcenter.com
@@ -2024,6 +2023,7 @@
 0.0.0.0 pop-under.ru
 0.0.0.0 popads.net
 0.0.0.0 popflawlessads.com
+0.0.0.0 popmyads.com
 0.0.0.0 popub.com
 0.0.0.0 popunder.ru
 0.0.0.0 popup.msn.com
@@ -2241,7 +2241,6 @@
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 sitemeter.com
 0.0.0.0 sitestat.com
-0.0.0.0 siteverification.online
 0.0.0.0 sixsigmatraffic.com
 0.0.0.0 skimresources.com
 0.0.0.0 skylink.vn
@@ -2453,7 +2452,6 @@
 0.0.0.0 traffic-exchange.com
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 trafficadept.com
-0.0.0.0 trafficbalancerouting.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficholder.com
 0.0.0.0 traffichunt.com
@@ -2607,7 +2605,6 @@
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.photo-ads.co.uk
-0.0.0.0 www1.gto-media.com
 0.0.0.0 www8.glam.com
 0.0.0.0 wwwpromoter.com
 0.0.0.0 x-traceur.com
