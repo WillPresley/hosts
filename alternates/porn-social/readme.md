@@ -16,7 +16,7 @@
 This repository consolidates several reputable `hosts` files, and merges them
 into a unified hosts file with duplicates removed.  A variety of tailored hosts files are provided.
 
-* Last updated: **June 18 2018**.
+* Last updated: **June 25 2018**.
 * Here's the [raw hosts file with porn, social extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-social/hosts) containing 66,963 entries.
 * Logo by [@Tobaloidee](https://github.com/Tobaloidee).
 
@@ -30,7 +30,7 @@ with Github download links.
 Host file recipe | Readme | Raw hosts | Unique domains | Non Github mirror
 ---------------- |:------:|:---------:|:--------------:|:-------------:
 Unified hosts = **(adware + malware)** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 56,279 | [link](http://sbc.io/hosts/hosts)
-Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 73,085 | [link](http://sbc.io/hosts/hosts)
+Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 73,687 | [link](http://sbc.io/hosts/hosts)
 Unified hosts **+ gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | 57,791 | [link](http://sbc.io/hosts/alternates/gambling/hosts)
 Unified hosts **+ porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts) | 65,816 | [link](http://sbc.io/hosts/alternates/porn/hosts)
 Unified hosts **+ social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts) | 57,426 | [link](http://sbc.io/hosts/alternates/social/hosts)
@@ -83,7 +83,7 @@ Sinfonietta's social media blocking hosts file | A collection of category-specif
 ## Extensions
 The unified hosts file is extensible.  Extensions are used to block domains by category.  
 
-Extensions are optional, and are added to the base hosts file.  Extensions are combined in variuous ways wth the default hosts file, and the combined products are stored in the [`alternates`](https://github.com/StevenBlack/hosts/tree/master/alternates) folder.
+Extensions are optional, and are added to the base hosts file.  Extensions are combined in various ways wth the default hosts file, and the combined products are stored in the [`alternates`](https://github.com/StevenBlack/hosts/tree/master/alternates) folder.
 
 For example, you may want to block porn domains in addition to the adware and malware we block by default.  That hosts file is stored in the porn subfolder of the [`alternates`](https://github.com/StevenBlack/hosts/tree/master/alternates) folder.  
 
@@ -230,7 +230,7 @@ Then, submit a pull request.
 
 ### Option 3: create your own hosts list as a repo on Github
 
-If you're able to curate your own collection of sketchy domains, then curate your own hosts list.  Then signal the existance of your remo as [a new issue](https://github.com/StevenBlack/hosts/issues) and we may include your new repo into the collection of sources we pull whenever we create new versions.
+If you're able to curate your own collection of sketchy domains, then curate your own hosts list.  Then signal the existance of your repo as [a new issue](https://github.com/StevenBlack/hosts/issues) and we may include your new repo into the collection of sources we pull whenever we create new versions.
 
 
 ## What is a hosts file?
@@ -275,9 +275,9 @@ We tried that.  Using `0` doesn't work universally.
 To modify your current `hosts` file, look for it in the following places and modify it with a text
 editor.
 
-**Mac OS X, iOS, Android, Linux**: `/etc/hosts` folder.
+**Mac OS X, iOS, Android, Linux**: `/etc/hosts` file.
 
-**Windows**: `%SystemRoot%\system32\drivers\etc\hosts` folder.
+**Windows**: `%SystemRoot%\system32\drivers\etc\hosts` file.
 
 ## Updating hosts file on Windows
 
@@ -339,6 +339,8 @@ sc stop "Dnscache"
 Open a Terminal and run with root privileges:
 
 **Debian/Ubuntu** `sudo /etc/rc.d/init.d/nscd restart`
+
+**Linux Mint** `sudo /etc/init.d/dns-clean start`
 
 **Linux with systemd**: `sudo systemctl restart network.service`
 
