@@ -1,3 +1,10 @@
+----
+**Take Note!**  We are in the process of [dropping support for Python 2.7](https://github.com/StevenBlack/hosts/issues/729).
+
+Soon, to self-generate hosts files, you'll need to use Python 3.
+
+----
+
 ![readme](https://user-images.githubusercontent.com/36028424/40330477-9df2c2e0-5d7f-11e8-8ac8-511d719a5eae.png)
 
 [![latest release](https://img.shields.io/github/release/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/releases)
@@ -60,17 +67,13 @@ Data for extensions is stored in the [`extensions`](https://github.com/StevenBla
 
     pip3 install --user -r requirements.txt
 
-**Note** if you are using Python 2, please install the dependencies with:
-
-    pip2 install --user -r requirements_python2.txt
-
 **Note** we recommend the `--user` flag which installs the required dependencies at the user level. More information about it can be found on pip [documentation](https://pip.pypa.io/en/stable/reference/pip_install/?highlight=--user#cmdoption-user).
 
 To run unit tests, in the top level directory, just run:
 
-    python testUpdateHostsFile.py
+    python3 testUpdateHostsFile.py
 
-The `updateHostsFile.py` script, which is Python 2.7 and Python 3-compatible,
+The `updateHostsFile.py` script, which is only Python 3-compatible,
 will generate a unified hosts file based on the sources in the local `data/`
 subfolder.  The script will prompt you whether it should fetch updated
 versions (from locations defined by the `update.json` text file in each
@@ -81,10 +84,6 @@ source's folder). Otherwise, it will use the `hosts` file that's already there.
 #### Using Python 3:
 
     python3 updateHostsFile.py [--auto] [--replace] [--ip nnn.nnn.nnn.nnn] [--extensions ext1 ext2 ext3]
-
-#### Using Python 2.7:
-
-    python updateHostsFile.py [--auto] [--replace] [--ip nnn.nnn.nnn.nnn] [--extensions ext1 ext2 ext3]
 
 #### Command line options:
 
