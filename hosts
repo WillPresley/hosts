@@ -31,6 +31,9 @@ ff02::3 ip6-allhosts
 # Sublime Text 3 Licensing
 0.0.0.0 license.sublimehq.com
 
+# www resolves differently from MobileAdTrackers
+0.0.0.0 www.celtra.com
+
 # End of custom host records.
 
 0.0.0.0 lb.usemaxserver.de tracking.klickthru.com gsmtop.net click.buzzcity.net ads.admoda.com stats.pflexads.com a.glcdn.co wwww.adleads.com ad.madvertise.de
