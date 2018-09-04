@@ -43,7 +43,7 @@ class Base(unittest.TestCase):
 
     @property
     def sep(self):
-        return "\\" if sys.platform == "win32" else "/"
+        return os.sep
 
     def assert_called_once(self, mock_method):
         self.assertEqual(mock_method.call_count, 1)
@@ -106,7 +106,7 @@ class TestGetDefaults(Base):
                         "readmedata": {},
                         "readmedatafilename": ("foo" + self.sep +
                                                "readmeData.json"),
-                        "exclusionpattern": "([a-zA-Z\d-]+\.){0,}",
+                        "exclusionpattern": r"([a-zA-Z\d-]+\.){0,}",
                         "exclusionregexs": [],
                         "exclusions": [],
                         "commonexclusions": ["hulu.com"],
@@ -244,7 +244,6 @@ class TestPromptForUpdate(BaseStdout, BaseMockDir):
 
     def tearDown(self):
         BaseStdout.tearDown(self)
-        # BaseStdout.tearDown(self)
 
 
 class TestPromptForExclusions(BaseStdout):
@@ -456,7 +455,7 @@ class TestGatherCustomExclusions(BaseStdout):
 
     # Can only test in the invalid domain case
     # because of the settings global variable.
-    @mock.patch("updateHostsFile.raw_input", side_effect=["foo", "no"])
+    @mock.patch("updateHostsFile.input", side_effect=["foo", "no"])
     @mock.patch("updateHostsFile.is_valid_domain_format", return_value=False)
     def test_basic(self, *_):
         gather_custom_exclusions("foo", [])
@@ -465,8 +464,7 @@ class TestGatherCustomExclusions(BaseStdout):
         output = sys.stdout.getvalue()
         self.assertIn(expected, output)
 
-    @mock.patch("updateHostsFile.raw_input", side_effect=["foo", "yes",
-                                                          "bar", "no"])
+    @mock.patch("updateHostsFile.input", side_effect=["foo", "yes", "bar", "no"])
     @mock.patch("updateHostsFile.is_valid_domain_format", return_value=False)
     def test_multiple(self, *_):
         gather_custom_exclusions("foo", [])
@@ -493,7 +491,7 @@ class TestExcludeDomain(Base):
         exp_count = 0
         expected_regexes = []
         exclusion_regexes = []
-        exclusion_pattern = "[a-z]\."
+        exclusion_pattern = r"[a-z]\."
 
         for domain in ["google.com", "hulu.com", "adaway.org"]:
             self.assertEqual(len(exclusion_regexes), exp_count)
@@ -519,7 +517,7 @@ class TestMatchesExclusions(Base):
             self.assertFalse(matches_exclusions(domain, exclusion_regexes))
 
     def test_no_match_list(self):
-        exclusion_regexes = [".*\.org", ".*\.edu"]
+        exclusion_regexes = [r".*\.org", r".*\.edu"]
         exclusion_regexes = [re.compile(regex) for regex in exclusion_regexes]
 
         for domain in ["1.2.3.4 localhost", "5.6.7.8 hulu.com",
@@ -527,7 +525,7 @@ class TestMatchesExclusions(Base):
             self.assertFalse(matches_exclusions(domain, exclusion_regexes))
 
     def test_match_list(self):
-        exclusion_regexes = [".*\.com", ".*\.org", ".*\.edu"]
+        exclusion_regexes = [r".*\.com", r".*\.org", r".*\.edu"]
         exclusion_regexes = [re.compile(regex) for regex in exclusion_regexes]
 
         for domain in ["5.6.7.8 hulu.com", "9.1.2.3 yahoo.com",
@@ -1089,7 +1087,7 @@ class TestMoveHostsFile(BaseStdout):
             expected = ("Automatically moving the hosts "
                         "file in place is not yet supported.\n"
                         "Please move the generated file to "
-                        "%SystemRoot%\system32\drivers\etc\hosts")
+                        r"%SystemRoot%\system32\drivers\etc\hosts")
             output = sys.stdout.getvalue()
             self.assertIn(expected, output)
 
@@ -1589,7 +1587,7 @@ class TestQueryYesOrNo(BaseStdout):
         for invalid_default in ["foo", "bar", "baz", 1, 2, 3]:
             self.assertRaises(ValueError, query_yes_no, "?", invalid_default)
 
-    @mock.patch("updateHostsFile.raw_input", side_effect=["yes"] * 3)
+    @mock.patch("updateHostsFile.input", side_effect=["yes"] * 3)
     def test_valid_default(self, _):
         for valid_default, expected in [(None, "[y/n]"), ("yes", "[Y/n]"),
                                         ("no", "[y/N]")]:
@@ -1600,7 +1598,7 @@ class TestQueryYesOrNo(BaseStdout):
 
             self.assertIn(expected, output)
 
-    @mock.patch("updateHostsFile.raw_input", side_effect=([""] * 2))
+    @mock.patch("updateHostsFile.input", side_effect=([""] * 2))
     def test_use_valid_default(self, _):
         for valid_default in ["yes", "no"]:
             expected = (valid_default == "yes")
@@ -1608,19 +1606,15 @@ class TestQueryYesOrNo(BaseStdout):
 
             self.assertEqual(actual, expected)
 
-    @mock.patch("updateHostsFile.raw_input", side_effect=["no", "NO", "N",
-                                                          "n", "No", "nO"])
+    @mock.patch("updateHostsFile.input", side_effect=["no", "NO", "N", "n", "No", "nO"])
     def test_valid_no(self, _):
         self.assertFalse(query_yes_no("?", None))
 
-    @mock.patch("updateHostsFile.raw_input", side_effect=["yes", "YES", "Y",
-                                                          "yeS", "y", "YeS",
-                                                          "yES", "YEs"])
+    @mock.patch("updateHostsFile.input", side_effect=["yes", "YES", "Y", "yeS", "y", "YeS", "yES", "YEs"])
     def test_valid_yes(self, _):
         self.assertTrue(query_yes_no("?", None))
 
-    @mock.patch("updateHostsFile.raw_input", side_effect=["foo", "yes",
-                                                          "foo", "no"])
+    @mock.patch("updateHostsFile.input", side_effect=["foo", "yes", "foo", "no"])
     def test_invalid_then_valid(self, _):
         expected = "Please respond with 'yes' or 'no'"
 
