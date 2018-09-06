@@ -61,6 +61,8 @@ Data for extensions is stored in the [`extensions`](https://github.com/StevenBla
 
 ## Generate your own unified hosts file
 
+To generate your own unified hosts file you will need Python 3.7 or later.
+
 First install the dependencies with:
 
     pip3 install --user -r requirements.txt
@@ -298,7 +300,7 @@ sc stop "Dnscache"
 
 Open a Terminal and run with root privileges:
 
-**Debian/Ubuntu** `sudo /etc/rc.d/init.d/nscd restart`
+**Debian/Ubuntu** `sudo service network-manager restart`
 
 **Linux Mint** `sudo /etc/init.d/dns-clean start`
 
