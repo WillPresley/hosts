@@ -354,7 +354,7 @@ def prompt_for_move(final_file, **move_params):
     elif move_params["auto"] or skip_static_hosts:
         move_file = False
     else:
-        prompt = ("Do you want to replace your existing hosts file with the newly generated file?")
+        prompt = "Do you want to replace your existing hosts file with the newly generated file?"
         move_file = query_yes_no(prompt)
 
     if move_file:
@@ -428,7 +428,7 @@ def gather_custom_exclusions(exclusion_pattern, exclusion_regexes):
     # We continue running this while-loop until the user
     # says that they have no more domains to exclude.
     while True:
-        domain_prompt = ("Enter the domain you want to exclude (e.g. facebook.com): ")
+        domain_prompt = "Enter the domain you want to exclude (e.g. facebook.com): "
         user_domain = input(domain_prompt)
 
         if is_valid_domain_format(user_domain):
@@ -641,6 +641,8 @@ def create_initial_file():
             with open(filename, "r") as curFile:
                 write_data(merge_file, curFile.read())
 
+    maybe_copy_example_file(settings["blacklistfile"])
+
     if os.path.isfile(settings["blacklistfile"]):
         with open(settings["blacklistfile"], "r") as curFile:
             write_data(merge_file, curFile.read())
@@ -739,6 +741,8 @@ def remove_dups_and_excl(merge_file, exclusion_regexes, output_file=None):
     """
 
     number_of_rules = settings["numberofrules"]
+    maybe_copy_example_file(settings["whitelistfile"])
+
     if os.path.isfile(settings["whitelistfile"]):
         with open(settings["whitelistfile"], "r") as ins:
             for line in ins:
@@ -956,6 +960,7 @@ def write_opening_header(final_file, **header_params):
         write_data(final_file, "\n")
 
     preamble = path_join_robust(BASEDIR_PATH, "myhosts")
+    maybe_copy_example_file(preamble)
 
     if os.path.isfile(preamble):
         with open(preamble, "r") as f:
@@ -1213,6 +1218,26 @@ def domain_to_idna(line):
 
 
 # Helper Functions
+def maybe_copy_example_file(file_path):
+    """
+    Given a file path, copy over its ".example" if the path doesn't exist.
+
+    If the path does exist, nothing happens in this function.
+
+    If the path doesn't exist, and the ".example" file doesn't exist, nothing happens in this function.
+
+    Parameters
+    ----------
+    file_path : str
+        The full file path to check.
+    """
+
+    if not os.path.isfile(file_path):
+        example_file_path = file_path + ".example"
+        if os.path.isfile(example_file_path):
+            shutil.copyfile(example_file_path, file_path)
+
+
 def get_file_by_url(url):
     """
     Get a file data located at a particular URL.
