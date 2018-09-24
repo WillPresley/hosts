@@ -110,9 +110,8 @@ Only active when `--replace` is also active.
 `--ip nnn.nnn.nnn.nnn`, or `-i nnn.nnn.nnn.nnn`: the IP address to use as the
 target.  Default is `0.0.0.0`.
 
-`--keepdomaincomments`, or `-k`: `false` (default) or `true`, keep the comments
-that appear on the same line as domains.  The default is `false` since some
-router-based implementations can't handle comments in-line with hosts.
+`--keepdomaincomments`, or `-k`: `true` (default) or `false`, keep the comments
+that appear on the same line as domains.  The default is `true`.
 
 `--noupdate`, or `-n`: skip fetching updates from hosts data sources.
 
@@ -188,7 +187,7 @@ Fork this hosts this repo and add your links to [https://github.com/StevenBlack/
 
 Then, submit a pull request.
 
-**WARNING**: this is less desireable than Option 1 because the ongoing curation falls on us and what you've just done is created more work for us.
+**WARNING**: this is less desirable than Option 1 because the ongoing curation falls on us and what you've just done is created more work for us.
 
 ### Option 3: create your own hosts list as a repo on Github
 

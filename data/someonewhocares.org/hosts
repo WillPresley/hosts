@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 11 Sep 2018 at 03:09:39 GMT
+# Last updated: Mon, 24 Sep 2018 at 07:27:13 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -416,6 +416,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 api.intentiq.com
 0.0.0.0 api.murdoog.com
 0.0.0.0 api.redshell.io
+0.0.0.0 api.simpleanalytics.io
 0.0.0.0 apis.murdoog.com
 0.0.0.0 api.tumra.com
 0.0.0.0 app-analytics.snapchat.com
@@ -507,6 +508,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ccleaner.fr
 0.0.0.0 cdn.doublepimpssl.com
 0.0.0.0 cdn.oggifinogi.com
+0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 cdn-social.janrain.com
 0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 cdn.zarget.com
@@ -1140,6 +1142,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 nethit-free.nl
 0.0.0.0 net-radar.com
 0.0.0.0 network.leadpub.com
+0.0.0.0 neweggstats.com
 0.0.0.0 nextgenstats.com
 0.0.0.0 nexttrk.com
 0.0.0.0 nht-2.extreme-dm.com
@@ -2864,6 +2867,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 www1.realsoft34.com
 0.0.0.0 www.1tracksource.online
 0.0.0.0 www21.counsellor.gov.cn
+0.0.0.0 www2.anybestconcreteflash.icu
+0.0.0.0 www2.fasterupconcreteflash.icu
+0.0.0.0 www2.gettypegoldflash.club
+0.0.0.0 www.3tsdaq8viz.us
 0.0.0.0 www4.gy7k.net
 0.0.0.0 www.a2uu36g43l.download
 0.0.0.0 www.abetterinternet.com
@@ -2908,6 +2915,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.flexibleadmin.com
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freedailydownload.com
+0.0.0.0 www.frequencyscheduler.com
 0.0.0.0 www.froling.bee.pl
 0.0.0.0 www.gacatl.com
 0.0.0.0 www.gezinti.com
@@ -3009,6 +3017,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.youcanoptout.net
 0.0.0.0 www.youcanoptout.org
 0.0.0.0 www.youfiletor.com
+0.0.0.0 www.zoominnovate.online
 0.0.0.0 xbasfbno.info
 0.0.0.0 xfotosx01.fromru.su
 0.0.0.0 xponlinescanner.com
@@ -6715,6 +6724,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 app3.letitbefaster.website
 0.0.0.0 app3.letmacwork.world
 0.0.0.0 app3.letslowbefast.site
+0.0.0.0 app3.makeitworkfaster.life
 0.0.0.0 app4.letitbefaster.life
 0.0.0.0 app4.letitbefaster.website
 0.0.0.0 app4.letslowbefast.life
@@ -6812,6 +6822,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.igapi.com
 0.0.0.0 assets.kixer.com
+0.0.0.0 assets.kromtech.net
 0.0.0.0 assets.percentmobile.com
 0.0.0.0 as.sexad.net
 0.0.0.0 assoc-amazon.com
@@ -7409,6 +7420,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ck.juicyads.com
 0.0.0.0 cl21.v4.adaction.se
 0.0.0.0 cl320.v4.adaction.se
+0.0.0.0 cl96rwprue.com
 0.0.0.0 claimfreerewards.com
 0.0.0.0 clashmediausa.com
 0.0.0.0 classicjack.com
@@ -7435,6 +7447,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 click.go2net.com
 0.0.0.0 click.israelinfo.ru
 0.0.0.0 clickit.go2net.com
+0.0.0.0 click.maaxmarket.com
 0.0.0.0 clickmedia.ro
 0.0.0.0 click.newviralmobistore.com
 0.0.0.0 click.pulse360.com
@@ -8877,6 +8890,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 m4.afs.googleadservices.com
 0.0.0.0 m4.media-box.co
 0.0.0.0 m4ymh0220.tech
+0.0.0.0 maaxmarket.com
 0.0.0.0 ma.baidu.com
 0.0.0.0 macaddictads.snv.futurenet.com
 0.0.0.0 macads.net
@@ -8908,6 +8922,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mail.radar.imgsmail.ru
 0.0.0.0 main.exoclick.com
 0.0.0.0 main.vodonet.net
+0.0.0.0 makeitworkfaster.life
 0.0.0.0 makemoneyrobot.com
 0.0.0.0 manage001.adtech.de
 0.0.0.0 manage001.adtech.fr
@@ -9095,6 +9110,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mobile.bet.pt
 0.0.0.0 mobile-browser.me
 0.0.0.0 mobile.juicyads.com
+0.0.0.0 mobileleads.msn.com
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mobscan.info
 0.0.0.0 mobularity.com
@@ -9300,6 +9316,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 o0.winfuture.de
 0.0.0.0 o1.qnsr.com
 0.0.0.0 o2.eyereturn.com
+0.0.0.0 o-2-s-f.win
 0.0.0.0 o.admob.com
 0.0.0.0 oads.cracked.com
 0.0.0.0 oamsrhads.us.publicus.com
@@ -9382,6 +9399,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 onet.hit.gemius.pl
 0.0.0.0 onlinadverts.com
 0.0.0.0 online1.webcams.com
+0.0.0.0 online2018codeopen.win
+0.0.0.0 online2018softwarefree.win
 0.0.0.0 onlineads.magicvalley.com
 0.0.0.0 onlinebestoffers.net
 0.0.0.0 only2date.com
@@ -11826,6 +11845,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.lucky-day-uk.com
 0.0.0.0 www.luckyday.world
 0.0.0.0 www.m2trk.com
+0.0.0.0 www.maaxmarket.com
 0.0.0.0 www.mac.com-w.net
 0.0.0.0 www.macfillerck.com
 0.0.0.0 www.macombdisplayads.com
@@ -12289,6 +12309,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 z.moatads.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 zrh.bewilderinglyalbumin.com
+0.0.0.0 zrrat.31772.club
 0.0.0.0 zu1.november-lax.com
 0.0.0.0 zuzzer5.com
 0.0.0.0 zytpirwai.net
