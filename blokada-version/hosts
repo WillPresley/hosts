@@ -3,7 +3,7 @@
 #
 # Date: October 04 2018
 # Extensions added to this file: fakenews
-# Number of unique domains: 77,350
+# Number of unique domains: 77,349
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/blokada-version\hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -37091,7 +37091,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aditic.net
 0.0.0.0 adition.com
 0.0.0.0 adj.st
-0.0.0.0 app.adjust.com
 0.0.0.0 ulink.adjust.com
 0.0.0.0 view.adjust.com
 0.0.0.0 adkmob.com
