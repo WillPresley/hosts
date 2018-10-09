@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 03 Oct 2018 at 02:11:06 GMT
+# Last updated: Tue, 09 Oct 2018 at 07:48:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -439,6 +439,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 banners.webcounter.com
 0.0.0.0 batch.iovation.com
 0.0.0.0 beacon-1.newrelic.com
+0.0.0.0 beacon.krxd.net
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 beacons.hottraffic.nl
 0.0.0.0 belierlaine.com
@@ -1362,6 +1363,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 smartstats.com
 0.0.0.0 smetrics.att.com
 0.0.0.0 smetrics.tesco.com
+0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 snare.iesnare.com
 0.0.0.0 soap.iovation.com
 0.0.0.0 socialize.eu1.gigya.com
@@ -2911,6 +2913,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.cryptoloot.pro
 0.0.0.0 www.didata.bw
 0.0.0.0 www.dietsecret.ru
+0.0.0.0 www.displaybrowser.com
 0.0.0.0 www.eroyear.ru
 0.0.0.0 www.exbays.com
 0.0.0.0 www.faggotry.com
@@ -6593,6 +6596,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 adzone.ro
 0.0.0.0 adzone.stltoday.com
 0.0.0.0 adzservice.theday.com
+0.0.0.0 ae01.alicdn.com
 0.0.0.0 ae-gb.mgid.com
 0.0.0.0 ae.goodsblock.marketgid.com
 0.0.0.0 afdyfxfrwbfy.com
@@ -6787,6 +6791,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 arbomedia.pl
 0.0.0.0 arbopl.bbelements.com
 0.0.0.0 arena.altitudeplatform.com
+0.0.0.0 aritzal.com
 0.0.0.0 arm2pie.com
 0.0.0.0 arsconsole.global-intermedia.com
 0.0.0.0 art-music-rewardpath.com
@@ -8013,6 +8018,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fdimages.fairfax.com.au
 0.0.0.0 federaldata.io
+0.0.0.0 feed.4wnet.com
 0.0.0.0 feedads.googleadservices.com
 0.0.0.0 feedbackcensus.com
 0.0.0.0 feeds.videosz.com
@@ -9886,6 +9892,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 rc.wl.webads.nl
+0.0.0.0 r.dlx.addthis.com
 0.0.0.0 r.domob.cn
 0.0.0.0 rdsa2012.com
 0.0.0.0 reactads.cdn.adglare.net
@@ -9988,6 +9995,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 rmedia.boston.com
 0.0.0.0 rmm1u.checkm8.com
 0.0.0.0 rms.admeta.com
+0.0.0.0 r.nexac.com
 0.0.0.0 ro.bbelements.com
 0.0.0.0 robot.royalcactus.com
 0.0.0.0 romepartners.com
@@ -10930,6 +10938,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 vcdn.adnxs.com
 0.0.0.0 vclick.adbrite.com
 0.0.0.0 veirregnant.club
+0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 venus.goclick.com
 0.0.0.0 versionsupport.set2updatenowsafesystemset4now.info
 0.0.0.0 ve.tscapeplay.com
