@@ -3,14 +3,14 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 31 Aug 2018 16:35:56 GMT
-# entries:        2626
+# entries:        2609
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 14 Oct 1998 00:00:00
+# start date:    Tue, 27 Oct 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123freeavatars.com
@@ -349,7 +349,6 @@
 0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
-0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
@@ -363,7 +362,6 @@
 0.0.0.0 ads.ask.com
 0.0.0.0 ads.aspalliance.com
 0.0.0.0 ads.avazu.net
-0.0.0.0 ads.batpmturner.com
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.berlinonline.de
 0.0.0.0 ads.betanews.com
@@ -424,7 +422,6 @@
 0.0.0.0 ads.domeus.com
 0.0.0.0 ads.eagletribune.com
 0.0.0.0 ads.easy-forex.com
-0.0.0.0 ads.eatinparis.com
 0.0.0.0 ads.economist.com
 0.0.0.0 ads.edbindex.dk
 0.0.0.0 ads.egrana.com.br
@@ -941,7 +938,6 @@
 0.0.0.0 apture.com
 0.0.0.0 apusx.com
 0.0.0.0 arc1.msn.com
-0.0.0.0 arcadebanners.com
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 are-ter.com
 0.0.0.0 as.webmd.com
@@ -969,7 +965,6 @@
 0.0.0.0 awempire.com
 0.0.0.0 awin1.com
 0.0.0.0 b-1st.com
-0.0.0.0 b.aol.com
 0.0.0.0 b59812ee54afcabd.com
 0.0.0.0 ba.afl.rakuten.co.jp
 0.0.0.0 babs.tv2.dk
@@ -1144,7 +1139,6 @@
 0.0.0.0 cashcrate.com
 0.0.0.0 cashengines.com
 0.0.0.0 cashfiesta.com
-0.0.0.0 cashlayer.com
 0.0.0.0 cashpartner.com
 0.0.0.0 casinogames.com
 0.0.0.0 casinopays.com
@@ -1200,7 +1194,6 @@
 0.0.0.0 clickhouse.com
 0.0.0.0 clickhype.com
 0.0.0.0 clicklink.jp
-0.0.0.0 clickmedia.ro
 0.0.0.0 clickonometrics.pl
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.mods.de
@@ -1259,7 +1252,6 @@
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 coremetrics.com
-0.0.0.0 cottawa.info
 0.0.0.0 count.rbc.ru
 0.0.0.0 count.rin.ru
 0.0.0.0 count.west263.com
@@ -1437,7 +1429,6 @@
 0.0.0.0 exosrv.com
 0.0.0.0 experteerads.com
 0.0.0.0 exponea.com
-0.0.0.0 exponential.com
 0.0.0.0 express-submit.de
 0.0.0.0 extractorandburner.com
 0.0.0.0 extreme-dm.com
@@ -1730,7 +1721,6 @@
 0.0.0.0 lucidmedia.com
 0.0.0.0 lucklayed.info
 0.0.0.0 lumpyleaf.com
-0.0.0.0 lwfjd.today
 0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
 0.0.0.0 m.trb.com
@@ -1743,6 +1733,7 @@
 0.0.0.0 mads.cnet.com
 0.0.0.0 madvertise.de
 0.0.0.0 marchex.com
+0.0.0.0 market-buster.com
 0.0.0.0 marketing.888.com
 0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing.nyi.net
@@ -1801,7 +1792,6 @@
 0.0.0.0 mgid.com
 0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
-0.0.0.0 midnightclicking.com
 0.0.0.0 misstrends.com
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
@@ -1907,7 +1897,6 @@
 0.0.0.0 oascentral.register.com
 0.0.0.0 oclasrv.com
 0.0.0.0 oewa.at
-0.0.0.0 oewabox.at
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
 0.0.0.0 olivebrandresponse.com
@@ -2012,7 +2001,6 @@
 0.0.0.0 pointroll.com
 0.0.0.0 pop-under.ru
 0.0.0.0 popads.net
-0.0.0.0 popflawlessads.com
 0.0.0.0 popmyads.com
 0.0.0.0 popub.com
 0.0.0.0 popunder.ru
@@ -2247,7 +2235,6 @@
 0.0.0.0 sneakystamp.com
 0.0.0.0 snoobi.com
 0.0.0.0 socialspark.com
-0.0.0.0 softclick.com.br
 0.0.0.0 somniture.stuff.co.nz
 0.0.0.0 sonobi.com
 0.0.0.0 sortable.com
@@ -2271,7 +2258,6 @@
 0.0.0.0 spykemediatrack.com
 0.0.0.0 spylog.com
 0.0.0.0 spywarelabs.com
-0.0.0.0 spywarenuker.com
 0.0.0.0 spywords.com
 0.0.0.0 squeamishscarecrow.com
 0.0.0.0 srwww1.com
@@ -2336,7 +2322,6 @@
 0.0.0.0 taboola.com
 0.0.0.0 tacoda.net
 0.0.0.0 tagular.com
-0.0.0.0 tailsweep.co.uk
 0.0.0.0 tailsweep.com
 0.0.0.0 tailsweep.se
 0.0.0.0 takru.com
@@ -2390,7 +2375,6 @@
 0.0.0.0 top100.mafia.ru
 0.0.0.0 top20free.com
 0.0.0.0 top90.ro
-0.0.0.0 topacity.info
 0.0.0.0 topbarh.box.sk
 0.0.0.0 topbucks.com
 0.0.0.0 topforall.com
@@ -2459,7 +2443,6 @@
 0.0.0.0 trekdata.com
 0.0.0.0 trendcounter.com
 0.0.0.0 trendmd.com
-0.0.0.0 tribalfusion.com
 0.0.0.0 trickycelery.com
 0.0.0.0 tritetongue.com
 0.0.0.0 trix.net
