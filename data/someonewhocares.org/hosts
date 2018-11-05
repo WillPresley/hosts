@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 01 Nov 2018 at 01:04:28 GMT
+# Last updated: Mon, 05 Nov 2018 at 05:53:12 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2929,6 +2929,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.didata.bw
 0.0.0.0 www.dietsecret.ru
 0.0.0.0 www.displaybrowser.com
+0.0.0.0 www.elemntindexer.com
 0.0.0.0 www.eroyear.ru
 0.0.0.0 www.exbays.com
 0.0.0.0 www.faggotry.com
