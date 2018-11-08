@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-11-07T13:54:59+00:00
-# Count: 10502 domains
+# Released: 2018-11-08T13:21:00+00:00
+# Count: 10549 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -273,6 +273,7 @@
 0.0.0.0 adnetwork.adasiaholdings.com
 0.0.0.0 www.adnetwork.adasiaholdings.com
 0.0.0.0 ads.adasiaholdings.com
+0.0.0.0 apm.adasiaholdings.com
 0.0.0.0 blog.adasiaholdings.com
 0.0.0.0 cdn.adasiaholdings.com
 0.0.0.0 www.cdn.adasiaholdings.com
@@ -460,6 +461,7 @@
 0.0.0.0 tracker-asia.adotmob.com
 0.0.0.0 tracker-us-east.adotmob.com
 0.0.0.0 vault.adotmob.com
+0.0.0.0 vpn.adotmob.com
 0.0.0.0 website-beta.adotmob.com
 0.0.0.0 adpredictive.com
 0.0.0.0 cdn.adpredictive.com
@@ -572,6 +574,7 @@
 0.0.0.0 audiomax.devel.adswizz.com
 0.0.0.0 devops.adswizz.com
 0.0.0.0 docker-registry.adswizz.com
+0.0.0.0 ec2eu.adswizz.com
 0.0.0.0 hotfix.adswizz.com
 0.0.0.0 adserver.hotfix.adswizz.com
 0.0.0.0 legacy.adswizz.com
@@ -1339,6 +1342,8 @@
 0.0.0.0 apps.airfind.com
 0.0.0.0 api.apps.airfind.com
 0.0.0.0 api.be.airfind.com
+0.0.0.0 blog.airfind.com
+0.0.0.0 www.blog.airfind.com
 0.0.0.0 budget.airfind.com
 0.0.0.0 cdn.airfind.com
 0.0.0.0 www.cdn.airfind.com
@@ -2344,6 +2349,8 @@
 0.0.0.0 guides.clearbit.com
 0.0.0.0 help.clearbit.com
 0.0.0.0 forms.help.clearbit.com
+0.0.0.0 logo.clearbit.com
+0.0.0.0 logo-core.clearbit.com
 0.0.0.0 partnerships.clearbit.com
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 sfdc.clearbit.com
@@ -2737,7 +2744,9 @@
 0.0.0.0 cjadsystems.dotomi.com
 0.0.0.0 dev.cjadsystems.dotomi.com
 0.0.0.0 production.cjadsystems.dotomi.com
+0.0.0.0 cjp.dotomi.com
 0.0.0.0 cjperso.dotomi.com
+0.0.0.0 cjperso-dev.dotomi.com
 0.0.0.0 cjpersonalizer.dotomi.com
 0.0.0.0 cjpersonalizer-dev.dotomi.com
 0.0.0.0 client.dotomi.com
@@ -3786,6 +3795,7 @@
 0.0.0.0 staging-gq1-x.flurry.com
 0.0.0.0 staging-x.flurry.com
 0.0.0.0 tech.flurry.com
+0.0.0.0 kafka.connect.worker.flurry.com
 0.0.0.0 www.flurry.com
 0.0.0.0 y.flurry.com
 0.0.0.0 yampapi-prod.flurry.com
@@ -3870,9 +3880,11 @@
 0.0.0.0 www.blog.fullstory.com
 0.0.0.0 connect.fullstory.com
 0.0.0.0 go.fullstory.com
+0.0.0.0 go2.fullstory.com
 0.0.0.0 help.fullstory.com
 0.0.0.0 www.help.fullstory.com
 0.0.0.0 internal.fullstory.com
+0.0.0.0 link.fullstory.com
 0.0.0.0 prom.fullstory.com
 0.0.0.0 prometheus.fullstory.com
 0.0.0.0 r.fullstory.com
@@ -3882,6 +3894,21 @@
 0.0.0.0 r.staging.fullstory.com
 0.0.0.0 status.fullstory.com
 0.0.0.0 www.fullstory.com
+0.0.0.0 funnelenvy.com
+0.0.0.0 api.funnelenvy.com
+0.0.0.0 backstage.funnelenvy.com
+0.0.0.0 backstage-client.funnelenvy.com
+0.0.0.0 backstage-demo-page.funnelenvy.com
+0.0.0.0 backstage-staging-experimental.funnelenvy.com
+0.0.0.0 backstage-staging-ux.funnelenvy.com
+0.0.0.0 cdn2.funnelenvy.com
+0.0.0.0 cdn3.funnelenvy.com
+0.0.0.0 get.funnelenvy.com
+0.0.0.0 www.get.funnelenvy.com
+0.0.0.0 help.funnelenvy.com
+0.0.0.0 roi.funnelenvy.com
+0.0.0.0 so.funnelenvy.com
+0.0.0.0 www.funnelenvy.com
 0.0.0.0 fyber.com
 0.0.0.0 account.fyber.com
 0.0.0.0 acp.fyber.com
@@ -4584,6 +4611,7 @@
 0.0.0.0 smartlinks-e2e.intuit.com
 0.0.0.0 ws-skreemr.origin.inverse.com
 0.0.0.0 pillager.inverse.com
+0.0.0.0 measure.invisionapp.com
 0.0.0.0 js.iodo.com
 0.0.0.0 irganalytics.com
 0.0.0.0 ascentdata.irganalytics.com
@@ -4676,6 +4704,8 @@
 0.0.0.0 s.c.jwpltx.com
 0.0.0.0 dev.jwpltx.com
 0.0.0.0 i.jwpltx.com
+0.0.0.0 ihe-dev.jwpltx.com
+0.0.0.0 x.y.z.ihe-dev.jwpltx.com
 0.0.0.0 s.n.jwpltx.com
 0.0.0.0 nc-s.jwpltx.com
 0.0.0.0 s.jwpltx.com
@@ -5027,6 +5057,7 @@
 0.0.0.0 lyssh.gw.localytics.com
 0.0.0.0 two-ply.gw.localytics.com
 0.0.0.0 two-ply-dev.gw.localytics.com
+0.0.0.0 hackathon.localytics.com
 0.0.0.0 info.localytics.com
 0.0.0.0 profileview.localytics.com
 0.0.0.0 sandbox53.localytics.com
@@ -5045,6 +5076,7 @@
 0.0.0.0 api.sandbox.env.sandbox53.localytics.com
 0.0.0.0 api.sandbox-shared.env.sandbox53.localytics.com
 0.0.0.0 api.sandbox-val.env.sandbox53.localytics.com
+0.0.0.0 api.shared.env.sandbox53.localytics.com
 0.0.0.0 api.terraform-outputs.env.sandbox53.localytics.com
 0.0.0.0 api.tushar.env.sandbox53.localytics.com
 0.0.0.0 api.tushar-test.env.sandbox53.localytics.com
@@ -5107,6 +5139,7 @@
 0.0.0.0 app-sjf.marketo.com
 0.0.0.0 app-sjo5.marketo.com
 0.0.0.0 app-sjqe.marketo.com
+0.0.0.0 app-sjqe2.marketo.com
 0.0.0.0 autocukejvmab26a.marketo.com
 0.0.0.0 blog.marketo.com
 0.0.0.0 case-attachments.marketo.com
@@ -5147,6 +5180,7 @@
 0.0.0.0 na-qa.marketo.com
 0.0.0.0 na-qe.marketo.com
 0.0.0.0 na-sjqe.marketo.com
+0.0.0.0 na-sjqe2.marketo.com
 0.0.0.0 nation.marketo.com
 0.0.0.0 app-www.nation.marketo.com
 0.0.0.0 www.nation.marketo.com
@@ -5455,6 +5489,12 @@
 0.0.0.0 308-xbb-662.mktoresp.com
 0.0.0.0 mktossl.com
 0.0.0.0 ab10.mktossl.com
+0.0.0.0 ab11.mktossl.com
+0.0.0.0 ab12.mktossl.com
+0.0.0.0 ab13.mktossl.com
+0.0.0.0 ab14.mktossl.com
+0.0.0.0 ab15.mktossl.com
+0.0.0.0 ab16.mktossl.com
 0.0.0.0 mktoweb.com
 0.0.0.0 docker.mktoweb.com
 0.0.0.0 ml-attr.com
@@ -6674,6 +6714,7 @@
 0.0.0.0 shopkick.com
 0.0.0.0 beyond-api.shopkick.com
 0.0.0.0 metrics2.shopkick.com
+0.0.0.0 partners.shopkick.com
 0.0.0.0 siliconorchard.com
 0.0.0.0 adsdk.siliconorchard.com
 0.0.0.0 www.adsdk.siliconorchard.com
@@ -7770,6 +7811,7 @@
 0.0.0.0 b.videoamp.com
 0.0.0.0 blog.videoamp.com
 0.0.0.0 cdn.videoamp.com
+0.0.0.0 cicd.videoamp.com
 0.0.0.0 bid.dc3.videoamp.com
 0.0.0.0 drone-ci.videoamp.com
 0.0.0.0 email.videoamp.com
@@ -8207,6 +8249,7 @@
 0.0.0.0 w.yieldmo.com
 0.0.0.0 www.yieldmo.com
 0.0.0.0 yieldoptimizer.com
+0.0.0.0 bugs.yieldoptimizer.com
 0.0.0.0 cs.yieldoptimizer.com
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 yodelmobile.com
@@ -8382,6 +8425,8 @@
 0.0.0.0 braze.eu
 0.0.0.0 fra-01.braze.eu
 0.0.0.0 praxis.fra-01.braze.eu
+0.0.0.0 k8s.cluster-001.s-euc-1.braze.eu
+0.0.0.0 k8s.region-001.s-euc-1.braze.eu
 0.0.0.0 k8s.stc-001.s-euc-1.braze.eu
 0.0.0.0 wpad.example
 0.0.0.0 mediadelivery.fi
@@ -10181,6 +10226,8 @@
 0.0.0.0 www.gemius.mgr.consensu.org
 0.0.0.0 global.mgr.consensu.org
 0.0.0.0 hiro.mgr.consensu.org
+0.0.0.0 iubenda.mgr.consensu.org
+0.0.0.0 www.iubenda.mgr.consensu.org
 0.0.0.0 liqwid.mgr.consensu.org
 0.0.0.0 www.liqwid.mgr.consensu.org
 0.0.0.0 cmp.madvertise.mgr.consensu.org
