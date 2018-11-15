@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 08 Nov 2018 at 04:07:34 GMT
+# Last updated: Thu, 15 Nov 2018 at 02:03:06 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2701,6 +2701,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 search.buzzdock.com
 0.0.0.0 search.conduit.com
 0.0.0.0 search.privitize.com
+0.0.0.0 secret.xn--oogle-wmc.com
 0.0.0.0 securedliveuploads.com
 0.0.0.0 securitas232maximus.xyz
 0.0.0.0 securitas25maximus.xyz
@@ -2967,6 +2968,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.likespike.com			# Facebook trojan
 0.0.0.0 www.likethislist.biz			# Facebook trojan
 0.0.0.0 www.likethis.mbosoft.com		# Facebook trojan
+0.0.0.0 www.locatorprotocol.com
 0.0.0.0 www.lomalindasda.org			# Facebook trojan
 0.0.0.0 www.lovecouple.ru
 0.0.0.0 www.lovetrust.ru
@@ -9715,6 +9717,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 popups.infostart.com
 0.0.0.0 popup.softreklam.com
 0.0.0.0 popup.taboola.com
+0.0.0.0 pornstargals.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 posed2shade.com
 0.0.0.0 poster.gamesprite.me
