@@ -4,6 +4,7 @@ myhosts
 blacklist
 whitelist
 readmeData.json
+hosts-*
 /web.config
 /__pycache__
 /node_modules
