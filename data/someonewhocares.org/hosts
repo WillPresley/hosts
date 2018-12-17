@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 29 Nov 2018 at 16:13:25 GMT
+# Last updated: Sat, 15 Dec 2018 at 21:27:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2945,6 +2945,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.froling.bee.pl
 0.0.0.0 www.gacatl.com
 0.0.0.0 www.gezinti.com
+0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.gns-consola.com
 0.0.0.0 www.goggle.com
 0.0.0.0 www.gozatar.com
@@ -2963,6 +2964,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.kbdiu5z8ah.us
 0.0.0.0 www.keybinary.com
 0.0.0.0 www.kinomarathon.ru
+0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.likeportal.com			# Facebook trojan
@@ -4349,7 +4351,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 a.as-us.falkag.net
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
-0.0.0.0 aax-eu.amazon-adsystem.com
+#0.0.0.0 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 ab913aa797e78b3.com
@@ -9669,6 +9671,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 plasmatv4free.com
 0.0.0.0 plasmatvreward.com
 0.0.0.0 platads.com
+0.0.0.0 play.heavymetalmachines.com
 0.0.0.0 playinvaders.com
 0.0.0.0 play.istlandoll.com
 0.0.0.0 play.leadzupc.com
@@ -10138,7 +10141,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 safenyplanet.in
 0.0.0.0 sagent.io
 0.0.0.0 salesforcecom.tt.omtrdc.net
-0.0.0.0 s.amazon-adsystem.com
+#0.0.0.0 s.amazon-adsystem.com	# may interfere with Amazon ad preferences
 0.0.0.0 samsung3.solution.weborama.fr
 0.0.0.0 sanalreklam.com
 0.0.0.0 sarah.dntrx.com
