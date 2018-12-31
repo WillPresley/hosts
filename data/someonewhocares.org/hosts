@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 15 Dec 2018 at 21:27:33 GMT
+# Last updated: Thu, 27 Dec 2018 at 05:28:08 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2368,6 +2368,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 invite.gezinti.com
 0.0.0.0 ipadzu.net
 0.0.0.0 ircleaner.com
+0.0.0.0 irony.world
 0.0.0.0 istartsurf.com
 0.0.0.0 iswwwup.com
 0.0.0.0 it.globalsweeps.info
@@ -2797,6 +2798,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 toolbarnew.biz
 0.0.0.0 toolbarsale.biz
 0.0.0.0 toolbarweb.biz
+0.0.0.0 toptypeonlinetheclicks.icu
 0.0.0.0 torjackan.info
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 trialreg.com
@@ -2930,6 +2932,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.didata.bw
 0.0.0.0 www.dietsecret.ru
 0.0.0.0 www.displaybrowser.com
+0.0.0.0 www.earthwax.top
 0.0.0.0 www.elemntindexer.com
 0.0.0.0 www.eroyear.ru
 0.0.0.0 www.exbays.com
@@ -2959,6 +2962,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.indesignstudioinfo.com
 0.0.0.0 www.indexerflash.com
 0.0.0.0 www.infopaypal.com
+0.0.0.0 www.irony.world
 0.0.0.0 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 0.0.0.0 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 0.0.0.0 www.kbdiu5z8ah.us
@@ -7870,6 +7874,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 dl-plugin.com
 0.0.0.0 dlvr.readserver.net
 0.0.0.0 dmp.vihub.ru
+0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 dnads.directnic.com
 0.0.0.0 dnps.com
 0.0.0.0 dnse.linkpulse.com
@@ -9587,6 +9592,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 pcookie.aliexpress.com
 0.0.0.0 pc-virus-d0l92j2.pw
 0.0.0.0 peaky.tags.yield-atx.com
+0.0.0.0 pebed.dm-event.net
 0.0.0.0 pei-ads.playboy.com
 0.0.0.0 people-choice-sites.com
 0.0.0.0 performanceadexchange.com
@@ -10049,6 +10055,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 rovion.com
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rpc.trafficfactory.biz
+0.0.0.0 rpgmasterleague.com
 0.0.0.0 rp.hit.gemius.pl
 0.0.0.0 rpm.newrelisc.com
 0.0.0.0 rqtrk.eu
@@ -11965,7 +11972,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.mpression.net
 0.0.0.0 www.myadsl.co.za
 0.0.0.0 www.myaffiliateprogram.com
-0.0.0.0 www.myairbridge.com
 0.0.0.0 www.mycashback.co.uk
 0.0.0.0 www.mycelloffer.com
 0.0.0.0 www.mychoicerewards.com
