@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 02 Jan 2019 10:06:17 GMT
-# entries:        2978
+# entries:        2975
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 07 Jan 1999 00:00:00
+# start date:    Tue, 19 Jan 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -43,7 +43,6 @@
 0.0.0.0 77tracking.com
 0.0.0.0 7bpeople.com
 0.0.0.0 7f1au20glg.com
-0.0.0.0 7mu36somt5.com
 0.0.0.0 7search.com
 0.0.0.0 82o9v830.com
 0.0.0.0 99count.com
@@ -596,8 +595,6 @@
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.redtube.com
 0.0.0.0 ads.resoom.de
-0.0.0.0 ads.returnpath.net
-0.0.0.0 ads.s3.sitepoint.com
 0.0.0.0 ads.satyamonline.com
 0.0.0.0 ads.saymedia.com
 0.0.0.0 ads.scifi.com
@@ -1155,6 +1152,7 @@
 0.0.0.0 branch.io
 0.0.0.0 brand-display.com
 0.0.0.0 brandreachsys.com
+0.0.0.0 brassrule.com
 0.0.0.0 bridgetrack.com
 0.0.0.0 brightinfo.com
 0.0.0.0 british-banners.com
@@ -1306,6 +1304,7 @@
 0.0.0.0 complextoad.com
 0.0.0.0 comprabanner.it
 0.0.0.0 concernedcondition.com
+0.0.0.0 concernrain.com
 0.0.0.0 confirmed-profits.com
 0.0.0.0 connatix.com
 0.0.0.0 connextra.com
@@ -1536,6 +1535,7 @@
 0.0.0.0 evyy.net
 0.0.0.0 ewebcounter.com
 0.0.0.0 exchange-it.com
+0.0.0.0 exchange.bg
 0.0.0.0 exchangead.com
 0.0.0.0 exchangeclicksonline.com
 0.0.0.0 exclusivebrass.com
@@ -1564,6 +1564,7 @@
 0.0.0.0 fadedprofit.com
 0.0.0.0 familiarfloor.com
 0.0.0.0 famousquarter.com
+0.0.0.0 fanaticalfly.com
 0.0.0.0 farethief.com
 0.0.0.0 farmergoldfish.com
 0.0.0.0 fascinatedfeather.com
@@ -1582,11 +1583,11 @@
 0.0.0.0 findcommerce.com
 0.0.0.0 findepended.com
 0.0.0.0 findyourcasino.com
-0.0.0.0 fineclicks.com
 0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
 0.0.0.0 flakyfeast.com
 0.0.0.0 flashtalking.com
+0.0.0.0 flavordecision.com
 0.0.0.0 fleshlightcash.com
 0.0.0.0 flexbanner.com
 0.0.0.0 flimsycircle.com
@@ -2421,7 +2422,6 @@
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
 0.0.0.0 rtmark.net
-0.0.0.0 ru-traffic.com
 0.0.0.0 ru4.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 rulerabbit.com
@@ -2561,7 +2561,6 @@
 0.0.0.0 springaftermath.com
 0.0.0.0 spurioussteam.com
 0.0.0.0 spykemediatrack.com
-0.0.0.0 spylog.com
 0.0.0.0 spywarelabs.com
 0.0.0.0 spywords.com
 0.0.0.0 squeamishscarecrow.com
@@ -2901,7 +2900,6 @@
 0.0.0.0 webtrendslive.com
 0.0.0.0 wellmadefrog.com
 0.0.0.0 werbung.meteoxpress.com
-0.0.0.0 wetrack.it
 0.0.0.0 whaleads.com
 0.0.0.0 whenu.com
 0.0.0.0 whirlwealth.com
@@ -2936,7 +2934,6 @@
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www.dnps.com
 0.0.0.0 www.kaplanindex.com
-0.0.0.0 www.money4exit.de
 0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www8.glam.com
 0.0.0.0 wwwpromoter.com
