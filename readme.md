@@ -21,8 +21,8 @@
 This repository consolidates several reputable `hosts` files, and merges them
 into a unified hosts file with duplicates removed.  A variety of tailored hosts files are provided.
 
-* Last updated: **February 11 2019**.
-* Here's the [raw hosts file with fakenews extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 92,795 entries.
+* Last updated: **February 14 2019**.
+* Here's the [raw hosts file with fakenews extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) containing 91,795 entries.
 * Logo by [@Tobaloidee](https://github.com/Tobaloidee).
 
 
@@ -35,7 +35,7 @@ with Github download links.
 Host file recipe | Readme | Raw hosts | Unique domains | Non Github mirror
 ---------------- |:------:|:---------:|:--------------:|:-------------:
 Unified hosts = **(adware + malware)** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 39,171 | [link](http://sbc.io/hosts/hosts)
-Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 92,795 | [link](http://sbc.io/hosts/hosts)
+Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 91,795 | [link](http://sbc.io/hosts/hosts)
 Unified hosts **+ gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | 41,437 | [link](http://sbc.io/hosts/alternates/gambling/hosts)
 Unified hosts **+ porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts) | 49,461 | [link](http://sbc.io/hosts/alternates/porn/hosts)
 Unified hosts **+ social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts) | 40,648 | [link](http://sbc.io/hosts/alternates/social/hosts)
@@ -69,7 +69,6 @@ add.Risk | Risk content sites based on [hostsfile.org](http://www.hostsfile.org/
 add.Spam | Spam sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) | occasionally | GPLv3+  | [issues](https://github.com/FadeMind/hosts.extras/issues) 
 Mitchell Krog's - Badd Boyz Hosts | Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers |[link](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) | [raw](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) | weekly | 'non-commercial with attribution'  | [issues](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues) 
 CoinBlocker | Simple lists that can help prevent cryptomining in the browser or other applications |[link](https://gitlab.com/ZeroDot1/CoinBlockerLists) | [raw](https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser) | frequently | GPLv3  | [issues](https://gitlab.com/ZeroDot1/CoinBlockerLists/issues) 
-Cryptecks - Adobe List | Adobe activation servers. |[link](https://cryptecks.cf/) | [raw](https://cryptecks.cf/hosts/adobe-list/hosts) | occasionally |   | [issues](https://willpresley.cf/) 
 Cryptecks - Spybot List | A version of the built-in Spybot Search and Destroy quarantine list. |[link](https://cryptecks.cf/) | [raw](https://cryptecks.cf/hosts/spybot-list/hosts) | occasionally |   | [issues](https://willpresley.cf/) 
 jawz101 - MobileAdTrackers | Taken from DNS logs, formatted in hostfile format. |[link](https://github.com/jawz101/MobileAdTrackers) | [raw](https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts) | occasionally |   | [issues](https://github.com/jawz101/MobileAdTrackers/issues) 
 KADhosts | Fraud/adware/scam websites. |[link](https://github.com/azet12/KADhosts) | [raw](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) | frequently | GPLv3  | [issues](https://github.com/azet12/KADhosts/issues) 

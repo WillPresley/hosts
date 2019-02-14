@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 23 Jan 2019 15:34:01 GMT
-# entries:        2968
+# entries:        2967
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 16 Feb 1999 00:00:00
+# start date:    Fri, 19 Feb 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -2277,7 +2277,6 @@
 0.0.0.0 pronetadvertising.com
 0.0.0.0 propellerads.com
 0.0.0.0 props.id
-0.0.0.0 proranktracker.com
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com
 0.0.0.0 provalist.info

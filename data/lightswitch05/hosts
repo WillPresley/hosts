@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-11T13:58:21+00:00
-# Count: 33864 domains
+# Released: 2019-02-14T18:02:26+00:00
+# Count: 33935 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -10217,6 +10217,22 @@
 0.0.0.0 ldap-admin.gaeadata.com
 0.0.0.0 testmdc.gaeadata.com
 0.0.0.0 userfile.gaeadata.com
+0.0.0.0 gamail.com
+0.0.0.0 _sipfederationtls._tcp.gamail.com
+0.0.0.0 autodiscover.gamail.com
+0.0.0.0 gwww.gamail.com
+0.0.0.0 imap.gamail.com
+0.0.0.0 lyncdiscover.gamail.com
+0.0.0.0 lyncdiscoverinternal.gamail.com
+0.0.0.0 mail.gamail.com
+0.0.0.0 pop3.gamail.com
+0.0.0.0 roche.gamail.com
+0.0.0.0 sip.gamail.com
+0.0.0.0 sipexternal.gamail.com
+0.0.0.0 sipinternal.gamail.com
+0.0.0.0 ww.gamail.com
+0.0.0.0 www.gamail.com
+0.0.0.0 www.www.gamail.com
 0.0.0.0 hb.gammaplatform.com
 0.0.0.0 geniusonclick.com
 0.0.0.0 www.geniusonclick.com
@@ -10375,6 +10391,47 @@
 0.0.0.0 cdn.glassboxcdn.com
 0.0.0.0 glasslytics.com
 0.0.0.0 www.glasslytics.com
+0.0.0.0 gmial.com
+0.0.0.0 _sipfederationtls._tcp.gmial.com
+0.0.0.0 autoconfig.gmial.com
+0.0.0.0 www.autoconfig.gmial.com
+0.0.0.0 autodiscover.gmial.com
+0.0.0.0 www.autodiscover.gmial.com
+0.0.0.0 gmail.com.gmial.com
+0.0.0.0 www.gmail.com.gmial.com
+0.0.0.0 imap.gmial.com
+0.0.0.0 www.imap.gmial.com
+0.0.0.0 inbox.gmial.com
+0.0.0.0 keys.gmial.com
+0.0.0.0 lyncdiscover.gmial.com
+0.0.0.0 www.lyncdiscover.gmial.com
+0.0.0.0 lyncdiscoverinternal.gmial.com
+0.0.0.0 www.lyncdiscoverinternal.gmial.com
+0.0.0.0 m.gmial.com
+0.0.0.0 mail.gmial.com
+0.0.0.0 www.mail.gmial.com
+0.0.0.0 mailgate.gmial.com
+0.0.0.0 www.mailgate.gmial.com
+0.0.0.0 mobileniveldiez.gmial.com
+0.0.0.0 out.gmial.com
+0.0.0.0 www.out.gmial.com
+0.0.0.0 pop.gmial.com
+0.0.0.0 www.pop.gmial.com
+0.0.0.0 pop3.gmial.com
+0.0.0.0 relay.gmial.com
+0.0.0.0 www.relay.gmial.com
+0.0.0.0 sip.gmial.com
+0.0.0.0 www.sip.gmial.com
+0.0.0.0 sipexternal.gmial.com
+0.0.0.0 www.sipexternal.gmial.com
+0.0.0.0 sipinternal.gmial.com
+0.0.0.0 www.sipinternal.gmial.com
+0.0.0.0 webmail.gmial.com
+0.0.0.0 www.webmail.gmial.com
+0.0.0.0 ww.gmial.com
+0.0.0.0 www.gmial.com
+0.0.0.0 www3.gmial.com
+0.0.0.0 wwww.gmial.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 adserver.goodnuze.com
 0.0.0.0 goodyield.com
@@ -17990,7 +18047,11 @@
 0.0.0.0 qa-tags.selectablemedia.com
 0.0.0.0 test-cdn.selectablemedia.com
 0.0.0.0 www.selectablemedia.com
+0.0.0.0 sentry-cdn.com
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 js.sentry-cdn.com
+0.0.0.0 s1.sentry-cdn.com
+0.0.0.0 www.sentry-cdn.com
 0.0.0.0 servebom.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads-qa.servebom.com
@@ -20725,6 +20786,13 @@
 0.0.0.0 test1custombranding.truconversion.com
 0.0.0.0 wp20171103.truconversion.com
 0.0.0.0 www.truconversion.com
+0.0.0.0 trumeasure.com
+0.0.0.0 action.trumeasure.com
+0.0.0.0 controlroom.trumeasure.com
+0.0.0.0 dni.trumeasure.com
+0.0.0.0 images.trumeasure.com
+0.0.0.0 jss.trumeasure.com
+0.0.0.0 www.trumeasure.com
 0.0.0.0 ttflb.com
 0.0.0.0 mail.ttflb.com
 0.0.0.0 webdisk.ttflb.com
@@ -23630,6 +23698,9 @@
 0.0.0.0 us2.tribl.io
 0.0.0.0 www.tribl.io
 0.0.0.0 crosspromo.voodoo.io
+0.0.0.0 gatag.it
+0.0.0.0 capture.gatag.it
+0.0.0.0 www.gatag.it
 0.0.0.0 heatmap.it
 0.0.0.0 eu1.heatmap.it
 0.0.0.0 eu2.heatmap.it
