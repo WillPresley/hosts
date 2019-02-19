@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: 18 February 2019 19:24:53 (Ame)
+# Date: 19 February 2019 19:32:33 (Ame)
 # Extensions added to this file: fakenews
-# Number of unique domains: 92,131
+# Number of unique domains: 92,134
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/blokada-version\hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -31135,10 +31135,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.mansion66.com
 0.0.0.0 www.mansion66.com
 0.0.0.0 mansion66.com
-0.0.0.0 api.mapbox.com
-0.0.0.0 events.mapbox.com
-0.0.0.0 a.tiles.mapbox.com
-0.0.0.0 api.tiles.mapbox.com
 0.0.0.0 maplefarmmedia.com
 0.0.0.0 mappealist.club
 0.0.0.0 altb.marfeel.com
@@ -35545,6 +35541,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adworkmedia.com
 0.0.0.0 africanmango.pl
 0.0.0.0 africanmango900.pl
+0.0.0.0 agdeer.com
 0.0.0.0 agdkom.net
 0.0.0.0 agdrtv24.net
 0.0.0.0 airmax97.pl
@@ -35734,6 +35731,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 euresco.pl
 0.0.0.0 euroagd.net
 0.0.0.0 euronicspl.net
+0.0.0.0 europronet.net
 0.0.0.0 excelz.com
 0.0.0.0 exitopolska.com
 0.0.0.0 extragenerators.xyz
@@ -35992,6 +35990,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 neomediamax.net
 0.0.0.0 neopozyczki.pl
 0.0.0.0 neospes.com
+0.0.0.0 neotech.in.net
 0.0.0.0 netleaders.com
 0.0.0.0 newmediaz.com
 0.0.0.0 newpassporn.com
@@ -36092,6 +36091,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 programyhakerskie.pl
 0.0.0.0 prokino.pl
 0.0.0.0 promocionesparati.com
+0.0.0.0 prooexpert.com
 0.0.0.0 provanto.pl
 0.0.0.0 prywatne-pozyczki-24.pl
 0.0.0.0 przyspiesz.pl
@@ -36237,6 +36237,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vasco-group.eu
 0.0.0.0 vegatestsklep.pl
 0.0.0.0 verifycaptcha.com
+0.0.0.0 verypl.net
 0.0.0.0 vesda.pl
 0.0.0.0 vfastdownload.com
 0.0.0.0 vidzsource.net
@@ -36427,6 +36428,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yourperlebleue.com
 0.0.0.0 yummymobile.pl
 0.0.0.0 zakupyagd.net
+0.0.0.0 zakupymax.net
 0.0.0.0 zalukajfilmy.pl
 0.0.0.0 zarabiajwsieci.eu
 0.0.0.0 zarabianiefb.club
@@ -79587,6 +79589,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.youfiletor.com
 0.0.0.0 www.zfn5wua2d1.online
 0.0.0.0 www.zoominnovate.online
+0.0.0.0 xen-media.com
 0.0.0.0 xfotosx01.fromru.su
 0.0.0.0 xn--oogle-wmc.com
 0.0.0.0 xponlinescanner.com
