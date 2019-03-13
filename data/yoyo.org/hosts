@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 22 Feb 2019 13:15:56 GMT
-# entries:        2962
+# last updated:   Tue, 12 Mar 2019 16:13:41 GMT
+# entries:        2952
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 04 Mar 1999 00:00:00
+# start date:    Thu, 18 Mar 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -56,6 +56,7 @@
 0.0.0.0 a.ucoz.ru
 0.0.0.0 a.xanga.com
 0.0.0.0 a135.wftv.com
+0.0.0.0 aaddzz.com
 0.0.0.0 abacho.net
 0.0.0.0 abackchain.com
 0.0.0.0 abandonedaction.com
@@ -65,7 +66,6 @@
 0.0.0.0 aboardlevel.com
 0.0.0.0 abruptroad.com
 0.0.0.0 absentstream.com
-0.0.0.0 absoluteclickscom.com
 0.0.0.0 absorbingband.com
 0.0.0.0 absurdwater.com
 0.0.0.0 abz.com
@@ -181,7 +181,6 @@
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad2.iinfo.cz
-0.0.0.0 ad2.linxcz.cz
 0.0.0.0 ad2.lupa.cz
 0.0.0.0 ad2.xrea.com
 0.0.0.0 ad2flash.com
@@ -200,8 +199,6 @@
 0.0.0.0 adbard.net
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
-0.0.0.0 adboost.de.vu
-0.0.0.0 adboost.net
 0.0.0.0 adbooth.net
 0.0.0.0 adbot.com
 0.0.0.0 adbrite.com
@@ -342,7 +339,6 @@
 0.0.0.0 adriver.ru
 0.0.0.0 adrolays.de
 0.0.0.0 adrotate.de
-0.0.0.0 adrotator.se
 0.0.0.0 adrotic.girlonthenet.com
 0.0.0.0 adrta.com
 0.0.0.0 ads-click.com
@@ -361,7 +357,6 @@
 0.0.0.0 ads.adverline.com
 0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.affiliates.match.com
-0.0.0.0 ads.ak.facebook.com.edgesuite.net
 0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
@@ -470,6 +465,7 @@
 0.0.0.0 ads.gamespyid.com
 0.0.0.0 ads.gamigo.de
 0.0.0.0 ads.gaming-universe.de
+0.0.0.0 ads.gaming1.com
 0.0.0.0 ads.gawker.com
 0.0.0.0 ads.geekswithblogs.net
 0.0.0.0 ads.getlucky.com
@@ -760,6 +756,7 @@
 0.0.0.0 adserver2.mindshare.de
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
+0.0.0.0 adserversolutions.com
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adservinginternational.com
 0.0.0.0 adsfac.eu
@@ -918,7 +915,6 @@
 0.0.0.0 alexametrics.com
 0.0.0.0 alipromo.com
 0.0.0.0 all4spy.com
-0.0.0.0 alladvantage.com
 0.0.0.0 allosponsor.com
 0.0.0.0 alphonso.tv
 0.0.0.0 amazingcounters.com
@@ -960,6 +956,7 @@
 0.0.0.0 as1.advfn.com
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assoc-amazon.com
+0.0.0.0 aswpapius.com
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 atdmt.com
 0.0.0.0 athena-ads.wikia.com
@@ -1189,7 +1186,6 @@
 0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
-0.0.0.0 casinotreasure.com
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cbsi.com
 0.0.0.0 cdn.freefarcy.com
@@ -1341,7 +1337,6 @@
 0.0.0.0 counting.kmindex.ru
 0.0.0.0 counts.tucows.com
 0.0.0.0 coupling-media.de
-0.0.0.0 cowledges.com
 0.0.0.0 cp.abbp1.pw
 0.0.0.0 cpalead.com
 0.0.0.0 cpays.com
@@ -1500,7 +1495,6 @@
 0.0.0.0 endurableshop.com
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 enginenetwork.com
-0.0.0.0 enlarget.com
 0.0.0.0 enoratraffic.com
 0.0.0.0 enquisite.com
 0.0.0.0 ensighten.com
@@ -1662,7 +1656,6 @@
 0.0.0.0 gtop100.com
 0.0.0.0 guardedgovernor.com
 0.0.0.0 guardedschool.com
-0.0.0.0 guitarbelieve.com
 0.0.0.0 gunggo.com
 0.0.0.0 h78xb.pw
 0.0.0.0 hammerhearing.com
@@ -2044,6 +2037,7 @@
 0.0.0.0 naj.sk
 0.0.0.0 nastydollars.com
 0.0.0.0 nativeroll.tv
+0.0.0.0 navegg.com
 0.0.0.0 navigator.io
 0.0.0.0 navrcholu.cz
 0.0.0.0 nbjmp.com
@@ -2376,6 +2370,7 @@
 0.0.0.0 republika.onet.pl
 0.0.0.0 resolutekey.com
 0.0.0.0 resonantbrush.com
+0.0.0.0 resonate.com
 0.0.0.0 retargeter.com
 0.0.0.0 revcontent.com
 0.0.0.0 revenue.net
@@ -2438,6 +2433,7 @@
 0.0.0.0 scripte-monster.de
 0.0.0.0 scrubsky.com
 0.0.0.0 scrubswim.com
+0.0.0.0 seadform.net
 0.0.0.0 searchmarketing.com
 0.0.0.0 searchramp.com
 0.0.0.0 secretivecub.com
@@ -2476,7 +2472,6 @@
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 shiveringsail.com
-0.0.0.0 shockingswing.com
 0.0.0.0 shoppingads.com
 0.0.0.0 sicksmash.com
 0.0.0.0 sidebar.angelfire.com
@@ -2512,7 +2507,6 @@
 0.0.0.0 smilingwaves.com
 0.0.0.0 snakesort.com
 0.0.0.0 snapads.com
-0.0.0.0 sneaklevel.com
 0.0.0.0 sneakystamp.com
 0.0.0.0 snoobi.com
 0.0.0.0 socialspark.com
@@ -2680,7 +2674,6 @@
 0.0.0.0 ticklesign.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tinybar.com
-0.0.0.0 tizers.net
 0.0.0.0 tlvmedia.com
 0.0.0.0 tnkexchange.com
 0.0.0.0 tns-counter.ru
@@ -2744,7 +2737,6 @@
 0.0.0.0 tradedoubler.com
 0.0.0.0 traffic-exchange.com
 0.0.0.0 traffic.focuusing.com
-0.0.0.0 trafficadept.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficholder.com
 0.0.0.0 traffichunt.com
@@ -2798,7 +2790,6 @@
 0.0.0.0 untidyquestion.com
 0.0.0.0 unusualtitle.com
 0.0.0.0 unwrittenspot.com
-0.0.0.0 urbanairship.com
 0.0.0.0 urlcash.net
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 usapromotravel.com
@@ -2941,7 +2932,6 @@
 0.0.0.0 xxxmyself.com
 0.0.0.0 y.ibsys.com
 0.0.0.0 yab-adimages.s3.amazonaws.com
-0.0.0.0 yabuka.com
 0.0.0.0 yadro.ru
 0.0.0.0 yepads.com
 0.0.0.0 yesads.com

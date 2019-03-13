@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 19 Feb 2019 at 10:44:01 GMT
+# Last updated: Mon, 11 Mar 2019 at 04:29:09 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -116,6 +116,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 4girlsfingerpaint.org
 0.0.0.0 bagslap.com
 0.0.0.0 ballsack.org
+0.0.0.0 bestgore.com
 0.0.0.0 bestshockers.com
 0.0.0.0 bluewaffle.biz
 0.0.0.0 bottleguy.com
@@ -169,6 +170,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 scrollbelow.com
 0.0.0.0 selfpwn.org
 0.0.0.0 sexitnow.com
+0.0.0.0 shockgore.com
 0.0.0.0 sourmath.com
 0.0.0.0 strawpoii.me
 0.0.0.0 suckdude.com
@@ -2732,6 +2734,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sedesol.sedesol.gob.mx
 0.0.0.0 seeques.com
 0.0.0.0 segob.gob.mx
+0.0.0.0 settingupdate.yourgoodflashupgradingmain.icu
 0.0.0.0 setupupgrade12.thepointofforcontentingperfect.win
 0.0.0.0 sexymarissa.net
 0.0.0.0 shapado.com
@@ -4722,6 +4725,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ad.directmirror.com
 0.0.0.0 ad.directrev.com
 0.0.0.0 ad.doganburda.com
+0.0.0.0 ad.doublemax.net
 0.0.0.0 ad.download.net
 0.0.0.0 addserver.mtv.com.tr
 0.0.0.0 addthiscdn.com
@@ -4735,6 +4739,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ad.eporner.com
 0.0.0.0 ad.espn.starwave.com
 0.0.0.0 ad.e-sport.com
+0.0.0.0 ad.ettoday.net
 0.0.0.0 ad.eurosport.com
 0.0.0.0 ade.wooboo.com.cn
 0.0.0.0 adexchangegate.com
@@ -6757,6 +6762,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 andr0id.traffic-smart.com
 0.0.0.0 anephangja.com
 0.0.0.0 anepszava.com
+0.0.0.0 a.net-bt32.stream
 0.0.0.0 anetit.tradedoubler.com
 0.0.0.0 ankieta-online.pl
 0.0.0.0 annuaire-autosurf.com
@@ -7833,6 +7839,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 da.2000888.com
 0.0.0.0 d.admob.com
 0.0.0.0 d.adnetxchange.com
+0.0.0.0 d.adroll.com
 0.0.0.0 d.adserve.com
 0.0.0.0 dads.new.digg.com
 0.0.0.0 d.ads.readwriteweb.com
@@ -8538,6 +8545,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 helpint.mywebsearch.com
 0.0.0.0 helpmymacfaster.club
 0.0.0.0 hermes.airad.com
+0.0.0.0 heroesofrpg.com
 0.0.0.0 heti-naplo.com
 0.0.0.0 hetperc.com
 0.0.0.0 hg8dc7bm.com
@@ -9344,6 +9352,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mini.videostrip.com
 0.0.0.0 mirror.pointroll.com
 0.0.0.0 mitobeb.yadozalamom.pw
+0.0.0.0 mizvan.com
 0.0.0.0 mjxads.internet.com
 0.0.0.0 mjx.ads.nwsource.com
 0.0.0.0 mklik.gazeta.pl
@@ -11452,6 +11461,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wap.casee.cn
 0.0.0.0 warp.crystalad.com
+0.0.0.0 watch-this.live
 0.0.0.0 w.bigames.online
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wdm29.com
