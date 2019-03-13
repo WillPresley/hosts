@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: 13 March 2019 02:05:38 (Ame)
+# Date: 13 March 2019 02:16:29 (Ame)
 # Extensions added to this file: fakenews
-# Number of unique domains: 91,961
+# Number of unique domains: 91,967
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/blokada-version\hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -25787,6 +25787,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.winhelpde.club
 0.0.0.0 winhelpde.club
 0.0.0.0 winwithde05.win
+0.0.0.0 c.enhance.com
+0.0.0.0 www.nbcsearch.com
+0.0.0.0 www.resultsbay.com
+0.0.0.0 resultsbay.com
+0.0.0.0 winwithde06.win
+0.0.0.0 www.winwithde06.win
 0.0.0.0 img1.126.net
 0.0.0.0 stat.ws.126.net
 0.0.0.0 analytics.163.com
