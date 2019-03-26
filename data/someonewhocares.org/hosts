@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 11 Mar 2019 at 04:29:09 GMT
+# Last updated: Tue, 26 Mar 2019 at 04:53:20 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -271,7 +271,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.whipcrack.org
 0.0.0.0 www.wormgush.com
 0.0.0.0 www.xvideoslive.com
-0.0.0.0 www.y8.com
 0.0.0.0 www.youaresogay.com
 0.0.0.0 www.ypmate.com
 0.0.0.0 www.zentastic.com
@@ -2678,6 +2677,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 projectpoi.com
 0.0.0.0 protectionupdatecenter.com
 0.0.0.0 provenfeedback.com
+0.0.0.0 p.ttwitter.com
 0.0.0.0 public2.zz.ha.cn
 0.0.0.0 puush.in
 0.0.0.0 pv.wantsfly.com
@@ -2715,6 +2715,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 scanner.best-protect.info
 0.0.0.0 scottishstuff-online.com	# Canadian bank phishing site
 0.0.0.0 screenaddict.thewhizproducts.com
+0.0.0.0 scribe.ttwitter.com
 0.0.0.0 sc-spyware.com
 0.0.0.0 sea.net.edu.cn
 0.0.0.0 search.buzzdock.com
@@ -3105,6 +3106,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 zip.er.cz
 0.0.0.0 ztrf.net
 0.0.0.0 zviframe.biz
+0.0.0.0 zzhc.vnet.cn
 #
 
 #
