@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 25 Mar 2019 15:27:53 GMT
-# entries:        2946
+# last updated:   Wed, 27 Mar 2019 13:58:12 GMT
+# entries:        2948
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 31 Mar 1999 00:00:00
+# start date:    Thu, 01 Apr 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -2133,6 +2133,7 @@
 0.0.0.0 optimizely.com
 0.0.0.0 optimost.com
 0.0.0.0 optmd.com
+0.0.0.0 optmnstr.com
 0.0.0.0 optmstr.com
 0.0.0.0 optnmstr.com
 0.0.0.0 ordingly.com
@@ -2498,6 +2499,7 @@
 0.0.0.0 smartlook.com
 0.0.0.0 smashsurprise.com
 0.0.0.0 smetrics.ctv.ca
+0.0.0.0 smetrics.foxnews.com
 0.0.0.0 smetrics.walgreens.com
 0.0.0.0 smilingwaves.com
 0.0.0.0 snakesort.com
