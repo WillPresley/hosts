@@ -1,9 +1,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: 03 April 2019 18:24:51 (Ame)
+# Date: 03 April 2019 18:36:05 (Ame)
 # Extensions added to this file: fakenews
-# Number of unique domains: 104,556
+# Number of unique domains: 104,543
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/blokada-version\hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -46136,20 +46136,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 beacon.tingyun.com
 0.0.0.0 rainmaker.tiny.cloud
 0.0.0.0 analytics.tinybeans.com
-0.0.0.0 api.tinypass.com
-0.0.0.0 api-v3.tinypass.com
-0.0.0.0 buy.tinypass.com
-0.0.0.0 cdn.tinypass.com
-0.0.0.0 code.tinypass.com
-0.0.0.0 experience.tinypass.com
-0.0.0.0 fonts.tinypass.com
-0.0.0.0 github.tinypass.com
-0.0.0.0 id.tinypass.com
-0.0.0.0 play.tinypass.com
-0.0.0.0 publisher.tinypass.com
-0.0.0.0 qa0.tinypass.com
-0.0.0.0 qa1.tinypass.com
-0.0.0.0 sw.tinypass.com
 0.0.0.0 ads.tipico-affiliates.com
 0.0.0.0 akamai.tags.tiqcdn.com
 0.0.0.0 edgecast.tags.tiqcdn.com
@@ -49058,6 +49044,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sweeps3093.something-wrong9.agency
 0.0.0.0 sweeps9949.whoisyourd15.live
 0.0.0.0 thecryptogenius.com
+0.0.0.0 vpt58.tvnewtop.pro
 0.0.0.0 web.cellfun.mobi
 0.0.0.0 web.yuppipuppy.com
 0.0.0.0 ww7.openwrt.com
