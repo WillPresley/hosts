@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtr chroniacy przed przekretami takimi jak subskrypcje SMS
-# Last modified: Sun, 05 May 2019, 20:20 UTC+02
-# Version: 2019.5.5.2
+# Last modified: Thu, 16 May 2019, 20:53 UTC+02
+# Version: 2019.5.16.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -194,7 +194,7 @@
 0.0.0.0 dofinansowanie-slaskie.pl
 0.0.0.0 dofinansowanie-wielkopolskie.pl
 0.0.0.0 domhandlowy.net
-0.0.0.0 domowysprzet.pl
+0.0.0.0 domowy-sprzet.pl
 0.0.0.0 dom-server.tk
 0.0.0.0 dopalacze-sklep.org
 0.0.0.0 downloadfile.eu
@@ -310,7 +310,7 @@
 0.0.0.0 geldorbank.pl
 0.0.0.0 gemverify.com
 0.0.0.0 generatorkodow.hpu.pl
-0.0.0.0 getdataback.pl
+0.0.0.0 gerotel.com
 0.0.0.0 getleads.pl
 0.0.0.0 getthesneakers.pl
 0.0.0.0 gift-cards.co.pl
@@ -346,7 +346,6 @@
 0.0.0.0 heredatetime.com
 0.0.0.0 hibids10.com
 0.0.0.0 hitlog.tk
-0.0.0.0 hitzhita.pl
 0.0.0.0 hksfa.org
 0.0.0.0 holdenavenue.pl
 0.0.0.0 homeagd.in.net
@@ -372,7 +371,6 @@
 0.0.0.0 interbuty.pl
 0.0.0.0 inwestujwrozwoj.pl
 0.0.0.0 ipzd.pl
-0.0.0.0 irpol24.pl
 0.0.0.0 iv24.pl
 0.0.0.0 i-cda.pl
 0.0.0.0 i-mobi.pl
@@ -422,10 +420,7 @@
 0.0.0.0 leadn.pl
 0.0.0.0 leadzu.com
 0.0.0.0 legitstore.pl
-0.0.0.0 liczbawiadomosci.pl
 0.0.0.0 life-star.pl
-0.0.0.0 ling.expert
-0.0.0.0 ling.express
 0.0.0.0 linkdebrideur.xyz
 0.0.0.0 linkz.it
 0.0.0.0 livioon.com
@@ -438,7 +433,6 @@
 0.0.0.0 lottoland.pl
 0.0.0.0 loveaholics.com
 0.0.0.0 lovemyshoes.pl
-0.0.0.0 lowcyokazji.net
 0.0.0.0 lp-wip.pl
 0.0.0.0 maendo.tv
 0.0.0.0 magictrend.pl
@@ -449,10 +443,8 @@
 0.0.0.0 mariuszpelczarski.pl
 0.0.0.0 marketpremium.pl
 0.0.0.0 martdiamonds.pl
-0.0.0.0 marvint.pl
 0.0.0.0 masenkotrkr.com
 0.0.0.0 mavoj.pl
-0.0.0.0 mediae.pl
 0.0.0.0 mediaekspert24.pl
 0.0.0.0 mediamax.in.net
 0.0.0.0 mediasam.net
@@ -491,7 +483,6 @@
 0.0.0.0 myacn.eu
 0.0.0.0 mylocker.pl
 0.0.0.0 myway.com
-0.0.0.0 najlepszenarynku.pl
 0.0.0.0 nameguess.com
 0.0.0.0 nametests.com
 0.0.0.0 namierzanie-telefonu.pl
@@ -512,10 +503,8 @@
 0.0.0.0 newpassporn.com
 0.0.0.0 newtechagd.net
 0.0.0.0 niechoruje.pl
-0.0.0.0 nixago.pl
 0.0.0.0 normour.com
 0.0.0.0 norton.pl
-0.0.0.0 notebookdlaciebie.pl
 0.0.0.0 notifyday.com
 0.0.0.0 novumedical.pl
 0.0.0.0 nowaupadlosc.pl
@@ -550,7 +539,6 @@
 0.0.0.0 pc-data.pl
 0.0.0.0 pdf.com.pl
 0.0.0.0 pegasuswebco.com
-0.0.0.0 pegra.pl
 0.0.0.0 perfect-coll.pl
 0.0.0.0 photook.vxm.pl
 0.0.0.0 phytolast.com
@@ -578,7 +566,6 @@
 0.0.0.0 pobierz-online.co.pl
 0.0.0.0 pobraniowo.pl
 0.0.0.0 pogotowiekomputerowe.net
-0.0.0.0 pogotowie-komputerowe24h.warszawa.pl
 0.0.0.0 poland.fizzyslim.biz
 0.0.0.0 pole-henny.com
 0.0.0.0 polska-tv.pl
@@ -714,12 +701,10 @@
 0.0.0.0 szybka-pozyczka.com
 0.0.0.0 szybka-wyplata.pl
 0.0.0.0 talkfusion.com
-0.0.0.0 technoclub.space
 0.0.0.0 teespoon.co
 0.0.0.0 teleaudio.pl
 0.0.0.0 telecop.in.net
 0.0.0.0 tengofoxfiles.com
-0.0.0.0 testclub.pl
 0.0.0.0 testony.com
 0.0.0.0 testuj-iq.info
 0.0.0.0 thermomix.vorwerk.pl
@@ -851,7 +836,6 @@
 0.0.0.0 www.genetrk.com
 0.0.0.0 www.geniustrainer.net
 0.0.0.0 www.getcouponsfast.com
-0.0.0.0 www.getdataback.pl
 0.0.0.0 www.globalintergold.com
 0.0.0.0 www.grumman.pl
 0.0.0.0 www.grupadsa.pl
@@ -880,12 +864,10 @@
 0.0.0.0 www.lrworld.com
 0.0.0.0 www.lucyfeed.com
 0.0.0.0 www.lyoness.com
-0.0.0.0 www.maczyn.pl
 0.0.0.0 www.madagascaroasis.org
 0.0.0.0 www.mariza.com.pl
 0.0.0.0 www.marykay.pl
 0.0.0.0 www.megachiny.eu
-0.0.0.0 www.milletpolska.pl
 0.0.0.0 www.mistrzmotywacji.pl
 0.0.0.0 www.mkaltenpflege24h.pl
 0.0.0.0 www.mobiluj.eu
@@ -1049,12 +1031,10 @@
 0.0.0.0 zakupyagd.net
 0.0.0.0 zakupymax.net
 0.0.0.0 zalukajfilmy.pl
-0.0.0.0 zantech.pl
 0.0.0.0 zapraszamybowarto.pl
 0.0.0.0 zarabianiefb.club
 0.0.0.0 zastrzyk-gotowki.waw.pl
 0.0.0.0 zdaj-to.pl
-0.0.0.0 zdalnehobby.pl
 0.0.0.0 zebrapozyczki.pl
 0.0.0.0 zennoa-poland.com
 0.0.0.0 zmotoryzowani24.pl
@@ -1253,18 +1233,19 @@
 0.0.0.0 7228.eu
 0.0.0.0 abbp35.com
 0.0.0.0 adobe.5v.pl
-0.0.0.0 ajakbytak.pl
 0.0.0.0 akazoo.pl
 0.0.0.0 allplayer.pl
 0.0.0.0 all-player.pl
 0.0.0.0 androidsecurityplus.com
 0.0.0.0 appiq.mobi
 0.0.0.0 apple.com-care-macbook-system.live
+0.0.0.0 apple.com-fasting.live
 0.0.0.0 apple.com-improve-macos.live
 0.0.0.0 apple.com-macos-clean-systems.live
 0.0.0.0 apple.com-repair.live
 0.0.0.0 apple.com-repair-macbook.live
 0.0.0.0 apple.com-repair-os.live
+0.0.0.0 apple.com-scan.live
 0.0.0.0 apple.com-speedup-macbook.live
 0.0.0.0 apple.com-speedup-macos.live
 0.0.0.0 apple.com-speed-macos.live
@@ -1302,7 +1283,6 @@
 0.0.0.0 domainreward.site
 0.0.0.0 domniespodzianek.com
 0.0.0.0 dotabet103.com
-0.0.0.0 downfiles.pl
 0.0.0.0 download24.site
 0.0.0.0 downloadfiles.pl
 0.0.0.0 downloads-mobile.com
@@ -1318,6 +1298,7 @@
 0.0.0.0 faceapp.eu
 0.0.0.0 facewatch.borec.cz
 0.0.0.0 failmobile.net
+0.0.0.0 fajne-filmy.pl
 0.0.0.0 faktopedia.com.pl
 0.0.0.0 fbpodgladacz.wordpress.com
 0.0.0.0 filebay.org
@@ -1378,6 +1359,7 @@
 0.0.0.0 ilovemobi.com
 0.0.0.0 instantdownloadsz.com
 0.0.0.0 interia-zabezpieczenia.pl
+0.0.0.0 internet-security-73bd67kl.tk
 0.0.0.0 islandmob.com
 0.0.0.0 i-chomik.pl
 0.0.0.0 i-chomikuj.pl
@@ -1483,6 +1465,7 @@
 0.0.0.0 relayimmo.com
 0.0.0.0 restricted.pl
 0.0.0.0 reward2496.harddayforall9.icu
+0.0.0.0 reward5191.srli20.agency
 0.0.0.0 rzeczyzadarmo.pl
 0.0.0.0 sadman2.agency
 0.0.0.0 searchrapid.pl
@@ -1506,7 +1489,6 @@
 0.0.0.0 speedfile.info
 0.0.0.0 sportowy-stream.pl
 0.0.0.0 sprawdzikk.v0r.org
-0.0.0.0 ssl.cf6.rackcdn.com
 0.0.0.0 steamco.de
 0.0.0.0 steam-wallet-gifts.com
 0.0.0.0 steam-wallet-money.com
@@ -1552,6 +1534,7 @@
 0.0.0.0 widget-eforsa.pl
 0.0.0.0 www.doladowywacztel.pl
 0.0.0.0 www.gryjava.gsm.pl
+0.0.0.0 www.jutup.pl
 0.0.0.0 www.mobilejmp.com
 0.0.0.0 www.mobjmp.com
 0.0.0.0 www.softmania.pl
@@ -1724,7 +1707,6 @@
 0.0.0.0 www.elavepene.us
 0.0.0.0 www.fileoasis.net
 0.0.0.0 www.fun2cell.net
-0.0.0.0 www.getdataback.pl
 0.0.0.0 www.gojiberry500.pl
 0.0.0.0 www.jacketspolska.cn
 0.0.0.0 www.klikijuz.com
@@ -1744,9 +1726,11 @@
 0.0.0.0 www.updatestar.com
 0.0.0.0 www.verifycaptcha.com
 0.0.0.0 www.apple.com-care-macbook-system.live
+0.0.0.0 www.apple.com-fasting.live
 0.0.0.0 www.apple.com-improve-macos.live
 0.0.0.0 www.apple.com-repair.live
 0.0.0.0 www.apple.com-repair-macbook.live
+0.0.0.0 www.apple.com-scan.live
 0.0.0.0 www.apple.com-speedup-macbook.live
 0.0.0.0 www.apple.com-speedup-macos.live
 0.0.0.0 www.apple.com-speed-macos.live
