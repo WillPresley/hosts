@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 14 May 2019 10:29:10 GMT
-# entries:        2947
+# last updated:   Thu, 23 May 2019 11:40:21 GMT
+# entries:        2943
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 25 May 1999 00:00:00
+# start date:    Mon, 31 May 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -637,7 +637,6 @@
 0.0.0.0 ads.wapx.cn
 0.0.0.0 ads.watson.ch
 0.0.0.0 ads.weather.ca
-0.0.0.0 ads.web.aol.com
 0.0.0.0 ads.web.cs.com
 0.0.0.0 ads.web.de
 0.0.0.0 ads.webmasterpoint.org
@@ -1077,7 +1076,6 @@
 0.0.0.0 bbn.img.com.ua
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beamincrease.com
-0.0.0.0 beamkite.com
 0.0.0.0 bebi.com
 0.0.0.0 bedsbreath.com
 0.0.0.0 begun.ru
@@ -1217,6 +1215,7 @@
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1275,7 +1274,6 @@
 0.0.0.0 colonize.com
 0.0.0.0 comclick.com
 0.0.0.0 comfortablecheese.com
-0.0.0.0 commandwalk.com
 0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
 0.0.0.0 commonswing.com
@@ -1350,7 +1348,6 @@
 0.0.0.0 critictruck.com
 0.0.0.0 croissed.info
 0.0.0.0 crowdgravity.com
-0.0.0.0 crownclam.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctnetwork.hu
@@ -1387,7 +1384,6 @@
 0.0.0.0 deepintent.com
 0.0.0.0 defectivesun.com
 0.0.0.0 delegatediscussion.com
-0.0.0.0 delightdriving.com
 0.0.0.0 deloo.de
 0.0.0.0 deloton.com
 0.0.0.0 demandbase.com
@@ -1402,7 +1398,6 @@
 0.0.0.0 dialerporn.com
 0.0.0.0 dianomi.com
 0.0.0.0 didtheyreadit.com
-0.0.0.0 differentdesk.com
 0.0.0.0 digital-ads.s3.amazonaws.com
 0.0.0.0 digitalmerkat.com
 0.0.0.0 direct-xxx-access.com
@@ -1417,6 +1412,7 @@
 0.0.0.0 displayadsmedia.com
 0.0.0.0 disqusads.com
 0.0.0.0 dist.belnk.com
+0.0.0.0 distillery.wistia.com
 0.0.0.0 dk4ywix.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtracking.alibaba.com
@@ -1609,7 +1605,6 @@
 0.0.0.0 gamesites100.net
 0.0.0.0 gamesites200.com
 0.0.0.0 gammamaximum.com
-0.0.0.0 gbanners.hornymatches.com
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geovisite.com
@@ -1865,6 +1860,7 @@
 0.0.0.0 linkswaper.com
 0.0.0.0 linktarget.com
 0.0.0.0 liquidad.narrowcastmedia.com
+0.0.0.0 litix.io
 0.0.0.0 liveadexchanger.com
 0.0.0.0 liveintent.com
 0.0.0.0 liverail.com
@@ -2039,14 +2035,10 @@
 0.0.0.0 nbjmp.com
 0.0.0.0 ncaudienceexchange.com
 0.0.0.0 ndparking.com
-0.0.0.0 nedstat.com
-0.0.0.0 nedstat.nl
 0.0.0.0 nedstatbasic.net
-0.0.0.0 nedstatpro.net
 0.0.0.0 neighborlywatch.com
 0.0.0.0 nend.net
 0.0.0.0 neocounter.neoworx-blog-tools.net
-0.0.0.0 neoffic.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 net-filter.com
 0.0.0.0 netaffiliation.com
@@ -2206,6 +2198,7 @@
 0.0.0.0 pietexture.com
 0.0.0.0 pimproll.com
 0.0.0.0 ping.ublock.org
+0.0.0.0 pipedream.wistia.com
 0.0.0.0 pippio.com
 0.0.0.0 piquantpigs.com
 0.0.0.0 pix.spot.im
@@ -2537,6 +2530,7 @@
 0.0.0.0 spotx.tv
 0.0.0.0 spotxchange.com
 0.0.0.0 springaftermath.com
+0.0.0.0 spulse.net
 0.0.0.0 spurioussteam.com
 0.0.0.0 spykemediatrack.com
 0.0.0.0 spylog.com
@@ -2545,6 +2539,7 @@
 0.0.0.0 squirrelhands.com
 0.0.0.0 srvmath.com
 0.0.0.0 srwww1.com
+0.0.0.0 st.dynamicyield.com
 0.0.0.0 stackadapt.com
 0.0.0.0 stakingscrew.com
 0.0.0.0 stakingslope.com
@@ -2827,6 +2822,7 @@
 0.0.0.0 vmmpxl.com
 0.0.0.0 voicefive.com
 0.0.0.0 voicevegetable.com
+0.0.0.0 voluum.com
 0.0.0.0 volvelle.tech
 0.0.0.0 vpon.com
 0.0.0.0 vrs.cz
