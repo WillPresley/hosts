@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 31 May 2019 17:00:29 GMT
-# entries:        2949
+# last updated:   Wed, 05 Jun 2019 09:11:26 GMT
+# entries:        2950
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 08 Jun 1999 00:00:00
+# start date:    Thu, 24 Jun 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -1218,7 +1218,6 @@
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
 0.0.0.0 click.fool.com
-0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
 0.0.0.0 clickability.com
 0.0.0.0 clickadz.com
@@ -1325,7 +1324,6 @@
 0.0.0.0 counter.sparklit.com
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.honesty.com
-0.0.0.0 counting.kmindex.ru
 0.0.0.0 counts.tucows.com
 0.0.0.0 coupling-media.de
 0.0.0.0 cp.abbp1.pw
@@ -1987,6 +1985,7 @@
 0.0.0.0 mmismm.com
 0.0.0.0 mmstat.com
 0.0.0.0 mmtro.com
+0.0.0.0 moat.com
 0.0.0.0 moatads.com
 0.0.0.0 moatpixel.com
 0.0.0.0 mobclix.com
@@ -2263,6 +2262,7 @@
 0.0.0.0 promotion-campaigns.com
 0.0.0.0 pronetadvertising.com
 0.0.0.0 propellerads.com
+0.0.0.0 proper.io
 0.0.0.0 props.id
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com
@@ -2922,6 +2922,7 @@
 0.0.0.0 xovq5nemr.com
 0.0.0.0 xplusone.com
 0.0.0.0 xponsor.com
+0.0.0.0 xq1.net
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtremetop100.com
 0.0.0.0 xxxcounter.com
