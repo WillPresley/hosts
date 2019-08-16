@@ -1,8 +1,8 @@
 {
     "name": "Cryptecks - Spybot List",
     "description": "A version of the built-in Spybot Search and Destroy quarantine list.",
-    "homeurl": "https://cryptecks.cf/",
-    "frequency": "occasionally",
-    "issues": "https://willpresley.cf/",
-    "url": "https://cryptecks.cf/hosts/spybot-list/hosts"
+    "homeurl": "https://hosts.willpresley.com/",
+    "frequency": "biweekly",
+    "issues": "https://github.com/WillPresley",
+    "url": "https://hosts.willpresley.com/list/spybot-list/hosts"
 }

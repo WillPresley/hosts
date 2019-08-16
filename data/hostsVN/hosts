@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 11 Aug 2019 22:20 UTC+7
-# Blocked: 811 domains
+# Last modified: 16 Aug 2019 09:51 UTC+7
+# Blocked: 945 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -202,23 +202,35 @@
 0.0.0.0 ads-target.coccoc.com
 0.0.0.0 banners-gallery.coccoc.com
 0.0.0.0 catalog.qc.coccoc.com
+0.0.0.0 cdn-qc.coccoc.com
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 cdn.qc.coccoc.com
-0.0.0.0 cdn-qc.coccoc.com
 0.0.0.0 context.qc.coccoc.com
 0.0.0.0 cp.qc.coccoc.com
 0.0.0.0 display.qc.coccoc.com
 0.0.0.0 metrics.coccoc.com
 0.0.0.0 nt-cdn.coccoc.com
 0.0.0.0 ntrb.qc.coccoc.com
-0.0.0.0 qc.coccoc.com
 0.0.0.0 qc-static.coccoc.com
+0.0.0.0 qc.coccoc.com
 0.0.0.0 searcher.qc.coccoc.com
+0.0.0.0 shop-cdn.coccoc.com
 0.0.0.0 shopping.coccoc.com
 0.0.0.0 qccoccocmedia.vn
 0.0.0.0 qc.coccoc.vn
 0.0.0.0 itim.vn
 0.0.0.0 spell.itim.vn
+#[rungrinh.vn]
+0.0.0.0 cdn.rungrinh.vn
+0.0.0.0 cdn1.rungrinh.vn
+0.0.0.0 dev-payment.rungrinh.vn
+0.0.0.0 dev.rungrinh.vn
+0.0.0.0 payment.rungrinh.vn
+0.0.0.0 rungrinh.vn
+0.0.0.0 staging.rungrinh.vn
+0.0.0.0 static.rungrinh.vn
+0.0.0.0 tds.rungrinh.vn
+0.0.0.0 www.rungrinh.vn
 #[lavanetwork]
 0.0.0.0 ad.lavanetwork.net
 0.0.0.0 ad1.lavanetwork.net
@@ -318,10 +330,13 @@
 0.0.0.0 xmas.adtima.vn
 #[ad360]
 0.0.0.0 ad360.vn
-0.0.0.0 xcache.ad360.vn
-0.0.0.0 tracking.ad360.vn
+0.0.0.0 advertiser.ad360.vn
+0.0.0.0 khuyenmaitet.ad360.vn
 0.0.0.0 provider.ad360.vn
+0.0.0.0 s.ad360.vn
+0.0.0.0 tracking.ad360.vn
 0.0.0.0 www.ad360.vn
+0.0.0.0 xcache.ad360.vn
 #[vietnamnetad]
 0.0.0.0 client.vietnamnetad.vn
 0.0.0.0 f.vietnamnetad.vn
@@ -361,24 +376,59 @@
 0.0.0.0 log.zingmp3.vn
 0.0.0.0 zlog.zingmp3.vn
 #[vietad]
+0.0.0.0 ads.vietad.vn
+0.0.0.0 as.vietad.vn
+0.0.0.0 banner.vietad.vn
+0.0.0.0 cpd.vietad.vn
+0.0.0.0 display.vietad.vn
+0.0.0.0 embed.vietad.vn
+0.0.0.0 i.vietad.vn
+0.0.0.0 img.vietad.vn
+0.0.0.0 logb20.vietad.vn
+0.0.0.0 logb21.vietad.vn
+0.0.0.0 logb22.vietad.vn
+0.0.0.0 logb23.vietad.vn
+0.0.0.0 logb3.vietad.vn
+0.0.0.0 logw.vietad.vn
+0.0.0.0 nlb.vietad.vn
 0.0.0.0 vietad.vn
 0.0.0.0 www.vietad.vn
-0.0.0.0 app.vietad.vn
+0.0.0.0 z.vietad.vn
+0.0.0.0 zone.vietad.vn
 #[accesstrade]
+0.0.0.0 academy.accesstrade.vn
 0.0.0.0 accesstrade.vn
-0.0.0.0 static.accesstrade.vn
+0.0.0.0 ad.accesstrade.vn
+0.0.0.0 api.accesstrade.vn
 0.0.0.0 campaign.accesstrade.vn
-0.0.0.0 help.accesstrade.vn
+0.0.0.0 cdn.accesstrade.vn
+0.0.0.0 click.accesstrade.vn
 0.0.0.0 cv.accesstrade.vn
+0.0.0.0 dangky.accesstrade.vn
+0.0.0.0 docs.accesstrade.vn
 0.0.0.0 duatop.accesstrade.vn
-0.0.0.0 member.accesstrade.vn
-0.0.0.0 imp.accesstrade.vn
+0.0.0.0 fast.accesstrade.vn
 0.0.0.0 forum.accesstrade.vn
-0.0.0.0 fast.accesstrade.com.vn
+0.0.0.0 help.accesstrade.vn
+0.0.0.0 imp.accesstrade.vn
+0.0.0.0 lotte.accesstrade.vn
+0.0.0.0 mascot.accesstrade.vn
+0.0.0.0 member.accesstrade.vn
+0.0.0.0 partner.accesstrade.vn
+0.0.0.0 pub.accesstrade.vn
+0.0.0.0 restream.accesstrade.vn
+0.0.0.0 static.accesstrade.vn
+0.0.0.0 superbox.accesstrade.vn
+0.0.0.0 top2017.accesstrade.vn
+0.0.0.0 tuyendung.accesstrade.vn
+0.0.0.0 track.accesstrade.vn
+0.0.0.0 www.accesstrade.vn
 0.0.0.0 accesstrade.com.vn
-0.0.0.0 accesstrade.com
+0.0.0.0 click.accesstrade.com.vn
+0.0.0.0 fast.accesstrade.com.vn	
 #[subiz.com]
 0.0.0.0 agent-data.subiz.com
+0.0.0.0 api.subiz.com
 0.0.0.0 apiv4.subiz.com
 0.0.0.0 app.subiz.com
 0.0.0.0 css-dashboard.subiz.com
@@ -400,6 +450,7 @@
 0.0.0.0 subiz.com
 0.0.0.0 support.subiz.com
 0.0.0.0 widget.subiz.com
+0.0.0.0 widget-4.subiz.com
 0.0.0.0 widget-api.subiz.com
 0.0.0.0 widget-css.subiz.com
 0.0.0.0 widgetv4.subiz.com
@@ -408,26 +459,51 @@
 0.0.0.0 ws-widget-lb-2.subiz.com
 0.0.0.0 www.subiz.com
 #[anthill]
-0.0.0.0 st-a-id.anthill.vn
+0.0.0.0 a.anthill.vn
 0.0.0.0 anthill.vn
-0.0.0.0 st.a.anthill.vn
-0.0.0.0 origin-c0.anthill.vn
 0.0.0.0 atrack-a.anthill.vn
-0.0.0.0 origin-st-a.anthill.vn
-0.0.0.0 staging-e.anthill.vn
-0.0.0.0 origin-e.anthill.vn
-0.0.0.0 p.anthill.vn
-0.0.0.0 st-a.anthill.vn
-0.0.0.0 st-analytics.anthill.vn
+0.0.0.0 c0.anthill.vn
+0.0.0.0 c0.st.anthill.vn
+0.0.0.0 c0-vcdn.anthill.vn
+0.0.0.0 d.anthill.vn
+0.0.0.0 e.anthill.vn
 0.0.0.0 e-vcdn.anthill.vn
+0.0.0.0 i0.anthill.vn
+0.0.0.0 i0-vcdn.anthill.vn
+0.0.0.0 origin-c0.anthill.vn
+0.0.0.0 origin-e.anthill.vn
+0.0.0.0 origin-st-a.anthill.vn
+0.0.0.0 p.anthill.vn
+0.0.0.0 st.a.anthill.vn
+0.0.0.0 st.anthill.vn
+0.0.0.0 st-a.anthill.vn
+0.0.0.0 staging-e.anthill.vn
+0.0.0.0 staging-e-vcdn.anthill.vn
+0.0.0.0 st-a-id.anthill.vn
+0.0.0.0 st-analytics.anthill.vn
+0.0.0.0 st-vcdn.anthill.vn
+0.0.0.0 v0.anthill.vn
+0.0.0.0 v0-vcdn.anthill.vn
+0.0.0.0 v3-ads-st-vcdn.anthill.vn
+0.0.0.0 v3-st-vcdn.anthill.vn
+0.0.0.0 vcdn.anthill.vn
+0.0.0.0 www.anthill.vn
 #[gammaplatform]
+0.0.0.0 app.gammaplatform.com
+0.0.0.0 clk.gammaplatform.com
+0.0.0.0 cm.gammaplatform.com
+0.0.0.0 cm-supply-web.gammaplatform.com
 0.0.0.0 gammaplatform.com
+0.0.0.0 hb.gammaplatform.com
+0.0.0.0 imp.gammaplatform.com
+0.0.0.0 in-view.gammaplatform.com
 0.0.0.0 login.gammaplatform.com
+0.0.0.0 static.gammaplatform.com
 0.0.0.0 stc.gammaplatform.com
 0.0.0.0 t.gammaplatform.com
 0.0.0.0 tag.gammaplatform.com
-0.0.0.0 imp.gammaplatform.com
-0.0.0.0 hb.gammaplatform.com
+0.0.0.0 track.gammaplatform.com
+0.0.0.0 www.gammaplatform.com
 #[yomedia]
 0.0.0.0 yomedia.vn
 0.0.0.0 static.yomedia.vn
@@ -595,6 +671,64 @@
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 static.ad.org.vn
 0.0.0.0 www.ad.org.vn
+#[cityads.com]
+0.0.0.0 adv.cityads.com
+0.0.0.0 ali.cityads.com
+0.0.0.0 aliexpress-summer.cityads.com
+0.0.0.0 api.cityads.com
+0.0.0.0 auth.cityads.com
+0.0.0.0 auth2.cityads.com
+0.0.0.0 blog.cityads.com
+0.0.0.0 cdn.cityads.com
+0.0.0.0 cdn77.cityads.com
+0.0.0.0 challenge.cityads.com
+0.0.0.0 checker.cityads.com
+0.0.0.0 cityads.com
+0.0.0.0 cnt.cityads.com
+0.0.0.0 demobl.cityads.com
+0.0.0.0 developers.cityads.com
+0.0.0.0 dsp.cityads.com
+0.0.0.0 finance.cityads.com
+0.0.0.0 games.cityads.com
+0.0.0.0 geo.cityads.com
+0.0.0.0 grand-prix.cityads.com
+0.0.0.0 help.cityads.com
+0.0.0.0 infiniti.cityads.com
+0.0.0.0 join.cityads.com
+0.0.0.0 keitaro1.cityads.com
+0.0.0.0 love.cityads.com
+0.0.0.0 m.cityads.com
+0.0.0.0 market.cityads.com
+0.0.0.0 mvas.cityads.com
+0.0.0.0 mx00.cityads.com
+0.0.0.0 mxs01.cityads.com
+0.0.0.0 mxs02.cityads.com
+0.0.0.0 new.cityads.com
+0.0.0.0 nl-geo.cityads.com
+0.0.0.0 o.cityads.com
+0.0.0.0 out1.cityads.com
+0.0.0.0 out2.cityads.com
+0.0.0.0 out3.cityads.com
+0.0.0.0 promo.cityads.com
+0.0.0.0 redmine.cityads.com
+0.0.0.0 ru-geo.cityads.com
+0.0.0.0 september.cityads.com
+0.0.0.0 sg.cityads.com
+0.0.0.0 tinkoff.cityads.com
+0.0.0.0 us-geo.cityads.com
+0.0.0.0 userdocs.cityads.com
+0.0.0.0 wp-cdn.cityads.com
+0.0.0.0 www.cityads.com
+#[adsota]
+0.0.0.0 ads.appota.com
+0.0.0.0 adsota.com
+0.0.0.0 agency.adsota.com
+0.0.0.0 app.adsota.com
+0.0.0.0 dashboard.adsota.com
+0.0.0.0 highlandscoffee.adsota.com
+0.0.0.0 static.adsota.com
+0.0.0.0 track.adsota.com
+0.0.0.0 www.adsota.com
 # --- Block ads & tracking VN ---
 #[adsVN]
 0.0.0.0 123c.vn
@@ -694,8 +828,10 @@
 0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.explus.vn
 0.0.0.0 analytics.thethao247.org
+0.0.0.0 analytics.tiki.vn
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 collect.ovp.vn
+0.0.0.0 elogs.vnexpress.net
 0.0.0.0 fbuser.ovp.vn
 0.0.0.0 hc.viam.com.vn
 0.0.0.0 hostmaster.trending.vn
@@ -735,6 +871,7 @@
 0.0.0.0 tracking.appwifi.com
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 trackingapi.foody.vn
+0.0.0.0 trackity.tiki.vn
 0.0.0.0 trending.vn
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 viam.com.vn
