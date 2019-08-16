@@ -3,7 +3,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: 16 August 2019 19:54:06 (GMT)
+# Date: 16 August 2019 20:15:09 (GMT)
 # Extensions added to this file: cryptecks-adobe, fakenews
 # Number of unique domains: 114,556
 #
@@ -13,6 +13,9 @@
 #
 # ===============================================================
 
+# Custom host records are listed here.
+
+# Take care of non-specific local interfaces here
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -27,10 +30,6 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 AMORY
-127.0.0.53 AMORY
-
-# Custom host records are listed here.
 
 # Sublime Text 3 Licensing
 0.0.0.0 license.sublimehq.com
