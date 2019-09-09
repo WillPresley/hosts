@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 14 Aug 2019 10:13:56 GMT
-# entries:        3023
+# last updated:   Fri, 06 Sep 2019 11:50:09 GMT
+# entries:        3022
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 01 Sep 1999 00:00:00
+# start date:    Tue, 14 Sep 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -45,7 +45,6 @@
 0.0.0.0 7search.com
 0.0.0.0 82o9v830.com
 0.0.0.0 99count.com
-0.0.0.0 a-ads.com
 0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.consumer.net
 0.0.0.0 a.mktw.net
@@ -69,6 +68,7 @@
 0.0.0.0 absurdwater.com
 0.0.0.0 abz.com
 0.0.0.0 ac.rnm.ca
+0.0.0.0 acceptable.a-ads.com
 0.0.0.0 acridtwist.com
 0.0.0.0 actionsplash.com
 0.0.0.0 actualdeals.com
@@ -91,6 +91,7 @@
 0.0.0.0 ad-up.com
 0.0.0.0 ad.100.tbn.ru
 0.0.0.0 ad.71i.de
+0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.a8.net
 0.0.0.0 ad.abcnews.com
 0.0.0.0 ad.abctv.com
@@ -373,7 +374,6 @@
 0.0.0.0 ads.batpmturner.com
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.berlinonline.de
-0.0.0.0 ads.betanews.com
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.bigchurch.com
 0.0.0.0 ads.bigfoot.com
@@ -479,7 +479,6 @@
 0.0.0.0 ads.guardianunlimited.co.uk
 0.0.0.0 ads.guru3d.com
 0.0.0.0 ads.harpers.org
-0.0.0.0 ads.harvard.edu
 0.0.0.0 ads.hbv.de
 0.0.0.0 ads.hearstmags.com
 0.0.0.0 ads.heartlight.org
@@ -690,7 +689,7 @@
 0.0.0.0 ads8.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsatt.abc.starwave.com
-0.0.0.0 Adsatt.ABCNews.starwave.com
+0.0.0.0 adsatt.abcnews.starwave.com
 0.0.0.0 adsatt.espn.go.com
 0.0.0.0 adsatt.espn.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
@@ -1112,7 +1111,6 @@
 0.0.0.0 bigclicks.com
 0.0.0.0 billboard.cz
 0.0.0.0 biosda.com
-0.0.0.0 bitads.net
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bizad.nikkeibp.co.jp
 0.0.0.0 bizible.com
@@ -1134,7 +1132,6 @@
 0.0.0.0 blushingboundary.com
 0.0.0.0 bm.annonce.cz
 0.0.0.0 bn.bfast.com
-0.0.0.0 boersego-ads.de
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingumbrella.com
 0.0.0.0 boomads.com
@@ -1230,6 +1227,7 @@
 0.0.0.0 claria.com
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
+0.0.0.0 click.a-ads.com
 0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
@@ -1599,7 +1597,6 @@
 0.0.0.0 freepay.com
 0.0.0.0 freeskreen.com
 0.0.0.0 freestats.com
-0.0.0.0 freestats.tv
 0.0.0.0 freewebcounter.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 frightenedpotato.com
@@ -2043,6 +2040,7 @@
 0.0.0.0 mopub.com
 0.0.0.0 mouseflow.com
 0.0.0.0 mousestats.com
+0.0.0.0 movad.net
 0.0.0.0 mowfruit.com
 0.0.0.0 mpstat.us
 0.0.0.0 mr-rank.de
@@ -2071,7 +2069,6 @@
 0.0.0.0 mytop-in.net
 0.0.0.0 mytrafficads.com
 0.0.0.0 myvisualiq.net
-0.0.0.0 mzbcdn.net
 0.0.0.0 n69.com
 0.0.0.0 naj.sk
 0.0.0.0 nastydollars.com
@@ -2277,7 +2274,6 @@
 0.0.0.0 possibleboats.com
 0.0.0.0 postback.iqm.com
 0.0.0.0 postrelease.com
-0.0.0.0 potenza.cz
 0.0.0.0 pr-star.de
 0.0.0.0 praddpro.de
 0.0.0.0 prchecker.info
@@ -2304,7 +2300,6 @@
 0.0.0.0 promos.bwin.it
 0.0.0.0 promos.fling.com
 0.0.0.0 promote.pair.com
-0.0.0.0 promotion-campaigns.com
 0.0.0.0 pronetadvertising.com
 0.0.0.0 propellerads.com
 0.0.0.0 proper.io
@@ -2376,6 +2371,7 @@
 0.0.0.0 ratings.lycos.com
 0.0.0.0 rayjump.com
 0.0.0.0 rb1.design.ru
+0.0.0.0 re-directme.com
 0.0.0.0 reachjunction.com
 0.0.0.0 reactx.com
 0.0.0.0 readgoldfish.com
@@ -2396,6 +2392,7 @@
 0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.mrwin.com
 0.0.0.0 redirectvoluum.com
+0.0.0.0 redshell.io
 0.0.0.0 referralware.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reflectivereward.com
@@ -2614,6 +2611,7 @@
 0.0.0.0 stat24.com
 0.0.0.0 stat24.meta.ua
 0.0.0.0 statcounter.com
+0.0.0.0 static.a-ads.com
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.itrack.it
 0.0.0.0 staticads.btopenworld.com
@@ -2820,6 +2818,7 @@
 0.0.0.0 traktrafficflow.com
 0.0.0.0 tranquilside.com
 0.0.0.0 travis.bosscasinos.com
+0.0.0.0 treasuredata.com
 0.0.0.0 trekdata.com
 0.0.0.0 tremendoustime.com
 0.0.0.0 trendcounter.com
@@ -2890,6 +2889,7 @@
 0.0.0.0 visistat.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 visitbox.de
+0.0.0.0 visitpath.com
 0.0.0.0 visual-pagerank.fr
 0.0.0.0 visualrevenue.com
 0.0.0.0 vivtracking.com
@@ -3030,7 +3030,6 @@
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
 0.0.0.0 zlp6s.pw
-0.0.0.0 zm232.com
 0.0.0.0 zmedia.com
 0.0.0.0 zqtk.net
 0.0.0.0 zy16eoat1w.com

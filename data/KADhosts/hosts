@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed przekretami takimi jak subskrypcje SMS
-# Last modified: Tue, 27 Aug 2019, 14:01 UTC+02
-# Version: 2019.8.27.1
+# Last modified: Mon, 09 Sep 2019, 18:33 UTC+02
+# Version: 2019.9.9.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -114,7 +114,6 @@
 0.0.0.0 bestpromocenter.com
 0.0.0.0 bestselections.top
 0.0.0.0 betterware.pl
-0.0.0.0 bewox.net
 0.0.0.0 beyourbest.pl
 0.0.0.0 bezbiku.pro
 0.0.0.0 be-wild.pl
@@ -149,6 +148,7 @@
 0.0.0.0 buty-shoes4u.pl
 0.0.0.0 buzzonclick.com
 0.0.0.0 calivita.com
+0.0.0.0 calzini.org
 0.0.0.0 casada.pl
 0.0.0.0 casadasklep.pl
 0.0.0.0 cashbackworld.com
@@ -157,6 +157,7 @@
 0.0.0.0 cda-bez-limitu.pl
 0.0.0.0 cda-filmy.com.pl
 0.0.0.0 cedino.pl
+0.0.0.0 cello24.net
 0.0.0.0 centrumdxn.pl
 0.0.0.0 centrumfantastyki.pl
 0.0.0.0 centrummarek.pl
@@ -219,6 +220,7 @@
 0.0.0.0 daswallet.com
 0.0.0.0 davor.io
 0.0.0.0 decynsire.com
+0.0.0.0 deloxar.pl
 0.0.0.0 derotel.com
 0.0.0.0 dietovo.pl
 0.0.0.0 dietstars.pro
@@ -253,8 +255,10 @@
 0.0.0.0 earthpowerint.com
 0.0.0.0 easynet.pierre-lang.com
 0.0.0.0 ebeautyportal.com
+0.0.0.0 ebobel.pl
 0.0.0.0 ebook4all.com.pl
 0.0.0.0 ebuty.net.pl
+0.0.0.0 ebuty.org.pl
 0.0.0.0 ecoflow.pl
 0.0.0.0 ecomotto.pl
 0.0.0.0 ecoslimmer.pro
@@ -265,6 +269,7 @@
 0.0.0.0 ekstrafilmy24.pl
 0.0.0.0 electrocity24.pl
 0.0.0.0 elektro24h.pl
+0.0.0.0 elektromax.in.net
 0.0.0.0 elepta.pl
 0.0.0.0 elite-crack.ml
 0.0.0.0 emobi-sys.com
@@ -538,6 +543,7 @@
 0.0.0.0 maendo.tv
 0.0.0.0 magiskmanager.com
 0.0.0.0 manaslu.pl
+0.0.0.0 manilis.com
 0.0.0.0 marekporwol.pl
 0.0.0.0 mariuszpelczarski.pl
 0.0.0.0 mariza.com.pl
@@ -572,7 +578,6 @@
 0.0.0.0 mobilerewards.io
 0.0.0.0 mobiluj.sk
 0.0.0.0 mobverify.com
-0.0.0.0 modi4moda.com
 0.0.0.0 modwebpro.pl
 0.0.0.0 mojadedra.pl
 0.0.0.0 mojadietanamase.pl
@@ -592,11 +597,11 @@
 0.0.0.0 moviestarplanet-hack.org.pl
 0.0.0.0 moviestarplanet-haki-i-kody.crazylife.pl
 0.0.0.0 mozebyctwoje.com
-0.0.0.0 mspbooster.com
 0.0.0.0 msphacks.net
 0.0.0.0 muflena.pl
 0.0.0.0 muverbo.pl
 0.0.0.0 myacn.eu
+0.0.0.0 mydlokreacja.pl
 0.0.0.0 myduolife.com
 0.0.0.0 mylocker.pl
 0.0.0.0 myway.com
@@ -788,6 +793,7 @@
 0.0.0.0 refundacjeregionalne.pl
 0.0.0.0 reimageplus.com
 0.0.0.0 rep.privatesearch.club
+0.0.0.0 retrortv.in.net
 0.0.0.0 rezacze.pl
 0.0.0.0 riverparkbaseball.org
 0.0.0.0 robloxhack.pl
@@ -893,6 +899,7 @@
 0.0.0.0 taniebutyonlinesklep.pl
 0.0.0.0 taniebutysportowe.com
 0.0.0.0 taniemedia.pl
+0.0.0.0 tanie-wapnowanie.pl
 0.0.0.0 teamworkmlm.pl
 0.0.0.0 teespoon.co
 0.0.0.0 teleaudio.pl
@@ -922,6 +929,7 @@
 0.0.0.0 track.adsfast.com
 0.0.0.0 trackgsm.co.uk
 0.0.0.0 tracksms.pl
+0.0.0.0 transegz.pl
 0.0.0.0 triggerinstalls.com
 0.0.0.0 tri-book.pl
 0.0.0.0 trustedirectdownload.com
@@ -950,6 +958,7 @@
 0.0.0.0 urwijnagrody.pl
 0.0.0.0 usa.cc
 0.0.0.0 usunwirusa.pl
+0.0.0.0 vadecorso.pl
 0.0.0.0 vansallegro.pl
 0.0.0.0 vanssk8hi.pl
 0.0.0.0 vantis-holding.com
@@ -982,6 +991,8 @@
 0.0.0.0 w2mobile.com
 0.0.0.0 w65.pl
 0.0.0.0 wartomiec.pl
+0.0.0.0 wdrodzenaratunek.pl
+0.0.0.0 websuit.pl
 0.0.0.0 web-online.pl
 0.0.0.0 wellstar-company.com
 0.0.0.0 wellu.eu
@@ -992,6 +1003,7 @@
 0.0.0.0 wielkanagroda.com
 0.0.0.0 wielkaniespodzianka.pl
 0.0.0.0 wifiprotector.com
+0.0.0.0 winfactory.pl
 0.0.0.0 wirtuozseksu.pl
 0.0.0.0 wisebanc.com
 0.0.0.0 wlatech.pl
@@ -1083,7 +1095,6 @@
 0.0.0.0 www.bestpromocenter.com
 0.0.0.0 www.bestselections.top
 0.0.0.0 www.betterware.pl
-0.0.0.0 www.bewox.net
 0.0.0.0 www.beyourbest.pl
 0.0.0.0 www.bezbiku.pro
 0.0.0.0 www.bialoruskieprodukty.pl
@@ -1113,12 +1124,14 @@
 0.0.0.0 www.butypremium.pl
 0.0.0.0 www.buzzonclick.com
 0.0.0.0 www.calivita.com
+0.0.0.0 www.calzini.org
 0.0.0.0 www.casadasklep.pl
 0.0.0.0 www.casada.pl
 0.0.0.0 www.cashbackworld.com
 0.0.0.0 www.cavotel.com
 0.0.0.0 www.cbldc.io
 0.0.0.0 www.cedino.pl
+0.0.0.0 www.cello24.net
 0.0.0.0 www.centrumdxn.pl
 0.0.0.0 www.centrumfantastyki.pl
 0.0.0.0 www.centrummarek.pl
@@ -1167,6 +1180,7 @@
 0.0.0.0 www.daswallet.com
 0.0.0.0 www.davor.io
 0.0.0.0 www.decynsire.com
+0.0.0.0 www.deloxar.pl
 0.0.0.0 www.derotel.com
 0.0.0.0 www.dietovo.pl
 0.0.0.0 www.dietstars.pro
@@ -1196,8 +1210,10 @@
 0.0.0.0 www.dzisiejszefakty.xyz
 0.0.0.0 www.earthpowerint.com
 0.0.0.0 www.ebeautyportal.com
+0.0.0.0 www.ebobel.pl
 0.0.0.0 www.ebook4all.com.pl
 0.0.0.0 www.ebuty.net.pl
+0.0.0.0 www.ebuty.org.pl
 0.0.0.0 www.ecoflow.pl
 0.0.0.0 www.ecomotto.pl
 0.0.0.0 www.ecoslimmer.pro
@@ -1207,6 +1223,7 @@
 0.0.0.0 www.ekstrafilmy24.pl
 0.0.0.0 www.electrocity24.pl
 0.0.0.0 www.elektro24h.pl
+0.0.0.0 www.elektromax.in.net
 0.0.0.0 www.elepta.pl
 0.0.0.0 www.enbutique.com
 0.0.0.0 www.energetix.com.pl
@@ -1435,6 +1452,7 @@
 0.0.0.0 www.maendo.tv
 0.0.0.0 www.magiskmanager.com
 0.0.0.0 www.manaslu.pl
+0.0.0.0 www.manilis.com
 0.0.0.0 www.marekporwol.pl
 0.0.0.0 www.mariuszpelczarski.pl
 0.0.0.0 www.mariza.com.pl
@@ -1465,7 +1483,6 @@
 0.0.0.0 www.mobilerewards.io
 0.0.0.0 www.mobiluj.sk
 0.0.0.0 www.mobverify.com
-0.0.0.0 www.modi4moda.com
 0.0.0.0 www.modwebpro.pl
 0.0.0.0 www.mojadedra.pl
 0.0.0.0 www.mojadietanamase.pl
@@ -1483,11 +1500,11 @@
 0.0.0.0 www.moviestarplanethacks.pl
 0.0.0.0 www.moviestarplanethack.info
 0.0.0.0 www.mozebyctwoje.com
-0.0.0.0 www.mspbooster.com
 0.0.0.0 www.msphacks.net
 0.0.0.0 www.muflena.pl
 0.0.0.0 www.muverbo.pl
 0.0.0.0 www.myacn.eu
+0.0.0.0 www.mydlokreacja.pl
 0.0.0.0 www.myduolife.com
 0.0.0.0 www.mylocker.pl
 0.0.0.0 www.myway.com
@@ -1637,6 +1654,7 @@
 0.0.0.0 www.refundacjeregionalne.pl
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.rep.privatesearch.club
+0.0.0.0 www.retrortv.in.net
 0.0.0.0 www.rezacze.pl
 0.0.0.0 www.riverparkbaseball.org
 0.0.0.0 www.robloxhack.pl
@@ -1748,6 +1766,7 @@
 0.0.0.0 www.trackgsm.co.uk
 0.0.0.0 www.tracksms.pl
 0.0.0.0 www.track.adsfast.com
+0.0.0.0 www.transegz.pl
 0.0.0.0 www.triggerinstalls.com
 0.0.0.0 www.trustedirectdownload.com
 0.0.0.0 www.trusttastic.com
@@ -1770,6 +1789,7 @@
 0.0.0.0 www.urwijnagrody.pl
 0.0.0.0 www.usa.cc
 0.0.0.0 www.usunwirusa.pl
+0.0.0.0 www.vadecorso.pl
 0.0.0.0 www.vansallegro.pl
 0.0.0.0 www.vanssk8hi.pl
 0.0.0.0 www.vapormax.pl
@@ -1799,6 +1819,8 @@
 0.0.0.0 www.w2mobile.com
 0.0.0.0 www.w65.pl
 0.0.0.0 www.wartomiec.pl
+0.0.0.0 www.wdrodzenaratunek.pl
+0.0.0.0 www.websuit.pl
 0.0.0.0 www.wellu.eu
 0.0.0.0 www.wernet.pl
 0.0.0.0 www.wesklan.pl
@@ -1807,6 +1829,7 @@
 0.0.0.0 www.wielkanagroda.com
 0.0.0.0 www.wielkaniespodzianka.pl
 0.0.0.0 www.wifiprotector.com
+0.0.0.0 www.winfactory.pl
 0.0.0.0 www.wirtuozseksu.pl
 0.0.0.0 www.wisebanc.com
 0.0.0.0 www.wlatech.pl
@@ -2004,6 +2027,7 @@
 0.0.0.0 www.swietna-pozyczka.pl
 0.0.0.0 www.szybka-pozyczka.com
 0.0.0.0 www.szybka-wyplata.pl
+0.0.0.0 www.tanie-wapnowanie.pl
 0.0.0.0 www.the-titanium.com
 0.0.0.0 www.top-oferty.net
 0.0.0.0 www.torrenty--org.pl
@@ -2494,7 +2518,6 @@
 #
 #
 # Przekrety
-0.0.0.0 1freesoftwareonline.com
 0.0.0.0 4kplayer.pl
 0.0.0.0 4kstream.pl
 0.0.0.0 50kaweek.live
@@ -2512,19 +2535,6 @@
 0.0.0.0 androidsecurityplus.com
 0.0.0.0 appandroider.com
 0.0.0.0 appiq.mobi
-0.0.0.0 apple.com-care-macbook-system.live
-0.0.0.0 apple.com-improve-macos.live
-0.0.0.0 apple.com-macos-clean-systems.live
-0.0.0.0 apple.com-mac-booster.live
-0.0.0.0 apple.com-repair.live
-0.0.0.0 apple.com-repair-macbook.live
-0.0.0.0 apple.com-repair-os.live
-0.0.0.0 apple.com-scan.live
-0.0.0.0 apple.com-scan-mac.live
-0.0.0.0 apple.com-shield.live
-0.0.0.0 apple.com-speedup-macbook.live
-0.0.0.0 apple.com-speedup-macos.live
-0.0.0.0 apple.com-speed-macos.live
 0.0.0.0 apps.co.pl
 0.0.0.0 appsdorado.com
 0.0.0.0 aseanlegaltech.com
@@ -2553,6 +2563,7 @@
 0.0.0.0 cool4mob.com
 0.0.0.0 coreplays.com
 0.0.0.0 cpagrip.com
+0.0.0.0 credito.com.pl
 0.0.0.0 cs.nailrr.com
 0.0.0.0 cybermagicindia.com
 0.0.0.0 daily-jokes.net
@@ -2577,6 +2588,7 @@
 0.0.0.0 downloadfiles.pl
 0.0.0.0 downloads-mobile.com
 0.0.0.0 drmarins.com
+0.0.0.0 dspinner.net
 0.0.0.0 durakbufecengelkoy.com
 0.0.0.0 easydownload.pl
 0.0.0.0 easypdfcombine.com
@@ -2589,6 +2601,7 @@
 0.0.0.0 exeos.ws
 0.0.0.0 ezdownloadpro.info
 0.0.0.0 e-podgladaj.pl
+0.0.0.0 faberville.com
 0.0.0.0 faccebook.5v.pl
 0.0.0.0 faceapp.eu
 0.0.0.0 facebbook.5v.pl
@@ -2660,6 +2673,7 @@
 0.0.0.0 giveskincs.nd.pl
 0.0.0.0 globile.co
 0.0.0.0 gogameportal.com
+0.0.0.0 gratissos.com
 0.0.0.0 grybow24.pl
 0.0.0.0 gryjava.gsm.pl
 0.0.0.0 hackerbot.net
@@ -2693,7 +2707,9 @@
 0.0.0.0 kasiakurier.info
 0.0.0.0 kdplay.net
 0.0.0.0 kekuko.com
+0.0.0.0 kiepscy.evai.pl
 0.0.0.0 kipokahynr.xyz
+0.0.0.0 kitchencollectivecool.info
 0.0.0.0 kocham-cie.c0.pl
 0.0.0.0 kolor.oq.pl
 0.0.0.0 konkursy.de
@@ -2740,9 +2756,11 @@
 0.0.0.0 myeforsa.pl
 0.0.0.0 nagroda-sms.pl
 0.0.0.0 najlepszewrozby.pl
+0.0.0.0 naleznoscgov.eu
 0.0.0.0 namierz-telefon.pl
 0.0.0.0 nataliaporwana.biz
 0.0.0.0 needforfile.net
+0.0.0.0 newsinsider.me
 0.0.0.0 newsy-onet24.pl
 0.0.0.0 newszone.pro
 0.0.0.0 news-onet24.pl
@@ -2756,6 +2774,7 @@
 0.0.0.0 onlinewideo.pl
 0.0.0.0 onlyfiles.net
 0.0.0.0 openwrt.com
+0.0.0.0 oplac24.com
 0.0.0.0 oplac-zaleglosc.eu
 0.0.0.0 oplatyi.pl
 0.0.0.0 orange-kodzik.890m.com
@@ -2766,6 +2785,7 @@
 0.0.0.0 pay2me.pl
 0.0.0.0 performancevitality.net
 0.0.0.0 performquickintenselyfile.icu
+0.0.0.0 phonenewmessage.com
 0.0.0.0 pinamo.pl
 0.0.0.0 pinkstar.pl
 0.0.0.0 pko-bp.pl
@@ -2805,11 +2825,15 @@
 0.0.0.0 psialapka.pl
 0.0.0.0 ptcspy.com
 0.0.0.0 ptgame.eu
+0.0.0.0 pulsebiznesu.xyz
+0.0.0.0 pulse-biznesowe.xyz
+0.0.0.0 puls-sukcesu.net
 0.0.0.0 qubble.com
 0.0.0.0 quiz-fun.com.my
 0.0.0.0 randewoo.ir
 0.0.0.0 rap-share.pl
 0.0.0.0 ravlw.nearbysluts.net
+0.0.0.0 realnyzarobek.pl
 0.0.0.0 relayimmo.com
 0.0.0.0 restricted.pl
 0.0.0.0 rewardrey.com
@@ -2930,6 +2954,7 @@
 0.0.0.0 www.cool4mob.com
 0.0.0.0 www.coreplays.com
 0.0.0.0 www.cpagrip.com
+0.0.0.0 www.credito.com.pl
 0.0.0.0 www.cs.nailrr.com
 0.0.0.0 www.cybermagicindia.com
 0.0.0.0 www.darmowetesty.com
@@ -2945,6 +2970,7 @@
 0.0.0.0 www.downloadfiles.pl
 0.0.0.0 www.download.televisionfanatic.com
 0.0.0.0 www.drmarins.com
+0.0.0.0 www.dspinner.net
 0.0.0.0 www.durakbufecengelkoy.com
 0.0.0.0 www.easydownload.pl
 0.0.0.0 www.easypdfcombine.com
@@ -2955,6 +2981,7 @@
 0.0.0.0 www.esemeso.pl
 0.0.0.0 www.exeos.ws
 0.0.0.0 www.ezdownloadpro.info
+0.0.0.0 www.faberville.com
 0.0.0.0 www.faceapp.eu
 0.0.0.0 www.facewatch.borec.cz
 0.0.0.0 www.failmobile.net
@@ -3004,6 +3031,7 @@
 0.0.0.0 www.giveskincs.nd.pl
 0.0.0.0 www.globile.co
 0.0.0.0 www.gogameportal.com
+0.0.0.0 www.gratissos.com
 0.0.0.0 www.grybow24.pl
 0.0.0.0 www.gryjava.gsm.pl
 0.0.0.0 www.hackerbot.net
@@ -3031,7 +3059,9 @@
 0.0.0.0 www.kasiakurier.info
 0.0.0.0 www.kdplay.net
 0.0.0.0 www.kekuko.com
+0.0.0.0 www.kiepscy.evai.pl
 0.0.0.0 www.kipokahynr.xyz
+0.0.0.0 www.kitchencollectivecool.info
 0.0.0.0 www.kolor.oq.pl
 0.0.0.0 www.konkursy.de
 0.0.0.0 www.ktopodgladamnienafacebooku.wordpress.com
@@ -3070,8 +3100,10 @@
 0.0.0.0 www.myeforsa.pl
 0.0.0.0 www.m.smsquiz.pl
 0.0.0.0 www.najlepszewrozby.pl
+0.0.0.0 www.naleznoscgov.eu
 0.0.0.0 www.nataliaporwana.biz
 0.0.0.0 www.needforfile.net
+0.0.0.0 www.newsinsider.me
 0.0.0.0 www.newszone.pro
 0.0.0.0 www.nonstopvideos.pl
 0.0.0.0 www.ollando.com
@@ -3080,12 +3112,14 @@
 0.0.0.0 www.onlinewideo.pl
 0.0.0.0 www.onlyfiles.net
 0.0.0.0 www.openwrt.com
+0.0.0.0 www.oplac24.com
 0.0.0.0 www.oplatyi.pl
 0.0.0.0 www.paraphingxmfevapk.xyz
 0.0.0.0 www.pay2me.pl
 0.0.0.0 www.pay.mobiltek.pl
 0.0.0.0 www.performancevitality.net
 0.0.0.0 www.performquickintenselyfile.icu
+0.0.0.0 www.phonenewmessage.com
 0.0.0.0 www.pinamo.pl
 0.0.0.0 www.pinkstar.pl
 0.0.0.0 www.pkworld.com.pk
@@ -3115,9 +3149,11 @@
 0.0.0.0 www.psialapka.pl
 0.0.0.0 www.ptcspy.com
 0.0.0.0 www.ptgame.eu
+0.0.0.0 www.pulsebiznesu.xyz
 0.0.0.0 www.qubble.com
 0.0.0.0 www.randewoo.ir
 0.0.0.0 www.ravlw.nearbysluts.net
+0.0.0.0 www.realnyzarobek.pl
 0.0.0.0 www.relayimmo.com
 0.0.0.0 www.restricted.pl
 0.0.0.0 www.rewardrey.com
@@ -3200,7 +3236,6 @@
 0.0.0.0 www.zumodi.com
 0.0.0.0 www.zweryfiikujdane.tk
 0.0.0.0 www-apple-com-virus-removal-systems.fixingit.solutions
-0.0.0.0 www.1freesoftwareonline.com
 0.0.0.0 www.4kplayer.pl
 0.0.0.0 www.4kstream.pl
 0.0.0.0 www.50kaweek.live
@@ -3209,19 +3244,6 @@
 0.0.0.0 www.adidas-collection.club
 0.0.0.0 www.adobe.5v.pl
 0.0.0.0 www.all-player.pl
-0.0.0.0 www.apple.com-care-macbook-system.live
-0.0.0.0 www.apple.com-improve-macos.live
-0.0.0.0 www.apple.com-macos-clean-systems.live
-0.0.0.0 www.apple.com-mac-booster.live
-0.0.0.0 www.apple.com-repair.live
-0.0.0.0 www.apple.com-repair-macbook.live
-0.0.0.0 www.apple.com-repair-os.live
-0.0.0.0 www.apple.com-scan.live
-0.0.0.0 www.apple.com-scan-mac.live
-0.0.0.0 www.apple.com-shield.live
-0.0.0.0 www.apple.com-speedup-macbook.live
-0.0.0.0 www.apple.com-speedup-macos.live
-0.0.0.0 www.apple.com-speed-macos.live
 0.0.0.0 www.bramka-sms-za-darmo.pl
 0.0.0.0 www.brave-browser.info
 0.0.0.0 www.btc-forum.pl
@@ -3290,6 +3312,8 @@
 0.0.0.0 www.pobieralnie-plikow.eu
 0.0.0.0 www.pobierz-pliczek.eu
 0.0.0.0 www.pobiieerz-fotografiee.eu
+0.0.0.0 www.pulse-biznesowe.xyz
+0.0.0.0 www.puls-sukcesu.net
 0.0.0.0 www.quiz-fun.com.my
 0.0.0.0 www.rap-share.pl
 0.0.0.0 www.secure-eplatnosc.com
@@ -3467,6 +3491,20 @@
 0.0.0.0 adsheads.go2affise.com
 0.0.0.0 aoc.teleaudio.pl
 0.0.0.0 api.myeforsa.pl
+0.0.0.0 apple.com-care-macbook-system.live
+0.0.0.0 apple.com-improve-macos.live
+0.0.0.0 apple.com-macos-clean-systems.live
+0.0.0.0 apple.com-mac-booster.live
+0.0.0.0 apple.com-repair.live
+0.0.0.0 apple.com-repair-macbook.live
+0.0.0.0 apple.com-repair-os.live
+0.0.0.0 apple.com-scan.live
+0.0.0.0 apple.com-scan-mac.live
+0.0.0.0 apple.com-shield.live
+0.0.0.0 apple.com-shields-guard.live
+0.0.0.0 apple.com-speedup-macbook.live
+0.0.0.0 apple.com-speedup-macos.live
+0.0.0.0 apple.com-speed-macos.live
 0.0.0.0 bigbangads.go2cloud.org
 0.0.0.0 buzz.mobiapp-games.com
 0.0.0.0 cdnrep.reimageplus.com
@@ -3582,6 +3620,20 @@
 0.0.0.0 www.ww7.openwrt.com
 0.0.0.0 www.wydawca.lead.network
 0.0.0.0 www.zmienkolory.blogspot.com
+0.0.0.0 www.apple.com-care-macbook-system.live
+0.0.0.0 www.apple.com-improve-macos.live
+0.0.0.0 www.apple.com-macos-clean-systems.live
+0.0.0.0 www.apple.com-mac-booster.live
+0.0.0.0 www.apple.com-repair.live
+0.0.0.0 www.apple.com-repair-macbook.live
+0.0.0.0 www.apple.com-repair-os.live
+0.0.0.0 www.apple.com-scan.live
+0.0.0.0 www.apple.com-scan-mac.live
+0.0.0.0 www.apple.com-shield.live
+0.0.0.0 www.apple.com-shields-guard.live
+0.0.0.0 www.apple.com-speedup-macbook.live
+0.0.0.0 www.apple.com-speedup-macos.live
+0.0.0.0 www.apple.com-speed-macos.live
 0.0.0.0 www.buzz.mobiapp-games.com
 0.0.0.0 www.czas-na-fb.blogspot.com
 0.0.0.0 www.dw.lp.eu.emobi-sys.com

@@ -657,6 +657,9 @@
 # Telemetry Reporting
 0.0.0.0 browser.pipe.aria.microsoft.com
 
+# Mozilla Firefox telemetry
+0.0.0.0 incoming.telemetry.mozilla.org
+
 # Spam domains
 # If your software is able, the below domains and all subdomains should be blocked
 #*.angiemktg.com
@@ -1204,3 +1207,11 @@
 
 0.0.0.0 sex-and-flirt.com
 0.0.0.0 www.sex-and-flirt.com
+
+0.0.0.0 www.applicationunificationcontroller.com
+0.0.0.0 www.dianomi.com
+
+0.0.0.0 ladsup.com
+0.0.0.0 powerad.ai
+0.0.0.0 hb.brainlyads.com
+0.0.0.0 report.hb.brainlyads.com
