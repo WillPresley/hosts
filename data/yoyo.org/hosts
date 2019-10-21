@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 15 Oct 2019 12:26:58 GMT
-# entries:        3048
+# last updated:   Sun, 20 Oct 2019 08:40:27 GMT
+# entries:        3054
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 20 Oct 1999 00:00:00
+# start date:    Tue, 26 Oct 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -751,6 +751,7 @@
 0.0.0.0 adserver1-images.backbeatmedia.com
 0.0.0.0 adserver1.backbeatmedia.com
 0.0.0.0 adserver1.mindshare.de
+0.0.0.0 adserver1.ogilvy-interactive.de
 0.0.0.0 adserver2.mindshare.de
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
@@ -912,6 +913,7 @@
 0.0.0.0 all4spy.com
 0.0.0.0 allosponsor.com
 0.0.0.0 alphonso.tv
+0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 ambiguousquilt.com
@@ -1362,7 +1364,6 @@
 0.0.0.0 crazyegg.com
 0.0.0.0 crazypopups.com
 0.0.0.0 creafi-online-media.com
-0.0.0.0 creatives.as4x.tmcs.net
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 credishe.com
 0.0.0.0 creep.world
@@ -1523,6 +1524,7 @@
 0.0.0.0 ero-advertising.com
 0.0.0.0 errortablet.com
 0.0.0.0 estat.com
+0.0.0.0 et.nytimes.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
 0.0.0.0 etracker.de
@@ -1769,6 +1771,7 @@
 0.0.0.0 imonitor.nethost.cz
 0.0.0.0 importedincrease.com
 0.0.0.0 impossibleexpansion.com
+0.0.0.0 imprese.cz
 0.0.0.0 impressionmedia.cz
 0.0.0.0 impressionz.co.uk
 0.0.0.0 impulsehands.com
@@ -1836,6 +1839,7 @@
 0.0.0.0 jquery-bin.com
 0.0.0.0 js.users.51.la
 0.0.0.0 jsecoin.com
+0.0.0.0 jsrdn.com
 0.0.0.0 juicyads.com
 0.0.0.0 jumptap.com
 0.0.0.0 justicejudo.com
@@ -2048,6 +2052,7 @@
 0.0.0.0 moatpixel.com
 0.0.0.0 mobclix.com
 0.0.0.0 mobileiconnect.com
+0.0.0.0 modernpricing.com
 0.0.0.0 modifyeyes.com
 0.0.0.0 moggattice.com
 0.0.0.0 moldyicicle.com
@@ -2795,6 +2800,7 @@
 0.0.0.0 track.gawker.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.nuxues.com
+0.0.0.0 track.ultravpn.com
 0.0.0.0 track.viewdeos.com
 0.0.0.0 track1.viewdeos.com
 0.0.0.0 trackalyzer.com
