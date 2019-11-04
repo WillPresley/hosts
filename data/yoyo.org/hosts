@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 20 Oct 2019 08:40:27 GMT
-# entries:        3054
+# last updated:   Sat, 02 Nov 2019 16:29:13 GMT
+# entries:        3064
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 26 Oct 1999 00:00:00
+# start date:    Tue, 09 Nov 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -68,6 +68,7 @@
 0.0.0.0 absurdwater.com
 0.0.0.0 abz.com
 0.0.0.0 ac.rnm.ca
+0.0.0.0 acbsearch.com
 0.0.0.0 acceptable.a-ads.com
 0.0.0.0 acridtwist.com
 0.0.0.0 actionsplash.com
@@ -540,7 +541,6 @@
 0.0.0.0 ads.motormedia.nl
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.multimania.lycos.fr
-0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.networksolutions.com
@@ -701,6 +701,7 @@
 0.0.0.0 adscale.de
 0.0.0.0 adscholar.com
 0.0.0.0 adscience.nl
+0.0.0.0 adsco.re
 0.0.0.0 adscpm.com
 0.0.0.0 adsdaq.com
 0.0.0.0 adsend.de
@@ -754,7 +755,6 @@
 0.0.0.0 adserver1.ogilvy-interactive.de
 0.0.0.0 adserver2.mindshare.de
 0.0.0.0 adserverplus.com
-0.0.0.0 adserverpub.com
 0.0.0.0 adserversolutions.com
 0.0.0.0 adservice.google.com
 0.0.0.0 adserving.unibet.com
@@ -1133,6 +1133,8 @@
 0.0.0.0 blogtoplist.se
 0.0.0.0 blogtopsites.com
 0.0.0.0 blueadvertise.com
+0.0.0.0 blueconic.com
+0.0.0.0 blueconic.net
 0.0.0.0 bluekai.com
 0.0.0.0 bluelithium.com
 0.0.0.0 bluewhaleweb.com
@@ -1294,7 +1296,6 @@
 0.0.0.0 cointraffic.io
 0.0.0.0 colonize.com
 0.0.0.0 colpirio.com
-0.0.0.0 com-optimize-mac.live
 0.0.0.0 comclick.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commindo-media-ressourcen.de
@@ -1371,6 +1372,7 @@
 0.0.0.0 critictruck.com
 0.0.0.0 croissed.info
 0.0.0.0 crowdgravity.com
+0.0.0.0 crsspxl.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctnetwork.hu
@@ -1454,6 +1456,7 @@
 0.0.0.0 doublepimp.com
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 downloadr.xyz
+0.0.0.0 dpbolvw.net
 0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 dq95d35.com
 0.0.0.0 drabsize.com
@@ -1499,6 +1502,7 @@
 0.0.0.0 elephantqueue.com
 0.0.0.0 elitedollars.com
 0.0.0.0 elitetoplist.com
+0.0.0.0 elthamely.com
 0.0.0.0 emarketer.com
 0.0.0.0 emebo.com
 0.0.0.0 emebo.io
@@ -1834,6 +1838,7 @@
 0.0.0.0 jadeitite.com
 0.0.0.0 jaizouji.com
 0.0.0.0 jcount.com
+0.0.0.0 jdoqocy.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
 0.0.0.0 jquery-bin.com
@@ -2034,6 +2039,7 @@
 0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
 0.0.0.0 militaryverse.com
+0.0.0.0 milotree.com
 0.0.0.0 minewhat.com
 0.0.0.0 minormeeting.com
 0.0.0.0 mintegral.com
@@ -2096,6 +2102,7 @@
 0.0.0.0 myvisualiq.net
 0.0.0.0 n69.com
 0.0.0.0 naj.sk
+0.0.0.0 naradxb.com
 0.0.0.0 nastydollars.com
 0.0.0.0 nativeroll.tv
 0.0.0.0 navegg.com
@@ -2130,6 +2137,7 @@
 0.0.0.0 newt1.adultworld.com
 0.0.0.0 nexage.com
 0.0.0.0 ng3.ads.warnerbros.com
+0.0.0.0 nhpfvdlbjg.com
 0.0.0.0 nitratory.com
 0.0.0.0 nitroclicks.com
 0.0.0.0 noiselessplough.com
@@ -2137,6 +2145,7 @@
 0.0.0.0 nondescriptsmile.com
 0.0.0.0 nondescriptstocking.com
 0.0.0.0 novem.pl
+0.0.0.0 npttech.com
 0.0.0.0 ns1p.net
 0.0.0.0 ntv.io
 0.0.0.0 ntvk1.ru
@@ -2300,7 +2309,6 @@
 0.0.0.0 pr-star.de
 0.0.0.0 praddpro.de
 0.0.0.0 prchecker.info
-0.0.0.0 precisioncounter.com
 0.0.0.0 predictad.com
 0.0.0.0 premium-offers.com
 0.0.0.0 presetrabbits.com
@@ -2310,6 +2318,7 @@
 0.0.0.0 privatecash.com
 0.0.0.0 prmtracking.com
 0.0.0.0 pro-advertising.com
+0.0.0.0 pro-market.net
 0.0.0.0 producer.getwisdom.io
 0.0.0.0 proext.com
 0.0.0.0 profero.com
@@ -2322,9 +2331,9 @@
 0.0.0.0 promos.bwin.it
 0.0.0.0 promos.fling.com
 0.0.0.0 promote.pair.com
-0.0.0.0 promotion-campaigns.com
 0.0.0.0 pronetadvertising.com
 0.0.0.0 propellerads.com
+0.0.0.0 propellerclick.com
 0.0.0.0 proper.io
 0.0.0.0 props.id
 0.0.0.0 proton-tm.com
@@ -2456,6 +2465,7 @@
 0.0.0.0 rightstats.com
 0.0.0.0 ringsrecord.com
 0.0.0.0 ritzykey.com
+0.0.0.0 ritzysponge.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rle.ru
 0.0.0.0 rmads.msn.com

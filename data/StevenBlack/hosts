@@ -334,6 +334,9 @@
 0.0.0.0 www.flash.sec.intl.miui.com
 
 # Ads
+0.0.0.0 services.bilsyndication.com
+0.0.0.0 biltag.bilsyndication.com
+0.0.0.0 assets.bilsyndication.com
 0.0.0.0 ampmetrics.engadget.com
 0.0.0.0 c.adskeeper.co.uk
 0.0.0.0 datacollect.vmall.com
@@ -1236,5 +1239,8 @@
 0.0.0.0 castoola.com
 0.0.0.0 castoola.tv.lan
 
-# Jodel APP 
+# Jodel APP
 0.0.0.0 analytics.ext.go-tellm.com
+
+# Ubiquity
+0.0.0.0 trace.svc.ui.com
