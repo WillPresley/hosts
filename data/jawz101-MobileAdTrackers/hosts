@@ -442,6 +442,8 @@
 0.0.0.0 tag.adincube.com
 0.0.0.0 adinfuse.com
 0.0.0.0 adingo.jp
+0.0.0.0 hv.adingo.jp
+0.0.0.0 sh.adingo.jp
 0.0.0.0 adinte.jp
 0.0.0.0 ad.adip.ly
 0.0.0.0 aa.adfarm1.adition.com
@@ -3378,6 +3380,7 @@
 0.0.0.0 chitika.com
 0.0.0.0 labs.chitika.com
 0.0.0.0 server.chitika.com
+0.0.0.0 smetrics.chrysler.com
 0.0.0.0 cibleclick.com
 0.0.0.0 jp.cinarra.com
 0.0.0.0 p-jp-cci-dps.cinarra.com
@@ -3599,6 +3602,7 @@
 0.0.0.0 a.consensad.com
 0.0.0.0 captify.mgr.consensu.org
 0.0.0.0 api.conversant.mgr.consensu.org
+0.0.0.0 cdn.conversant.mgr.consensu.org
 0.0.0.0 marfeel.mgr.consensu.org
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 api.quantcast.mgr.consensu.org
@@ -4102,6 +4106,7 @@
 0.0.0.0 condenast.demdex.net
 0.0.0.0 crackle.demdex.net
 0.0.0.0 dickssportinggoods.demdex.net
+0.0.0.0 disney.demdex.net
 0.0.0.0 dpm.demdex.net
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 foxnet.demdex.net
@@ -4155,6 +4160,7 @@
 0.0.0.0 directadvert.ru
 0.0.0.0 directrev.com
 0.0.0.0 tracking.directservices.it
+0.0.0.0 sanalytics.disneyplus.com
 0.0.0.0 clktrk.display.io
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 tempest.services.disqus.com
@@ -4356,6 +4362,7 @@
 0.0.0.0 creatives.doubleclick.net
 0.0.0.0 dfp.doubleclick.net
 0.0.0.0 ad.eg.doubleclick.net
+0.0.0.0 3243857.fls.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 dp.g.doubleclick.net
@@ -6872,7 +6879,6 @@
 0.0.0.0 sx.leadzutw.com
 0.0.0.0 lean.com
 0.0.0.0 track.leanlab.co
-0.0.0.0 api.leanplum.com
 0.0.0.0 dev.leanplum.com
 0.0.0.0 go.leanplum.com
 0.0.0.0 phabricator.leanplum.com
@@ -7622,6 +7628,7 @@
 0.0.0.0 medibaad.com
 0.0.0.0 medio.com
 0.0.0.0 meendocash.com
+0.0.0.0 api.megacool.co
 0.0.0.0 megago.com
 0.0.0.0 sender.megapopads.com
 0.0.0.0 eco-api.meiqia.com
@@ -8767,6 +8774,7 @@
 0.0.0.0 foxnews.hb.omtrdc.net
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 hulu.hb.omtrdc.net
+0.0.0.0 allstate.sc.omtrdc.net
 0.0.0.0 audible.sc.omtrdc.net
 0.0.0.0 dsg.sc.omtrdc.net
 0.0.0.0 nbcume.sc.omtrdc.net
@@ -9525,6 +9533,7 @@
 0.0.0.0 api.placer.io
 0.0.0.0 conf.placer.io
 0.0.0.0 planetactive.com
+0.0.0.0 65c6.playfabapi.com
 0.0.0.0 playhaven.com
 0.0.0.0 playnomics.net
 0.0.0.0 sdkweb.playstove.com
@@ -10529,7 +10538,9 @@
 0.0.0.0 sensenetworks.com
 0.0.0.0 api.sentiance.com
 0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 js.sentry-cdn.com
 0.0.0.0 ingest.sentry.io
+0.0.0.0 disney.my.sentry.io
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 seo4india.com
 0.0.0.0 seopult.ru
@@ -11809,6 +11820,7 @@
 0.0.0.0 track.td3x.com
 0.0.0.0 sdk-endpoint.prod.tda.link
 0.0.0.0 analytics.tdameritrade.com
+0.0.0.0 appdeumext.tdameritrade.com
 0.0.0.0 tdxio.com
 0.0.0.0 res.tdxio.com
 0.0.0.0 ts.tdxio.com
@@ -11907,6 +11919,7 @@
 0.0.0.0 ads.tiki.vn
 0.0.0.0 analytics.tiltingpoint.io
 0.0.0.0 registration.tiltingpoint.io
+0.0.0.0 utctime.tiltingpoint.io
 0.0.0.0 tia.timeinc.net
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 beacon.tingyun.com
@@ -12103,6 +12116,7 @@
 0.0.0.0 ru.track.uc.cn
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 woodpecker.uc.cn
+0.0.0.0 app3.prd.telematics.uconnectcar.com
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 insight.ucweb.com
 0.0.0.0 adn.insight.ucweb.com
@@ -12295,6 +12309,7 @@
 0.0.0.0 srepdata.usatoday.com
 0.0.0.0 sdk.out.usbla.net
 0.0.0.0 analytics.usdm.net
+0.0.0.0 use-application-dns.net
 0.0.0.0 segment.api.useinsider.com
 0.0.0.0 mobileanalytics.useinsider.com
 0.0.0.0 usekahuna.com
@@ -12608,6 +12623,7 @@
 0.0.0.0 adstest.weather.com
 0.0.0.0 stats.web1tv.de
 0.0.0.0 analytics.webads.eu
+0.0.0.0 scripts.webcontentassessor.com
 0.0.0.0 afiles.webengage.com
 0.0.0.0 api.webengage.com
 0.0.0.0 c.webengage.com
@@ -12793,6 +12809,7 @@
 0.0.0.0 uk.advertising.yahoo.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 cms.analytics.yahoo.com
+0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 ads.auctions.yahoo.com
 0.0.0.0 csc.beap.bc.yahoo.com
@@ -12940,6 +12957,8 @@
 0.0.0.0 yoc-performance.com
 0.0.0.0 metrics.yoc.com
 0.0.0.0 yoc.mobi
+0.0.0.0 ocd.yodo1api.com
+0.0.0.0 olc.yodo1api.com
 0.0.0.0 storage.yogavpn.com
 0.0.0.0 yoggrt.com
 0.0.0.0 analytics.yolacdn.net
