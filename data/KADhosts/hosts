@@ -1,7 +1,8 @@
-# Title: KADhosts
+# Title: KADhosts (bez kontrowersji)
+# KADHosts (without controversies)
 # Description: Filtry chroniace przed przekretami takimi jak subskrypcje SMS
-# Last modified: Mon, 02 Dec 2019, 15:19 UTC+01
-# Version: 2019.12.2.1
+# Last modified: Tue, 10 Dec 2019, 14:50 UTC+01
+# Version: 2019.12.10.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -101,6 +102,7 @@
 0.0.0.0 banvar.com
 0.0.0.0 barip15.com
 0.0.0.0 bartekzukiewicz.pl
+0.0.0.0 basenymoninar.pl
 0.0.0.0 bazarownia.pl
 0.0.0.0 bazartani.pl
 0.0.0.0 bazasprawdzianow.pl
@@ -229,7 +231,6 @@
 0.0.0.0 dassystem.eu
 0.0.0.0 daswallet.com
 0.0.0.0 davor.io
-0.0.0.0 ddgrawer.pl
 0.0.0.0 decynsire.com
 0.0.0.0 deepshoes.pl
 0.0.0.0 deloxar.pl
@@ -237,12 +238,12 @@
 0.0.0.0 dietovo.pl
 0.0.0.0 dietstars.pro
 0.0.0.0 diorsklep.pl
-0.0.0.0 dirtyhood.pl
 0.0.0.0 dketrade.top
 0.0.0.0 dlagier.com
 0.0.0.0 dlf.pl
 0.0.0.0 dlmyfile.com
 0.0.0.0 dnirownosci.pl
+0.0.0.0 dobreklucze.pl
 0.0.0.0 dobrykredyt.co.pl
 0.0.0.0 dofinansowania-jezykowe.pl
 0.0.0.0 domhandlowy.net
@@ -258,6 +259,7 @@
 0.0.0.0 drb.pl
 0.0.0.0 dresysklep.pl
 0.0.0.0 drmartens1460.pl
+0.0.0.0 drmartenspl.pl
 0.0.0.0 drnona.com
 0.0.0.0 drnona.pl
 0.0.0.0 dsa.pl
@@ -272,7 +274,6 @@
 0.0.0.0 ebook4all.com.pl
 0.0.0.0 ebuty.net.pl
 0.0.0.0 ebuty.org.pl
-0.0.0.0 eccoobuwie.pl
 0.0.0.0 ecoflow.pl
 0.0.0.0 ecomotto.pl
 0.0.0.0 ecoslimmer.pro
@@ -343,6 +344,7 @@
 0.0.0.0 fforum.pisz.pl
 0.0.0.0 fhgfffdsf9.appspot.com
 0.0.0.0 fightfly.pl
+0.0.0.0 filapoland.pl
 0.0.0.0 file.co.pl
 0.0.0.0 filedeposit.eu
 0.0.0.0 fileice.net
@@ -508,7 +510,6 @@
 0.0.0.0 kancelariakufieta.pl
 0.0.0.0 kancelarialewickich.pl
 0.0.0.0 kancelariaskawina.pl
-0.0.0.0 kantorfrank.pl
 0.0.0.0 karatbars.com
 0.0.0.0 karokorale.pl
 0.0.0.0 kartavisa.pl
@@ -780,23 +781,21 @@
 0.0.0.0 polokg.com
 0.0.0.0 polska-tv.pl
 0.0.0.0 polskifilm.com.pl
-0.0.0.0 pol.boobs-xl.com
 0.0.0.0 pomocnapozyczka.pro
 0.0.0.0 popcornvod.com
 0.0.0.0 popshoes.pl
+0.0.0.0 portaldruku.pl
 0.0.0.0 powerfactorsaver.com
 0.0.0.0 powerkf-design.pl
 0.0.0.0 pozycjeseksualne.pl
 0.0.0.0 pozyczka.click
 0.0.0.0 pozyczkanatelefon24.pl
 0.0.0.0 pozyczka-minutowa.pl
-0.0.0.0 pozyczka-sms.pl
 0.0.0.0 pozyczka-tanio-szybko.pl
 0.0.0.0 pozyczkiprywatne.com
 0.0.0.0 pozyczki-prywatne.com
 0.0.0.0 pozyczki-prywatne.com.pl
 0.0.0.0 xn--poyczaj-xwb.online.pl
-0.0.0.0 pracowniabajka.pl
 0.0.0.0 pracowniaciala.pl
 0.0.0.0 pracowniekomputerowe.pl
 0.0.0.0 prawdziwyrozwoj.pl
@@ -847,6 +846,7 @@
 0.0.0.0 raypath.eu
 0.0.0.0 raypath-international.com.pl
 0.0.0.0 rbaan.net
+0.0.0.0 rbkkg.net
 0.0.0.0 rbknt.com
 0.0.0.0 rbxfree.com
 0.0.0.0 real-app.date
@@ -861,12 +861,12 @@
 0.0.0.0 reimageplus.com
 0.0.0.0 rep.privatesearch.club
 0.0.0.0 retrortv.in.net
-0.0.0.0 rezacze.pl
 0.0.0.0 riverparkbaseball.org
 0.0.0.0 robloxhack.pl
 0.0.0.0 roboclean-poland.com
 0.0.0.0 rosalieeve.pl
 0.0.0.0 roulettenumber.com
+0.0.0.0 rssspolem.com.pl
 0.0.0.0 rs-druk.pl
 0.0.0.0 rtvagdpro.net
 0.0.0.0 rubris.org
@@ -938,6 +938,7 @@
 0.0.0.0 sprawdzianyonline.pl
 0.0.0.0 sprawdzianyszkolne.pl
 0.0.0.0 spreadyourtentacles.com
+0.0.0.0 spsienno.pl
 0.0.0.0 ssklep.in.net
 0.0.0.0 starlife.eu
 0.0.0.0 starshipsanctuary.pl
@@ -947,13 +948,13 @@
 0.0.0.0 stopkomornikowi.pl
 0.0.0.0 stop-sms.pl
 0.0.0.0 streetrulez.pl
+0.0.0.0 strefabezstresu.pl
 0.0.0.0 strefa-filmu.pl
 0.0.0.0 stuntoffer.com
 0.0.0.0 stylovemeble.pl
 0.0.0.0 stylowoimodnie.pl
 0.0.0.0 sug.com.pl
 0.0.0.0 sukces.pl
-0.0.0.0 sundaycashsaver.com
 0.0.0.0 supplementum.pl
 0.0.0.0 suuntosklep.online
 0.0.0.0 swietna-pozyczka.pl
@@ -976,7 +977,6 @@
 0.0.0.0 taniebutysportowe.com
 0.0.0.0 taniemedia.pl
 0.0.0.0 tanie-wapnowanie.pl
-0.0.0.0 teamworkmlm.pl
 0.0.0.0 teespoon.co
 0.0.0.0 teleaudio.pl
 0.0.0.0 telemediaa.pl
@@ -1001,6 +1001,7 @@
 0.0.0.0 top-oferty.net
 0.0.0.0 torrenty--org.pl
 0.0.0.0 totucafe.pl
+0.0.0.0 toysoutlet.pl
 0.0.0.0 track.adsfast.com
 0.0.0.0 tracksms.pl
 0.0.0.0 transegz.pl
@@ -1070,7 +1071,6 @@
 0.0.0.0 wernet.pl
 0.0.0.0 werxwer.pl
 0.0.0.0 wesklan.pl
-0.0.0.0 wiecznieczwarty.com.pl
 0.0.0.0 wielkanagroda.com
 0.0.0.0 wielkaniespodzianka.pl
 0.0.0.0 wifiprotector.com
@@ -1154,6 +1154,7 @@
 0.0.0.0 www.banvar.com
 0.0.0.0 www.barip15.com
 0.0.0.0 www.bartekzukiewicz.pl
+0.0.0.0 www.basenymoninar.pl
 0.0.0.0 www.bazarownia.pl
 0.0.0.0 www.bazartani.pl
 0.0.0.0 www.bazasprawdzianow.pl
@@ -1262,7 +1263,6 @@
 0.0.0.0 www.dassystem.eu
 0.0.0.0 www.daswallet.com
 0.0.0.0 www.davor.io
-0.0.0.0 www.ddgrawer.pl
 0.0.0.0 www.decynsire.com
 0.0.0.0 www.deepshoes.pl
 0.0.0.0 www.deloxar.pl
@@ -1270,12 +1270,12 @@
 0.0.0.0 www.dietovo.pl
 0.0.0.0 www.dietstars.pro
 0.0.0.0 www.diorsklep.pl
-0.0.0.0 www.dirtyhood.pl
 0.0.0.0 www.dketrade.top
 0.0.0.0 www.dlagier.com
 0.0.0.0 www.dlf.pl
 0.0.0.0 www.dlmyfile.com
 0.0.0.0 www.dnirownosci.pl
+0.0.0.0 www.dobreklucze.pl
 0.0.0.0 www.dobrykredyt.co.pl
 0.0.0.0 www.domhandlowy.net
 0.0.0.0 www.doslubu24.pl
@@ -1287,6 +1287,7 @@
 0.0.0.0 www.drb.pl
 0.0.0.0 www.dresysklep.pl
 0.0.0.0 www.drmartens1460.pl
+0.0.0.0 www.drmartenspl.pl
 0.0.0.0 www.drnona.com
 0.0.0.0 www.drnona.pl
 0.0.0.0 www.dsa.pl
@@ -1300,7 +1301,6 @@
 0.0.0.0 www.ebook4all.com.pl
 0.0.0.0 www.ebuty.net.pl
 0.0.0.0 www.ebuty.org.pl
-0.0.0.0 www.eccoobuwie.pl
 0.0.0.0 www.ecoflow.pl
 0.0.0.0 www.ecomotto.pl
 0.0.0.0 www.ecoslimmer.pro
@@ -1356,6 +1356,7 @@
 0.0.0.0 www.fforum.pisz.pl
 0.0.0.0 www.fhgfffdsf9.appspot.com
 0.0.0.0 www.fightfly.pl
+0.0.0.0 www.filapoland.pl
 0.0.0.0 www.filedeposit.eu
 0.0.0.0 www.fileice.net
 0.0.0.0 www.fileman.pl
@@ -1495,7 +1496,6 @@
 0.0.0.0 www.kancelariakufieta.pl
 0.0.0.0 www.kancelarialewickich.pl
 0.0.0.0 www.kancelariaskawina.pl
-0.0.0.0 www.kantorfrank.pl
 0.0.0.0 www.karatbars.com
 0.0.0.0 www.karokorale.pl
 0.0.0.0 www.kartavisa.pl
@@ -1721,12 +1721,12 @@
 0.0.0.0 www.pomocnapozyczka.pro
 0.0.0.0 www.popcornvod.com
 0.0.0.0 www.popshoes.pl
+0.0.0.0 www.portaldruku.pl
 0.0.0.0 www.powerfactorsaver.com
 0.0.0.0 www.pozycjeseksualne.pl
 0.0.0.0 www.pozyczkanatelefon24.pl
 0.0.0.0 www.pozyczka.click
 0.0.0.0 www.pozyczkiprywatne.com
-0.0.0.0 www.pracowniabajka.pl
 0.0.0.0 www.pracowniaciala.pl
 0.0.0.0 www.pracowniekomputerowe.pl
 0.0.0.0 www.prawdziwyrozwoj.pl
@@ -1773,6 +1773,7 @@
 0.0.0.0 www.ramissio.com
 0.0.0.0 www.raypath.eu
 0.0.0.0 www.rbaan.net
+0.0.0.0 www.rbkkg.net
 0.0.0.0 www.rbknt.com
 0.0.0.0 www.rbxfree.com
 0.0.0.0 www.recommendedlab.com
@@ -1786,11 +1787,11 @@
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.rep.privatesearch.club
 0.0.0.0 www.retrortv.in.net
-0.0.0.0 www.rezacze.pl
 0.0.0.0 www.riverparkbaseball.org
 0.0.0.0 www.robloxhack.pl
 0.0.0.0 www.rosalieeve.pl
 0.0.0.0 www.roulettenumber.com
+0.0.0.0 www.rssspolem.com.pl
 0.0.0.0 www.rtvagdpro.net
 0.0.0.0 www.rubris.org
 0.0.0.0 www.ruletkasystem.eu
@@ -1848,6 +1849,7 @@
 0.0.0.0 www.sprawdzianyonline.pl
 0.0.0.0 www.sprawdzianyszkolne.pl
 0.0.0.0 www.spreadyourtentacles.com
+0.0.0.0 www.spsienno.pl
 0.0.0.0 www.ssklep.in.net
 0.0.0.0 www.starlife.eu
 0.0.0.0 www.starshipsanctuary.pl
@@ -1855,12 +1857,12 @@
 0.0.0.0 www.stiub.pl
 0.0.0.0 www.stopkomornikowi.pl
 0.0.0.0 www.streetrulez.pl
+0.0.0.0 www.strefabezstresu.pl
 0.0.0.0 www.stuntoffer.com
 0.0.0.0 www.stylovemeble.pl
 0.0.0.0 www.stylowoimodnie.pl
 0.0.0.0 www.sug.com.pl
 0.0.0.0 www.sukces.pl
-0.0.0.0 www.sundaycashsaver.com
 0.0.0.0 www.supplementum.pl
 0.0.0.0 www.suuntosklep.online
 0.0.0.0 www.swiezaki.weebly.com
@@ -1879,7 +1881,6 @@
 0.0.0.0 www.taniebutyonlinesklep.pl
 0.0.0.0 www.taniebutysportowe.com
 0.0.0.0 www.taniemedia.pl
-0.0.0.0 www.teamworkmlm.pl
 0.0.0.0 www.teespoon.co
 0.0.0.0 www.teleaudio.pl
 0.0.0.0 www.telemediaa.pl
@@ -1901,6 +1902,7 @@
 0.0.0.0 www.tomaszrabinski.pl
 0.0.0.0 www.topseans.pl
 0.0.0.0 www.totucafe.pl
+0.0.0.0 www.toysoutlet.pl
 0.0.0.0 www.tracksms.pl
 0.0.0.0 www.track.adsfast.com
 0.0.0.0 www.transegz.pl
@@ -1959,7 +1961,6 @@
 0.0.0.0 www.wernet.pl
 0.0.0.0 www.werxwer.pl
 0.0.0.0 www.wesklan.pl
-0.0.0.0 www.wiecznieczwarty.com.pl
 0.0.0.0 www.wielkanagroda.com
 0.0.0.0 www.wielkaniespodzianka.pl
 0.0.0.0 www.wifiprotector.com
@@ -2137,10 +2138,8 @@
 0.0.0.0 www.pm-international.com
 0.0.0.0 www.pobierz-online.co.pl
 0.0.0.0 www.polska-tv.pl
-0.0.0.0 www.pol.boobs-xl.com
 0.0.0.0 www.powerkf-design.pl
 0.0.0.0 www.pozyczka-minutowa.pl
-0.0.0.0 www.pozyczka-sms.pl
 0.0.0.0 www.pozyczka-tanio-szybko.pl
 0.0.0.0 www.pozyczki-prywatne.com
 0.0.0.0 www.pozyczki-prywatne.com.pl
@@ -2241,72 +2240,6 @@
 0.0.0.0 zskleczany.pl
 0.0.0.0 zukiewicz.com
 0.0.0.0 zyski-z-innowacji.pl
-#
-#
-# Promocja pseudonauki / Fake news
-# Nieprawdziwe, wprowadzajace w blad informacje lub podobne.
-0.0.0.0 aju.pl
-0.0.0.0 biotalerz.pl
-0.0.0.0 bio-chemik24.pl
-0.0.0.0 cobolito.pl
-0.0.0.0 detoxpolska.pl
-0.0.0.0 digdeeper.neocities.org
-0.0.0.0 fitsekret.pl
-0.0.0.0 globalhealingcenter.com
-0.0.0.0 gotsprouts.com
-0.0.0.0 homoseksualizm.edu.pl
-0.0.0.0 jerzyzieba.com
-0.0.0.0 mabello.pl
-0.0.0.0 meganiusy.com
-0.0.0.0 misja-cera.pl
-0.0.0.0 naturalraport.pl
-0.0.0.0 newsstories.live
-0.0.0.0 odkrywamyzakryte.com
-0.0.0.0 paulinajanowicz.pl
-0.0.0.0 planetazdrowia.com
-0.0.0.0 planet-tachyon.com
-0.0.0.0 polakuleczsiesam.pl
-0.0.0.0 spyware.neocities.org
-0.0.0.0 stopgender.pl
-0.0.0.0 stopnop.com.pl
-0.0.0.0 szczepienie.info
-0.0.0.0 timeforvitamins.com
-0.0.0.0 torsionfield.eu
-0.0.0.0 ukryteterapie.pl
-0.0.0.0 vaccgenocide.blogspot.com
-0.0.0.0 vaccgenocide.wordpress.com
-0.0.0.0 witnatura.pl
-0.0.0.0 www.aju.pl
-0.0.0.0 www.biotalerz.pl
-0.0.0.0 www.cobolito.pl
-0.0.0.0 www.detoxpolska.pl
-0.0.0.0 www.digdeeper.neocities.org
-0.0.0.0 www.fitsekret.pl
-0.0.0.0 www.globalhealingcenter.com
-0.0.0.0 www.gotsprouts.com
-0.0.0.0 www.homoseksualizm.edu.pl
-0.0.0.0 www.jerzyzieba.com
-0.0.0.0 www.mabello.pl
-0.0.0.0 www.meganiusy.com
-0.0.0.0 www.naturalraport.pl
-0.0.0.0 www.newsstories.live
-0.0.0.0 www.odkrywamyzakryte.com
-0.0.0.0 www.paulinajanowicz.pl
-0.0.0.0 www.planetazdrowia.com
-0.0.0.0 www.polakuleczsiesam.pl
-0.0.0.0 www.spyware.neocities.org
-0.0.0.0 www.stopgender.pl
-0.0.0.0 www.stopnop.com.pl
-0.0.0.0 www.szczepienie.info
-0.0.0.0 www.timeforvitamins.com
-0.0.0.0 www.torsionfield.eu
-0.0.0.0 www.ukryteterapie.pl
-0.0.0.0 www.vaccgenocide.blogspot.com
-0.0.0.0 www.vaccgenocide.wordpress.com
-0.0.0.0 www.witnatura.pl
-0.0.0.0 www.bio-chemik24.pl
-0.0.0.0 www.misja-cera.pl
-0.0.0.0 www.planet-tachyon.com
 #
 #
 # Przekierowuja do innych stron z przekretami
@@ -2734,7 +2667,7 @@
 0.0.0.0 zejrzyj-zdjecia.bo.pl
 0.0.0.0 zgarniij_vouchher.skroc.pl
 #
-#
+$
 # Przekrety
 0.0.0.0 1channelhd.xyz
 0.0.0.0 4kplayer.pl
@@ -2763,10 +2696,10 @@
 0.0.0.0 aldocontreras.com
 0.0.0.0 alejandravalladares.com.ve
 0.0.0.0 alldc.pw
-0.0.0.0 allegro.media.pl
 0.0.0.0 allegro.targi.pl
 0.0.0.0 allonline.pl
 0.0.0.0 allplayer.pl
+0.0.0.0 alltube.com.pl
 0.0.0.0 all-player.pl
 0.0.0.0 alohasoftware.net
 0.0.0.0 amariceo.duckdns.org
@@ -2812,6 +2745,7 @@
 0.0.0.0 blog.medkad.com
 0.0.0.0 bondagetrip.com
 0.0.0.0 bondbengals.info
+0.0.0.0 bonswiateczny.24.eu
 0.0.0.0 bookbugg.com
 0.0.0.0 bramka-sms-za-darmo.pl
 0.0.0.0 brave-browser.info
@@ -2856,6 +2790,7 @@
 0.0.0.0 chron-telefon.com
 0.0.0.0 ciekawehistorie.pl
 0.0.0.0 cigape.net
+0.0.0.0 cinemaplanet.pl
 0.0.0.0 cinematicfanatic.com
 0.0.0.0 circultural.com
 0.0.0.0 cityvida.com
@@ -2986,7 +2921,6 @@
 0.0.0.0 filedownloads.pl
 0.0.0.0 fileengine.org
 0.0.0.0 filerom.com
-0.0.0.0 filescloud.pl
 0.0.0.0 filesdownloads.pl
 0.0.0.0 filespeedy.net
 0.0.0.0 filespeedy.org
@@ -3255,12 +3189,14 @@
 0.0.0.0 newswave.online
 0.0.0.0 newsy-onet24.pl
 0.0.0.0 newszone.pro
+0.0.0.0 news-deck.at
 0.0.0.0 news-onet24.pl
 0.0.0.0 nfbio.com
 0.0.0.0 ngomavibe.co.ke
 0.0.0.0 njb-gmbh.com
 0.0.0.0 nomadztruck.com
 0.0.0.0 nonstopvideos.pl
+0.0.0.0 nowa-oplata.net
 0.0.0.0 nsfund.mn
 0.0.0.0 nthost.shacknet.nu
 0.0.0.0 nympropiedades.cl
@@ -3353,6 +3289,7 @@
 0.0.0.0 programyobywatelskie.pl
 0.0.0.0 projectolynx.com
 0.0.0.0 promienieszczescia.pl
+0.0.0.0 promocjezkauflandu.24.eu
 0.0.0.0 pronhubhd.com
 0.0.0.0 propdfconverter.com
 0.0.0.0 proslandvietnam.com
@@ -3366,6 +3303,7 @@
 0.0.0.0 pulsebiznesu.xyz
 0.0.0.0 pulse-biznesowe.xyz
 0.0.0.0 puls-sukcesu.net
+0.0.0.0 purchasedyouasa.co
 0.0.0.0 pzu.services
 0.0.0.0 pzu-sa.eu
 0.0.0.0 qooqle-sklep.eu
@@ -3512,11 +3450,13 @@
 0.0.0.0 tropiccritics.com
 0.0.0.0 truegamers.ga
 0.0.0.0 trunganh.xyz
+0.0.0.0 tuesyuioodpps.xyz
 0.0.0.0 tunga.homedns.org
 0.0.0.0 tvjovem.net
 0.0.0.0 tvnewtop.pro
 0.0.0.0 tvnowapp.net
 0.0.0.0 tv-internetowa.pl
+0.0.0.0 twojapaczka-24.com
 0.0.0.0 twojhoroskop.com
 0.0.0.0 udater.net
 0.0.0.0 ulink.pl
@@ -3525,7 +3465,6 @@
 0.0.0.0 unitedproductsllc.net
 0.0.0.0 unwashedsound.com
 0.0.0.0 update-1.com
-0.0.0.0 update-flash.s0l8ybzj9u.top
 0.0.0.0 upgradecheck12.thebestwaystofindreliablesoftwares.surf
 0.0.0.0 upshare.org
 0.0.0.0 uwagaporwanie.eu
@@ -3588,10 +3527,10 @@
 0.0.0.0 www.aldocontreras.com
 0.0.0.0 www.alejandravalladares.com.ve
 0.0.0.0 www.alldc.pw
-0.0.0.0 www.allegro.media.pl
 0.0.0.0 www.allegro.targi.pl
 0.0.0.0 www.allonline.pl
 0.0.0.0 www.allplayer.pl
+0.0.0.0 www.alltube.com.pl
 0.0.0.0 www.alohasoftware.net
 0.0.0.0 www.amariceo.duckdns.org
 0.0.0.0 www.anabim.com
@@ -3667,6 +3606,7 @@
 0.0.0.0 www.chomik24.com.pl
 0.0.0.0 www.ciekawehistorie.pl
 0.0.0.0 www.cigape.net
+0.0.0.0 www.cinemaplanet.pl
 0.0.0.0 www.cinematicfanatic.com
 0.0.0.0 www.circultural.com
 0.0.0.0 www.cityvida.com
@@ -3767,7 +3707,6 @@
 0.0.0.0 www.filedownloads.pl
 0.0.0.0 www.fileengine.org
 0.0.0.0 www.filerom.com
-0.0.0.0 www.filescloud.pl
 0.0.0.0 www.filesdownloads.pl
 0.0.0.0 www.filespeedy.net
 0.0.0.0 www.filespeedy.org
@@ -4076,6 +4015,7 @@
 0.0.0.0 www.psialapka.pl
 0.0.0.0 www.ptgame.eu
 0.0.0.0 www.pulsebiznesu.xyz
+0.0.0.0 www.purchasedyouasa.co
 0.0.0.0 www.pzu.services
 0.0.0.0 www.qplaywin.com
 0.0.0.0 www.qubble.com
@@ -4192,6 +4132,7 @@
 0.0.0.0 www.tropiccritics.com
 0.0.0.0 www.truegamers.ga
 0.0.0.0 www.trunganh.xyz
+0.0.0.0 www.tuesyuioodpps.xyz
 0.0.0.0 www.tunga.homedns.org
 0.0.0.0 www.tvjovem.net
 0.0.0.0 www.tvnewtop.pro
@@ -4286,6 +4227,7 @@
 0.0.0.0 www.all-player.pl
 0.0.0.0 www.bitcoins-profit.com
 0.0.0.0 www.bitcoin-trader-app.com
+0.0.0.0 www.bonswiateczny.24.eu
 0.0.0.0 www.bramka-sms-za-darmo.pl
 0.0.0.0 www.brave-browser.info
 0.0.0.0 www.btc-evo.com
@@ -4367,8 +4309,10 @@
 0.0.0.0 www.namierz-telefon.pl
 0.0.0.0 www.nasza-emigracja.pl
 0.0.0.0 www.newsy-onet24.pl
+0.0.0.0 www.news-deck.at
 0.0.0.0 www.news-onet24.pl
 0.0.0.0 www.njb-gmbh.com
+0.0.0.0 www.nowa-oplata.net
 0.0.0.0 www.n-mobile.net
 0.0.0.0 www.offside2.000webhostapp.com
 0.0.0.0 www.ogladaj-online24.pl
@@ -4390,6 +4334,7 @@
 0.0.0.0 www.polski-poranek-pl.com
 0.0.0.0 www.post-341478.info
 0.0.0.0 www.pramodkumarsingh.000webhostapp.com
+0.0.0.0 www.promocjezkauflandu.24.eu
 0.0.0.0 www.pulse-biznesowe.xyz
 0.0.0.0 www.puls-sukcesu.net
 0.0.0.0 www.pzu-sa.eu
@@ -4423,8 +4368,8 @@
 0.0.0.0 www.th-games.com
 0.0.0.0 www.token-interia.pl
 0.0.0.0 www.tv-internetowa.pl
+0.0.0.0 www.twojapaczka-24.com
 0.0.0.0 www.update-1.com
-0.0.0.0 www.update-flash.s0l8ybzj9u.top
 0.0.0.0 www.wiadomosci-onet24.ml
 0.0.0.0 www.wiadomosci-onet24.pl
 0.0.0.0 www.wiadomosci-onet24.tk
@@ -4443,8 +4388,6 @@
 0.0.0.0 www.zamowienia-priorytetowe.pl
 0.0.0.0 www.zarabiajwsieci.5v.pl
 0.0.0.0 www.zasil-konto.tk
-0.0.0.0 www.zweryfikuj-sie.eu
-0.0.0.0 www.zweryfikuj-sie.pl
 0.0.0.0 wx-xcx.xyz
 0.0.0.0 wybierz-nagrode.pl
 0.0.0.0 wygrajpsc.eu
@@ -4480,8 +4423,6 @@
 0.0.0.0 zoracle.com
 0.0.0.0 zumodi.com
 0.0.0.0 zweryfiikujdane.tk
-0.0.0.0 zweryfikuj-sie.eu
-0.0.0.0 zweryfikuj-sie.pl
 #
 #
 # Blogspot
@@ -4616,7 +4557,6 @@
 0.0.0.0 apple.com-macos-clean-systems.live
 0.0.0.0 apple.com-mac-booster.live
 0.0.0.0 apple.com-repair.live
-0.0.0.0 apple.com-repair-macbook.live
 0.0.0.0 apple.com-repair-os.live
 0.0.0.0 apple.com-scan.live
 0.0.0.0 apple.com-scan-mac.live
@@ -4764,7 +4704,6 @@
 0.0.0.0 www.apple.com-macos-clean-systems.live
 0.0.0.0 www.apple.com-mac-booster.live
 0.0.0.0 www.apple.com-repair.live
-0.0.0.0 www.apple.com-repair-macbook.live
 0.0.0.0 www.apple.com-repair-os.live
 0.0.0.0 www.apple.com-scan.live
 0.0.0.0 www.apple.com-scan-mac.live
@@ -4786,12 +4725,3 @@
 0.0.0.0 www.ww1.shinden-anime.info
 0.0.0.0 wydawca.lead.network
 0.0.0.0 zmienkolory.blogspot.com
-#
-#
-# Uzupelnienie hosts do promocji pseudonauki / fake newsow
-0.0.0.0 go.globalhealingcenter.com
-0.0.0.0 shop.planet-tachyon.com
-0.0.0.0 store.planet-tachyon.com
-0.0.0.0 www.go.globalhealingcenter.com
-0.0.0.0 www.shop.planet-tachyon.com
-0.0.0.0 www.store.planet-tachyon.com
