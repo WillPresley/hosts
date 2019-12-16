@@ -970,10 +970,8 @@
 0.0.0.0 adserver.adreactor.com
 0.0.0.0 ads.adrise.tv
 0.0.0.0 frqj.adrise.tv
-0.0.0.0 images.adrise.tv
 0.0.0.0 paella.adrise.tv
 0.0.0.0 s.adrise.tv
-0.0.0.0 uapi.adrise.tv
 0.0.0.0 tags.adriver.ru
 0.0.0.0 police.adrizer.com
 0.0.0.0 adrock.com.ua
@@ -6572,7 +6570,6 @@
 0.0.0.0 a.koudai.com
 0.0.0.0 location.kredivo.com
 0.0.0.0 krxd.net
-0.0.0.0 api.krxd.net
 0.0.0.0 apiservices.krxd.net
 0.0.0.0 beacon.krxd.net
 0.0.0.0 beacon-maxis.krxd.net

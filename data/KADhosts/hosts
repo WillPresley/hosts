@@ -1,8 +1,8 @@
 # Title: KADhosts (bez kontrowersji)
 # KADHosts (without controversies)
 # Description: Filtry chroniace przed przekretami takimi jak subskrypcje SMS
-# Last modified: Tue, 10 Dec 2019, 14:50 UTC+01
-# Version: 2019.12.10.1
+# Last modified: Sun, 15 Dec 2019, 18:05 UTC+01
+# Version: 2019.12.15.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -21,6 +21,7 @@
 0.0.0.0 4skype.pl
 0.0.0.0 5k-player.com
 0.0.0.0 7tools.eu
+0.0.0.0 9print.pl
 0.0.0.0 20pascals.nl
 0.0.0.0 24hoursready.cf
 0.0.0.0 a1a.pl
@@ -281,6 +282,7 @@
 0.0.0.0 eco-flow.pl
 0.0.0.0 ecpp.pl
 0.0.0.0 eddie-hovawart.pl
+0.0.0.0 edofinansowania.eu
 0.0.0.0 eglobalcentral.pl
 0.0.0.0 ekoinnowacyjne.pl
 0.0.0.0 ekstrafilmy24.pl
@@ -457,7 +459,6 @@
 0.0.0.0 hollistersklep.com
 0.0.0.0 hollisterwarszawa.pl
 0.0.0.0 homeagd.in.net
-0.0.0.0 homeekspert.net
 0.0.0.0 homeexpres.net
 0.0.0.0 homejailbreak.com
 0.0.0.0 homemedia.in.net
@@ -611,6 +612,7 @@
 0.0.0.0 menshealthweb.co
 0.0.0.0 mentor-cosmetics.com
 0.0.0.0 mezczyzna-trendy.pl
+0.0.0.0 mezur4.com
 0.0.0.0 mgid.com
 0.0.0.0 mieszkania-pokoje-wynajem.pl
 0.0.0.0 mistrzmotywacji.pl
@@ -629,9 +631,7 @@
 0.0.0.0 mojezakupy.net
 0.0.0.0 mon.trackmysales.website
 0.0.0.0 moneywin24.com
-0.0.0.0 monkeychanct.com
 0.0.0.0 morceko.pl
-0.0.0.0 morele.info
 0.0.0.0 morena.in.net
 0.0.0.0 morinda.com
 0.0.0.0 motifiles.com
@@ -666,7 +666,6 @@
 0.0.0.0 nb574.pl
 0.0.0.0 neomedia.in.net
 0.0.0.0 neomedia24.net
-0.0.0.0 neomediamax.net
 0.0.0.0 neonetmax.in.net
 0.0.0.0 neopozyczki.pl
 0.0.0.0 neospes.com
@@ -723,6 +722,7 @@
 0.0.0.0 oponykarbownik.pl
 0.0.0.0 optidee.nl
 0.0.0.0 optimask-pro.com
+0.0.0.0 optimus-partner.pl
 0.0.0.0 oranzadaklub.pl
 0.0.0.0 organiclife.com.pl
 0.0.0.0 organogold.com
@@ -730,7 +730,6 @@
 0.0.0.0 oswieconykochanek.pl
 0.0.0.0 oszukacruletke.like.pl
 0.0.0.0 oszukacruletke.pl
-0.0.0.0 outeletowo.com
 0.0.0.0 outletowo.com
 0.0.0.0 outletto24.com
 0.0.0.0 ovb.pl
@@ -750,7 +749,6 @@
 0.0.0.0 perfect-coll.pl
 0.0.0.0 phuwinstal.pl
 0.0.0.0 phytolast.com
-0.0.0.0 pierre-emoi.fr
 0.0.0.0 pierre-lang.com
 0.0.0.0 pitbull.ek1.pl
 0.0.0.0 pl.fmworld.com
@@ -857,6 +855,7 @@
 0.0.0.0 reducelant.com
 0.0.0.0 reeboknpcii.pl
 0.0.0.0 refundacjeregionalne.pl
+0.0.0.0 regionalnyportal.eu
 0.0.0.0 registrationofaccount.com
 0.0.0.0 reimageplus.com
 0.0.0.0 rep.privatesearch.club
@@ -893,7 +892,6 @@
 0.0.0.0 serwis.kb.help
 0.0.0.0 serwislaptopowwarszawa.com.pl
 0.0.0.0 serwis-laptopow24.pl
-0.0.0.0 sfemble.pl
 0.0.0.0 shidokan-lodz.pl
 0.0.0.0 shiporama.com
 0.0.0.0 shoegallery.com.pl
@@ -1306,6 +1304,7 @@
 0.0.0.0 www.ecoslimmer.pro
 0.0.0.0 www.ecoworld24.com
 0.0.0.0 www.ecpp.pl
+0.0.0.0 www.edofinansowania.eu
 0.0.0.0 www.eglobalcentral.pl
 0.0.0.0 www.ekoinnowacyjne.pl
 0.0.0.0 www.ekstrafilmy24.pl
@@ -1450,7 +1449,6 @@
 0.0.0.0 www.hollistersklep.com
 0.0.0.0 www.hollisterwarszawa.pl
 0.0.0.0 www.homeagd.in.net
-0.0.0.0 www.homeekspert.net
 0.0.0.0 www.homeexpres.net
 0.0.0.0 www.homejailbreak.com
 0.0.0.0 www.homemedia.in.net
@@ -1583,6 +1581,7 @@
 0.0.0.0 www.megamieszkania.pl
 0.0.0.0 www.megazakupy.net
 0.0.0.0 www.menshealthweb.co
+0.0.0.0 www.mezur4.com
 0.0.0.0 www.mgid.com
 0.0.0.0 www.mistrzmotywacji.pl
 0.0.0.0 www.mkaltenpflege24h.pl
@@ -1598,10 +1597,8 @@
 0.0.0.0 www.mojepc.net
 0.0.0.0 www.mojezakupy.net
 0.0.0.0 www.moneywin24.com
-0.0.0.0 www.monkeychanct.com
 0.0.0.0 www.mon.trackmysales.website
 0.0.0.0 www.morceko.pl
-0.0.0.0 www.morele.info
 0.0.0.0 www.morena.in.net
 0.0.0.0 www.morinda.com
 0.0.0.0 www.motifiles.com
@@ -1630,7 +1627,6 @@
 0.0.0.0 www.naturday.pl
 0.0.0.0 www.nb574.pl
 0.0.0.0 www.neomedia24.net
-0.0.0.0 www.neomediamax.net
 0.0.0.0 www.neomedia.in.net
 0.0.0.0 www.neonetmax.in.net
 0.0.0.0 www.neopozyczki.pl
@@ -1686,7 +1682,6 @@
 0.0.0.0 www.oswieconykochanek.pl
 0.0.0.0 www.oszukacruletke.like.pl
 0.0.0.0 www.oszukacruletke.pl
-0.0.0.0 www.outeletowo.com
 0.0.0.0 www.outletowo.com
 0.0.0.0 www.outletto24.com
 0.0.0.0 www.ovb.pl
@@ -1783,6 +1778,7 @@
 0.0.0.0 www.reducelant.com
 0.0.0.0 www.reeboknpcii.pl
 0.0.0.0 www.refundacjeregionalne.pl
+0.0.0.0 www.regionalnyportal.eu
 0.0.0.0 www.registrationofaccount.com
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.rep.privatesearch.club
@@ -1814,7 +1810,6 @@
 0.0.0.0 www.serialefilmy.pl
 0.0.0.0 www.serwislaptopowwarszawa.com.pl
 0.0.0.0 www.serwis.kb.help
-0.0.0.0 www.sfemble.pl
 0.0.0.0 www.shiporama.com
 0.0.0.0 www.shoegallery.com.pl
 0.0.0.0 www.shoesland.pl
@@ -2019,6 +2014,7 @@
 0.0.0.0 www.4skype.pl
 0.0.0.0 www.5k-player.com
 0.0.0.0 www.7tools.eu
+0.0.0.0 www.9print.pl
 0.0.0.0 www.20pascals.nl
 0.0.0.0 www.24hoursready.cf
 0.0.0.0 www.act-natural.pl
@@ -2127,10 +2123,10 @@
 0.0.0.0 www.oplacalna-gotowka.pl
 0.0.0.0 www.oplaca-sie.pl
 0.0.0.0 www.optimask-pro.com
+0.0.0.0 www.optimus-partner.pl
 0.0.0.0 www.osrodek-ojczyzna.pl
 0.0.0.0 www.pc-serwis-brzozow.pl
 0.0.0.0 www.perfect-coll.pl
-0.0.0.0 www.pierre-emoi.fr
 0.0.0.0 www.pierre-lang.com
 0.0.0.0 www.play-cda.pl
 0.0.0.0 www.play-tube.pl
@@ -2185,7 +2181,6 @@
 0.0.0.0 www.votum-sa.pl
 0.0.0.0 www.web-online.pl
 0.0.0.0 www.wellstar-company.com
-0.0.0.0 www.wygrana-konkursu.eu
 0.0.0.0 www.wyspa-maitri.pl
 0.0.0.0 www.wytypowany-zwyciezca.com
 0.0.0.0 www.wytypowany-zwyciezca.pl
@@ -2194,7 +2189,6 @@
 0.0.0.0 www.zennoa-poland.com
 0.0.0.0 www.znajdz-numer.pl
 0.0.0.0 www.zyski-z-innowacji.pl
-0.0.0.0 wygrana-konkursu.eu
 0.0.0.0 wyjasniamy.eu
 0.0.0.0 wyjazd24.pl
 0.0.0.0 wyleczpc.pl
@@ -2673,7 +2667,6 @@ $
 0.0.0.0 4kplayer.pl
 0.0.0.0 4kstream.pl
 0.0.0.0 7dot.cn
-0.0.0.0 7fantasma.duckdns.org
 0.0.0.0 24fakty-sniadaniowe.pl
 0.0.0.0 50kaweek.live
 0.0.0.0 7228.eu
@@ -2683,13 +2676,10 @@ $
 0.0.0.0 adamdelivery.pl
 0.0.0.0 adidas-collection.club
 0.0.0.0 adobe.5v.pl
-0.0.0.0 ad-noise.net
-0.0.0.0 ad-servicestats.net
 0.0.0.0 agipasesores.com
 0.0.0.0 agricoletrade.com
 0.0.0.0 ailegro.pl.ua
 0.0.0.0 akazoo.pl
-0.0.0.0 akeemdom.com
 0.0.0.0 aktpl.com
 0.0.0.0 albajifood.com
 0.0.0.0 alcaido.com
@@ -2716,7 +2706,6 @@ $
 0.0.0.0 appiq.mobi
 0.0.0.0 apps.co.pl
 0.0.0.0 appsdorado.com
-0.0.0.0 arm2pie.com
 0.0.0.0 aseanlegaltech.com
 0.0.0.0 aspenholding.co
 0.0.0.0 aspenholding.com
@@ -2745,7 +2734,6 @@ $
 0.0.0.0 blog.medkad.com
 0.0.0.0 bondagetrip.com
 0.0.0.0 bondbengals.info
-0.0.0.0 bonswiateczny.24.eu
 0.0.0.0 bookbugg.com
 0.0.0.0 bramka-sms-za-darmo.pl
 0.0.0.0 brave-browser.info
@@ -2759,8 +2747,6 @@ $
 0.0.0.0 btc-forum.pl
 0.0.0.0 bubblelife70.life
 0.0.0.0 bulbulstore.com
-0.0.0.0 businessdirectnessource.com
-0.0.0.0 business-made-fun.com
 0.0.0.0 buz2mobile.com
 0.0.0.0 calodobowe-wiadomosci-pl.eu
 0.0.0.0 caneserve.com
@@ -2781,7 +2767,6 @@ $
 0.0.0.0 cezaevinegonder.com
 0.0.0.0 cfotim.live
 0.0.0.0 challengeforme.com
-0.0.0.0 charmedno1.com
 0.0.0.0 check-prizes-now2.life
 0.0.0.0 chefeladlevi.com
 0.0.0.0 choljai.info
@@ -2789,7 +2774,6 @@ $
 0.0.0.0 chomik-24.pl
 0.0.0.0 chron-telefon.com
 0.0.0.0 ciekawehistorie.pl
-0.0.0.0 cigape.net
 0.0.0.0 cinemaplanet.pl
 0.0.0.0 cinematicfanatic.com
 0.0.0.0 circultural.com
@@ -2807,8 +2791,6 @@ $
 0.0.0.0 covergt.com
 0.0.0.0 cpagrip.com
 0.0.0.0 credito.com.pl
-0.0.0.0 cribdare2no.com
-0.0.0.0 crisptic01.net
 0.0.0.0 cs.nailrr.com
 0.0.0.0 customernoble.com
 0.0.0.0 cybermagicindia.com
@@ -2840,7 +2822,6 @@ $
 0.0.0.0 domniespodzianek.com
 0.0.0.0 doski.by
 0.0.0.0 dotabet103.com
-0.0.0.0 dowelsobject.com
 0.0.0.0 download.inboxace.com
 0.0.0.0 download.televisionfanatic.com
 0.0.0.0 download.weatherblink.com
@@ -2874,7 +2855,6 @@ $
 0.0.0.0 endofhisrope.net
 0.0.0.0 ergjt.bxugac.live
 0.0.0.0 ericius.eu
-0.0.0.0 eroscenter.co.il
 0.0.0.0 eroutks.co
 0.0.0.0 ero-tv.pl
 0.0.0.0 esemeso.pl
@@ -2942,6 +2922,7 @@ $
 0.0.0.0 film-base.pl
 0.0.0.0 film-milosc.pl
 0.0.0.0 financial.org
+0.0.0.0 financial-times-appp.github.io
 0.0.0.0 finanse-payu.pl
 0.0.0.0 firecash.org
 0.0.0.0 fitchciapara.com
@@ -2950,10 +2931,8 @@ $
 0.0.0.0 fliteilex.com
 0.0.0.0 florentynakurier.com
 0.0.0.0 followergods.com
-0.0.0.0 following-technology.com
 0.0.0.0 footoografie-pobieralnia.eu
 0.0.0.0 forfollow.net
-0.0.0.0 forgotten-deals.com
 0.0.0.0 forstriko.com
 0.0.0.0 fotki-kliknij.eu
 0.0.0.0 fotoografie-pobierz.eu
@@ -2981,6 +2960,7 @@ $
 0.0.0.0 gazetanowoczesna.pl
 0.0.0.0 gazeta-natemat-pol.eu
 0.0.0.0 gcesab.com
+0.0.0.0 genfotir.com
 0.0.0.0 getfilesfrom.net
 0.0.0.0 getgamecheats.com
 0.0.0.0 getimmediateedge.com
@@ -2994,6 +2974,7 @@ $
 0.0.0.0 goadvert.pk
 0.0.0.0 gogameportal.com
 0.0.0.0 goleta105.com
+0.0.0.0 gplay-store.ru
 0.0.0.0 gpmandiri.com
 0.0.0.0 grabyourluck.online
 0.0.0.0 gratissos.com
@@ -3024,7 +3005,6 @@ $
 0.0.0.0 hotel-bristol.lu
 0.0.0.0 hothub.pl
 0.0.0.0 hotnews24h.pl
-0.0.0.0 housedman.com
 0.0.0.0 hpaudiobooksfree.com
 0.0.0.0 idealnafigura.com
 0.0.0.0 ilovemobi.com
@@ -3044,7 +3024,6 @@ $
 0.0.0.0 irbf.com
 0.0.0.0 irismal.com
 0.0.0.0 islandmob.com
-0.0.0.0 itemagic.net
 0.0.0.0 itorrenty.org
 0.0.0.0 itsweeps3.space
 0.0.0.0 i-chomik.pl
@@ -3071,8 +3050,6 @@ $
 0.0.0.0 keqiang.pro
 0.0.0.0 ketabnema.com
 0.0.0.0 ketorecipeslchf.site
-0.0.0.0 kibo1.eu
-0.0.0.0 kibogroup.eu
 0.0.0.0 kiboinvest.eu
 0.0.0.0 kiepscy.evai.pl
 0.0.0.0 kipokahynr.xyz
@@ -3142,11 +3119,9 @@ $
 0.0.0.0 mega-gry.com
 0.0.0.0 megolbassia.com
 0.0.0.0 mergedocsnow.com
-0.0.0.0 micraamber.net
 0.0.0.0 microsoft-server-update.ml
 0.0.0.0 mientayweb.com
 0.0.0.0 millionways.duckdns.org
-0.0.0.0 mimicrice.com
 0.0.0.0 minmin96.xyz
 0.0.0.0 mnpasalubong.com
 0.0.0.0 mobgames.mobi
@@ -3179,7 +3154,6 @@ $
 0.0.0.0 nautili.us
 0.0.0.0 nav1002.ath.cx
 0.0.0.0 needforfile.net
-0.0.0.0 neshoitry.ddns.net
 0.0.0.0 netfilmy.pl
 0.0.0.0 netpipe.warzonedns.com
 0.0.0.0 neurorehabtraining.com
@@ -3228,14 +3202,13 @@ $
 0.0.0.0 patrickglobalusa.com
 0.0.0.0 pay.mobiltek.pl
 0.0.0.0 pay2me.pl
-0.0.0.0 payu.zabawkitoys.eu
+0.0.0.0 payu20-paczka24.com
 0.0.0.0 paywu.net
 0.0.0.0 pep-egypt.com
 0.0.0.0 performancevitality.net
 0.0.0.0 performquickintenselyfile.icu
 0.0.0.0 phikunprogramming.com
 0.0.0.0 phonenewmessage.com
-0.0.0.0 phoneysoap.com
 0.0.0.0 pinamo.pl
 0.0.0.0 pininfarina.dynalias.com
 0.0.0.0 pinkstar.pl
@@ -3273,12 +3246,12 @@ $
 0.0.0.0 pod004.site
 0.0.0.0 podologik.ca
 0.0.0.0 poland-news.pl
+0.0.0.0 policja24.eu
 0.0.0.0 polska-gazeta-dnia.pl
 0.0.0.0 polskie-newsy.com.pl
 0.0.0.0 polski-poranek.pl
 0.0.0.0 polski-poranek-pl.com
 0.0.0.0 pornmania.pl
-0.0.0.0 posed2shade.com
 0.0.0.0 post-341478.info
 0.0.0.0 powaifinearts.org
 0.0.0.0 praize19791.duckdns.org
@@ -3289,7 +3262,6 @@ $
 0.0.0.0 programyobywatelskie.pl
 0.0.0.0 projectolynx.com
 0.0.0.0 promienieszczescia.pl
-0.0.0.0 promocjezkauflandu.24.eu
 0.0.0.0 pronhubhd.com
 0.0.0.0 propdfconverter.com
 0.0.0.0 proslandvietnam.com
@@ -3299,19 +3271,20 @@ $
 0.0.0.0 przepismix.pl
 0.0.0.0 przesyleczki.com
 0.0.0.0 psialapka.pl
-0.0.0.0 ptgame.eu
 0.0.0.0 pulsebiznesu.xyz
 0.0.0.0 pulse-biznesowe.xyz
 0.0.0.0 puls-sukcesu.net
 0.0.0.0 purchasedyouasa.co
 0.0.0.0 pzu.services
-0.0.0.0 pzu-sa.eu
+0.0.0.0 qooqle-billing.eu
+0.0.0.0 qooqle-pay.com
+0.0.0.0 qooqle-pay.eu
+0.0.0.0 qooqle-play.com
+0.0.0.0 qooqle-play.eu
 0.0.0.0 qooqle-sklep.eu
-0.0.0.0 qplaywin.com
 0.0.0.0 qubble.com
 0.0.0.0 quiz-fun.com.my
 0.0.0.0 radiorage.com
-0.0.0.0 rampagegramar.com
 0.0.0.0 randewoo.ir
 0.0.0.0 randomelements.co.uk
 0.0.0.0 rangreality.com
@@ -3321,7 +3294,6 @@ $
 0.0.0.0 realnyzarobek.pl
 0.0.0.0 refferalstaff.com
 0.0.0.0 reg-me.pl
-0.0.0.0 rehabretie.com
 0.0.0.0 relayimmo.com
 0.0.0.0 reloffersstart.co
 0.0.0.0 restricted.pl
@@ -3336,8 +3308,6 @@ $
 0.0.0.0 rowanyne.ooo
 0.0.0.0 roznehistorie.pl
 0.0.0.0 rubi4edit.com
-0.0.0.0 rubiccrum.com
-0.0.0.0 rubriccrumb.com
 0.0.0.0 run-germany.com
 0.0.0.0 rzeczyzadarmo.pl
 0.0.0.0 saarthieduhub.com
@@ -3376,7 +3346,6 @@ $
 0.0.0.0 soo.sg
 0.0.0.0 spaceforyou.cc
 0.0.0.0 speedfile.info
-0.0.0.0 speedynewsclips.com
 0.0.0.0 sportowystream.pl
 0.0.0.0 sportowy-stream.pl
 0.0.0.0 sportplus.pro
@@ -3411,7 +3380,6 @@ $
 0.0.0.0 tankhoi.vn
 0.0.0.0 tariqul.info
 0.0.0.0 team4heat.net
-0.0.0.0 teatac4bath.com
 0.0.0.0 teccenter.xyz
 0.0.0.0 techiwant.com
 0.0.0.0 technowebs.xyz
@@ -3427,7 +3395,6 @@ $
 0.0.0.0 tematyczne-rozmowy-pl.eu
 0.0.0.0 tematyczne-wywiady.pl
 0.0.0.0 terazty24.eu
-0.0.0.0 theeraser94.ddns.net
 0.0.0.0 thefortunatenutrition.com
 0.0.0.0 themovienation.com
 0.0.0.0 thepropertydealerz.com
@@ -3435,7 +3402,6 @@ $
 0.0.0.0 thinhvuongmedia.com
 0.0.0.0 think1.com
 0.0.0.0 thongtindonganh.vn
-0.0.0.0 th-games.com
 0.0.0.0 tinyfilehost.com
 0.0.0.0 tinyfileshost.com
 0.0.0.0 todolize.com
@@ -3460,10 +3426,8 @@ $
 0.0.0.0 twojhoroskop.com
 0.0.0.0 udater.net
 0.0.0.0 ulink.pl
-0.0.0.0 unite3tubes.com
 0.0.0.0 unitedmedsshop.com
 0.0.0.0 unitedproductsllc.net
-0.0.0.0 unwashedsound.com
 0.0.0.0 update-1.com
 0.0.0.0 upgradecheck12.thebestwaystofindreliablesoftwares.surf
 0.0.0.0 upshare.org
@@ -3496,7 +3460,6 @@ $
 0.0.0.0 wiadomosci-onet24.ml
 0.0.0.0 wiadomosci-onet24.pl
 0.0.0.0 wiadomosci-onet24.tk
-0.0.0.0 wiadomosci-tv24-onet.eu
 0.0.0.0 widget-eforsa.pl
 0.0.0.0 wincleanerpro.com
 0.0.0.0 windpl.org
@@ -3507,7 +3470,6 @@ $
 0.0.0.0 wizjalokalna24.pl
 0.0.0.0 wolyncalyfilm.wordpress.com
 0.0.0.0 womenempowermentpakistan.com
-0.0.0.0 wpcache-blogger.com
 0.0.0.0 wplogin.5v.pl
 0.0.0.0 wszyscyrodacy.com
 0.0.0.0 wszystko-na-temat.pl
@@ -3520,7 +3482,6 @@ $
 0.0.0.0 www.agricoletrade.com
 0.0.0.0 www.ailegro.pl.ua
 0.0.0.0 www.akazoo.pl
-0.0.0.0 www.akeemdom.com
 0.0.0.0 www.aktpl.com
 0.0.0.0 www.albajifood.com
 0.0.0.0 www.alcaido.com
@@ -3546,7 +3507,6 @@ $
 0.0.0.0 www.appiq.mobi
 0.0.0.0 www.appsdorado.com
 0.0.0.0 www.apps.co.pl
-0.0.0.0 www.arm2pie.com
 0.0.0.0 www.aseanlegaltech.com
 0.0.0.0 www.aspenholding.co
 0.0.0.0 www.aspenholding.com
@@ -3582,7 +3542,6 @@ $
 0.0.0.0 www.btcprofitnow.website
 0.0.0.0 www.bubblelife70.life
 0.0.0.0 www.bulbulstore.com
-0.0.0.0 www.businessdirectnessource.com
 0.0.0.0 www.buz2mobile.com
 0.0.0.0 www.caneserve.com
 0.0.0.0 www.captainquizz.de
@@ -3600,12 +3559,10 @@ $
 0.0.0.0 www.cezaevinegonder.com
 0.0.0.0 www.cfotim.live
 0.0.0.0 www.challengeforme.com
-0.0.0.0 www.charmedno1.com
 0.0.0.0 www.chefeladlevi.com
 0.0.0.0 www.choljai.info
 0.0.0.0 www.chomik24.com.pl
 0.0.0.0 www.ciekawehistorie.pl
-0.0.0.0 www.cigape.net
 0.0.0.0 www.cinemaplanet.pl
 0.0.0.0 www.cinematicfanatic.com
 0.0.0.0 www.circultural.com
@@ -3622,8 +3579,6 @@ $
 0.0.0.0 www.covergt.com
 0.0.0.0 www.cpagrip.com
 0.0.0.0 www.credito.com.pl
-0.0.0.0 www.cribdare2no.com
-0.0.0.0 www.crisptic01.net
 0.0.0.0 www.cs.nailrr.com
 0.0.0.0 www.customernoble.com
 0.0.0.0 www.cybermagicindia.com
@@ -3648,7 +3603,6 @@ $
 0.0.0.0 www.domniespodzianek.com
 0.0.0.0 www.doski.by
 0.0.0.0 www.dotabet103.com
-0.0.0.0 www.dowelsobject.com
 0.0.0.0 www.download24.site
 0.0.0.0 www.downloadfiles.pl
 0.0.0.0 www.download.inboxace.com
@@ -3680,7 +3634,6 @@ $
 0.0.0.0 www.endofhisrope.net
 0.0.0.0 www.ergjt.bxugac.live
 0.0.0.0 www.ericius.eu
-0.0.0.0 www.eroscenter.co.il
 0.0.0.0 www.eroutks.co
 0.0.0.0 www.esemeso.pl
 0.0.0.0 www.euroausili.it
@@ -3752,6 +3705,7 @@ $
 0.0.0.0 www.gayza.net
 0.0.0.0 www.gazetanowoczesna.pl
 0.0.0.0 www.gcesab.com
+0.0.0.0 www.genfotir.com
 0.0.0.0 www.getfilesfrom.net
 0.0.0.0 www.getgamecheats.com
 0.0.0.0 www.getimmediateedge.com
@@ -3792,7 +3746,6 @@ $
 0.0.0.0 www.hotelkrome.com
 0.0.0.0 www.hothub.pl
 0.0.0.0 www.hotnews24h.pl
-0.0.0.0 www.housedman.com
 0.0.0.0 www.hpaudiobooksfree.com
 0.0.0.0 www.idealnafigura.com
 0.0.0.0 www.ilovemobi.com
@@ -3809,7 +3762,6 @@ $
 0.0.0.0 www.irbf.com
 0.0.0.0 www.irismal.com
 0.0.0.0 www.islandmob.com
-0.0.0.0 www.itemagic.net
 0.0.0.0 www.itorrenty.org
 0.0.0.0 www.itsweeps3.space
 0.0.0.0 www.j4l.info
@@ -3832,8 +3784,6 @@ $
 0.0.0.0 www.keqiang.pro
 0.0.0.0 www.ketabnema.com
 0.0.0.0 www.ketorecipeslchf.site
-0.0.0.0 www.kibo1.eu
-0.0.0.0 www.kibogroup.eu
 0.0.0.0 www.kiboinvest.eu
 0.0.0.0 www.kiepscy.evai.pl
 0.0.0.0 www.kipokahynr.xyz
@@ -3894,10 +3844,8 @@ $
 0.0.0.0 www.megadown.us
 0.0.0.0 www.megolbassia.com
 0.0.0.0 www.mergedocsnow.com
-0.0.0.0 www.micraamber.net
 0.0.0.0 www.mientayweb.com
 0.0.0.0 www.millionways.duckdns.org
-0.0.0.0 www.mimicrice.com
 0.0.0.0 www.minmin96.xyz
 0.0.0.0 www.mnpasalubong.com
 0.0.0.0 www.mobgames.mobi
@@ -3926,7 +3874,6 @@ $
 0.0.0.0 www.nautili.us
 0.0.0.0 www.nav1002.ath.cx
 0.0.0.0 www.needforfile.net
-0.0.0.0 www.neshoitry.ddns.net
 0.0.0.0 www.netfilmy.pl
 0.0.0.0 www.netpipe.warzonedns.com
 0.0.0.0 www.neurorehabtraining.com
@@ -3961,14 +3908,12 @@ $
 0.0.0.0 www.paraphingxmfevapk.xyz
 0.0.0.0 www.patrickglobalusa.com
 0.0.0.0 www.pay2me.pl
-0.0.0.0 www.payu.zabawkitoys.eu
 0.0.0.0 www.paywu.net
 0.0.0.0 www.pay.mobiltek.pl
 0.0.0.0 www.performancevitality.net
 0.0.0.0 www.performquickintenselyfile.icu
 0.0.0.0 www.phikunprogramming.com
 0.0.0.0 www.phonenewmessage.com
-0.0.0.0 www.phoneysoap.com
 0.0.0.0 www.pinamo.pl
 0.0.0.0 www.pininfarina.dynalias.com
 0.0.0.0 www.pinkstar.pl
@@ -3993,8 +3938,8 @@ $
 0.0.0.0 www.pobierzpliki.pl
 0.0.0.0 www.pod004.site
 0.0.0.0 www.podologik.ca
+0.0.0.0 www.policja24.eu
 0.0.0.0 www.pornmania.pl
-0.0.0.0 www.posed2shade.com
 0.0.0.0 www.powaifinearts.org
 0.0.0.0 www.po.fyybox.com
 0.0.0.0 www.praize19791.duckdns.org
@@ -4013,14 +3958,11 @@ $
 0.0.0.0 www.przepismix.pl
 0.0.0.0 www.przesyleczki.com
 0.0.0.0 www.psialapka.pl
-0.0.0.0 www.ptgame.eu
 0.0.0.0 www.pulsebiznesu.xyz
 0.0.0.0 www.purchasedyouasa.co
 0.0.0.0 www.pzu.services
-0.0.0.0 www.qplaywin.com
 0.0.0.0 www.qubble.com
 0.0.0.0 www.radiorage.com
-0.0.0.0 www.rampagegramar.com
 0.0.0.0 www.randewoo.ir
 0.0.0.0 www.randomelements.co.uk
 0.0.0.0 www.rangreality.com
@@ -4028,7 +3970,6 @@ $
 0.0.0.0 www.rcplus.net.pl
 0.0.0.0 www.realnyzarobek.pl
 0.0.0.0 www.refferalstaff.com
-0.0.0.0 www.rehabretie.com
 0.0.0.0 www.relayimmo.com
 0.0.0.0 www.reloffersstart.co
 0.0.0.0 www.restricted.pl
@@ -4041,8 +3982,6 @@ $
 0.0.0.0 www.rowanyne.ooo
 0.0.0.0 www.roznehistorie.pl
 0.0.0.0 www.rubi4edit.com
-0.0.0.0 www.rubiccrum.com
-0.0.0.0 www.rubriccrumb.com
 0.0.0.0 www.rzeczyzadarmo.pl
 0.0.0.0 www.saarthieduhub.com
 0.0.0.0 www.sabiosdelamor.co
@@ -4076,7 +4015,6 @@ $
 0.0.0.0 www.soo.sg
 0.0.0.0 www.spaceforyou.cc
 0.0.0.0 www.speedfile.info
-0.0.0.0 www.speedynewsclips.com
 0.0.0.0 www.sportowystream.pl
 0.0.0.0 www.sportplus.pro
 0.0.0.0 www.sprawdzikk.v0r.org
@@ -4102,7 +4040,6 @@ $
 0.0.0.0 www.tankhoi.vn
 0.0.0.0 www.tariqul.info
 0.0.0.0 www.team4heat.net
-0.0.0.0 www.teatac4bath.com
 0.0.0.0 www.teccenter.xyz
 0.0.0.0 www.techiwant.com
 0.0.0.0 www.technowebs.xyz
@@ -4112,7 +4049,6 @@ $
 0.0.0.0 www.telewiadomosci.pl
 0.0.0.0 www.telewywiady.pl
 0.0.0.0 www.terazty24.eu
-0.0.0.0 www.theeraser94.ddns.net
 0.0.0.0 www.thefortunatenutrition.com
 0.0.0.0 www.themovienation.com
 0.0.0.0 www.thepropertydealerz.com
@@ -4140,10 +4076,8 @@ $
 0.0.0.0 www.twojhoroskop.com
 0.0.0.0 www.udater.net
 0.0.0.0 www.ulink.pl
-0.0.0.0 www.unite3tubes.com
 0.0.0.0 www.unitedmedsshop.com
 0.0.0.0 www.unitedproductsllc.net
-0.0.0.0 www.unwashedsound.com
 0.0.0.0 www.upgradecheck12.thebestwaystofindreliablesoftwares.surf
 0.0.0.0 www.upshare.org
 0.0.0.0 www.uwagaporwanie.eu
@@ -4215,24 +4149,19 @@ $
 0.0.0.0 www.4kplayer.pl
 0.0.0.0 www.4kstream.pl
 0.0.0.0 www.7dot.cn
-0.0.0.0 www.7fantasma.duckdns.org
 0.0.0.0 www.24fakty-sniadaniowe.pl
 0.0.0.0 www.50kaweek.live
 0.0.0.0 www.7228.eu
 0.0.0.0 www.59055.cn
 0.0.0.0 www.adidas-collection.club
 0.0.0.0 www.adobe.5v.pl
-0.0.0.0 www.ad-noise.net
-0.0.0.0 www.ad-servicestats.net
 0.0.0.0 www.all-player.pl
 0.0.0.0 www.bitcoins-profit.com
 0.0.0.0 www.bitcoin-trader-app.com
-0.0.0.0 www.bonswiateczny.24.eu
 0.0.0.0 www.bramka-sms-za-darmo.pl
 0.0.0.0 www.brave-browser.info
 0.0.0.0 www.btc-evo.com
 0.0.0.0 www.btc-forum.pl
-0.0.0.0 www.business-made-fun.com
 0.0.0.0 www.calodobowe-wiadomosci-pl.eu
 0.0.0.0 www.cda-film.pl
 0.0.0.0 www.cda-flix.pl
@@ -4274,17 +4203,17 @@ $
 0.0.0.0 www.filmy-i-seriale.pl
 0.0.0.0 www.film-base.pl
 0.0.0.0 www.film-milosc.pl
+0.0.0.0 www.financial-times-appp.github.io
 0.0.0.0 www.finanse-payu.pl
 0.0.0.0 www.fixfuturetype-restclicks.icu
-0.0.0.0 www.following-technology.com
 0.0.0.0 www.footoografie-pobieralnia.eu
-0.0.0.0 www.forgotten-deals.com
 0.0.0.0 www.fotki-kliknij.eu
 0.0.0.0 www.fotoografie-pobierz.eu
 0.0.0.0 www.functional-business.com
 0.0.0.0 www.gawaher-services.com
 0.0.0.0 www.gazeta-natemat-pol.eu
 0.0.0.0 www.gifts-for-free.online
+0.0.0.0 www.gplay-store.ru
 0.0.0.0 www.host1.5v.pl
 0.0.0.0 www.hotel-bristol.lu
 0.0.0.0 www.industry-deals.com
@@ -4321,6 +4250,7 @@ $
 0.0.0.0 www.orange-kodzik.890m.com
 0.0.0.0 www.otomoto-pl.eu
 0.0.0.0 www.paczkomaty-pl.tk
+0.0.0.0 www.payu20-paczka24.com
 0.0.0.0 www.pep-egypt.com
 0.0.0.0 www.pko-bp.pl
 0.0.0.0 www.player-cda.pl
@@ -4334,10 +4264,13 @@ $
 0.0.0.0 www.polski-poranek-pl.com
 0.0.0.0 www.post-341478.info
 0.0.0.0 www.pramodkumarsingh.000webhostapp.com
-0.0.0.0 www.promocjezkauflandu.24.eu
 0.0.0.0 www.pulse-biznesowe.xyz
 0.0.0.0 www.puls-sukcesu.net
-0.0.0.0 www.pzu-sa.eu
+0.0.0.0 www.qooqle-billing.eu
+0.0.0.0 www.qooqle-pay.com
+0.0.0.0 www.qooqle-pay.eu
+0.0.0.0 www.qooqle-play.com
+0.0.0.0 www.qooqle-play.eu
 0.0.0.0 www.qooqle-sklep.eu
 0.0.0.0 www.quiz-fun.com.my
 0.0.0.0 www.rap-share.pl
@@ -4365,7 +4298,6 @@ $
 0.0.0.0 www.tematyczne-rozmowy-pl.eu
 0.0.0.0 www.tematyczne-wywiady.pl
 0.0.0.0 www.the-bitcoin-profit.com
-0.0.0.0 www.th-games.com
 0.0.0.0 www.token-interia.pl
 0.0.0.0 www.tv-internetowa.pl
 0.0.0.0 www.twojapaczka-24.com
@@ -4373,10 +4305,8 @@ $
 0.0.0.0 www.wiadomosci-onet24.ml
 0.0.0.0 www.wiadomosci-onet24.pl
 0.0.0.0 www.wiadomosci-onet24.tk
-0.0.0.0 www.wiadomosci-tv24-onet.eu
 0.0.0.0 www.widget-eforsa.pl
 0.0.0.0 www.wirtualne-media.pl
-0.0.0.0 www.wpcache-blogger.com
 0.0.0.0 www.wplogin.5v.pl
 0.0.0.0 www.wszystko-na-temat.pl
 0.0.0.0 www.wx-xcx.xyz
@@ -4565,6 +4495,7 @@ $
 0.0.0.0 apple.com-speedup-macos.live
 0.0.0.0 apple.com-speed-macos.live
 0.0.0.0 bigbangads.go2cloud.org
+0.0.0.0 bonswiateczny.24.eu
 0.0.0.0 buzz.mobiapp-games.com
 0.0.0.0 cdnrep.reimageplus.com
 0.0.0.0 ce.wielkanagroda.com
@@ -4574,9 +4505,11 @@ $
 0.0.0.0 cs.shiporama.com
 0.0.0.0 cs.spotlessweb.com
 0.0.0.0 czas-na-fb.blogspot.com
+0.0.0.0 darmowe-bony.24.eu
 0.0.0.0 dev.apps.co.pl
 0.0.0.0 download.apps.co.pl
 0.0.0.0 dw.lp.eu.emobi-sys.com
+0.0.0.0 echo-dnia.24.eu
 0.0.0.0 eu-click.eworldtrack.com
 0.0.0.0 facebokznajomi.blogspot.com
 0.0.0.0 fbcolor.blogspot.com
@@ -4584,18 +4517,23 @@ $
 0.0.0.0 fcolors.blogspot.com
 0.0.0.0 fejsopodgladacz.blogspot.com
 0.0.0.0 fejs-colors.blogspot.com
+0.0.0.0 fotaonline.24.eu
+0.0.0.0 foto-zdjecia.24.eu
 0.0.0.0 free.apps.co.pl
 0.0.0.0 free.propdfconverter.com
 0.0.0.0 freeiqtest.blogspot.com
 0.0.0.0 game.apps.co.pl
+0.0.0.0 gazeta-polska.24.eu
 0.0.0.0 go.bestmobiworld.com
 0.0.0.0 gw.firesub.pl
 0.0.0.0 historieludzkie1.online
 0.0.0.0 hp.myway.com
 0.0.0.0 hwww.zweryfiikujdane.tk
+0.0.0.0 info-polska.24.eu
 0.0.0.0 j0yp.l3f.info
 0.0.0.0 jrly.l3f.info
 0.0.0.0 kaufland.gift-cards.co.pl
+0.0.0.0 konkurskauffland.24.eu
 0.0.0.0 m.pl.failmobile.net
 0.0.0.0 mediamarkt.pl.dailyoffer.top
 0.0.0.0 netflix.apps.co.pl
@@ -4623,16 +4561,22 @@ $
 0.0.0.0 pl.slimg0ji-berry.com
 0.0.0.0 poland.calivita.com
 0.0.0.0 premiumlink.7tools.eu
+0.0.0.0 prl.genfotir.com
 0.0.0.0 prod.letswinstuff.com
+0.0.0.0 promocjezkauflandu.24.eu
 0.0.0.0 promotions.monthlywinners.com
 0.0.0.0 publisher.lead.network
 0.0.0.0 r.clube62.date
+0.0.0.0 sprawdzzdjecia.24.eu
 0.0.0.0 thecryptogenius.com
+0.0.0.0 twoja-historia.24.eu
 0.0.0.0 ver.braintest4you.com
 0.0.0.0 vodafone.com-gift-winner-lucky-day.vip
 0.0.0.0 vpt58.tvnewtop.pro
 0.0.0.0 web.cellfun.mobi
 0.0.0.0 web.yuppipuppy.com
+0.0.0.0 wez-bon.24.eu
+0.0.0.0 wiadomosci-web.24.eu
 0.0.0.0 wielkopolskie.refundacjeregionalne.pl
 0.0.0.0 winner.giftprizewinner.com
 0.0.0.0 ww1.shinden-anime.info
@@ -4681,6 +4625,7 @@ $
 0.0.0.0 www.play.leadzu.com
 0.0.0.0 www.play.mobsfun.net
 0.0.0.0 www.poland.calivita.com
+0.0.0.0 www.prl.genfotir.com
 0.0.0.0 www.prod.letswinstuff.com
 0.0.0.0 www.promotions.monthlywinners.com
 0.0.0.0 www.publisher.lead.network
@@ -4711,17 +4656,30 @@ $
 0.0.0.0 www.apple.com-shields-guard.live
 0.0.0.0 www.apple.com-speedup-macos.live
 0.0.0.0 www.apple.com-speed-macos.live
+0.0.0.0 www.bonswiateczny.24.eu
 0.0.0.0 www.buzz.mobiapp-games.com
 0.0.0.0 www.czas-na-fb.blogspot.com
+0.0.0.0 www.darmowe-bony.24.eu
 0.0.0.0 www.dw.lp.eu.emobi-sys.com
+0.0.0.0 www.echo-dnia.24.eu
 0.0.0.0 www.eu-click.eworldtrack.com
 0.0.0.0 www.fb-podglad.blogspot.com
 0.0.0.0 www.fejs-colors.blogspot.com
+0.0.0.0 www.fotaonline.24.eu
+0.0.0.0 www.foto-zdjecia.24.eu
+0.0.0.0 www.gazeta-polska.24.eu
+0.0.0.0 www.info-polska.24.eu
 0.0.0.0 www.kaufland.gift-cards.co.pl
+0.0.0.0 www.konkurskauffland.24.eu
 0.0.0.0 www.pakiety-lte-5gb.blogspot.com
 0.0.0.0 www.pakiety-pokemon-go.blogspot.com
 0.0.0.0 www.premiumlink.7tools.eu
+0.0.0.0 www.promocjezkauflandu.24.eu
+0.0.0.0 www.sprawdzzdjecia.24.eu
+0.0.0.0 www.twoja-historia.24.eu
 0.0.0.0 www.vodafone.com-gift-winner-lucky-day.vip
+0.0.0.0 www.wez-bon.24.eu
+0.0.0.0 www.wiadomosci-web.24.eu
 0.0.0.0 www.ww1.shinden-anime.info
 0.0.0.0 wydawca.lead.network
 0.0.0.0 zmienkolory.blogspot.com
