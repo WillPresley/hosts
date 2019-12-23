@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 15 Dec 2019 15:14:20 GMT
-# entries:        3239
+# last updated:   Sun, 22 Dec 2019 08:50:52 GMT
+# entries:        3246
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,11 +11,10 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 21 Dec 1999 00:00:00
+# start date:    Tue, 28 Dec 1999 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
-0.0.0.0 123found.com
 0.0.0.0 123freeavatars.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
@@ -179,12 +178,12 @@
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad1.emule-project.org
+0.0.0.0 ad1.eventmanager.co.kr
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad2.iinfo.cz
 0.0.0.0 ad2.lupa.cz
 0.0.0.0 ad2.xrea.com
-0.0.0.0 ad2flash.com
 0.0.0.0 ad3.iinfo.cz
 0.0.0.0 ad3.pamedia.com.au
 0.0.0.0 ad3.xrea.com
@@ -192,6 +191,7 @@
 0.0.0.0 ad4mat.com
 0.0.0.0 ad4mat.de
 0.0.0.0 ad4mat.net
+0.0.0.0 ad4max.com
 0.0.0.0 adaction.de
 0.0.0.0 adadvisor.net
 0.0.0.0 adalliance.io
@@ -200,6 +200,7 @@
 0.0.0.0 adback.co
 0.0.0.0 adbard.net
 0.0.0.0 adblade.com
+0.0.0.0 adblade.org
 0.0.0.0 adblockanalytics.com
 0.0.0.0 adbooth.net
 0.0.0.0 adbot.com
@@ -302,6 +303,7 @@
 0.0.0.0 admantx.com
 0.0.0.0 admarketplace.net
 0.0.0.0 admarvel.com
+0.0.0.0 admaster.com.cn
 0.0.0.0 admax.nexage.com
 0.0.0.0 admedia.com
 0.0.0.0 admeld.com
@@ -465,7 +467,6 @@
 0.0.0.0 ads.fool.com
 0.0.0.0 ads.footymad.net
 0.0.0.0 ads.forbes.net
-0.0.0.0 ads.forium.de
 0.0.0.0 ads.fortunecity.com
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 ads.foxnetworks.com
@@ -506,6 +507,7 @@
 0.0.0.0 ads.ign.com
 0.0.0.0 ads.img.co.za
 0.0.0.0 ads.imgur.com
+0.0.0.0 ads.independent.com.mt
 0.0.0.0 ads.indiatimes.com
 0.0.0.0 ads.infi.net
 0.0.0.0 ads.internic.co.il
@@ -1001,6 +1003,7 @@
 0.0.0.0 archswimming.com
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 are-ter.com
+0.0.0.0 area51-ts.com
 0.0.0.0 argyresthia.com
 0.0.0.0 aromamirror.com
 0.0.0.0 as.webmd.com
@@ -1254,7 +1257,6 @@
 0.0.0.0 casinotraffic.com
 0.0.0.0 casterist.info
 0.0.0.0 cbanners.virtuagirlhd.com
-0.0.0.0 cbsi.com
 0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cdn.heapanalytics.com
@@ -1706,7 +1708,6 @@
 0.0.0.0 fuzzyflavor.com
 0.0.0.0 fuzzyweather.com
 0.0.0.0 fxstyle.net
-0.0.0.0 fyber.com
 0.0.0.0 ga.clearbit.com
 0.0.0.0 ga87z2o.com
 0.0.0.0 gadsbee.com
@@ -1720,6 +1721,7 @@
 0.0.0.0 gemlix.com
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geobanner.adultfriendfinder.com
+0.0.0.0 georiot.com
 0.0.0.0 geovisite.com
 0.0.0.0 getclicky.com
 0.0.0.0 giddycoat.com
@@ -1930,6 +1932,7 @@
 0.0.0.0 jaizouji.com
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
+0.0.0.0 jetlore.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
 0.0.0.0 jquery-bin.com
@@ -1946,6 +1949,7 @@
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
+0.0.0.0 karisimbi.net
 0.0.0.0 karonty.com
 0.0.0.0 keymedia.hu
 0.0.0.0 keywee.co
@@ -2284,6 +2288,8 @@
 0.0.0.0 observantice.com
 0.0.0.0 oclasrv.com
 0.0.0.0 oewa.at
+0.0.0.0 offer.fyber.com
+0.0.0.0 offer.sponsorpay.com
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
 0.0.0.0 ogury.com
@@ -2611,6 +2617,7 @@
 0.0.0.0 roxr.net
 0.0.0.0 rs6.net
 0.0.0.0 rta.dailymail.co.uk
+0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtbadzesto.com
 0.0.0.0 rtbflairads.com
 0.0.0.0 rtbidhost.com
