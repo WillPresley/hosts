@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 13 Jan 2020 15:03:30 GMT
-# entries:        3252
+# last updated:   Mon, 27 Jan 2020 12:52:33 GMT
+# entries:        3269
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 18 Jan 2000 00:00:00
+# start date:    Tue, 01 Feb 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -87,7 +87,6 @@
 0.0.0.0 ad-score.com
 0.0.0.0 ad-server.gulasidorna.se
 0.0.0.0 ad-serverparc.nl
-0.0.0.0 ad-souk.com
 0.0.0.0 ad-space.net
 0.0.0.0 ad-tech.com
 0.0.0.0 ad-up.com
@@ -390,7 +389,6 @@
 0.0.0.0 ads.aspalliance.com
 0.0.0.0 ads.avazu.net
 0.0.0.0 ads.belointeractive.com
-0.0.0.0 ads.berlinonline.de
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.bigchurch.com
 0.0.0.0 ads.bigfoot.com
@@ -566,7 +564,6 @@
 0.0.0.0 ads.nola.com
 0.0.0.0 ads.nordichardware.com
 0.0.0.0 ads.nordichardware.se
-0.0.0.0 ads.nwsource.com
 0.0.0.0 ads.nyi.net
 0.0.0.0 ads.nytimes.com
 0.0.0.0 ads.nyx.cz
@@ -575,7 +572,6 @@
 0.0.0.0 ads.oddschecker.com
 0.0.0.0 ads.okcimg.com
 0.0.0.0 ads.ole.com
-0.0.0.0 ads.olivebrandresponse.com
 0.0.0.0 ads.oneplace.com
 0.0.0.0 ads.optusnet.com.au
 0.0.0.0 ads.outpersonals.com
@@ -806,6 +802,7 @@
 0.0.0.0 adsstat.com
 0.0.0.0 adstacks.in
 0.0.0.0 adstage.io
+0.0.0.0 adstanding.com
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adstest.weather.com
 0.0.0.0 adsupply.com
@@ -878,7 +875,6 @@
 0.0.0.0 adwitserver.com
 0.0.0.0 adworldnetwork.com
 0.0.0.0 adworx.at
-0.0.0.0 adworx.be
 0.0.0.0 adworx.nl
 0.0.0.0 adx.allstar.cz
 0.0.0.0 adx.atnext.com
@@ -1050,6 +1046,7 @@
 0.0.0.0 backbeatmedia.com
 0.0.0.0 balancebreath.com
 0.0.0.0 balloontexture.com
+0.0.0.0 bamgrid.com
 0.0.0.0 banik.redigy.cz
 0.0.0.0 banner-exchange-24.de
 0.0.0.0 banner.ad.nu
@@ -1139,6 +1136,7 @@
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beamincrease.com
 0.0.0.0 bebi.com
+0.0.0.0 bedsbreath.com
 0.0.0.0 beemray.com
 0.0.0.0 begun.ru
 0.0.0.0 behavioralengine.com
@@ -1434,6 +1432,7 @@
 0.0.0.0 croissed.info
 0.0.0.0 crowdgravity.com
 0.0.0.0 crsspxl.com
+0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ctnetwork.hu
@@ -1608,6 +1607,7 @@
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
 0.0.0.0 evadav.com
+0.0.0.0 everestads.net
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
 0.0.0.0 eversales.space
@@ -1685,6 +1685,7 @@
 0.0.0.0 frailoffer.com
 0.0.0.0 free-banners.com
 0.0.0.0 freebanner.com
+0.0.0.0 freecounterstat.com
 0.0.0.0 freelogs.com
 0.0.0.0 freeonlineusers.com
 0.0.0.0 freepay.com
@@ -1959,6 +1960,7 @@
 0.0.0.0 keywee.co
 0.0.0.0 kindads.com
 0.0.0.0 kissmetrics.com
+0.0.0.0 klclick.com
 0.0.0.0 kliks.nl
 0.0.0.0 klsdee.com
 0.0.0.0 kmpiframe.keepmeposted.com.mt
@@ -1973,6 +1975,7 @@
 0.0.0.0 kubient.com
 0.0.0.0 l1.britannica.com
 0.0.0.0 lakequincy.com
+0.0.0.0 lanistaads.com
 0.0.0.0 laughablecopper.com
 0.0.0.0 laughcloth.com
 0.0.0.0 launchbit.com
@@ -2054,6 +2057,7 @@
 0.0.0.0 loudloss.com
 0.0.0.0 loudlunch.com
 0.0.0.0 lp3tdqle.com
+0.0.0.0 ltmastos.com
 0.0.0.0 lucidmedia.com
 0.0.0.0 lucklayed.info
 0.0.0.0 lumpyleaf.com
@@ -2135,6 +2139,7 @@
 0.0.0.0 memorizeneck.com
 0.0.0.0 memorycobweb.com
 0.0.0.0 messagenovice.com
+0.0.0.0 metadsp.co.uk
 0.0.0.0 metaffiliation.com
 0.0.0.0 metanetwork.com
 0.0.0.0 methodcash.com
@@ -2296,7 +2301,6 @@
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
 0.0.0.0 ogury.com
-0.0.0.0 olivebrandresponse.com
 0.0.0.0 omnijay.com
 0.0.0.0 omniscientspark.com
 0.0.0.0 omniture.com
@@ -2311,7 +2315,6 @@
 0.0.0.0 online-metrix.net
 0.0.0.0 online.miarroba.com
 0.0.0.0 onlinecash.com
-0.0.0.0 onlinecashmethod.com
 0.0.0.0 onlinerewardcenter.com
 0.0.0.0 onscroll.com
 0.0.0.0 onthe.io
@@ -2465,6 +2468,7 @@
 0.0.0.0 promote.pair.com
 0.0.0.0 promotions-884485.c.cdn77.org
 0.0.0.0 pronetadvertising.com
+0.0.0.0 proof-x.com
 0.0.0.0 propellerads.com
 0.0.0.0 propellerclick.com
 0.0.0.0 proper.io
@@ -2587,6 +2591,7 @@
 0.0.0.0 resolutekey.com
 0.0.0.0 resonantbrush.com
 0.0.0.0 resonate.com
+0.0.0.0 responsiveads.com
 0.0.0.0 retargeter.com
 0.0.0.0 revcontent.com
 0.0.0.0 reveal.clearbit.com
@@ -2705,11 +2710,13 @@
 0.0.0.0 shermore.info
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
+0.0.0.0 shockinggrass.com
 0.0.0.0 shoppingads.com
 0.0.0.0 sicksmash.com
 0.0.0.0 sidebar.angelfire.com
 0.0.0.0 silkysquirrel.com
 0.0.0.0 sillyscrew.com
+0.0.0.0 silvalliant.info
 0.0.0.0 silvermob.com
 0.0.0.0 similarsabine.com
 0.0.0.0 simpleanalytics.io
@@ -2831,6 +2838,7 @@
 0.0.0.0 stats.x14.eu
 0.0.0.0 stats2.self.com
 0.0.0.0 stats4all.com
+0.0.0.0 statserv.net
 0.0.0.0 statsie.com
 0.0.0.0 statxpress.com
 0.0.0.0 steadfastsound.com
@@ -2861,6 +2869,7 @@
 0.0.0.0 sumo.com
 0.0.0.0 sumome.com
 0.0.0.0 superclix.de
+0.0.0.0 supersonicads.com
 0.0.0.0 superstats.com
 0.0.0.0 supertop.ru
 0.0.0.0 supertop100.com
@@ -2877,6 +2886,7 @@
 0.0.0.0 t.insigit.com
 0.0.0.0 taboola.com
 0.0.0.0 tagan.adlightning.com
+0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tagular.com
 0.0.0.0 tailsweep.com
 0.0.0.0 tailsweep.se
@@ -2885,6 +2895,7 @@
 0.0.0.0 tamgrt.com
 0.0.0.0 tangerinenet.biz
 0.0.0.0 tangibleteam.com
+0.0.0.0 tankeuro.com
 0.0.0.0 tapad.com
 0.0.0.0 tapfiliate.com
 0.0.0.0 tapinfluence.com
@@ -2919,6 +2930,7 @@
 0.0.0.0 textads.biz
 0.0.0.0 textlinks.com
 0.0.0.0 tfag.de
+0.0.0.0 the-ozone-project.com
 0.0.0.0 theadex.com
 0.0.0.0 theadhost.com
 0.0.0.0 thebugs.ws
@@ -2933,6 +2945,7 @@
 0.0.0.0 thruport.com
 0.0.0.0 tia.timeinc.net
 0.0.0.0 ticklesign.com
+0.0.0.0 ticksel.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tinybar.com
 0.0.0.0 tls.telemetry.swe.quicinc.com
@@ -3020,6 +3033,7 @@
 0.0.0.0 traffichunt.com
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafficleader.com
+0.0.0.0 trafficrouter.io
 0.0.0.0 trafficsecrets.com
 0.0.0.0 trafficspaces.net
 0.0.0.0 trafficstrategies.com
@@ -3040,6 +3054,7 @@
 0.0.0.0 trendmd.com
 0.0.0.0 tribalfusion.com
 0.0.0.0 trickycelery.com
+0.0.0.0 triplelift.com
 0.0.0.0 triptease.io
 0.0.0.0 trix.net
 0.0.0.0 trk42.net
@@ -3109,6 +3124,7 @@
 0.0.0.0 videoegg.com
 0.0.0.0 vidora.com
 0.0.0.0 view4cash.de
+0.0.0.0 viglink.com
 0.0.0.0 visiblemeasures.com
 0.0.0.0 visistat.com
 0.0.0.0 visit.webhosting.yahoo.com
@@ -3123,6 +3139,7 @@
 0.0.0.0 voluum.com
 0.0.0.0 voluumtrk2.com
 0.0.0.0 volvelle.tech
+0.0.0.0 voodoo-ads.io
 0.0.0.0 vpon.com
 0.0.0.0 vrs.cz
 0.0.0.0 vrtzcontextualads.com
