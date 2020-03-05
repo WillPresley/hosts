@@ -1045,7 +1045,7 @@ def write_opening_header(final_file, **header_params):
         "# This hosts file is a merged collection "
         "of hosts from reputable sources,\n",
     )
-    write_data(final_file, "# with a dash of crowd sourcing via Github\n#\n")
+    write_data(final_file, "# with a dash of crowd sourcing via GitHub\n#\n")
     write_data(
         final_file,
         "# Date: " + time.strftime("%d %B %Y %H:%M:%S (%Z)", time.gmtime()) + "\n",
@@ -1071,7 +1071,7 @@ def write_opening_header(final_file, **header_params):
         final_file,
         "# Fetch the latest version of this file: "
         "https://raw.githubusercontent.com/StevenBlack/hosts/master/"
-        + path_join_robust(header_params["outputsubfolder"], "")
+        + path_join_robust(header_params["outputsubfolder"], "").replace("\\", "/")
         + "hosts\n",
     )
     write_data(
