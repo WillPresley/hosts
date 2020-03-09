@@ -1,8 +1,8 @@
 # Title: KADhosts (bez kontrowersji)
 # KADHosts (without controversies)
 # Description: Filtry chroniace przed przekretami takimi jak subskrypcje SMS
-# Last modified: Thu, 05 Mar 2020, 11:41 UTC+01
-# Version: 2020.3.5.0
+# Last modified: Mon, 09 Mar 2020, 13:01 UTC+01
+# Version: 2020.3.9.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -205,7 +205,6 @@
 0.0.0.0 awin.com
 0.0.0.0 aws50plus.pl
 0.0.0.0 az27.pl
-0.0.0.0 badnet.pl
 0.0.0.0 bagazowkapoznan.pl
 0.0.0.0 bagstory.pl
 0.0.0.0 baileybowout.pl
@@ -295,6 +294,7 @@
 0.0.0.0 botifiles.com
 0.0.0.0 bramax-poznan.pl
 0.0.0.0 bramyioslony.pl
+0.0.0.0 brandliststore.eu
 0.0.0.0 brevio.pl
 0.0.0.0 bricomiechow.pl
 0.0.0.0 brightec.pl
@@ -514,7 +514,6 @@
 0.0.0.0 dlmyfile.com
 0.0.0.0 dmaxcctv.pl
 0.0.0.0 dnirownosci.pl
-0.0.0.0 dobieraniefryzury.pl
 0.0.0.0 dobrykredyt.co.pl
 0.0.0.0 docdocu.pl
 0.0.0.0 docmartenspl.pl
@@ -541,6 +540,7 @@
 0.0.0.0 dragonist.pl
 0.0.0.0 dragon-escape.pl
 0.0.0.0 drb.pl
+0.0.0.0 dresypromocja.pl
 0.0.0.0 dresysklep.pl
 0.0.0.0 drew-ed.pl
 0.0.0.0 drew-tex.pl
@@ -679,7 +679,6 @@
 0.0.0.0 e-udanezakupy.pl
 0.0.0.0 f4u.pl
 0.0.0.0 faberlic.com
-0.0.0.0 fabrykaagd.com.pl
 0.0.0.0 fabryka-mebli.com
 0.0.0.0 fabryka-nagrod.com
 0.0.0.0 facedesign.pl
@@ -879,7 +878,6 @@
 0.0.0.0 gustaw-harnas.pl
 0.0.0.0 gysannapolis.com
 0.0.0.0 hackidogier.pl
-0.0.0.0 hacki-czity.pl
 0.0.0.0 hadesklub.pl
 0.0.0.0 halcashpoland.pl
 0.0.0.0 halodzwonek.pl
@@ -976,7 +974,6 @@
 0.0.0.0 ipeachy.pl
 0.0.0.0 ipzd.pl
 0.0.0.0 irydoidy.pl
-0.0.0.0 isru.pl
 0.0.0.0 italianonfiction.pl
 0.0.0.0 itcity.pl
 0.0.0.0 itvwro.pl
@@ -1111,7 +1108,6 @@
 0.0.0.0 kredytybezbik.eu
 0.0.0.0 kredyt-na-pesel.pl
 0.0.0.0 kremidzem.pl
-0.0.0.0 kreowskaz.pl
 0.0.0.0 krezbud.pl
 0.0.0.0 krukus.pl
 0.0.0.0 kryptochemik.pl
@@ -1316,7 +1312,6 @@
 0.0.0.0 mohacz.pl
 0.0.0.0 mojadedra.pl
 0.0.0.0 mojadietanamase.pl
-0.0.0.0 mojaesg.pl
 0.0.0.0 mojakopia.pl
 0.0.0.0 mojeasg.pl
 0.0.0.0 mojezakupy.net
@@ -1831,6 +1826,7 @@
 0.0.0.0 restorti4.com
 0.0.0.0 retrortv.in.net
 0.0.0.0 revinex.pl
+0.0.0.0 revitib.com
 0.0.0.0 revoltadiscreta.pl
 0.0.0.0 rewersart.pl
 0.0.0.0 rezydencjakapitanska.pl
@@ -2007,7 +2003,6 @@
 0.0.0.0 spokeo.pl
 0.0.0.0 sportowetychy.pl
 0.0.0.0 sportsklep.com.pl
-0.0.0.0 sportswearpolska.pl
 0.0.0.0 spotlessweb.com
 0.0.0.0 spplodz.pl
 0.0.0.0 sprawdzianyodpowiedzi.pl
@@ -2067,7 +2062,6 @@
 0.0.0.0 superfajnapolska.pl
 0.0.0.0 supergabuty.pl
 0.0.0.0 supergapolska.pl
-0.0.0.0 supernovaband.pl
 0.0.0.0 supersciezka.pl
 0.0.0.0 superstarbuty.com
 0.0.0.0 superstarbuty.pl
@@ -2148,7 +2142,6 @@
 0.0.0.0 thelifeness.pl
 0.0.0.0 thelogo.pl
 0.0.0.0 thenorthfacepl.pl
-0.0.0.0 thenorthfaceprzeceny.pl
 0.0.0.0 thenorthfacesklep.pl
 0.0.0.0 thermomix.vorwerk.pl
 0.0.0.0 thesite.pl
@@ -2220,7 +2213,6 @@
 0.0.0.0 uabuty.pl
 0.0.0.0 ublock.org
 0.0.0.0 udziele-pozyczki-prywatnie.pl
-0.0.0.0 uggbutywyprzedaz.pl
 0.0.0.0 uggclassicmini.pl
 0.0.0.0 uggmini.pl
 0.0.0.0 uggoutlet.pl
@@ -2510,7 +2502,6 @@
 0.0.0.0 www.awin.com
 0.0.0.0 www.aws50plus.pl
 0.0.0.0 www.az27.pl
-0.0.0.0 www.badnet.pl
 0.0.0.0 www.bagazowkapoznan.pl
 0.0.0.0 www.bagstory.pl
 0.0.0.0 www.baileybowout.pl
@@ -2590,6 +2581,7 @@
 0.0.0.0 www.boryskowalski.pl
 0.0.0.0 www.botifiles.com
 0.0.0.0 www.bramyioslony.pl
+0.0.0.0 www.brandliststore.eu
 0.0.0.0 www.brevio.pl
 0.0.0.0 www.bricomiechow.pl
 0.0.0.0 www.brightec.pl
@@ -2776,7 +2768,6 @@
 0.0.0.0 www.dlmyfile.com
 0.0.0.0 www.dmaxcctv.pl
 0.0.0.0 www.dnirownosci.pl
-0.0.0.0 www.dobieraniefryzury.pl
 0.0.0.0 www.dobrykredyt.co.pl
 0.0.0.0 www.docdocu.pl
 0.0.0.0 www.docmartenspl.pl
@@ -2799,6 +2790,7 @@
 0.0.0.0 www.dragonflym.com
 0.0.0.0 www.dragonist.pl
 0.0.0.0 www.drb.pl
+0.0.0.0 www.dresypromocja.pl
 0.0.0.0 www.dresysklep.pl
 0.0.0.0 www.drinkiprzepisy.pl
 0.0.0.0 www.drmartensbuty.pl
@@ -2914,7 +2906,6 @@
 0.0.0.0 www.ezifilm.pl
 0.0.0.0 www.f4u.pl
 0.0.0.0 www.faberlic.com
-0.0.0.0 www.fabrykaagd.com.pl
 0.0.0.0 www.facedesign.pl
 0.0.0.0 www.faithless.pl
 0.0.0.0 www.fajnefanty.com
@@ -3173,7 +3164,6 @@
 0.0.0.0 www.ipeachy.pl
 0.0.0.0 www.ipzd.pl
 0.0.0.0 www.irydoidy.pl
-0.0.0.0 www.isru.pl
 0.0.0.0 www.italianonfiction.pl
 0.0.0.0 www.itcity.pl
 0.0.0.0 www.itvwro.pl
@@ -3287,7 +3277,6 @@
 0.0.0.0 www.krdn.pl
 0.0.0.0 www.kredytybezbik.eu
 0.0.0.0 www.kremidzem.pl
-0.0.0.0 www.kreowskaz.pl
 0.0.0.0 www.krezbud.pl
 0.0.0.0 www.krukus.pl
 0.0.0.0 www.kryptochemik.pl
@@ -3473,7 +3462,6 @@
 0.0.0.0 www.mohacz.pl
 0.0.0.0 www.mojadedra.pl
 0.0.0.0 www.mojadietanamase.pl
-0.0.0.0 www.mojaesg.pl
 0.0.0.0 www.mojakopia.pl
 0.0.0.0 www.mojeasg.pl
 0.0.0.0 www.mojezakupy.net
@@ -3928,6 +3916,7 @@
 0.0.0.0 www.restorti4.com
 0.0.0.0 www.retrortv.in.net
 0.0.0.0 www.revinex.pl
+0.0.0.0 www.revitib.com
 0.0.0.0 www.revoltadiscreta.pl
 0.0.0.0 www.rewersart.pl
 0.0.0.0 www.rezydencjakapitanska.pl
@@ -4081,7 +4070,6 @@
 0.0.0.0 www.spokeo.pl
 0.0.0.0 www.sportowetychy.pl
 0.0.0.0 www.sportsklep.com.pl
-0.0.0.0 www.sportswearpolska.pl
 0.0.0.0 www.spotlessweb.com
 0.0.0.0 www.spplodz.pl
 0.0.0.0 www.sprawdzianyodpowiedzi.pl
@@ -4135,7 +4123,6 @@
 0.0.0.0 www.superfajnapolska.pl
 0.0.0.0 www.supergabuty.pl
 0.0.0.0 www.supergapolska.pl
-0.0.0.0 www.supernovaband.pl
 0.0.0.0 www.supersciezka.pl
 0.0.0.0 www.superstarbuty.com
 0.0.0.0 www.superstarbuty.pl
@@ -4213,7 +4200,6 @@
 0.0.0.0 www.thelifeness.pl
 0.0.0.0 www.thelogo.pl
 0.0.0.0 www.thenorthfacepl.pl
-0.0.0.0 www.thenorthfaceprzeceny.pl
 0.0.0.0 www.thenorthfacesklep.pl
 0.0.0.0 www.thermomix.vorwerk.pl
 0.0.0.0 www.thesite.pl
@@ -4271,7 +4257,6 @@
 0.0.0.0 www.tyxuhuramolicul.tk
 0.0.0.0 www.uabuty.pl
 0.0.0.0 www.ublock.org
-0.0.0.0 www.uggbutywyprzedaz.pl
 0.0.0.0 www.uggclassicmini.pl
 0.0.0.0 www.uggmini.pl
 0.0.0.0 www.uggoutlet.pl
@@ -4615,7 +4600,6 @@
 0.0.0.0 www.granit-zur.pl
 0.0.0.0 www.green-kredyt.pl
 0.0.0.0 www.gustaw-harnas.pl
-0.0.0.0 www.hacki-czity.pl
 0.0.0.0 www.healthy-news.biz
 0.0.0.0 www.health-line.me
 0.0.0.0 www.health-partner.net
@@ -5084,6 +5068,8 @@
 0.0.0.0 www.traffic-c.com
 0.0.0.0 www.usa.dauid-iep.com
 0.0.0.0 www.usa.odysseus-nua.com
+0.0.0.0 www.xn--30986-udb.biz
+0.0.0.0 xn--30986-udb.biz
 0.0.0.0 y7e.us
 0.0.0.0 yarlnk.com
 0.0.0.0 yourfiles.pl
@@ -5105,7 +5091,6 @@
 0.0.0.0 best-rated-offers.com
 0.0.0.0 cellfun.mobi
 0.0.0.0 clube62.date
-0.0.0.0 coolvids.net
 0.0.0.0 d3r6awv9ysiyn4.cloudfront.net
 0.0.0.0 denis928.000webhostapp.com
 0.0.0.0 doladowanie50pln.ujm.pl
@@ -5201,7 +5186,6 @@
 0.0.0.0 www.bestadbid.com
 0.0.0.0 www.cellfun.mobi
 0.0.0.0 www.clube62.date
-0.0.0.0 www.coolvids.net
 0.0.0.0 www.d3r6awv9ysiyn4.cloudfront.net
 0.0.0.0 www.doladowanie50pln.ujm.pl
 0.0.0.0 www.dvzwh.voluumtrk.com
@@ -5369,6 +5353,7 @@
 0.0.0.0 autorentier.pl
 0.0.0.0 autorepuestosdml.com
 0.0.0.0 avaparse.ir
+0.0.0.0 avbtrk.com
 0.0.0.0 azawebspace.com
 0.0.0.0 bankmillennium.fun
 0.0.0.0 bankmillennium.site
@@ -5383,6 +5368,7 @@
 0.0.0.0 best-sales.top
 0.0.0.0 bikelovers.blog.br
 0.0.0.0 bitcoincodesverigerecension.com
+0.0.0.0 bitcoinera-appl.com
 0.0.0.0 bitcoins-profit.com
 0.0.0.0 bitcointodaynews.me
 0.0.0.0 bitcoin-revolution.pl
@@ -5417,6 +5403,8 @@
 0.0.0.0 cbdnewsdirect.com
 0.0.0.0 cclive.istage.cloud
 0.0.0.0 cda24.net
+0.0.0.0 cda360.pl
+0.0.0.0 cdaflix.pl
 0.0.0.0 cdatube.pl
 0.0.0.0 cda-film.pl
 0.0.0.0 cda-flix.pl
@@ -5433,6 +5421,7 @@
 0.0.0.0 choljai.info
 0.0.0.0 chomik24.com.pl
 0.0.0.0 chomik-24.pl
+0.0.0.0 chomlkui.pl
 0.0.0.0 chron-telefon.com
 0.0.0.0 ciekawehistorie.pl
 0.0.0.0 cinektyper.blogspot.com
@@ -5455,6 +5444,7 @@
 0.0.0.0 cs.nailrr.com
 0.0.0.0 customernoble.com
 0.0.0.0 cybermagicindia.com
+0.0.0.0 czasnakino.pl
 0.0.0.0 daily-jokes.net
 0.0.0.0 danangluxury.com
 0.0.0.0 dark-forum.net
@@ -5483,9 +5473,11 @@
 0.0.0.0 domainreward.site
 0.0.0.0 domniespodzianek.com
 0.0.0.0 doski.by
+0.0.0.0 dotabet100.com
 0.0.0.0 dotabet103.com
 0.0.0.0 download.inboxace.com
 0.0.0.0 download.televisionfanatic.com
+0.0.0.0 download.w65.pl
 0.0.0.0 download.weatherblink.com
 0.0.0.0 download24.site
 0.0.0.0 downloadfiles.pl
@@ -5578,6 +5570,7 @@
 0.0.0.0 file-share.pl
 0.0.0.0 file-share365.com
 0.0.0.0 fili.com.pl
+0.0.0.0 filiser.com.pl
 0.0.0.0 filiser.online
 0.0.0.0 filmanteria.pl
 0.0.0.0 filmline.pl
@@ -5589,6 +5582,7 @@
 0.0.0.0 filmplay.pl
 0.0.0.0 filmserialeonlineee.blogspot.com
 0.0.0.0 filmu.pl
+0.0.0.0 filmvod.pl
 0.0.0.0 filmyonline.com.pl
 0.0.0.0 filmy-i-seriale.pl
 0.0.0.0 filmy-tv.pl
@@ -5637,6 +5631,7 @@
 0.0.0.0 gazetanowoczesna.pl
 0.0.0.0 gazeta-natemat-pol.eu
 0.0.0.0 gcesab.com
+0.0.0.0 gdzieogladac.online
 0.0.0.0 genfotir.com
 0.0.0.0 getfilesfrom.net
 0.0.0.0 getgamecheats.com
@@ -5701,6 +5696,7 @@
 0.0.0.0 interpathlaboratories.com
 0.0.0.0 investreviewier.com
 0.0.0.0 iphonepolska.pl
+0.0.0.0 ipk0bp.net
 0.0.0.0 ipko.pl-weryfikacja-konta-bank-pko.j.pl
 0.0.0.0 ipodatek.net
 0.0.0.0 iptivicini.com
@@ -5719,6 +5715,7 @@
 0.0.0.0 jannahqu.org
 0.0.0.0 jannatkhah.ir
 0.0.0.0 jasaweb.biz
+0.0.0.0 jbfilmyseriale.pl
 0.0.0.0 jmbase.my
 0.0.0.0 jodakurier.com
 0.0.0.0 joplionnsld.xyz
@@ -5746,6 +5743,7 @@
 0.0.0.0 kipokahynr.xyz
 0.0.0.0 kirstenbijlsma.com
 0.0.0.0 kitchencollectivecool.info
+0.0.0.0 klikijuz.com
 0.0.0.0 kocham-cie.c0.pl
 0.0.0.0 kolor.oq.pl
 0.0.0.0 komatireddy.net
@@ -5863,11 +5861,10 @@
 0.0.0.0 newsinsider.me
 0.0.0.0 newswave.online
 0.0.0.0 newsweek-polska-pl.eu
-0.0.0.0 newsy-onet24.pl
 0.0.0.0 newszone.pro
 0.0.0.0 news-deck.at
-0.0.0.0 news-onet24.pl
 0.0.0.0 news.bit-poland.club
+0.0.0.0 new-message.co
 0.0.0.0 nfbio.com
 0.0.0.0 ngomavibe.co.ke
 0.0.0.0 njb-gmbh.com
@@ -5881,6 +5878,7 @@
 0.0.0.0 nympropiedades.cl
 0.0.0.0 n-mobile.net
 0.0.0.0 offside2.000webhostapp.com
+0.0.0.0 ogladajzadarmo.com.pl
 0.0.0.0 ogladaj-online24.pl
 0.0.0.0 okom.wroc.pl
 0.0.0.0 ollando.com
@@ -5897,6 +5895,7 @@
 0.0.0.0 openwire.tv
 0.0.0.0 openwrt.com
 0.0.0.0 oplac24.com
+0.0.0.0 oplac-paczka24.com
 0.0.0.0 oplac-zaleglosc.eu
 0.0.0.0 oplata-zaleglosci.eu
 0.0.0.0 oplatyi.pl
@@ -6050,12 +6049,14 @@
 0.0.0.0 sarnisas.info
 0.0.0.0 saxtorph.net
 0.0.0.0 sculptureco.com.au
+0.0.0.0 seansikowo.pl
 0.0.0.0 searchrapid.pl
 0.0.0.0 secure4app.com
 0.0.0.0 secure-eplatnosc.com
 0.0.0.0 secure-pge.eu
 0.0.0.0 seioodsoi.club
 0.0.0.0 serial.vod.co.pl
+0.0.0.0 serialosy.pl
 0.0.0.0 serialowo.pl
 0.0.0.0 setup-firefox.host
 0.0.0.0 sexmonitor.net
@@ -6082,11 +6083,13 @@
 0.0.0.0 solarpl.pl
 0.0.0.0 soo.sg
 0.0.0.0 spaceforyou.cc
+0.0.0.0 specjalniedlaciebie.com
 0.0.0.0 speedfile.info
 0.0.0.0 sportowy-stream.pl
 0.0.0.0 sportplus.pro
 0.0.0.0 sprawa-531.eu
 0.0.0.0 sprawdzikk.v0r.org
+0.0.0.0 sslplatnosc.online
 0.0.0.0 ssl.bezpieczne-platnosci.pl
 0.0.0.0 stackspay.com
 0.0.0.0 stakim.org
@@ -6166,6 +6169,7 @@
 0.0.0.0 tvnowapp.net
 0.0.0.0 tv-internetowa.pl
 0.0.0.0 tv-maniak.pl
+0.0.0.0 twojaenea.pl
 0.0.0.0 twojapaczka-24.com
 0.0.0.0 twoje-seriale.tv
 0.0.0.0 twojhoroskop.com
@@ -6211,17 +6215,18 @@
 0.0.0.0 wiadomosci.ct8.pl
 0.0.0.0 wiadomoscilokalne.eu
 0.0.0.0 wiadomosci-onet24.ml
-0.0.0.0 wiadomosci-onet24.pl
 0.0.0.0 wiadomosci-onet24.tk
 0.0.0.0 widget-eforsa.pl
 0.0.0.0 wincleanerpro.com
 0.0.0.0 windpl.org
 0.0.0.0 winfreetoday.com
+0.0.0.0 winningsidenow.com
 0.0.0.0 wirtualne-media.pl
 0.0.0.0 wisdementive.info
 0.0.0.0 wolnezycie.info
 0.0.0.0 wolyncalyfilm.wordpress.com
 0.0.0.0 womenempowermentpakistan.com
+0.0.0.0 worldprize.pl
 0.0.0.0 wosp.online
 0.0.0.0 wplogin.5v.pl
 0.0.0.0 wrozbyonline.net
@@ -6270,6 +6275,7 @@
 0.0.0.0 www.autorentier.pl
 0.0.0.0 www.autorepuestosdml.com
 0.0.0.0 www.avaparse.ir
+0.0.0.0 www.avbtrk.com
 0.0.0.0 www.azawebspace.com
 0.0.0.0 www.bankmillennium.fun
 0.0.0.0 www.bankmillennium.site
@@ -6310,6 +6316,8 @@
 0.0.0.0 www.cbdnewsdirect.com
 0.0.0.0 www.cclive.istage.cloud
 0.0.0.0 www.cda24.net
+0.0.0.0 www.cda360.pl
+0.0.0.0 www.cdaflix.pl
 0.0.0.0 www.cdatube.pl
 0.0.0.0 www.cengizguler.com.tr
 0.0.0.0 www.centrolinguisticorobert.com
@@ -6321,6 +6329,7 @@
 0.0.0.0 www.chengjiaoyou.com
 0.0.0.0 www.choljai.info
 0.0.0.0 www.chomik24.com.pl
+0.0.0.0 www.chomlkui.pl
 0.0.0.0 www.ciekawehistorie.pl
 0.0.0.0 www.cinektyper.blogspot.com
 0.0.0.0 www.cinemaplanet.pl
@@ -6341,6 +6350,7 @@
 0.0.0.0 www.cs.nailrr.com
 0.0.0.0 www.customernoble.com
 0.0.0.0 www.cybermagicindia.com
+0.0.0.0 www.czasnakino.pl
 0.0.0.0 www.danangluxury.com
 0.0.0.0 www.darmowetesty.com
 0.0.0.0 www.deepikarai.com
@@ -6360,12 +6370,14 @@
 0.0.0.0 www.domainreward.site
 0.0.0.0 www.domniespodzianek.com
 0.0.0.0 www.doski.by
+0.0.0.0 www.dotabet100.com
 0.0.0.0 www.dotabet103.com
 0.0.0.0 www.download24.site
 0.0.0.0 www.downloadfiles.pl
 0.0.0.0 www.downloadnature.com
 0.0.0.0 www.download.inboxace.com
 0.0.0.0 www.download.televisionfanatic.com
+0.0.0.0 www.download.w65.pl
 0.0.0.0 www.download.weatherblink.com
 0.0.0.0 www.drapart.org
 0.0.0.0 www.drmarins.com
@@ -6428,6 +6440,7 @@
 0.0.0.0 www.filespeedy.org
 0.0.0.0 www.fileston.com
 0.0.0.0 www.filestrue.com
+0.0.0.0 www.filiser.com.pl
 0.0.0.0 www.filiser.online
 0.0.0.0 www.fili.com.pl
 0.0.0.0 www.filmanteria.pl
@@ -6439,6 +6452,7 @@
 0.0.0.0 www.filmplay.pl
 0.0.0.0 www.filmserialeonlineee.blogspot.com
 0.0.0.0 www.filmu.pl
+0.0.0.0 www.filmvod.pl
 0.0.0.0 www.filmyonline.com.pl
 0.0.0.0 www.financial.org
 0.0.0.0 www.finansoweswiry.pl
@@ -6473,6 +6487,7 @@
 0.0.0.0 www.gazetainfo24tv.hekko24.pl
 0.0.0.0 www.gazetanowoczesna.pl
 0.0.0.0 www.gcesab.com
+0.0.0.0 www.gdzieogladac.online
 0.0.0.0 www.genfotir.com
 0.0.0.0 www.getfilesfrom.net
 0.0.0.0 www.getgamecheats.com
@@ -6530,6 +6545,7 @@
 0.0.0.0 www.interpathlaboratories.com
 0.0.0.0 www.investreviewier.com
 0.0.0.0 www.iphonepolska.pl
+0.0.0.0 www.ipk0bp.net
 0.0.0.0 www.ipodatek.net
 0.0.0.0 www.iptivicini.com
 0.0.0.0 www.irbf.com
@@ -6543,6 +6559,7 @@
 0.0.0.0 www.jannahqu.org
 0.0.0.0 www.jannatkhah.ir
 0.0.0.0 www.jasaweb.biz
+0.0.0.0 www.jbfilmyseriale.pl
 0.0.0.0 www.jmbase.my
 0.0.0.0 www.jodakurier.com
 0.0.0.0 www.joplionnsld.xyz
@@ -6567,6 +6584,7 @@
 0.0.0.0 www.kipokahynr.xyz
 0.0.0.0 www.kirstenbijlsma.com
 0.0.0.0 www.kitchencollectivecool.info
+0.0.0.0 www.klikijuz.com
 0.0.0.0 www.kolor.oq.pl
 0.0.0.0 www.komatireddy.net
 0.0.0.0 www.komorniik24.com
@@ -6676,6 +6694,7 @@
 0.0.0.0 www.nowosczdrowieporadyvlc.pl
 0.0.0.0 www.nsfund.mn
 0.0.0.0 www.nympropiedades.cl
+0.0.0.0 www.ogladajzadarmo.com.pl
 0.0.0.0 www.okom.wroc.pl
 0.0.0.0 www.ollando.com
 0.0.0.0 www.olympusmarkets.com
@@ -6791,9 +6810,11 @@
 0.0.0.0 www.sarnisas.info
 0.0.0.0 www.saxtorph.net
 0.0.0.0 www.sculptureco.com.au
+0.0.0.0 www.seansikowo.pl
 0.0.0.0 www.searchrapid.pl
 0.0.0.0 www.secure4app.com
 0.0.0.0 www.seioodsoi.club
+0.0.0.0 www.serialosy.pl
 0.0.0.0 www.serialowo.pl
 0.0.0.0 www.serial.vod.co.pl
 0.0.0.0 www.sexmonitor.net
@@ -6818,9 +6839,11 @@
 0.0.0.0 www.solarpl.pl
 0.0.0.0 www.soo.sg
 0.0.0.0 www.spaceforyou.cc
+0.0.0.0 www.specjalniedlaciebie.com
 0.0.0.0 www.speedfile.info
 0.0.0.0 www.sportplus.pro
 0.0.0.0 www.sprawdzikk.v0r.org
+0.0.0.0 www.sslplatnosc.online
 0.0.0.0 www.stackspay.com
 0.0.0.0 www.stakim.org
 0.0.0.0 www.starsystem.fit
@@ -6881,6 +6904,7 @@
 0.0.0.0 www.tvkody.com
 0.0.0.0 www.tvnewtop.pro
 0.0.0.0 www.tvnowapp.net
+0.0.0.0 www.twojaenea.pl
 0.0.0.0 www.twojhoroskop.com
 0.0.0.0 www.twojkurier.com
 0.0.0.0 www.u192389.stronazen.pl
@@ -6922,10 +6946,12 @@
 0.0.0.0 www.wincleanerpro.com
 0.0.0.0 www.windpl.org
 0.0.0.0 www.winfreetoday.com
+0.0.0.0 www.winningsidenow.com
 0.0.0.0 www.wisdementive.info
 0.0.0.0 www.wolnezycie.info
 0.0.0.0 www.wolyncalyfilm.wordpress.com
 0.0.0.0 www.womenempowermentpakistan.com
+0.0.0.0 www.worldprize.pl
 0.0.0.0 www.wosp.online
 0.0.0.0 www.wrozbyonline.net
 0.0.0.0 www.wszyscyrodacy.com
@@ -6974,6 +7000,7 @@
 0.0.0.0 www.adobe.5v.pl
 0.0.0.0 www.all-player.pl
 0.0.0.0 www.best-sales.top
+0.0.0.0 www.bitcoinera-appl.com
 0.0.0.0 www.bitcoins-profit.com
 0.0.0.0 www.bitcoin-revolution.pl
 0.0.0.0 www.bitcoin-trader-app.com
@@ -7069,10 +7096,9 @@
 0.0.0.0 www.namierz-telefon.pl
 0.0.0.0 www.nasza-emigracja.pl
 0.0.0.0 www.newsweek-polska-pl.eu
-0.0.0.0 www.newsy-onet24.pl
 0.0.0.0 www.news-deck.at
-0.0.0.0 www.news-onet24.pl
 0.0.0.0 www.news.bit-poland.club
+0.0.0.0 www.new-message.co
 0.0.0.0 www.njb-gmbh.com
 0.0.0.0 www.nowa-oplata.net
 0.0.0.0 www.nowina-pb.pl
@@ -7082,6 +7108,7 @@
 0.0.0.0 www.ogladaj-online24.pl
 0.0.0.0 www.olx-platnosci.online
 0.0.0.0 www.onet24-polska.space
+0.0.0.0 www.oplac-paczka24.com
 0.0.0.0 www.oplac-zaleglosc.eu
 0.0.0.0 www.oplata-zaleglosci.eu
 0.0.0.0 www.orange-kodzik.890m.com
@@ -7161,7 +7188,6 @@
 0.0.0.0 www.urzad-gov.net
 0.0.0.0 www.vip.lucky-gifts-center.com
 0.0.0.0 www.wiadomosci-onet24.ml
-0.0.0.0 www.wiadomosci-onet24.pl
 0.0.0.0 www.wiadomosci-onet24.tk
 0.0.0.0 www.widget-eforsa.pl
 0.0.0.0 www.wirtualne-media.pl
@@ -7170,6 +7196,7 @@
 0.0.0.0 www.wx-xcx.xyz
 0.0.0.0 www.wybierz-nagrode.pl
 0.0.0.0 www.wygraj-iphone-x.tujest.pl
+0.0.0.0 www.wypozycz-film.pl
 0.0.0.0 www.your-movies.pl
 0.0.0.0 www.your-sexydreams.com
 0.0.0.0 www.zamowienia-priorytetowe.pl
@@ -7181,6 +7208,7 @@
 0.0.0.0 wygraj-iphone-x.tujest.pl
 0.0.0.0 wygrania.com
 0.0.0.0 wygrywa.pl
+0.0.0.0 wypozycz-film.pl
 0.0.0.0 wys24h.eu
 0.0.0.0 wysylki.net
 0.0.0.0 xinlou.info
@@ -7424,6 +7452,7 @@
 0.0.0.0 play.mobsfun.net
 0.0.0.0 plf.chanceto-start.info
 0.0.0.0 pl.50kaweek.live
+0.0.0.0 pl.bitcoinera-appl.com
 0.0.0.0 pl.btc-evo.com
 0.0.0.0 pl.bustcream-pro.com
 0.0.0.0 pl.health-line.me
@@ -7452,6 +7481,8 @@
 0.0.0.0 wielkopolskie.refundacjeregionalne.pl
 0.0.0.0 winner.giftprizewinner.com
 0.0.0.0 ww1.shinden-anime.info
+0.0.0.0 ww2.xn--30986-udb.biz
+0.0.0.0 ww2.xn--30986-udb.biz
 0.0.0.0 ww7.openwrt.com
 0.0.0.0 www.ace.jamba.pl
 0.0.0.0 www.ace.jamster.pl
@@ -7471,9 +7502,7 @@
 0.0.0.0 www.cs.spotlessweb.com
 0.0.0.0 www.degree.namerepresentative.club
 0.0.0.0 www.dev.apps.co.pl
-0.0.0.0 www.dotabet100.com
 0.0.0.0 www.download.apps.co.pl
-0.0.0.0 www.download.w65.pl
 0.0.0.0 www.eu.iconsumerstocksymbol.icu
 0.0.0.0 www.facebokznajomi.blogspot.com
 0.0.0.0 www.fbcolor.blogspot.com
@@ -7493,7 +7522,6 @@
 0.0.0.0 www.init.polskapaczka24.net
 0.0.0.0 www.j0yp.l3f.info
 0.0.0.0 www.jrly.l3f.info
-0.0.0.0 www.klikijuz.com
 0.0.0.0 www.load9.nowosczdrowieporadyvlc.pl
 0.0.0.0 www.lokalneinformacje1.vot.pl
 0.0.0.0 www.m.pl.failmobile.net
@@ -7511,7 +7539,6 @@
 0.0.0.0 www.publisher.lead.network
 0.0.0.0 www.r.clube62.date
 0.0.0.0 www.secure.polskapaczka24.net
-0.0.0.0 www.specjalniedlaciebie.com
 0.0.0.0 www.thecryptogenius.com
 0.0.0.0 www.ver.braintest4you.com
 0.0.0.0 www.vpt58.tvnewtop.pro
@@ -7577,6 +7604,8 @@
 0.0.0.0 www.wez-bon.24.eu
 0.0.0.0 www.wiadomosci-web.24.eu
 0.0.0.0 www.ww1.shinden-anime.info
+0.0.0.0 www.ww2.xn--30986-udb.biz
+0.0.0.0 www.ww2.xn--30986-udb.biz
 0.0.0.0 www.zalukaj-cda.pl
 0.0.0.0 www.zalukaj-online.pl
 0.0.0.0 www.zalukaj.5v.pl
