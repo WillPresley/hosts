@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 24 Mar 2020 13:30:18 GMT
-# entries:        3276
+# last updated:   Thu, 02 Apr 2020 09:04:06 GMT
+# entries:        3275
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 29 Mar 2000 00:00:00
+# start date:    Tue, 11 Apr 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -397,7 +397,6 @@
 0.0.0.0 ads.bittorrent.com
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.bloomberg.com
-0.0.0.0 ads.bluelithium.com
 0.0.0.0 ads.bluemountain.com
 0.0.0.0 ads.bluesq.com
 0.0.0.0 ads.bonniercorp.com
@@ -429,7 +428,6 @@
 0.0.0.0 ads.dada.it
 0.0.0.0 ads.dailycamera.com
 0.0.0.0 ads.datingyes.com
-0.0.0.0 ads.dazoot.ro
 0.0.0.0 ads.deltha.hu
 0.0.0.0 ads.dennisnet.co.uk
 0.0.0.0 ads.desmoinesregister.com
@@ -764,7 +762,6 @@
 0.0.0.0 adserver1-images.backbeatmedia.com
 0.0.0.0 adserver1.backbeatmedia.com
 0.0.0.0 adserver1.mindshare.de
-0.0.0.0 adserver1.ogilvy-interactive.de
 0.0.0.0 adserver2.mindshare.de
 0.0.0.0 adservern2.host
 0.0.0.0 adserverplus.com
@@ -868,7 +865,6 @@
 0.0.0.0 adverty.com
 0.0.0.0 advideo.uimserv.net
 0.0.0.0 adview.com
-0.0.0.0 adview.ppro.de
 0.0.0.0 advisormedia.cz
 0.0.0.0 adviva.net
 0.0.0.0 advnt.com
@@ -1257,6 +1253,7 @@
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cdn.heapanalytics.com
+0.0.0.0 cdn.keywee.co
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cecash.com
@@ -1291,7 +1288,6 @@
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
 0.0.0.0 click.a-ads.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1697,10 +1693,10 @@
 0.0.0.0 freshmarketer.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frtyj.com
+0.0.0.0 fukc69xo.us
 0.0.0.0 fullstory.com
 0.0.0.0 functionalcrown.com
 0.0.0.0 funklicks.com
-0.0.0.0 funpageexchange.com
 0.0.0.0 fusionads.net
 0.0.0.0 fusionquest.com
 0.0.0.0 futuristicapparatus.com
@@ -1744,7 +1740,6 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 googleanalytics.com
 0.0.0.0 googlesyndication.com
-0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 gossipmiser.com
@@ -1809,10 +1804,10 @@
 0.0.0.0 hits4me.com
 0.0.0.0 hitslink.com
 0.0.0.0 hittail.com
+0.0.0.0 hitttenevtanin.com
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hollandbusinessadvertising.nl
 0.0.0.0 hollowshake.com
-0.0.0.0 homepageking.de
 0.0.0.0 honeygoldfish.com
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 hotjar.com
@@ -1960,7 +1955,6 @@
 0.0.0.0 karisimbi.net
 0.0.0.0 karonty.com
 0.0.0.0 keymedia.hu
-0.0.0.0 keywee.co
 0.0.0.0 kindads.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 klclick.com
@@ -2074,6 +2068,7 @@
 0.0.0.0 m6r.eu
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 madclient.uimserv.net
+0.0.0.0 madcpms.com
 0.0.0.0 madisonavenue.com
 0.0.0.0 mads.cnet.com
 0.0.0.0 madvertise.de
@@ -2227,7 +2222,6 @@
 0.0.0.0 mystat.pl
 0.0.0.0 mysteriousmonth.com
 0.0.0.0 mytop-in.net
-0.0.0.0 mytrafficads.com
 0.0.0.0 myvisualiq.net
 0.0.0.0 n69.com
 0.0.0.0 naj.sk
@@ -2375,6 +2369,7 @@
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnercash.de
 0.0.0.0 partners.priceline.com
+0.0.0.0 passeura.com
 0.0.0.0 passion-4.net
 0.0.0.0 paycounter.com
 0.0.0.0 paypopup.com
@@ -2419,6 +2414,7 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.digitru.st
+0.0.0.0 pixel.keywee.co
 0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.watch
@@ -2944,6 +2940,7 @@
 0.0.0.0 theadhost.com
 0.0.0.0 thebugs.ws
 0.0.0.0 theclickads.com
+0.0.0.0 themoneytizer.com
 0.0.0.0 therapistla.com
 0.0.0.0 thinkablerice.com
 0.0.0.0 thirdrespect.com
@@ -3030,6 +3027,7 @@
 0.0.0.0 tracking42.com
 0.0.0.0 trackingfestival.com
 0.0.0.0 trackingsoft.com
+0.0.0.0 trackmysales.com
 0.0.0.0 trackuhub.com
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradedoubler.com
@@ -3064,6 +3062,7 @@
 0.0.0.0 triplelift.com
 0.0.0.0 triptease.io
 0.0.0.0 trix.net
+0.0.0.0 trk.techtarget.com
 0.0.0.0 trk42.net
 0.0.0.0 trkn.us
 0.0.0.0 trknths.com

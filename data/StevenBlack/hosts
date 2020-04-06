@@ -802,7 +802,6 @@
 0.0.0.0 hbbtv.mediaset.net
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
-0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v10c.events.data.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
@@ -1184,3 +1183,25 @@
 # added March 10, 2020
 0.0.0.0 playamo30.com
 0.0.0.0 www.playamo30.com
+
+# added March 24, 2020
+0.0.0.0 daunteegyptian.pro
+
+# added March 29, 2020
+0.0.0.0 march262020.best
+0.0.0.0 march262020.com
+
+# added March 31, 2020
+0.0.0.0 yfleur.myftp.org
+0.0.0.0 dynamics.ddnsking.com
+0.0.0.0 accountsx.bounceme.net
+0.0.0.0 vvavesltd.servebeer.com
+0.0.0.0 capitana.onthewifi.com
+0.0.0.0 kulkarni.bounceme.net
+0.0.0.0 thestar.serveblog.net
+0.0.0.0 invoke.ml
+
+# Added April 1, 2020
+0.0.0.0 www.webhaat.com
+0.0.0.0 www.saumweb.com
+0.0.0.0 www.bywebsite.com
