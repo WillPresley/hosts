@@ -1,8 +1,8 @@
 # Title: KADhosts (bez kontrowersji)
 # KADHosts (without controversies)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS i wirusy.
-# Last modified: Sat, 11 Apr 2020, 12:04 UTC+02
-# Version: 2020.4.11.1
+# Last modified: Mon, 13 Apr 2020, 18:15 UTC+02
+# Version: 2020.4.13.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -1869,6 +1869,7 @@
 0.0.0.0 odchudzaniezpasja.pl
 0.0.0.0 oddawajrozdzke.pl
 0.0.0.0 oderkaopole.pl
+0.0.0.0 odevo.pl
 0.0.0.0 odkryjfb.pl
 0.0.0.0 odkwaszacz.pl
 0.0.0.0 odmakaroniarzy.pl
@@ -4507,6 +4508,7 @@
 0.0.0.0 www.odchudzaniezpasja.pl
 0.0.0.0 www.oddawajrozdzke.pl
 0.0.0.0 www.oderkaopole.pl
+0.0.0.0 www.odevo.pl
 0.0.0.0 www.odkryjfb.pl
 0.0.0.0 www.odkwaszacz.pl
 0.0.0.0 www.odmakaroniarzy.pl
@@ -6574,6 +6576,7 @@
 0.0.0.0 agricoletrade.com
 0.0.0.0 ailegro.pl.ua
 0.0.0.0 akazoo.pl
+0.0.0.0 akceptacja-regulaminu.com
 0.0.0.0 aktpl.com
 0.0.0.0 aktualizacja.jst.pl
 0.0.0.0 aktualizacja-regulamin.com
@@ -6800,12 +6803,14 @@
 0.0.0.0 electros.co.ua
 0.0.0.0 elememory.com
 0.0.0.0 elwirakurier.com
+0.0.0.0 emptierbreak.xyz
 0.0.0.0 endofhisrope.net
 0.0.0.0 enea-sa.pl
 0.0.0.0 energabok.pl
 0.0.0.0 eoplaty.net
 0.0.0.0 epaka247.net
 0.0.0.0 epgnig.pl
+0.0.0.0 epity2020.pl
 0.0.0.0 epoczta247.com
 0.0.0.0 ergjt.bxugac.live
 0.0.0.0 ericius.eu
@@ -6889,6 +6894,7 @@
 0.0.0.0 filmanteria.pl
 0.0.0.0 filmline.pl
 0.0.0.0 filmobox.pl
+0.0.0.0 filmofon.pl
 0.0.0.0 filmonline.info.pl
 0.0.0.0 filmovnia.pl
 0.0.0.0 filmowo24.pl
@@ -7026,6 +7032,7 @@
 0.0.0.0 infomiasto24.pl
 0.0.0.0 infonews24.com.pl
 0.0.0.0 informacje-news.eu
+0.0.0.0 informacje-o-maskach-ochronnych-pl.com
 0.0.0.0 informacje-swiat.pl
 0.0.0.0 informujemy.eu
 0.0.0.0 inovscope.pt
@@ -7106,6 +7113,9 @@
 0.0.0.0 komornik-gov24.com
 0.0.0.0 koniec500plus.eu
 0.0.0.0 konkursy.de
+0.0.0.0 kopalniafilmow.pl
+0.0.0.0 koronainfo24.eu
+0.0.0.0 koronamiasto.hekko24.pl
 0.0.0.0 koronawirus.hekko24.pl
 0.0.0.0 koronawirusnews.com.pl
 0.0.0.0 koronawirusnews.net.pl
@@ -7180,9 +7190,11 @@
 0.0.0.0 mega-gry.com
 0.0.0.0 megolbassia.com
 0.0.0.0 mergedocsnow.com
+0.0.0.0 miastowirus.hekko24.pl
 0.0.0.0 mientayweb.com
 0.0.0.0 milenium.site
 0.0.0.0 millensbank.fun
+0.0.0.0 millensbank.site
 0.0.0.0 millionways.duckdns.org
 0.0.0.0 minmin96.xyz
 0.0.0.0 miroslawklos.pl
@@ -7213,6 +7225,7 @@
 0.0.0.0 mutlukadinlarakademisi.com
 0.0.0.0 mydnssbox.gleeze.com
 0.0.0.0 myeforsa.pl
+0.0.0.0 myinvests.pl
 0.0.0.0 mytraffic.pl
 0.0.0.0 mzgov.net
 0.0.0.0 nadhirotultaqwa.com
@@ -7251,6 +7264,7 @@
 0.0.0.0 nowina-pb.pl
 0.0.0.0 nowinki.blog-online.eu
 0.0.0.0 nowosczdrowieporadyvlc.pl
+0.0.0.0 nowy-regulamin.com
 0.0.0.0 nsfund.mn
 0.0.0.0 nympropiedades.cl
 0.0.0.0 n-mobile.net
@@ -7269,6 +7283,7 @@
 0.0.0.0 onclickbright.com
 0.0.0.0 onet24pl.pvi.pl
 0.0.0.0 onet24-polska.space
+0.0.0.0 onetpomaga24.eu
 0.0.0.0 onetposzukiwani.eu
 0.0.0.0 onet-zaginieni-24.pl
 0.0.0.0 onliine.pl
@@ -7499,6 +7514,7 @@
 0.0.0.0 sharefile365.com
 0.0.0.0 shejipxw.com
 0.0.0.0 shinden-anime.info
+0.0.0.0 sholtem.pl
 0.0.0.0 showltem.pl
 0.0.0.0 showlten.pl
 0.0.0.0 showmeflix.com
@@ -7678,6 +7694,7 @@
 0.0.0.0 winfreetoday.com
 0.0.0.0 winningsidenow.com
 0.0.0.0 wirtualne-media.pl
+0.0.0.0 wirusmiasto.hekko24.pl
 0.0.0.0 wisdementive.info
 0.0.0.0 wolnezycie.info
 0.0.0.0 wolyncalyfilm.wordpress.com
@@ -7890,11 +7907,13 @@
 0.0.0.0 www.electros.co.ua
 0.0.0.0 www.elememory.com
 0.0.0.0 www.elwirakurier.com
+0.0.0.0 www.emptierbreak.xyz
 0.0.0.0 www.endofhisrope.net
 0.0.0.0 www.energabok.pl
 0.0.0.0 www.eoplaty.net
 0.0.0.0 www.epaka247.net
 0.0.0.0 www.epgnig.pl
+0.0.0.0 www.epity2020.pl
 0.0.0.0 www.epoczta247.com
 0.0.0.0 www.ergjt.bxugac.live
 0.0.0.0 www.ericius.eu
@@ -7940,6 +7959,7 @@
 0.0.0.0 www.filmanteria.pl
 0.0.0.0 www.filmline.pl
 0.0.0.0 www.filmobox.pl
+0.0.0.0 www.filmofon.pl
 0.0.0.0 www.filmonline.info.pl
 0.0.0.0 www.filmovnia.pl
 0.0.0.0 www.filmowo24.pl
@@ -8113,6 +8133,9 @@
 0.0.0.0 www.komorniik24.com
 0.0.0.0 www.koniec500plus.eu
 0.0.0.0 www.konkursy.de
+0.0.0.0 www.kopalniafilmow.pl
+0.0.0.0 www.koronainfo24.eu
+0.0.0.0 www.koronamiasto.hekko24.pl
 0.0.0.0 www.koronawirusnews.com.pl
 0.0.0.0 www.koronawirusnews.net.pl
 0.0.0.0 www.koronawirus.hekko24.pl
@@ -8175,9 +8198,11 @@
 0.0.0.0 www.megadown.us
 0.0.0.0 www.megolbassia.com
 0.0.0.0 www.mergedocsnow.com
+0.0.0.0 www.miastowirus.hekko24.pl
 0.0.0.0 www.mientayweb.com
 0.0.0.0 www.milenium.site
 0.0.0.0 www.millensbank.fun
+0.0.0.0 www.millensbank.site
 0.0.0.0 www.millionways.duckdns.org
 0.0.0.0 www.minmin96.xyz
 0.0.0.0 www.miroslawklos.pl
@@ -8206,6 +8231,7 @@
 0.0.0.0 www.mutlukadinlarakademisi.com
 0.0.0.0 www.mydnssbox.gleeze.com
 0.0.0.0 www.myeforsa.pl
+0.0.0.0 www.myinvests.pl
 0.0.0.0 www.mytraffic.pl
 0.0.0.0 www.mzgov.net
 0.0.0.0 www.m.smsquiz.pl
@@ -8244,6 +8270,7 @@
 0.0.0.0 www.omega.best
 0.0.0.0 www.onclickbright.com
 0.0.0.0 www.onet24pl.pvi.pl
+0.0.0.0 www.onetpomaga24.eu
 0.0.0.0 www.onetposzukiwani.eu
 0.0.0.0 www.onliine.pl
 0.0.0.0 www.onlinehd.pl
@@ -8405,6 +8432,7 @@
 0.0.0.0 www.shael.org
 0.0.0.0 www.sharefile365.com
 0.0.0.0 www.shejipxw.com
+0.0.0.0 www.sholtem.pl
 0.0.0.0 www.showltem.pl
 0.0.0.0 www.showlten.pl
 0.0.0.0 www.showmeflix.com
@@ -8542,6 +8570,7 @@
 0.0.0.0 www.windykacjajagoda.org
 0.0.0.0 www.winfreetoday.com
 0.0.0.0 www.winningsidenow.com
+0.0.0.0 www.wirusmiasto.hekko24.pl
 0.0.0.0 www.wisdementive.info
 0.0.0.0 www.wolnezycie.info
 0.0.0.0 www.wolyncalyfilm.wordpress.com
@@ -8605,6 +8634,7 @@
 0.0.0.0 www.about-preferences.host
 0.0.0.0 www.adidas-collection.club
 0.0.0.0 www.adobe.5v.pl
+0.0.0.0 www.akceptacja-regulaminu.com
 0.0.0.0 www.aktualizacja-regulamin.com
 0.0.0.0 www.all-player.pl
 0.0.0.0 www.android-cleaner.net
@@ -8708,6 +8738,7 @@
 0.0.0.0 www.hotel-bristol.lu
 0.0.0.0 www.industry-deals.com
 0.0.0.0 www.informacje-news.eu
+0.0.0.0 www.informacje-o-maskach-ochronnych-pl.com
 0.0.0.0 www.informacje-swiat.pl
 0.0.0.0 www.in-post.net
 0.0.0.0 www.in-post.online
@@ -8751,6 +8782,7 @@
 0.0.0.0 www.nowa-oplata.net
 0.0.0.0 www.nowina-pb.pl
 0.0.0.0 www.nowinki.blog-online.eu
+0.0.0.0 www.nowy-regulamin.com
 0.0.0.0 www.n-mobile.net
 0.0.0.0 www.o2-fakty.pro
 0.0.0.0 www.offside2.000webhostapp.com
@@ -9042,6 +9074,7 @@
 #
 #
 # Dodatki hosts
+0.0.0.0 2automatyczny-dozownik-mydla-pl.com
 0.0.0.0 2-login.alleqro-pl.choljai.info
 0.0.0.0 24platnosci.online
 0.0.0.0 247platnosc.online
@@ -9052,6 +9085,7 @@
 0.0.0.0 adsheads.go2affise.com
 0.0.0.0 allegro.ogloszenie.best
 0.0.0.0 allegro.ogloszenie.space
+0.0.0.0 allegro.pl.sholtem.pl
 0.0.0.0 allegro.pl.showltem.pl
 0.0.0.0 allegro.pl.showlten.pl
 0.0.0.0 allegro.pl-nowe-regulamini7913.uhu362.com
@@ -9065,6 +9099,7 @@
 0.0.0.0 apple.com-scan-mac.live
 0.0.0.0 apple.com-shield.live
 0.0.0.0 apple.com-shields-guard.live
+0.0.0.0 automatyczny-dozownikmydla-pl.com
 0.0.0.0 bigbangads.go2cloud.org
 0.0.0.0 bok.epgnig.pl
 0.0.0.0 bok.enea-sa.pl
@@ -9158,6 +9193,10 @@
 0.0.0.0 netflix.apps.co.pl
 0.0.0.0 news.health-beauty.press
 0.0.0.0 odzyskajsnapy.blogspot.com
+0.0.0.0 onetporwanie.com.pl
+0.0.0.0 onetporwanie.net.pl
+0.0.0.0 onetporwanie.online
+0.0.0.0 onetporwanie.pl
 0.0.0.0 oplata3981.tpskp.com
 0.0.0.0 packza.dostawy24.com
 0.0.0.0 paczka.poczta-pay.com
@@ -9206,8 +9245,16 @@
 0.0.0.0 porwaniapolska.com.pl
 0.0.0.0 porwaniapolska.net.pl
 0.0.0.0 porwaniapolska.pl
+0.0.0.0 porwaniedziecki24.eu
+0.0.0.0 porwaniedziecki24.net.pl
+0.0.0.0 porwaniedziecki24.pl
+0.0.0.0 poszukiwania24.com.pl
+0.0.0.0 poszukiwania24.eu
+0.0.0.0 poszukiwania24.net.pl
+0.0.0.0 poszukiwania24.pl
 0.0.0.0 premiumlink.7tools.eu
 0.0.0.0 prl.genfotir.com
+0.0.0.0 procars-shoppl1.com
 0.0.0.0 prod.letswinstuff.com
 0.0.0.0 promocjezkauflandu.24.eu
 0.0.0.0 promotions.monthlywinners.com
@@ -9220,9 +9267,11 @@
 0.0.0.0 secure.polskapaczka24.net
 0.0.0.0 server078515.nazwa.pl
 0.0.0.0 server095630.nazwa.pl
+0.0.0.0 server123481.nazwa.pl
 0.0.0.0 server730889.nazwa.pl
 0.0.0.0 server836207.nazwa.pl
 0.0.0.0 server866225.nazwa.pl
+0.0.0.0 server872200.nazwa.pl
 0.0.0.0 server905483.nazwa.pl
 0.0.0.0 sprawdzzdjecia.24.eu
 0.0.0.0 sprnr59713.net
@@ -9252,6 +9301,7 @@
 0.0.0.0 www.adsheads.go2affise.com
 0.0.0.0 www.allegro.ogloszenie.best
 0.0.0.0 www.allegro.ogloszenie.space
+0.0.0.0 www.allegro.pl.sholtem.pl
 0.0.0.0 www.allegro.pl.showltem.pl
 0.0.0.0 www.allegro.pl.showlten.pl
 0.0.0.0 www.aoc.teleaudio.pl
@@ -9311,6 +9361,10 @@
 0.0.0.0 www.m.pl.failmobile.net
 0.0.0.0 www.netflix.apps.co.pl
 0.0.0.0 www.odzyskajsnapy.blogspot.com
+0.0.0.0 www.onetporwanie.com.pl
+0.0.0.0 www.onetporwanie.net.pl
+0.0.0.0 www.onetporwanie.online
+0.0.0.0 www.onetporwanie.pl
 0.0.0.0 www.oplata3981.tpskp.com
 0.0.0.0 www.packza.dostawy24.com
 0.0.0.0 www.ping.ublock.org
@@ -9330,6 +9384,13 @@
 0.0.0.0 www.porwaniapolska.com.pl
 0.0.0.0 www.porwaniapolska.net.pl
 0.0.0.0 www.porwaniapolska.pl
+0.0.0.0 www.porwaniedziecki24.eu
+0.0.0.0 www.porwaniedziecki24.net.pl
+0.0.0.0 www.porwaniedziecki24.pl
+0.0.0.0 www.poszukiwania24.com.pl
+0.0.0.0 www.poszukiwania24.eu
+0.0.0.0 www.poszukiwania24.net.pl
+0.0.0.0 www.poszukiwania24.pl
 0.0.0.0 www.prl.genfotir.com
 0.0.0.0 www.prod.letswinstuff.com
 0.0.0.0 www.promotions.monthlywinners.com
@@ -9341,9 +9402,11 @@
 0.0.0.0 www.secure.polskapaczka24.net
 0.0.0.0 www.server078515.nazwa.pl
 0.0.0.0 www.server095630.nazwa.pl
+0.0.0.0 www.server123481.nazwa.pl
 0.0.0.0 www.server730889.nazwa.pl
 0.0.0.0 www.server836207.nazwa.pl
 0.0.0.0 www.server866225.nazwa.pl
+0.0.0.0 www.server872200.nazwa.pl
 0.0.0.0 www.server905483.nazwa.pl
 0.0.0.0 www.sprnr59713.net
 0.0.0.0 www.sprnr59813.net
@@ -9367,6 +9430,7 @@
 0.0.0.0 www.zalukaj.tube
 0.0.0.0 www.zalukaj.ws
 0.0.0.0 www.zmienkolory.blogspot.com
+0.0.0.0 www.2automatyczny-dozownik-mydla-pl.com
 0.0.0.0 www.2-login.alleqro-pl.choljai.info
 0.0.0.0 www.24platnosci.online
 0.0.0.0 www.247platnosc.online
@@ -9380,6 +9444,7 @@
 0.0.0.0 www.apple.com-scan-mac.live
 0.0.0.0 www.apple.com-shield.live
 0.0.0.0 www.apple.com-shields-guard.live
+0.0.0.0 www.automatyczny-dozownikmydla-pl.com
 0.0.0.0 www.bok.enea-sa.pl
 0.0.0.0 www.bonswiateczny.24.eu
 0.0.0.0 www.buzz.mobiapp-games.com
@@ -9430,6 +9495,7 @@
 0.0.0.0 www.pomoc.sie-pomaga.net
 0.0.0.0 www.porwaniadzieci-online.pl
 0.0.0.0 www.premiumlink.7tools.eu
+0.0.0.0 www.procars-shoppl1.com
 0.0.0.0 www.promocjezkauflandu.24.eu
 0.0.0.0 www.przechwycone-zdjecia-fotki.pusiaweb.com
 0.0.0.0 www.sprawdzzdjecia.24.eu
