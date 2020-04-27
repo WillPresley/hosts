@@ -41,6 +41,7 @@ from updateHostsFile import (
     query_yes_no,
     recursive_glob,
     remove_old_hosts_file,
+    sort_sources,
     strip_rule,
     supports_color,
     update_all_sources,
@@ -131,6 +132,80 @@ class TestGetDefaults(Base):
 # End Project Settings
 
 
+class TestSortSources(Base):
+    def test_sort_sources_simple(self):
+        given = [
+            "sbc.io",
+            "example.com",
+            "github.com",
+        ]
+
+        expected = ["example.com", "github.com", "sbc.io"]
+
+        actual = sort_sources(given)
+
+        self.assertEqual(actual, expected)
+
+    def test_live_data(self):
+        given = [
+            "data/KADhosts/update.json",
+            "data/someonewhocares.org/update.json",
+            "data/StevenBlack/update.json",
+            "data/adaway.org/update.json",
+            "data/URLHaus/update.json",
+            "data/UncheckyAds/update.json",
+            "data/add.2o7Net/update.json",
+            "data/mvps.org/update.json",
+            "data/add.Spam/update.json",
+            "data/add.Dead/update.json",
+            "data/malwaredomainlist.com/update.json",
+            "data/Badd-Boyz-Hosts/update.json",
+            "data/hostsVN/update.json",
+            "data/yoyo.org/update.json",
+            "data/add.Risk/update.json",
+            "data/tiuxo/update.json",
+            "extensions/gambling/update.json",
+            "extensions/porn/clefspeare13/update.json",
+            "extensions/porn/sinfonietta-snuff/update.json",
+            "extensions/porn/tiuxo/update.json",
+            "extensions/porn/sinfonietta/update.json",
+            "extensions/fakenews/update.json",
+            "extensions/social/tiuxo/update.json",
+            "extensions/social/sinfonietta/update.json",
+        ]
+
+        expected = [
+            "data/StevenBlack/update.json",
+            "data/adaway.org/update.json",
+            "data/add.2o7Net/update.json",
+            "data/add.Dead/update.json",
+            "data/add.Risk/update.json",
+            "data/add.Spam/update.json",
+            "data/Badd-Boyz-Hosts/update.json",
+            "data/hostsVN/update.json",
+            "data/KADhosts/update.json",
+            "data/malwaredomainlist.com/update.json",
+            "data/mvps.org/update.json",
+            "data/someonewhocares.org/update.json",
+            "data/tiuxo/update.json",
+            "data/UncheckyAds/update.json",
+            "data/URLHaus/update.json",
+            "data/yoyo.org/update.json",
+            "extensions/fakenews/update.json",
+            "extensions/gambling/update.json",
+            "extensions/porn/clefspeare13/update.json",
+            "extensions/porn/sinfonietta/update.json",
+            "extensions/porn/sinfonietta-snuff/update.json",
+            "extensions/porn/tiuxo/update.json",
+            "extensions/social/sinfonietta/update.json",
+            "extensions/social/tiuxo/update.json",
+        ]
+
+        actual = sort_sources(given)
+
+        self.assertEqual(actual, expected)
+
+
 # Prompt the User
 class TestPromptForUpdate(BaseStdout, BaseMockDir):
     def setUp(self):
@@ -217,7 +292,7 @@ class TestPromptForUpdate(BaseStdout, BaseMockDir):
             self.assertFalse(update_sources)
 
             output = sys.stdout.getvalue()
-            expected = "OK, we'll stick with " "what we've got locally."
+            expected = "OK, we'll stick with what we've got locally."
             self.assertIn(expected, output)
 
             sys.stdout = StringIO()
@@ -279,7 +354,7 @@ class TestPromptForExclusions(BaseStdout):
         self.assertFalse(gather_exclusions)
 
         output = sys.stdout.getvalue()
-        expected = "OK, we'll only exclude " "domains in the whitelist."
+        expected = "OK, we'll only exclude domains in the whitelist."
         self.assertIn(expected, output)
 
         self.assert_called_once(mock_query)
@@ -1230,7 +1305,7 @@ class TestFlushDnsCache(BaseStdout):
                 os.name = "posix"
                 flush_dns_cache()
 
-                expected = "Flushing the DNS cache by " "restarting nscd succeeded"
+                expected = "Flushing the DNS cache by restarting nscd succeeded"
                 output = sys.stdout.getvalue()
                 self.assertIn(expected, output)
 
@@ -1244,7 +1319,7 @@ class TestFlushDnsCache(BaseStdout):
                 os.name = "posix"
                 flush_dns_cache()
 
-                expected = "Flushing the DNS cache by " "restarting nscd failed"
+                expected = "Flushing the DNS cache by restarting nscd failed"
                 output = sys.stdout.getvalue()
                 self.assertIn(expected, output)
 
@@ -1260,7 +1335,7 @@ class TestFlushDnsCache(BaseStdout):
 
                 output = sys.stdout.getvalue()
                 for expected in [
-                    ("Flushing the DNS cache by " "restarting nscd failed"),
+                    ("Flushing the DNS cache by restarting nscd failed"),
                     (
                         "Flushing the DNS cache by restarting "
                         "NetworkManager.service succeeded"
@@ -1301,7 +1376,7 @@ class TestRemoveOldHostsFile(BaseMockDir):
             contents = f.read()
             self.assertEqual(contents, "")
 
-    @mock.patch("time.strftime", return_value="-new")
+    @mock.patch("time.strftime", return_value="new")
     def test_remove_hosts_file_backup(self, _):
         with open(self.hosts_file, "w") as f:
             f.write("foo")
@@ -1669,7 +1744,7 @@ class TestIsValidDomainFormat(BaseStdout):
 
     def test_invalid_domain(self):
         expected = (
-            "Do not include www.domain.com or " "http(s)://domain.com. Try again."
+            "Do not include www.domain.com or http(s)://domain.com. Try again."
         )
 
         for invalid_domain in [
