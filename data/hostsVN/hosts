@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Jun 2020 13:55 UTC+7
-# Version: 2006091355
-# Blocked: 1,403 domains
+# Last modified: 19 Jun 2020 14:54 UTC+7
+# Version: 2006191454
+# Blocked: 1,419 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -655,7 +655,6 @@
 0.0.0.0 gandalf.younetmedia.com
 0.0.0.0 git.younetmedia.com
 0.0.0.0 jenkins.younetmedia.com
-0.0.0.0 mail.younetmedia.com
 0.0.0.0 ranking.younetmedia.com
 0.0.0.0 sen02.younetmedia.com
 0.0.0.0 sh.younetmedia.com
@@ -800,7 +799,6 @@
 0.0.0.0 xacthuc.autoads.asia
 #[phanquang.vn]
 0.0.0.0 click.phanquang.vn
-0.0.0.0 mail.phanquang.vn
 0.0.0.0 phanquang.vn
 0.0.0.0 quangcao.phanquang.vn
 0.0.0.0 www.phanquang.vn
@@ -1267,6 +1265,20 @@
 0.0.0.0 game-static.hotngay.vn
 0.0.0.0 game.hotngay.vn
 0.0.0.0 hotngay.vn
+#[atdnetwork.com]
+0.0.0.0 adserver.atdnetwork.com
+0.0.0.0 atdnetwork.com
+0.0.0.0 delivery.atdnetwork.com
+0.0.0.0 platform.atdnetwork.com
+0.0.0.0 static01.atdnetwork.com
+0.0.0.0 track.atdnetwork.com
+0.0.0.0 www.atdnetwork.com
+#[tuiiu.com]
+0.0.0.0 adi.tuiiu.com
+0.0.0.0 demo.tuiiu.com
+0.0.0.0 img.tuiiu.com
+0.0.0.0 tuiiu.com
+0.0.0.0 www.tuiiu.com
 # --- Block adsVN ---
 0.0.0.0 703531862.vws.vegacdn.vn
 0.0.0.0 ad-admin.vnay.vn
@@ -1298,6 +1310,7 @@
 0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.itsgroup.vn
 0.0.0.0 ads.khoahocdoisong.vn
+0.0.0.0 ads.nghenhinvietnam.vn
 0.0.0.0 ads.phunuonline.com.vn
 0.0.0.0 ads.phunusuckhoe.vn
 0.0.0.0 ads.thesaigontimes.vn
@@ -1312,6 +1325,7 @@
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adsweb.vn
 0.0.0.0 adt.com.vn
+0.0.0.0 adv.anhsangvacuocsong.vn
 0.0.0.0 adv.baotintuc.vn
 0.0.0.0 advert-admin.vnay.vn
 0.0.0.0 adx.kul.vn
@@ -1381,6 +1395,7 @@
 0.0.0.0 realclick.vn
 0.0.0.0 s.giaoducthoidai.vn
 0.0.0.0 sbbanner.com
+0.0.0.0 sda.tamdiem247.com
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 shop.vnay.vn
 0.0.0.0 static.mvot.vn
@@ -1444,6 +1459,7 @@
 0.0.0.0 log.infonet.vn
 0.0.0.0 log.kienthuc.net.vn
 0.0.0.0 log.ngaynay.vn
+0.0.0.0 log.nhipcaudautu.vn
 0.0.0.0 log.sggp.org.vn
 0.0.0.0 log.tapchitaichinh.vn
 0.0.0.0 log.thanhnien.vn
@@ -1470,6 +1486,8 @@
 0.0.0.0 staticad.thethao247.vn
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 stats.dongphim.net
+0.0.0.0 stats.petrotimes.vn
+0.0.0.0 stats.tamdiem247.com
 0.0.0.0 stats.vietnammoi.vn
 0.0.0.0 sv-api-event.headlines.pw
 0.0.0.0 thongke.24h.com.vn

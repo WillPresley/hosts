@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 08 Jun 2020 17:26:40 GMT
-# entries:        3383
+# last updated:   Thu, 18 Jun 2020 21:09:08 GMT
+# entries:        3394
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 14 Jun 2000 00:00:00
+# start date:    Sat, 24 Jun 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -55,7 +55,9 @@
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.xanga.com
 0.0.0.0 a135.wftv.com
+0.0.0.0 aa-metrics.trip-ai.jp
 0.0.0.0 aaddzz.com
+0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aaxads.com
 0.0.0.0 aaxdetect.com
 0.0.0.0 abacho.net
@@ -309,7 +311,6 @@
 0.0.0.0 admedia.com
 0.0.0.0 admeld.com
 0.0.0.0 admeridianads.com
-0.0.0.0 admerize.be
 0.0.0.0 admeta.com
 0.0.0.0 admex.com
 0.0.0.0 admidadsp.com
@@ -363,7 +364,6 @@
 0.0.0.0 ads-click.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
-0.0.0.0 ads-software.net
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.4tube.com
@@ -842,6 +842,7 @@
 0.0.0.0 adtoma.com
 0.0.0.0 adtrace.org
 0.0.0.0 adtrade.net
+0.0.0.0 adtrak.net
 0.0.0.0 adtriplex.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adv-adserver.com
@@ -973,6 +974,7 @@
 0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.jabong.com
+0.0.0.0 analytics.jst.ai
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.myfinance.com
@@ -985,6 +987,7 @@
 0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.yahoo.com
+0.0.0.0 analyticsapi.happypancake.net
 0.0.0.0 aniview.com
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 anrdoezrs.net
@@ -1091,7 +1094,6 @@
 0.0.0.0 bannerconnect.com
 0.0.0.0 bannerconnect.net
 0.0.0.0 bannergrabber.internet.gr
-0.0.0.0 bannerhost.com
 0.0.0.0 bannerimage.com
 0.0.0.0 bannerlandia.com.ar
 0.0.0.0 bannermall.com
@@ -1127,6 +1129,7 @@
 0.0.0.0 bannerspace.com
 0.0.0.0 bannerswap.com
 0.0.0.0 bannertesting.com
+0.0.0.0 bannertrack.net
 0.0.0.0 bannery.cz
 0.0.0.0 bannieres.acces-contenu.com
 0.0.0.0 bans.bride.ru
@@ -1383,6 +1386,7 @@
 0.0.0.0 concernedcondition.com
 0.0.0.0 conductrics.com
 0.0.0.0 connatix.com
+0.0.0.0 connectad.io
 0.0.0.0 connextra.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 consensad.com
@@ -1390,6 +1394,7 @@
 0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
+0.0.0.0 content22.online.citi.com
 0.0.0.0 contextweb.com
 0.0.0.0 converge-digital.com
 0.0.0.0 conversantmedia.com
@@ -1667,6 +1672,7 @@
 0.0.0.0 fadedprofit.com
 0.0.0.0 fadedsnow.com
 0.0.0.0 famousquarter.com
+0.0.0.0 faracoon.com
 0.0.0.0 farethief.com
 0.0.0.0 farmergoldfish.com
 0.0.0.0 fascinatedfeather.com
@@ -1732,7 +1738,6 @@
 0.0.0.0 fullstory.com
 0.0.0.0 functionalcrown.com
 0.0.0.0 funklicks.com
-0.0.0.0 funpageexchange.com
 0.0.0.0 fusionads.net
 0.0.0.0 fusionquest.com
 0.0.0.0 futuristicapparatus.com
@@ -1799,6 +1804,7 @@
 0.0.0.0 h3btqpy2abc3.com
 0.0.0.0 h78xb.pw
 0.0.0.0 h92zbpn4zcv1.com
+0.0.0.0 habitualhumor.com
 0.0.0.0 hadskiz.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 handyfield.com
@@ -1860,6 +1866,7 @@
 0.0.0.0 hoverowl.com
 0.0.0.0 how-to-create-a-resignation-letter.com
 0.0.0.0 hs-analytics.net
+0.0.0.0 hs-banner.com
 0.0.0.0 hsadspixel.net
 0.0.0.0 htlbid.com
 0.0.0.0 httpool.com
@@ -2386,8 +2393,10 @@
 0.0.0.0 openad.travelnow.com
 0.0.0.0 openads.friendfinder.com
 0.0.0.0 openads.org
+0.0.0.0 openadsnetwork.com
 0.0.0.0 opentag-stats.qubit.com
 0.0.0.0 openx.angelsgroup.org.uk
+0.0.0.0 openx.smcaen.fr
 0.0.0.0 operationkettle.com
 0.0.0.0 opienetwork.com
 0.0.0.0 opmnstr.com
@@ -2419,7 +2428,6 @@
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
-0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
 0.0.0.0 paleleaf.com
@@ -2687,7 +2695,6 @@
 0.0.0.0 richmails.com
 0.0.0.0 richmedia.yimg.com
 0.0.0.0 richstring.com
-0.0.0.0 richwebmaster.com
 0.0.0.0 rightstats.com
 0.0.0.0 rinconpx.net
 0.0.0.0 ringsrecord.com
@@ -2711,6 +2718,7 @@
 0.0.0.0 rsalcdp.com
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtb.gumgum.com
+0.0.0.0 rtb.openx.net
 0.0.0.0 rtbadzesto.com
 0.0.0.0 rtbflairads.com
 0.0.0.0 rtbidhost.com
@@ -2813,6 +2821,7 @@
 0.0.0.0 sinoa.com
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 siteimproveanalytics.com
+0.0.0.0 siteimproveanalytics.io
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 sitemeter.com
 0.0.0.0 sixscissors.com
@@ -2840,6 +2849,7 @@
 0.0.0.0 smilingwaves.com
 0.0.0.0 smrtb.com
 0.0.0.0 snapads.com
+0.0.0.0 sneakystamp.com
 0.0.0.0 snoobi.com
 0.0.0.0 socialspark.com
 0.0.0.0 softclick.com.br
@@ -2975,6 +2985,7 @@
 0.0.0.0 t.insigit.com
 0.0.0.0 t.irtyd.com
 0.0.0.0 taboola.com
+0.0.0.0 tag.links-analytics.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.tiqcdn.com
@@ -3109,7 +3120,6 @@
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.ibxlink.com
-0.0.0.0 tracking.inlocomedia.com
 0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.miui.com
@@ -3322,6 +3332,7 @@
 0.0.0.0 wondoads.de
 0.0.0.0 woopra.com
 0.0.0.0 worldwide-cash.net
+0.0.0.0 worldwidedigitalads.com
 0.0.0.0 worriednumber.com
 0.0.0.0 worrybutter.com
 0.0.0.0 wpnrtnmrewunrtok.xyz

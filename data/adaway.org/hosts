@@ -5416,9 +5416,6 @@
 127.0.0.1 vrl.m.conviva.com
 127.0.0.1 pings.conviva.com
 
-# [cookielaw.org]
-127.0.0.1 cdn.cookielaw.org
-
 # [coremetrics.com]
 127.0.0.1 coremetrics.com
 127.0.0.1 data.coremetrics.com
@@ -6606,13 +6603,7 @@
 127.0.0.1 dlt-beacon.dynatrace-managed.com
 
 # [dynatrace.com]
-127.0.0.1 dynatrace.com
-127.0.0.1 assets.dynatrace.com
-127.0.0.1 cr01.dynatrace.com
-127.0.0.1 cr02.dynatrace.com
 127.0.0.1 js-cdn.dynatrace.com
-127.0.0.1 mcsvc.dynatrace.com
-127.0.0.1 signin.dynatrace.com
 
 # [dyntrk.com]
 127.0.0.1 dyntrk.com
@@ -12657,9 +12648,6 @@
 # [onespot.com]
 127.0.0.1 px.onespot.com
 
-# [onetrust.com]
-127.0.0.1 geolocation.onetrust.com
-
 # [onewaylinkexchange.net]
 127.0.0.1 onewaylinkexchange.net
 
@@ -16581,7 +16569,6 @@
 127.0.0.1 ip.taobao.com
 127.0.0.1 ju.taobao.com
 127.0.0.1 accscdn.m.taobao.com
-127.0.0.1 acs.m.taobao.com
 127.0.0.1 acs4baichuan.m.taobao.com
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
@@ -17147,7 +17134,6 @@
 
 # [truecaller.com]
 127.0.0.1 batchlogging4.truecaller.com
-127.0.0.1 presence-grpc-noneu.truecaller.com
 127.0.0.1 pushid-noneu.truecaller.com
 
 # [truoctran.com]
