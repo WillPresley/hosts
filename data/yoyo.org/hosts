@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 18 Jun 2020 21:09:08 GMT
-# entries:        3394
+# last updated:   Mon, 22 Jun 2020 11:38:44 GMT
+# entries:        3403
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 24 Jun 2000 00:00:00
+# start date:    Tue, 27 Jun 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -48,6 +48,7 @@
 0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.consumer.net
 0.0.0.0 a.mktw.net
+0.0.0.0 a.pub.network
 0.0.0.0 a.sakh.com
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
@@ -126,6 +127,7 @@
 0.0.0.0 ad.freecity.de
 0.0.0.0 ad.gate24.ch
 0.0.0.0 ad.grafika.cz
+0.0.0.0 ad.gt
 0.0.0.0 ad.hbv.de
 0.0.0.0 ad.hodomobile.com
 0.0.0.0 ad.httpool.com
@@ -556,6 +558,8 @@
 0.0.0.0 ads.motormedia.nl
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.multimania.lycos.fr
+0.0.0.0 ads.muslimehelfen.org
+0.0.0.0 ads.nccwebs.com
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.networksolutions.com
@@ -588,6 +592,7 @@
 0.0.0.0 ads.pni.com
 0.0.0.0 ads.pof.com
 0.0.0.0 ads.powweb.com
+0.0.0.0 ads.ppvmedien.de
 0.0.0.0 ads.praguetv.cz
 0.0.0.0 ads.primissima.it
 0.0.0.0 ads.printscr.com
@@ -742,6 +747,7 @@
 0.0.0.0 adserver.bizhat.com
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.cams.com
+0.0.0.0 adserver.cdnstream.com
 0.0.0.0 adserver.com
 0.0.0.0 adserver.diariodosertao.com.br
 0.0.0.0 adserver.digitoday.com
@@ -1512,6 +1518,7 @@
 0.0.0.0 didtheyreadit.com
 0.0.0.0 digital-ads.s3.amazonaws.com
 0.0.0.0 digitalmerkat.com
+0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 directaclick.com
 0.0.0.0 directivepub.com
@@ -2203,6 +2210,7 @@
 0.0.0.0 metaffiliation.com
 0.0.0.0 metanetwork.com
 0.0.0.0 methodcash.com
+0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.cnn.com
 0.0.0.0 metrics.consumerreports.org
@@ -2569,6 +2577,7 @@
 0.0.0.0 pubdirecte.com
 0.0.0.0 publicidad.elmundo.es
 0.0.0.0 publicidees.com
+0.0.0.0 publisher-assets.spot.im
 0.0.0.0 pubmatic.com
 0.0.0.0 pubmine.com
 0.0.0.0 pubnative.net
