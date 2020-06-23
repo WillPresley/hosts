@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 22 Jun 2020 16:51:59 GMT
-# entries:        3416
+# last updated:   Tue, 23 Jun 2020 11:50:15 GMT
+# entries:        3427
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 27 Jun 2000 00:00:00
+# start date:    Wed, 28 Jun 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -149,6 +149,7 @@
 0.0.0.0 ad.mgd.de
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.myapple.pl
+0.0.0.0 ad.mynetreklam.com.streamprovider.net
 0.0.0.0 ad.nachtagenten.de
 0.0.0.0 ad.nozonedata.com
 0.0.0.0 ad.nttnavi.co.jp
@@ -406,6 +407,7 @@
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluemountain.com
+0.0.0.0 ads.boerding.com
 0.0.0.0 ads.bonniercorp.com
 0.0.0.0 ads.boylesports.com
 0.0.0.0 ads.brabys.com
@@ -496,6 +498,7 @@
 0.0.0.0 ads.gplusmedia.com
 0.0.0.0 ads.gradfinder.com
 0.0.0.0 ads.grindinggears.com
+0.0.0.0 ads.groupewin.fr
 0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
 0.0.0.0 ads.guardian.co.uk
@@ -541,6 +544,7 @@
 0.0.0.0 ads.larryaffiliates.com
 0.0.0.0 ads.leovegas.com
 0.0.0.0 ads.lesbianpersonals.com
+0.0.0.0 ads.liberte.pl
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.linuxfoundation.org
 0.0.0.0 ads.livenation.com
@@ -565,6 +569,8 @@
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.muslimehelfen.org
+0.0.0.0 ads.mvscoelho.com
+0.0.0.0 ads.myadv.org
 0.0.0.0 ads.nccwebs.com
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
@@ -592,6 +598,7 @@
 0.0.0.0 ads.outpersonals.com
 0.0.0.0 ads.passion.com
 0.0.0.0 ads.pennet.com
+0.0.0.0 ads.pfl.ua
 0.0.0.0 ads.phpclasses.org
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.planet.nl
@@ -611,6 +618,7 @@
 0.0.0.0 ads.quasaraffiliates.com
 0.0.0.0 ads.quoka.de
 0.0.0.0 ads.radio1.lv
+0.0.0.0 ads.rcncdn.de
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.recoletos.es
 0.0.0.0 ads.redactor.in.ua
@@ -669,6 +677,7 @@
 0.0.0.0 ads.videosz.com
 0.0.0.0 ads.viksaffiliates.com
 0.0.0.0 ads.virtual-nights.com
+0.0.0.0 ads.virtuopolitan.com
 0.0.0.0 ads.vnumedia.com
 0.0.0.0 ads.waps.cn
 0.0.0.0 ads.wapx.cn
@@ -1782,6 +1791,7 @@
 0.0.0.0 geovisite.com
 0.0.0.0 getclicky.com
 0.0.0.0 getintent.com
+0.0.0.0 getmyads.com
 0.0.0.0 giddycoat.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
@@ -3137,6 +3147,7 @@
 0.0.0.0 tracker.vgame.us
 0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1-kv015-ap.co.uk
+0.0.0.0 tracking.21-a4652-bi.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.epicgames.com
