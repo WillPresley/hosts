@@ -4075,7 +4075,6 @@
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 sandbox.sjws.baidu.com
 127.0.0.1 sobar.baidu.com
-127.0.0.1 sp0.baidu.com
 127.0.0.1 sp1.baidu.com
 127.0.0.1 static.tieba.baidu.com
 127.0.0.1 toolbar.baidu.com
@@ -5201,10 +5200,6 @@
 # [cn.com]
 127.0.0.1 id1.cn.com
 
-# [cnbc.com]
-127.0.0.1 fm.cnbc.com
-127.0.0.1 mps.cnbc.com
-
 # [cnn.com]
 127.0.0.1 agility.cnn.com
 127.0.0.1 mms.cnn.com
@@ -5503,9 +5498,6 @@
 # [crispmedia.com]
 127.0.0.1 crispmedia.com
 
-# [crispwireless.com]
-127.0.0.1 crispwireless.com
-
 # [criteo.com]
 127.0.0.1 criteo.com
 127.0.0.1 ads.as.criteo.com
@@ -5631,12 +5623,6 @@
 127.0.0.1 creatives.crossinstall.io
 127.0.0.1 step-service.crossinstall.io
 
-# [crossrider.com]
-127.0.0.1 crossrider.com
-
-# [crowdin.com]
-127.0.0.1 api.crowdin.com
-
 # [crowdtangle.com]
 127.0.0.1 api.crowdtangle.com
 127.0.0.1 apps.crowdtangle.com
@@ -5703,9 +5689,6 @@
 
 # [cuebiq.com]
 127.0.0.1 in.cuebiq.com
-
-# [curalate.com]
-127.0.0.1 cdn.curalate.com
 
 # [customer.io]
 127.0.0.1 track.customer.io
@@ -5775,10 +5758,6 @@
 # [datahc.com]
 127.0.0.1 brands.datahc.com
 127.0.0.1 redirect.datahc.com
-
-# [datapipe.com]
-127.0.0.1 cloud.datapipe.com
-127.0.0.1 one.datapipe.com
 
 # [datasphere.com]
 127.0.0.1 cloud.datasphere.com
@@ -6772,8 +6751,6 @@
 127.0.0.1 cbola-logging-1-t3.us-east-1.elasticbeanstalk.com
 127.0.0.1 cbola-psa.us-east-1.elasticbeanstalk.com
 127.0.0.1 cloud-graphql-live.us-east-1.elasticbeanstalk.com
-127.0.0.1 curalate-api-prod.us-east-1.elasticbeanstalk.com
-127.0.0.1 curalate-like2buy-prod-vpc.us-east-1.elasticbeanstalk.com
 127.0.0.1 ddm-analystic-pro2.us-east-1.elasticbeanstalk.com
 127.0.0.1 dhg-logging.us-east-1.elasticbeanstalk.com
 127.0.0.1 ei-event-collector.us-east-1.elasticbeanstalk.com
@@ -6830,25 +6807,6 @@
 127.0.0.1 hb.emxdgt.com
 127.0.0.1 imp.emxdgt.com
 
-# [emxdigital.com]
-127.0.0.1 emxdigital.com
-
-# [en25.com]
-127.0.0.1 img02.en25.com
-127.0.0.1 img03.en25.com
-127.0.0.1 img04.en25.com
-127.0.0.1 img06.en25.com
-127.0.0.1 img07.en25.com
-
-# [engage.co]
-127.0.0.1 sdk.engage.co
-127.0.0.1 status.engage.co
-127.0.0.1 wapi.engage.co
-127.0.0.1 xdomain.engage.co
-
-# [engagebdr.com]
-127.0.0.1 engagebdr.com
-
 # [engageclick.com]
 127.0.0.1 turbo.engageclick.com
 
@@ -6892,20 +6850,11 @@
 127.0.0.1 w.ads2.eqads.com
 127.0.0.1 um2.eqads.com
 
-# [eqworks.com]
-127.0.0.1 eqworks.com
-
-# [esellerate.net]
-127.0.0.1 esellerate.net
-
 # [espn.com]
 127.0.0.1 log.espn.com
 
 # [estara.com]
 127.0.0.1 as00.estara.com
-
-# [estream.com]
-127.0.0.1 v3dev.estream.com
 
 # [et-code.ru]
 127.0.0.1 et-code.ru
@@ -9378,11 +9327,6 @@
 # [kaotic.com]
 127.0.0.1 kaotic.com
 
-# [kaptcha.com]
-127.0.0.1 ssl.kaptcha.com
-127.0.0.1 a.stun.kaptcha.com
-127.0.0.1 tst.kaptcha.com
-
 # [kargo.com]
 127.0.0.1 ad-monitor.kargo.com
 127.0.0.1 adserve.kargo.com
@@ -11040,6 +10984,7 @@
 
 # [miui.com]
 127.0.0.1 tracking.intl.miui.com
+127.0.0.1 api.sec.miui.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 fcanr.tracking.miui.com
@@ -11957,14 +11902,6 @@
 
 # [msales.com]
 127.0.0.1 msales.com
-
-# [msecnd.net]
-127.0.0.1 az361816.vo.msecnd.net
-127.0.0.1 az413505.vo.msecnd.net
-127.0.0.1 az416426.vo.msecnd.net
-127.0.0.1 az512334.vo.msecnd.net
-127.0.0.1 az598575.vo.msecnd.net
-127.0.0.1 az708531.vo.msecnd.net
 
 # [msn.com]
 127.0.0.1 adevents.msn.com
@@ -18359,6 +18296,9 @@
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
 
+# [xiaomi.net]
+127.0.0.1 api.device.xiaomi.net
+
 # [xiaoying.co]
 127.0.0.1 ad-sdk.altamob.xiaoying.co
 
@@ -18751,9 +18691,6 @@
 127.0.0.1 api.sdk.zadn.vn
 127.0.0.1 log.sdk.zadn.vn
 127.0.0.1 zalo-ads-td.zadn.vn
-
-# [zalo.me]
-127.0.0.1 shop.zalo.me
 
 # [zaloapp.com]
 127.0.0.1 ads.zaloapp.com
