@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 27 July 2020 11:43:00 (GMT)
+# Date: 27 July 2020 12:51:15 (GMT)
 # Extensions added to this file: fakenews
-# Number of unique domains: 77,225
+# Number of unique domains: 77,241
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/blokada-version/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -73275,7 +73275,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allloveseries.com
 0.0.0.0 alphaconsumer.net
 0.0.0.0 am-concepts.ca
-0.0.0.0 amd.alibuf.com
 0.0.0.0 amemarine.co.th
 0.0.0.0 amirthafoundation.com
 0.0.0.0 andreelapeyre.com
@@ -73287,7 +73286,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aoujlift.ir
 0.0.0.0 apoolcondo.com
 0.0.0.0 apware.co.kr
-0.0.0.0 arsan.com.br
 0.0.0.0 arsimiparauniversitar.gov.al
 0.0.0.0 artewebestudio.com
 0.0.0.0 atfile.com
@@ -73295,17 +73293,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 atteuqpotentialunlimited.com
 0.0.0.0 aulist.com
 0.0.0.0 autoblog.gokulnath.me
+0.0.0.0 av2m.com
 0.0.0.0 azmeasurement.com
 0.0.0.0 azzd.co.kr
+0.0.0.0 babaroadways.in
 0.0.0.0 backgrounds.pk
 0.0.0.0 ballooneo.com
 0.0.0.0 banhangsivn.com
 0.0.0.0 bapo.granudan.cn
+0.0.0.0 bartboutens.nl
+0.0.0.0 bazarot.com
 0.0.0.0 bbs.sunwy.org
-0.0.0.0 bbs1.marisfrolg.com
 0.0.0.0 bcpcircle.com
 0.0.0.0 bdvan.com
 0.0.0.0 belsizehair.co.uk
+0.0.0.0 benluckman.com
 0.0.0.0 bergama.org.tr
 0.0.0.0 bheragreens.com
 0.0.0.0 biglaughs.org
@@ -73333,20 +73335,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 cjto.top
 0.0.0.0 class.britishonline.co
 0.0.0.0 cnml.com.br
+0.0.0.0 colourcreative.co.za
 0.0.0.0 complan.hu
 0.0.0.0 complanbt.hu
 0.0.0.0 completedigitalmedia.co.uk
 0.0.0.0 comtechadsl.com
-0.0.0.0 config.cqhbkjzx.com
 0.0.0.0 config.kuaisousou.top
-0.0.0.0 config.wwmhdq.com
 0.0.0.0 consultorias.smartdevmx.com
 0.0.0.0 cpnti.com
 0.0.0.0 cqjcc.org
 0.0.0.0 crisalic.fr
 0.0.0.0 crittersbythebay.com
 0.0.0.0 csnserver.com
-0.0.0.0 ctannous.com
 0.0.0.0 current9.com.ng
 0.0.0.0 czsl.91756.cn
 0.0.0.0 da.alibuf.com
@@ -73360,6 +73360,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 departure.world
 0.0.0.0 derivativespro.in
 0.0.0.0 dev.sebpo.net
+0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 dfd.zhzy999.net
 0.0.0.0 dfzm.91756.cn
@@ -73373,7 +73374,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dlist.iqilie.com
-0.0.0.0 dnn.alibuf.com
 0.0.0.0 dodsonimaging.com
 0.0.0.0 donmago.com
 0.0.0.0 doransky.info
@@ -73387,16 +73387,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.1ys.com
 0.0.0.0 download.exrnybuf.cn
 0.0.0.0 download.kaobeitu.com
+0.0.0.0 download.ttz3.cn
 0.0.0.0 dr-consulting.de
 0.0.0.0 dr-fehlauer.de
 0.0.0.0 dreamtrips.cheap
 0.0.0.0 drive.google.com.it-barcelona.com
 0.0.0.0 drs-spotter.de
-0.0.0.0 dudulm.com
 0.0.0.0 duyster.info
-0.0.0.0 dw.58wangdun.com
 0.0.0.0 dyrmann.dk
-0.0.0.0 e.dangeana.com
 0.0.0.0 easeupnow.com
 0.0.0.0 ed-tv.nl
 0.0.0.0 edgologyservices.com
@@ -73407,6 +73405,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 elokshinproperty.co.za
 0.0.0.0 enco-software.net
 0.0.0.0 entre-potes.mon-application.com
+0.0.0.0 envirohealth.org
 0.0.0.0 er-bulisguvenligi.com
 0.0.0.0 erma-systemsoft.de
 0.0.0.0 ermekanik.com
@@ -73414,22 +73413,29 @@ ff02::3 ip6-allhosts
 0.0.0.0 esteteam.org
 0.0.0.0 ev0lve.cf
 0.0.0.0 exchangecamp.ir
+0.0.0.0 exeo.com
+0.0.0.0 exilum.com
+0.0.0.0 extelcon.com
 0.0.0.0 ezfintechcorp.com
 0.0.0.0 ezselika.com
+0.0.0.0 fabiosbarros.com.br
 0.0.0.0 fansida.cn
-0.0.0.0 fashionchandani.com
 0.0.0.0 files6.uludagbilisim.com
 0.0.0.0 fishingbigstore.com
 0.0.0.0 fitnessanddance.de
+0.0.0.0 fitsaude.com.br
+0.0.0.0 fitsystems.com
+0.0.0.0 fixlab.pl
 0.0.0.0 fkd.derpcity.ru
 0.0.0.0 fotros19.ir
 0.0.0.0 frin.ng
 0.0.0.0 ftpftpftp.com
 0.0.0.0 funletters.net
 0.0.0.0 fusionfiresolutions.com
-0.0.0.0 gasfer.ru
 0.0.0.0 gateway-heide.de
 0.0.0.0 gehua.com.cn
+0.0.0.0 geisterhouse.com
+0.0.0.0 gigawebtecnologia.com.br
 0.0.0.0 gimscompany.com
 0.0.0.0 gmjenkins.com
 0.0.0.0 gnimelf.net
@@ -73438,6 +73444,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gokulnath.me
 0.0.0.0 grafchekloder.rebatesrule.net
 0.0.0.0 greenpalace.top
+0.0.0.0 gregemmerth.com
 0.0.0.0 gssgroups.com
 0.0.0.0 gvpcdpgc.edu.in
 0.0.0.0 h5ym.com
@@ -73459,6 +73466,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 htownbars.com
 0.0.0.0 htxl.cn
 0.0.0.0 hyundailamdong.com.vn
+0.0.0.0 iamrobertmiller.com
 0.0.0.0 ideanetsolutions.com
 0.0.0.0 ikaprama.org
 0.0.0.0 impression-gobelet.com
@@ -73468,6 +73476,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inigbiseijfji.ru
 0.0.0.0 innveso-digital.com
 0.0.0.0 intersel-idf.org
+0.0.0.0 ipirangaonline.com.br
 0.0.0.0 iremart.es
 0.0.0.0 isso.ps
 0.0.0.0 jacksinspiration.com
@@ -73477,21 +73486,26 @@ ff02::3 ip6-allhosts
 0.0.0.0 janvierassocies.fr
 0.0.0.0 javatank.ru
 0.0.0.0 jdtrusttrading.org
+0.0.0.0 jetfuelcreative.com
 0.0.0.0 jmtc.91756.cn
+0.0.0.0 joannes.nl
 0.0.0.0 jorgensenenterprises.com
 0.0.0.0 jrmlocks.ir
+0.0.0.0 justinscott.com.au
 0.0.0.0 k.ludong.tv
 0.0.0.0 kachsurf.mylftv.com
 0.0.0.0 karavantekstil.com
 0.0.0.0 kdsp.co.kr
 0.0.0.0 kejpa.com
-0.0.0.0 kleinendeli.co.za
+0.0.0.0 kelowood.fi
 0.0.0.0 knightsbridgeenergy.com.ng
 0.0.0.0 kollab.blog.br
 0.0.0.0 konican.com
 0.0.0.0 labeldar.com
 0.0.0.0 lameguard.ru
 0.0.0.0 lammaixep.com
+0.0.0.0 laopos.com
+0.0.0.0 lcccl.ca
 0.0.0.0 learningcomputing.org
 0.0.0.0 lebedyn.info
 0.0.0.0 levitt.ug
@@ -73506,8 +73520,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 lt02.datacomspecialists.net
 0.0.0.0 ltrybus.com
 0.0.0.0 luatminhthuan.com
+0.0.0.0 lucienc.net
 0.0.0.0 luilao.com
-0.0.0.0 lunny.com
 0.0.0.0 lvr.samacomplus.com
 0.0.0.0 m.0757kd.cn
 0.0.0.0 mackleyn.com
@@ -73554,7 +73568,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ngoaingu.garage.com.vn
 0.0.0.0 nitronet.net
 0.0.0.0 nmcllc.us
-0.0.0.0 nogva.org
 0.0.0.0 nprg.ru
 0.0.0.0 nufc.vn
 0.0.0.0 obseques-conseils.com
@@ -73572,7 +73585,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ourplace.com.br
 0.0.0.0 ozemag.com
 0.0.0.0 p1.lingpao8.com
-0.0.0.0 p2.lingpao8.com
 0.0.0.0 p500.mon-application.com
 0.0.0.0 pajitnov.com
 0.0.0.0 paralink.com.br
@@ -73603,7 +73615,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rainbowisp.info
 0.0.0.0 ramirezllc.com
 0.0.0.0 rassow.de
-0.0.0.0 ravenproductionsltd.com
 0.0.0.0 rc.ixiaoyang.cn
 0.0.0.0 real-song.tjmedia.co.kr
 0.0.0.0 redesoftdownload.info
@@ -73626,7 +73637,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.kk30.com
 0.0.0.0 saboorjaam.ir
 0.0.0.0 sadiqgill.com
-0.0.0.0 safelecservices.co.uk
 0.0.0.0 sahathaikasetpan.com
 0.0.0.0 salesforce-ibmcloud.kozow.com
 0.0.0.0 sandhutengineersandconsultants.in
@@ -73665,7 +73675,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 szxypt.com
 0.0.0.0 t.honker.info
 0.0.0.0 tattooartcreations.com
-0.0.0.0 taxpos.com
 0.0.0.0 telescopelms.com
 0.0.0.0 terkpecas.com.br
 0.0.0.0 test.iyibakkendine.com
@@ -73674,6 +73683,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 texniko.gr
 0.0.0.0 thaisell.com
 0.0.0.0 tharringtonsponsorship.com
+0.0.0.0 theclinicabarros.com
 0.0.0.0 theprizeguys.uk
 0.0.0.0 thepromostore.events
 0.0.0.0 theptiendat.com
@@ -73719,7 +73729,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vnitservice.com
 0.0.0.0 vontech.com.sg
 0.0.0.0 w.zhzy999.net
-0.0.0.0 wap.dosame.com
 0.0.0.0 webarte.com.br
 0.0.0.0 webserverthai.com
 0.0.0.0 welcometothefuture.com
@@ -73734,6 +73743,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.accessyouraudience.com
 0.0.0.0 www.acep-xploit.tk
 0.0.0.0 www.addahealingmusic.com
+0.0.0.0 www.agsir.com
 0.0.0.0 www.aibd.sn
 0.0.0.0 www.al-wahd.com
 0.0.0.0 www.allloveseries.com
@@ -73751,6 +73761,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.clearwaterriveroutfitting.com
 0.0.0.0 www.csnserver.com
 0.0.0.0 www.cyclomove.com
+0.0.0.0 www.darknova.eu
 0.0.0.0 www.datapolish.com
 0.0.0.0 www.dawaphoto.co.kr
 0.0.0.0 www.deayoungkiki.com
@@ -73765,6 +73776,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.facilmedcartoes.com.br
 0.0.0.0 www.ftpftpftp.com
 0.0.0.0 www.funletters.net
+0.0.0.0 www.gavinpoynton.co.uk
 0.0.0.0 www.glitzygal.net
 0.0.0.0 www.hanaphoto.co.kr
 0.0.0.0 www.handrush.com
@@ -73772,7 +73784,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.hseda.com
 0.0.0.0 www.idacalifornia.org
 0.0.0.0 www.iremart.es
+0.0.0.0 www.it-walker.ch
+0.0.0.0 www.juancieri.com
 0.0.0.0 www.jygasoft.com
+0.0.0.0 www.kellogic.com
 0.0.0.0 www.kjcpromo.com
 0.0.0.0 www.kwanfromhongkong.com
 0.0.0.0 www.lavidagroups.com
@@ -73792,6 +73807,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.opolis.io
 0.0.0.0 www.pedidoslalacteo.com.ar
 0.0.0.0 www.petafilm.com
+0.0.0.0 www.qianjiangchao.com
 0.0.0.0 www.quartier-midi.be
 0.0.0.0 www.recommendservices.com
 0.0.0.0 www.riparazionephonelab.com
@@ -73805,31 +73821,31 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sslv3.at
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.szxypt.com
-0.0.0.0 www.tandenblekenhoofddorp.nl
-0.0.0.0 www.taobaogame.top
 0.0.0.0 www.thc-annex.com
 0.0.0.0 www.ukks.net
 0.0.0.0 www.valencaagora.com.br
 0.0.0.0 www.wiremeshseller.com
 0.0.0.0 www.wkkjf.com
+0.0.0.0 www.x2vn.com
 0.0.0.0 www.xtecsoft.com
 0.0.0.0 www.yunbang.cn
 0.0.0.0 www.zwajok.com
 0.0.0.0 www2.recepty5.com
+0.0.0.0 x2vn.com
+0.0.0.0 xiaodaji.com
 0.0.0.0 xiheiufisd.su
 0.0.0.0 xo57.com
 0.0.0.0 xpodip.ir
 0.0.0.0 xtecsoft.com
 0.0.0.0 xtremeforumz.com
 0.0.0.0 ydrool.me
-0.0.0.0 yesky.51down.org.cn
+0.0.0.0 yeichner.com
 0.0.0.0 youthindiaassociation.com
 0.0.0.0 yy31t.chokun.ru
 0.0.0.0 zagruz.toh.info
 0.0.0.0 zakahlife.com
 0.0.0.0 zaragoza.co.ug
 0.0.0.0 zaragozsa.ug
-0.0.0.0 zdy.17110.com
 0.0.0.0 zhetysu360.kz
 0.0.0.0 zhzy999.net
 0.0.0.0 ziliao.yunkaodian.com
