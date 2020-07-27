@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 22 Jul 2020 07:47:41 GMT
-# entries:        3496
+# last updated:   Mon, 27 Jul 2020 06:54:19 GMT
+# entries:        3513
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 27 Jul 2000 00:00:00
+# start date:    Tue, 01 Aug 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -58,7 +58,9 @@
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.xanga.com
 0.0.0.0 a135.wftv.com
+0.0.0.0 a5.overclockers.ua
 0.0.0.0 aa-metrics.beauty.hotpepper.jp
+0.0.0.0 aa-metrics.recruit-card.jp
 0.0.0.0 aa-metrics.trip-ai.jp
 0.0.0.0 aaddzz.com
 0.0.0.0 aax-eu-dub.amazon.com
@@ -172,6 +174,7 @@
 0.0.0.0 ad.simflight.com
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.smartclip.net
+0.0.0.0 ad.tapthislink.com
 0.0.0.0 ad.tbn.ru
 0.0.0.0 ad.technoratimedia.com
 0.0.0.0 ad.thewheelof.com
@@ -358,7 +361,6 @@
 0.0.0.0 adpia.vn
 0.0.0.0 adplus.co.id
 0.0.0.0 adplxmd.com
-0.0.0.0 adprofile.net
 0.0.0.0 adprofits.ru
 0.0.0.0 adrazzi.com
 0.0.0.0 adreactor.com
@@ -382,8 +384,11 @@
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.4tube.com
 0.0.0.0 ads.5ci.lt
+0.0.0.0 ads.73dpi.com
+0.0.0.0 ads.aavv.com
 0.0.0.0 ads.abovetopsecret.com
 0.0.0.0 ads.aceweb.net
+0.0.0.0 ads.acpc.cat
 0.0.0.0 ads.acrosspf.com
 0.0.0.0 ads.activestate.com
 0.0.0.0 ads.ad-center.com
@@ -415,6 +420,7 @@
 0.0.0.0 ads.bigfoot.com
 0.0.0.0 ads.bing.com
 0.0.0.0 ads.bittorrent.com
+0.0.0.0 ads.biz.tr
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluemountain.com
@@ -539,6 +545,7 @@
 0.0.0.0 ads.imgur.com
 0.0.0.0 ads.independent.com.mt
 0.0.0.0 ads.infi.net
+0.0.0.0 ads.internet24.se
 0.0.0.0 ads.internic.co.il
 0.0.0.0 ads.ipowerweb.com
 0.0.0.0 ads.isoftmarketing.com
@@ -586,7 +593,6 @@
 0.0.0.0 ads.mobilebet.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.motor-forum.nl
-0.0.0.0 ads.motormedia.nl
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.muslimehelfen.org
@@ -699,6 +705,7 @@
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
 0.0.0.0 ads.undertone.com
+0.0.0.0 ads.unison.bg
 0.0.0.0 ads.usatoday.com
 0.0.0.0 ads.uxs.at
 0.0.0.0 ads.v-lazer.com
@@ -835,7 +842,6 @@
 0.0.0.0 adserver.sciflicks.com
 0.0.0.0 adserver.sharewareonline.com
 0.0.0.0 adserver.spankaway.com
-0.0.0.0 adserver.thema.cc
 0.0.0.0 adserver.theonering.net
 0.0.0.0 adserver.twitpic.com
 0.0.0.0 adserver.viagogo.com
@@ -1043,6 +1049,7 @@
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.cohesionapps.com
+0.0.0.0 analytics.dnsfilter.com
 0.0.0.0 analytics.ext.go-tellm.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.htmedia.in
@@ -1448,6 +1455,7 @@
 0.0.0.0 code-server.biz
 0.0.0.0 codeadnetwork.com
 0.0.0.0 cognitiv.ai
+0.0.0.0 cognitiveadscience.com
 0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
 0.0.0.0 cointraffic.io
@@ -1483,7 +1491,6 @@
 0.0.0.0 convrse.media
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 coordinatedcub.com
-0.0.0.0 cooster.ru
 0.0.0.0 copperchickens.com
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyrightaccesscontrols.com
@@ -1685,6 +1692,7 @@
 0.0.0.0 encouragingwilderness.com
 0.0.0.0 endurableshop.com
 0.0.0.0 energeticladybug.com
+0.0.0.0 engage.dnsfilter.com
 0.0.0.0 engagebdr.com
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 enginenetwork.com
@@ -2092,6 +2100,7 @@
 0.0.0.0 kindads.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 klclick.com
+0.0.0.0 klclick1.com
 0.0.0.0 kliks.nl
 0.0.0.0 klsdee.com
 0.0.0.0 kmpiframe.keepmeposted.com.mt
@@ -2453,6 +2462,7 @@
 0.0.0.0 offer.sponsorpay.com
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
+0.0.0.0 oglasi.posjetnica.com
 0.0.0.0 ogury.com
 0.0.0.0 omnijay.com
 0.0.0.0 omniscientspark.com
@@ -2515,6 +2525,7 @@
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
+0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
 0.0.0.0 paleleaf.com
@@ -2700,6 +2711,7 @@
 0.0.0.0 radar.cedexis.com
 0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
+0.0.0.0 rads.realadmin.pl
 0.0.0.0 railwayrainstorm.com
 0.0.0.0 railwayreason.com
 0.0.0.0 rampidads.com
@@ -2776,7 +2788,10 @@
 0.0.0.0 revenue.net
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenuehits.com
+0.0.0.0 revive.docmatic.org
+0.0.0.0 revive.dubcnm.com
 0.0.0.0 revive.netriota.hu
+0.0.0.0 revive.plays.bg
 0.0.0.0 revlift.io
 0.0.0.0 revsci.net
 0.0.0.0 revstats.com
@@ -2926,6 +2941,7 @@
 0.0.0.0 slipperysack.com
 0.0.0.0 slopeaota.com
 0.0.0.0 smaato.com
+0.0.0.0 smallbeginner.com
 0.0.0.0 smart-traffik.com
 0.0.0.0 smart-traffik.io
 0.0.0.0 smart4ads.com
@@ -3213,6 +3229,7 @@
 0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1-kv015-ap.co.uk
 0.0.0.0 tracking.21-a4652-bi.co.uk
+0.0.0.0 tracking.39-bb4a9-osm.co.uk
 0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.crunchiemedia.com
@@ -3319,6 +3336,7 @@
 0.0.0.0 uu.domainforlite.com
 0.0.0.0 uzk4umokyri3.com
 0.0.0.0 v1.cnzz.com
+0.0.0.0 v1adserver.com
 0.0.0.0 v1hcmqbaqw.ru
 0.0.0.0 validclick.com
 0.0.0.0 valuead.com
@@ -3480,7 +3498,6 @@
 0.0.0.0 yieldmanager.net
 0.0.0.0 yieldmo.com
 0.0.0.0 yieldtraffic.com
-0.0.0.0 yldbt.com
 0.0.0.0 ymetrica1.com
 0.0.0.0 yoggrt.com
 0.0.0.0 ypu.samsungelectronics.com
