@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 10 Aug 2020 07:40:39 GMT
-# entries:        3525
+# last updated:   Wed, 19 Aug 2020 11:47:28 GMT
+# entries:        3529
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 15 Aug 2000 00:00:00
+# start date:    Thu, 24 Aug 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -794,7 +794,6 @@
 0.0.0.0 adscale.de
 0.0.0.0 adscholar.com
 0.0.0.0 adscience.nl
-0.0.0.0 adsclicktech.com
 0.0.0.0 adsco.re
 0.0.0.0 adscpm.com
 0.0.0.0 adsdaq.com
@@ -961,7 +960,6 @@
 0.0.0.0 advertisingtag.net
 0.0.0.0 advertmarket.com
 0.0.0.0 advertmedia.de
-0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
@@ -1334,7 +1332,6 @@
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 businessbells.com
 0.0.0.0 bustlinganimal.com
-0.0.0.0 buyingadsmadeeasy.com
 0.0.0.0 buysellads.com
 0.0.0.0 buzzonclick.com
 0.0.0.0 bwp.download.com
@@ -1788,6 +1785,7 @@
 0.0.0.0 findcommerce.com
 0.0.0.0 findepended.com
 0.0.0.0 findyourcasino.com
+0.0.0.0 fineoffer.net
 0.0.0.0 fingahvf.top
 0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
@@ -1801,6 +1799,7 @@
 0.0.0.0 floodprincipal.com
 0.0.0.0 flowgo.com
 0.0.0.0 flurry.com
+0.0.0.0 fly-analytics.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foresee.com
 0.0.0.0 forex-affiliate.net
@@ -1952,8 +1951,10 @@
 0.0.0.0 hocgeese.com
 0.0.0.0 hollandbusinessadvertising.nl
 0.0.0.0 hollowshake.com
+0.0.0.0 hollps.win
 0.0.0.0 homepageking.de
 0.0.0.0 honeygoldfish.com
+0.0.0.0 honorableland.com
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 hotjar.com
 0.0.0.0 hotkeys.com
@@ -2147,6 +2148,7 @@
 0.0.0.0 lemmatechnologies.com
 0.0.0.0 lettucelimit.com
 0.0.0.0 levelrate.de
+0.0.0.0 lfeeder.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 li.alibris.com
 0.0.0.0 li.azstarnet.com
@@ -2309,7 +2311,6 @@
 0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.govexec.com
-0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 metrilo.com
 0.0.0.0 mfadsrvr.com
 0.0.0.0 mg2connext.com
@@ -2570,6 +2571,7 @@
 0.0.0.0 permutive.com
 0.0.0.0 personagraph.com
 0.0.0.0 petiteumbrella.com
+0.0.0.0 pgl.example.com
 0.0.0.0 pgl.example0101
 0.0.0.0 pgmediaserve.com
 0.0.0.0 pgpartner.com
@@ -2583,6 +2585,7 @@
 0.0.0.0 picadmedia.com
 0.0.0.0 piet2eix3l.com
 0.0.0.0 pietexture.com
+0.0.0.0 pilotaffiliate.com
 0.0.0.0 pimproll.com
 0.0.0.0 ping.ublock.org
 0.0.0.0 pipedream.wistia.com
@@ -2675,7 +2678,6 @@
 0.0.0.0 pubdirecte.com
 0.0.0.0 publicidad.elmundo.es
 0.0.0.0 publicidees.com
-0.0.0.0 publisher-assets.spot.im
 0.0.0.0 pubmatic.com
 0.0.0.0 pubmine.com
 0.0.0.0 pubnative.net
@@ -3250,9 +3252,11 @@
 0.0.0.0 tracking.ibxlink.com
 0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.lenddom.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.publicidees.com
+0.0.0.0 tracking.thinkabt.com
 0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking101.com
 0.0.0.0 tracking22.com
