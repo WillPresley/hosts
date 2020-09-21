@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 03 Sep 2020 19:23:53 GMT
-# entries:        3541
+# last updated:   Mon, 21 Sep 2020 08:40:30 GMT
+# entries:        3545
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 13 Sep 2000 00:00:00
+# start date:    Tue, 26 Sep 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -221,7 +221,6 @@
 0.0.0.0 adap.tv
 0.0.0.0 adapt.tv
 0.0.0.0 adaranth.com
-0.0.0.0 adback.co
 0.0.0.0 adblade.com
 0.0.0.0 adblade.org
 0.0.0.0 adblockanalytics.com
@@ -343,7 +342,6 @@
 0.0.0.0 admized.com
 0.0.0.0 admob.com
 0.0.0.0 admonitor.com
-0.0.0.0 admotion.com.ar
 0.0.0.0 adn.lrb.co.uk
 0.0.0.0 adnet.asahi.com
 0.0.0.0 adnet.biz
@@ -1290,7 +1288,6 @@
 0.0.0.0 blogherads.com
 0.0.0.0 blogtoplist.se
 0.0.0.0 blogtopsites.com
-0.0.0.0 blueadvertise.com
 0.0.0.0 blueconic.com
 0.0.0.0 blueconic.net
 0.0.0.0 bluekai.com
@@ -1365,6 +1362,8 @@
 0.0.0.0 cashengines.com
 0.0.0.0 cashfiesta.com
 0.0.0.0 cashpartner.com
+0.0.0.0 cashstaging.app
+0.0.0.0 cashstaging.me
 0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
@@ -1708,6 +1707,7 @@
 0.0.0.0 engagebdr.com
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 enginenetwork.com
+0.0.0.0 enormousearth.com
 0.0.0.0 enquisite.com
 0.0.0.0 ensighten.com
 0.0.0.0 entercasino.com
@@ -2206,7 +2206,10 @@
 0.0.0.0 log.logrocket.io
 0.0.0.0 log.pinterest.com
 0.0.0.0 logger.snackly.co
+0.0.0.0 logs.datadoghq.com
+0.0.0.0 logs.datadoghq.eu
 0.0.0.0 logs.roku.com
+0.0.0.0 logs.spilgames.com
 0.0.0.0 logsss.com
 0.0.0.0 logua.com
 0.0.0.0 longinglettuce.com
@@ -2456,6 +2459,7 @@
 0.0.0.0 nuttyorganization.com
 0.0.0.0 nzaza.com
 0.0.0.0 o0bc.com
+0.0.0.0 o333o.com
 0.0.0.0 oafishobservation.com
 0.0.0.0 oas.benchmark.fr
 0.0.0.0 oas.repubblica.it
@@ -2774,7 +2778,6 @@
 0.0.0.0 receptivereaction.com
 0.0.0.0 recoco.it
 0.0.0.0 record.affiliates.karjalakasino.com
-0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.mrwin.com
 0.0.0.0 redirectingat.com
 0.0.0.0 redirectvoluum.com
@@ -2785,7 +2788,6 @@
 0.0.0.0 reflectivereward.com
 0.0.0.0 reforge.in
 0.0.0.0 regnow.com
-0.0.0.0 reinvigorate.net
 0.0.0.0 reklam.rfsl.se
 0.0.0.0 reklama.mironet.cz
 0.0.0.0 reklama.reflektor.cz
@@ -3139,6 +3141,7 @@
 0.0.0.0 tapjoy.com
 0.0.0.0 tappx.com
 0.0.0.0 targad.de
+0.0.0.0 target.microsoft.com
 0.0.0.0 targeting.nzme.arcpublishing.com
 0.0.0.0 targetingnow.com
 0.0.0.0 targetnet.com
@@ -3187,6 +3190,7 @@
 0.0.0.0 ticklesign.com
 0.0.0.0 ticksel.com
 0.0.0.0 tidaltv.com
+0.0.0.0 tidint.pro
 0.0.0.0 tinybar.com
 0.0.0.0 tkbo.com
 0.0.0.0 tls.telemetry.swe.quicinc.com
