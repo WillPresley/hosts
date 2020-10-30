@@ -1,8 +1,0 @@
-{
-    "name": "jawz101 - MobileAdTrackers",
-    "description": "Taken from DNS logs, formatted in hostfile format.",
-    "homeurl": "https://github.com/jawz101/MobileAdTrackers",
-    "frequency": "occasionally",
-    "issues": "https://github.com/jawz101/MobileAdTrackers/issues",
-    "url": "https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts"
-}
