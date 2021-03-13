@@ -1,8 +1,7 @@
-----
 **Take Note!**
 
-* This version of the Hosts file generator, and tests, are for Python 3.5+ only.
 * With the exception of issues and PRs regarding changes to `hosts/data/StevenBlack/hosts`, all other issues regarding the content of the produced hosts files should be made with the appropriate data source that contributed the content in question. The contact information for all of the data sources can be found in the `hosts/data/` directory.
+
 ----
 
 ![Logo](https://raw.githubusercontent.com/StevenBlack/hosts/master/.github/logo.png)
@@ -11,7 +10,7 @@
 [![license](https://img.shields.io/github/license/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/blob/master/license.txt)
 [![repo size](https://img.shields.io/github/repo-size/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts)
 [![contributors](https://img.shields.io/github/contributors/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/graphs/contributors)
-[![Build Status](https://img.shields.io/github/workflow/status/StevenBlack/hosts/CI/master)](https://github.com/StevenBlack/hosts/actions?workflow=CI)
+[![Build Status](https://img.shields.io/github/workflow/status/StevenBlack/hosts/CI/master)](https://github.com/StevenBlack/hosts/actions?query=workflow%3ACI+branch%3Amaster)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 [![commits since last release](https://img.shields.io/github/commits-since/StevenBlack/hosts/latest.svg)](https://github.com/StevenBlack/hosts/commits/master)
 [![last commit](https://img.shields.io/github/last-commit/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/commits/master)
@@ -25,7 +24,6 @@ into a unified hosts file with duplicates removed.  A variety of tailored hosts 
 * Last updated: **@GEN_DATE@**.
 * Here's the [raw hosts file @EXTENSIONS_HEADER@](https://raw.githubusercontent.com/StevenBlack/hosts/master/@SUBFOLDER@hosts) containing @NUM_ENTRIES@ entries.
 * Logo by [@Tobaloidee](https://github.com/Tobaloidee).
-
 
 ## List of all hosts file variants
 
@@ -51,7 +49,6 @@ Host file source | Description | Home page | Raw hosts | Update frequency | Lice
 -----------------|-------------|:---------:|:---------:|:----------------:|:-------:|:------:
 @SOURCEROWS@
 
-
 ## Extensions
 
 The unified hosts file is optionally extensible.  Extensions are used to include domains by category.  Currently, we offer the following categories: `fakenews`, `social`, `gambling`, and `porn`.
@@ -72,13 +69,13 @@ The container will contain Python 3 and all its dependency requirements, and a c
 
 Build the Docker container like this:
 
-```
+```sh
 docker build ./
 ```
 
 Access the terminal like this:
 
-```
+```sh
 docker run -it (containerid) bash
 ```
 
@@ -189,7 +186,6 @@ To install hosts file on your machine add the following into your `configuration
 * NOTE: The call to `fetchurl` is impure.
 Use `fetchFromGitHub` with the exact commit if you want to always get the same result.
 
-
 ## How do I control which sources are unified?
 
 Add one or more *additional* sources, each in a subfolder of the `data/`
@@ -248,7 +244,6 @@ Then, submit a pull request.
 
 If you're able to curate your own collection of sketchy domains, then curate your own hosts list.  Then signal the existence of your repo as [a new issue](https://github.com/StevenBlack/hosts/issues) and we may include your new repo into the collection of sources we pull whenever we create new versions.
 
-
 ## What is a hosts file?
 
 A hosts file, named `hosts` (with no file extension), is a plain-text file
@@ -286,7 +281,6 @@ interfere with a web server that may be running on the local PC.
 ## Why not use `0` instead of `0.0.0.0`?
 
 We tried that.  Using `0` doesn't work universally.
-
 
 ## Location of your hosts file
 
@@ -443,6 +437,8 @@ devices under a variety of operating systems.
 * [Blocking ads and malwares with unbound](https://deadc0de.re/articles/unbound-blocking-ads.html "Blocking ads and malwares with unbound") – [Unbound](https://www.unbound.net/ "Unbound is a validating, recursive, and caching DNS resolver.") is a validating, recursive, and caching DNS resolver.
 
 * [dnsmasq conversion script](https://gist.github.com/erlepereira/c11f4f7a3f60cd2071e79018e895fc8a#file-dnsmasq-antimalware) This GitHub gist has a short shell script (bash, will work on any 'nix) and uses `wget` & `awk` present in most distros, to fetch a specified hosts file and convert it the format required by dnsmasq. Supports IPv4 and IPv6. Designed to be used as either a shell script, or can be dropped into /etc/cron.weekly (or wherever suits). The script is short and easily edited, also has a short document attached with notes on dnsmasq setup.
+
+* [BlackHosts - Command Line Installer/Updater](https://github.com/Lateralus138/blackhosts) This is a cross-platform command line utility to help install/update hosts files found at this repository.
 
 ## Contribute!
 
