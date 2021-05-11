@@ -3053,3 +3053,81 @@
 
 # Added February 28, 2021
 0.0.0.0 github.com.cnpmjs.org
+
+# Added March 15, 2021
+0.0.0.0 facilitategovernor.com
+0.0.0.0 mvideo.facilitategovernor.com
+0.0.0.0 ns1.facilitategovernor.com
+0.0.0.0 www.facilitategovernor.com
+
+# Added April 2, 2021
+0.0.0.0 p.vtracy.de
+0.0.0.0 www.asadcdn.com
+0.0.0.0 adstax-cdn.adrtx.net
+0.0.0.0 lmyd3iz3qn.kameleoon.eu
+0.0.0.0 logs1407.xiti.com
+0.0.0.0 s400.mxcdn.net
+0.0.0.0 lb7.s400.meetrics.net
+0.0.0.0 lb70.s400.meetrics.net
+0.0.0.0 lb73.s400.meetrics.net
+0.0.0.0 lb74.s400.meetrics.net
+0.0.0.0 lb79.s400.meetrics.net
+0.0.0.0 pdw-usr.userreport.com
+0.0.0.0 eu-tlp04.kameleoon.eu
+0.0.0.0 eu-tlp06.kameleoon.eu
+0.0.0.0 eu-tlp07.kameleoon.eu
+0.0.0.0 lb5.s400.meetrics.net
+0.0.0.0 lb9.s400.meetrics.net
+0.0.0.0 lb13.s400.meetrics.net
+0.0.0.0 lb30.s400.meetrics.net
+0.0.0.0 lb49.s400.meetrics.net
+0.0.0.0 lb50.s400.meetrics.net
+0.0.0.0 lb62.s400.meetrics.net
+0.0.0.0 lb76.s400.meetrics.net
+0.0.0.0 lb78.s400.meetrics.net
+0.0.0.0 lb86.s400.meetrics.net
+0.0.0.0 lb90.s400.meetrics.net
+0.0.0.0 lb96.s400.meetrics.net
+0.0.0.0 bls.adalliance.io
+0.0.0.0 traffic.emsservice.de
+0.0.0.0 static.emsservice.de
+0.0.0.0 te.technical-service.net
+
+# Added April 29, 2021
+0.0.0.0 news.thaprior.net
+0.0.0.0 blog.eduelects.com
+0.0.0.0 cdn.mirror-codes.net
+0.0.0.0 status.sublineover.net
+
+# Added May 4, 2021
+0.0.0.0 docs.pipenv.org # https://github.com/StevenBlack/hosts/issues/1635
+
+# Added May 10, 2021  See discussion in Issue https://github.com/StevenBlack/hosts/pull/1643
+0.0.0.0 a9v8.cn
+0.0.0.0 config.unityads.unitychina.cn
+0.0.0.0 cu-cn-north00001.gala.convection.cn
+0.0.0.0 cu-cn-north00002.gala.convection.cn
+0.0.0.0 discuz.gtimg.cn
+0.0.0.0 drrcns.cn
+0.0.0.0 duologinsupersdk.ewan.cn
+0.0.0.0 e.oul78c.cn
+0.0.0.0 goodusahost.cn
+0.0.0.0 hao.360.cn
+0.0.0.0 imdns.hpplay.cn
+0.0.0.0 l.ad4.com.cn
+0.0.0.0 logu.hpplay.cn
+0.0.0.0 m.bchchk.cn
+0.0.0.0 m.drrcns.cn
+0.0.0.0 m.henxg.cn
+0.0.0.0 m.lsiwd.cn
+0.0.0.0 m.sdfvk.cn
+0.0.0.0 m.syxsa.cn
+0.0.0.0 mathtype.cn
+0.0.0.0 photo.0234408.cn
+0.0.0.0 photo.yingtaiboli.cn
+0.0.0.0 picanalysis.vivo.com.cn
+0.0.0.0 rp.hpplay.cn
+0.0.0.0 safeurl.maxthon.cn
+0.0.0.0 ssdkauth.hpplay.cn
+0.0.0.0 www.goodusahost.cn
+0.0.0.0 yingtaiboli.cn

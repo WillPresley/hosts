@@ -328,13 +328,20 @@ To open a command prompt as administrator in the repository's directory, do the 
 
 You can also refer to the "Third-Party Hosts Managers" section for further recommended solutions from third parties.
 
+### Warning: Using this `hosts` file in Windows may require disabling DNS Cache service.
+
+Windows has issues with larger hosts files. Recent changes in security within Windows 10 denies
+access to changing services via other tools except registry hacks. Use the `disable-dnscache-service-win.cmd`
+file to make proper changes to the Windows registry. You will need to reboot your device once that's done.
+See the [the comments within the `cmd` file](https://github.com/StevenBlack/hosts/blob/master/disable-dnscache-service-win.cmd)
+for more details.
+
 ## Reloading hosts file
 
 Your operating system will cache DNS lookups. You can either reboot or run the following commands to
 manually flush your DNS cache once the new hosts file is in place.
 
 | The Google Chrome browser may require manually cleaning up its DNS Cache on `chrome://net-internals/#dns` page to thereafter see the changes in your hosts file. See: <https://superuser.com/questions/723703>
-:-----------------------------------------------------------------------------------------
 
 ### Windows
 
@@ -428,7 +435,7 @@ devices under a variety of operating systems.
 
 * [macOS Scripting for Configuration, Backup and Restore](https://github.com/tiiiecherle/osx_install_config) helps customizing, re-installing and using macOS. It also provides a [script](https://github.com/tiiiecherle/osx_install_config/blob/master/09_launchd/9b_run_on_boot/root/1_hosts_file/launchd_and_script/hosts_file_generator.sh) to install and update the hosts file using this project on macOS. In combination with a [launchd](https://github.com/tiiiecherle/osx_install_config/blob/master/09_launchd/9b_run_on_boot/root/1_hosts_file/launchd_and_script/com.hostsfile.install_update.plist) it updates the hosts file every x days (default is 4). To install both download the GitHub repo and run the [install script](https://github.com/tiiiecherle/osx_install_config/blob/master/09_launchd/9b_run_on_boot/root/1_hosts_file/install_hosts_file_generator_and_launchdservice.sh) from the directory one level up.
 
-* [Pi-hole](https://pi-hole.net/) is a network-wide DHCP server and ad blocker that runs on [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi). Pi-hole uses this repository as one of its sources. This is a very interesting project to set up yourself, or you can [buy one pre-loaded](https://uk.pi-supply.com/products/pi-hole-poe-edition-the-network-wide-ad-blocker).
+* [Pi-hole](https://pi-hole.net/) is a network-wide DHCP server and ad blocker that runs on [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi). Pi-hole uses this repository as one of its sources.
 
 * [Block ads and malware via local BIND9 DNS server](https://github.com/mueller-ma/block-ads-via-dns "Block ads and malware via local DNS server") (for Debian, Raspbian & Ubuntu): Set up a local DNS server with a `/etc/bind/named.conf.blocked` file, sourced from here.
 

@@ -89,7 +89,6 @@
 0.0.0.0 web.vortex.data.msn.com
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.fastly-insights.com
-0.0.0.0 www.googleoptimize.com
 0.0.0.0 www.increaserev.com
 0.0.0.0 www.medtargetsystem.com
 0.0.0.0 www.npttech.com
@@ -395,3 +394,24 @@
 
 # musescore.com
 0.0.0.0 track.musescore.com
+
+# ecmelberk.com
+0.0.0.0 ads.ebc.li
+
+# kevq.uk
+0.0.0.0 stats.kevq.uk
+
+# linuxjournal.com
+0.0.0.0 analytics.linuxjournal.com
+
+# www.fsf.org
+0.0.0.0 piwik.fsf.org
+
+# www.notion.so
+0.0.0.0 analytics.pgncs.notion.so
+
+# netsyms.com
+0.0.0.0 analytics.netsyms.net
+
+# remix.ethereum.org
+0.0.0.0 matomo.ethereum.org
