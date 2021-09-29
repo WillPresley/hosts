@@ -79,7 +79,7 @@ Access the terminal like this:
 docker run -it (containerid) bash
 ```
 
-### Option 2: Generate it in your own environment.
+### Option 2: Generate it in your own environment
 
 To generate your own amalgamated hosts files you will need Python 3.5 or later.
 
@@ -91,7 +91,7 @@ pip3 install --user -r requirements.txt
 
 **Note** we recommend the `--user` flag which installs the required dependencies at the user level. More information about it can be found on pip [documentation](https://pip.pypa.io/en/stable/reference/pip_install/?highlight=--user#cmdoption-user).
 
-### Common steps regardless of your development environment.
+### Common steps regardless of your development environment
 
 To **run unit tests**, in the top-level directory, run:
 
@@ -108,7 +108,7 @@ will use the `hosts` file that's already there.
 python3 updateHostsFile.py [--auto] [--replace] [--ip nnn.nnn.nnn.nnn] [--extensions ext1 ext2 ext3]
 ```
 
-#### Command line options:
+#### Command line options
 
 `--help`, or `-h`: display help.
 
@@ -169,7 +169,7 @@ in hosts format to the generated hosts file.
 `--whitelist <whitelistfile>`, or `-w <whitelistfile>`: Use the given whitelist file
 to remove hosts from the generated hosts file.
 
-#### Using NixOS:
+#### Using NixOS
 
 To install hosts file on your machine add the following into your `configuration.nix`:
 
@@ -328,7 +328,7 @@ To open a command prompt as administrator in the repository's directory, do the 
 
 You can also refer to the "Third-Party Hosts Managers" section for further recommended solutions from third parties.
 
-### Warning: Using this `hosts` file in Windows may require disabling DNS Cache service.
+### Warning: Using this `hosts` file in Windows may require disabling DNS Cache service
 
 Windows has issues with larger hosts files. Recent changes in security within Windows 10 denies
 access to changing services via other tools except registry hacks. Use the `disable-dnscache-service-win.cmd`
@@ -429,6 +429,10 @@ devices under a variety of operating systems.
 
 ## Interesting Applications
 
+* [Hosts-BL](https://github.com/ScriptTiger/Hosts-BL "Hosts-BL") is a simple tool to handle hosts file black lists. It can remove comments, remove duplicates, compress to 9 domains per line, add IPv6 entries. In addition, it can also convert black lists to multiple other black list formats compatible with other software, such as dnsmasq, DualServer, RPZ, Privoxy, and Unbound, to name a few.
+
+* [Host Minder](https://github.com/jeremehancock/hostminder#readme) is a simple GUI that allows you to easily update your /etc/hosts file to one of four consolidated hosts files from StevenBlack/hosts. It is provided as a deb package and comes pre-installed on [UbuntuCE](https://ubuntuce.com/).
+
 * [Maza ad blocking](https://github.com/tanrax/maza-ad-blocking) is a bash script that automatically updates host file. You can also update a fresh copy. And each time it generates a dnsmasq-compatible configuration file. Fast installation, compatible with MacOS, Linux and BSD.
 
 * [Hostile](https://github.com/feross/hostile) is a nifty command line utility to easily add or remove domains from your hosts file.  If our hosts files are too aggressive for you, you can use `hostile` to remove domains, or you can use `hostile` in a bash script to automate a post process each time you download fresh versions of hosts.
@@ -447,7 +451,7 @@ devices under a variety of operating systems.
 
 * [BlackHosts - Command Line Installer/Updater](https://github.com/Lateralus138/blackhosts) This is a cross-platform command line utility to help install/update hosts files found at this repository.
 
-## Contribute!
+## Contribute
 
 Please read our [Contributing Guide](https://github.com/StevenBlack/hosts/blob/master/contributing.md). Among other things, this explains how we organize files and folders in this repository.
 
