@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 08 December 2021 17:22:01 (GMT)
+# Date: 08 December 2021 17:25:56 (GMT)
 # Extensions added to this file: fakenews
-# Number of unique domains: 117,924
+# Number of unique domains: 117,923
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/blokada-version/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -1914,7 +1914,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.247-inc.net
 0.0.0.0 tie.247-inc.net
 0.0.0.0 247realmedia.com
-0.0.0.0 s0.2mdn.net
 0.0.0.0 cms-xch-chicago.33across.com
 0.0.0.0 ssc.33across.com
 0.0.0.0 360in.com
@@ -9294,7 +9293,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cbs.112.2o7.net
 0.0.0.0 cbscom.112.2o7.net
 0.0.0.0 cbsdigitalmedia.112.2o7.net
-0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cbsnfl.112.2o7.net
 0.0.0.0 cbspgatour.112.2o7.net
 0.0.0.0 cbsspln.112.2o7.net
@@ -111736,7 +111734,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aein.in
 0.0.0.0 afhaenterprises.com
 0.0.0.0 afnan-amc.com
-0.0.0.0 agemn.co.za
 0.0.0.0 agenciainterative.com.br
 0.0.0.0 agriram.com
 0.0.0.0 agrosanus.com.tr
@@ -111784,7 +111781,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aquasail.virvazir.com
 0.0.0.0 aquaskypumps.com
 0.0.0.0 ardmtshidayatulfirdaus.inas.web.id
-0.0.0.0 areyoulivingwell.com
 0.0.0.0 arlab.com.py
 0.0.0.0 arrkcelebrations.com
 0.0.0.0 arshadbrother.com
@@ -111797,6 +111793,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ask-regard.call-save.biz
 0.0.0.0 assentstore.com
 0.0.0.0 assets.dsztfso.cn
+0.0.0.0 asu.com.vn
 0.0.0.0 atacadoblacktarglead.com.br
 0.0.0.0 atconsultingservices.com
 0.0.0.0 auditis.com.br
@@ -111820,7 +111817,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bbia.co.uk
 0.0.0.0 beacon-europe.eu
 0.0.0.0 bearcatpumps.com.cn
-0.0.0.0 bec.demo.myitas.net
 0.0.0.0 becca.cl
 0.0.0.0 bedroomhome.xyz
 0.0.0.0 bedroomnow.xyz
@@ -111858,9 +111854,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 breakingbread.modelacademy.co.in
 0.0.0.0 briar.com.my
 0.0.0.0 brickwholesaler.com
-0.0.0.0 brideofmessiah.com
 0.0.0.0 bridgesfoundationrepair.com
-0.0.0.0 brightmega.com
 0.0.0.0 brightstarshop.com
 0.0.0.0 bunge.skybitvest.com
 0.0.0.0 buscascolegios.diit.cl
@@ -111904,7 +111898,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cobhamplasteringservices.co.uk
 0.0.0.0 cocojojo-pet.com
 0.0.0.0 cokhithienan.vn
-0.0.0.0 colinde.pricesne.com
 0.0.0.0 colonna.ug
 0.0.0.0 comistery.club
 0.0.0.0 computec-zim.com.mx
@@ -111937,6 +111930,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cupertinosmile.com
 0.0.0.0 cursodeparapsicologia.org
 0.0.0.0 custominsure.com
+0.0.0.0 cutting-tools.in
 0.0.0.0 cynkon.kairoscs.net
 0.0.0.0 d.powerofwish.com
 0.0.0.0 d9.99ddd.com
@@ -111985,7 +111979,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dl.9xu.com
 0.0.0.0 dl.installcdn-aws.com
 0.0.0.0 dl.pandasecur.com
-0.0.0.0 dmcromania.ro
 0.0.0.0 dmequest.com
 0.0.0.0 dnziplik.com.tr
 0.0.0.0 do.ithemi.com
@@ -111999,7 +111992,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 down.rxgif.cn
 0.0.0.0 down.webbora.com
 0.0.0.0 down.yjhyjl.cn
-0.0.0.0 download.5866.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.pdf00.cn
 0.0.0.0 downloads.dd.com.mt
@@ -112008,12 +112000,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 driftedu.com
 0.0.0.0 drive.google.com.it-barcelona.com
 0.0.0.0 drsha.innovativesolutions.mobi
+0.0.0.0 dsenterprize.co.za
 0.0.0.0 du-wizards.com
 0.0.0.0 duc.edu.iq
 0.0.0.0 dukaree.com
 0.0.0.0 dulichsinhcafe.com.vn
 0.0.0.0 dunyadeniz.com.tr
 0.0.0.0 dutapp.wisolve.co.za
+0.0.0.0 dx.qqyewu.com
 0.0.0.0 e-learning.iskandariah.perubatan.org
 0.0.0.0 e-weddingcardswala.in
 0.0.0.0 e6tfvc.federguda.ru
@@ -112021,6 +112015,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 easy2find.ca
 0.0.0.0 easybrand.vn
 0.0.0.0 easyviettravel.vn
+0.0.0.0 ebooksofsuccess.com
 0.0.0.0 ecim.azneomedia.ro
 0.0.0.0 ecole.pyc.ci
 0.0.0.0 ecsbusinesscollege.com
@@ -112081,6 +112076,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 foundationrepairhoustontx.net
 0.0.0.0 foxeps.com.br
 0.0.0.0 freesoftwares.ml
+0.0.0.0 fscloud.su
 0.0.0.0 fse.in.ua
 0.0.0.0 fsnaturais.com.br
 0.0.0.0 fuckghost.com
@@ -112155,7 +112151,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hongluosi.com
 0.0.0.0 honours.com.ng
 0.0.0.0 hookafrica.com
-0.0.0.0 hookedupboatclub.com
 0.0.0.0 hopefoundationindia.in
 0.0.0.0 horticolatom.com.mx
 0.0.0.0 hospital.shuleyanguonline.co.ke
@@ -112171,6 +112166,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hpoconsortium.com
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hrconseiller.cl
+0.0.0.0 hsecaravans.co.uk
 0.0.0.0 hseda.com
 0.0.0.0 htownbars.com
 0.0.0.0 humanresourceslifeline.com
@@ -112205,6 +112201,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inoxhoaphat.vn
 0.0.0.0 insightcameraclub.com
 0.0.0.0 institutonefertiti.com.br
+0.0.0.0 integratedsystems.com.ng
 0.0.0.0 interviewsetup.com
 0.0.0.0 inventiontimestamp.com
 0.0.0.0 inventory.sourcetaggers.com
@@ -112291,7 +112288,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lady-melia.com
 0.0.0.0 lafontanatours.com
 0.0.0.0 lagosshapers.org
-0.0.0.0 lameguard.ru
 0.0.0.0 landing.assegroup.it
 0.0.0.0 lasemillaazul.com
 0.0.0.0 lasermobilesounds.co.uk
@@ -112400,8 +112396,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 microtel.se
 0.0.0.0 mikhailmotoringschool.com
 0.0.0.0 miplataformaeducativa.com
+0.0.0.0 mirror.mypage.sk
 0.0.0.0 misterson.com
-0.0.0.0 mistydeblasiophotography.com
 0.0.0.0 mktcomunica.com.br
 0.0.0.0 mktf.mx
 0.0.0.0 mladtehnik.com
@@ -112411,7 +112407,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobile.illumetechnology.com
 0.0.0.0 mobile.lovplus.com
 0.0.0.0 mobile.taafrija.com
-0.0.0.0 moe.xiaomitq.com
 0.0.0.0 momentsystems.xyz
 0.0.0.0 monorailegypt.com
 0.0.0.0 monuwholesales.com
@@ -112466,9 +112461,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 northtexasflooringassociation.com
 0.0.0.0 notebookparcalari.com
 0.0.0.0 nouveau.kamanews.net
+0.0.0.0 ns1.the-widyantos.com
 0.0.0.0 nsb.org.uk
 0.0.0.0 oceancitymdforsalebyowner.com
 0.0.0.0 oceancityrentalbyowner.com
+0.0.0.0 ocmdbeachrentals.com
 0.0.0.0 octoil.net
 0.0.0.0 office365.bellboyindia.com
 0.0.0.0 offlineclubz.com
@@ -112565,7 +112562,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 promas.com
 0.0.0.0 promoversdubai.com
 0.0.0.0 prosoc.nl
-0.0.0.0 prosupport.cl
 0.0.0.0 protechasia.com
 0.0.0.0 provantagemtn.co.za
 0.0.0.0 proyectartpanama.com
@@ -112596,6 +112592,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 raquelhelena.com.br
 0.0.0.0 rashika.ascarvalho.co.za
 0.0.0.0 ratemyfenancialadvisor.com
+0.0.0.0 rcmesilva.charbelsales.com.br
 0.0.0.0 reach-book.com
 0.0.0.0 realtymarketgh.com
 0.0.0.0 redbats.co.in
@@ -112656,6 +112653,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sejadahkhaulah.com
 0.0.0.0 sekolahalhuda.sch.id
 0.0.0.0 seminario-sg.com
+0.0.0.0 senbiaojita.com
 0.0.0.0 sencalli.com
 0.0.0.0 seniorweekoc.net
 0.0.0.0 senthoormotorfinance.in
@@ -112666,6 +112664,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 serverssoft.com
 0.0.0.0 service.easytrace.mn
 0.0.0.0 servicetown.co.in
+0.0.0.0 serviciovirtual.com.ar
 0.0.0.0 servidor.indommus.com
 0.0.0.0 servitecempilhadeira.com.br
 0.0.0.0 sexologistpakistan.net
@@ -112679,7 +112678,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 shanthifortune.com
 0.0.0.0 shetai100.com
 0.0.0.0 shikshapay.in
-0.0.0.0 shop.mediasova.ru
 0.0.0.0 short.extrafandome.com
 0.0.0.0 shribharatvatika.com
 0.0.0.0 shvpn.tanvir69.xyz
@@ -112799,6 +112797,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tnk-moflad.com
 0.0.0.0 todoapp.cstdevs.com
 0.0.0.0 tonydong.com
+0.0.0.0 tonyzone.com
 0.0.0.0 tonziradio.com
 0.0.0.0 tools.reimclub.com
 0.0.0.0 top10hotels.xyz
@@ -112814,6 +112813,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 traveladmin.sourcetaggers.com
 0.0.0.0 travels.cdtscorp.com
 0.0.0.0 travelwithmanta.co.za
+0.0.0.0 treeleaf.sourcetaggers.com
 0.0.0.0 treinecomigojacibarbosa.com.br
 0.0.0.0 trello2.missiondmc.com
 0.0.0.0 trivalleylimousine.com
@@ -112851,13 +112851,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 vfocus.net
 0.0.0.0 vg.gurusoftware.in
 0.0.0.0 vibetec.com.br
-0.0.0.0 victorysanitizer.com
 0.0.0.0 vihaconsultancy.com
 0.0.0.0 villatera.com
 0.0.0.0 violinstop.com
 0.0.0.0 viphco.ir
 0.0.0.0 viralbeauty.id
 0.0.0.0 virtualoperationss.com
+0.0.0.0 virtuleverage.com
 0.0.0.0 visam.info
 0.0.0.0 vivationdesign.com
 0.0.0.0 viveirodoiscorregos.com.br
@@ -112878,7 +112878,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 washatsanjose.com
 0.0.0.0 waskitaprecast.co.id
 0.0.0.0 wdows.com
-0.0.0.0 wduvf2u.rafilda.ru
 0.0.0.0 wearsweetbomb.com
 0.0.0.0 web.geomegasoft.net
 0.0.0.0 web.innoservwebsites.in

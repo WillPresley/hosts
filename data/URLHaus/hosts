@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2021-12-08 17:14:39 (UTC)                      #
+# Last updated: 2021-12-08 17:19:12 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -54,7 +54,6 @@
 127.0.0.1	aemaupsmoorkanad.in
 127.0.0.1	afhaenterprises.com
 127.0.0.1	afnan-amc.com
-127.0.0.1	agemn.co.za
 127.0.0.1	agenciainterative.com.br
 127.0.0.1	agriram.com
 127.0.0.1	agrosanus.com.tr
@@ -119,7 +118,6 @@
 127.0.0.1	aquaskypumps.com
 127.0.0.1	arabeak.com
 127.0.0.1	ardmtshidayatulfirdaus.inas.web.id
-127.0.0.1	areyoulivingwell.com
 127.0.0.1	arguiushfguspgp.from-va.com
 127.0.0.1	arkgarments.com
 127.0.0.1	arlab.com.py
@@ -136,6 +134,7 @@
 127.0.0.1	ask-regard.call-save.biz
 127.0.0.1	assentstore.com
 127.0.0.1	assets.dsztfso.cn
+127.0.0.1	asu.com.vn
 127.0.0.1	atacadoblacktarglead.com.br
 127.0.0.1	atconsultingservices.com
 127.0.0.1	atifwears.com
@@ -148,7 +147,6 @@
 127.0.0.1	autostock.swadeshishop.com
 127.0.0.1	avadhanagames.com
 127.0.0.1	avpra.com
-127.0.0.1	axlesys.in
 127.0.0.1	azerbaijan-tourism.com
 127.0.0.1	azimihotel.in
 127.0.0.1	azmeasurement.com
@@ -169,7 +167,6 @@
 127.0.0.1	beacon-europe.eu
 127.0.0.1	beactive.com.br
 127.0.0.1	bearcatpumps.com.cn
-127.0.0.1	bec.demo.myitas.net
 127.0.0.1	becca.cl
 127.0.0.1	bedroomhome.xyz
 127.0.0.1	bedroomnow.xyz
@@ -226,9 +223,7 @@
 127.0.0.1	breakingbread.modelacademy.co.in
 127.0.0.1	briar.com.my
 127.0.0.1	brickwholesaler.com
-127.0.0.1	brideofmessiah.com
 127.0.0.1	bridgesfoundationrepair.com
-127.0.0.1	brightmega.com
 127.0.0.1	brightstarshop.com
 127.0.0.1	bssindia.net
 127.0.0.1	bunge.skybitvest.com
@@ -293,7 +288,6 @@
 127.0.0.1	cocojojo-pet.com
 127.0.0.1	cofenator.ru
 127.0.0.1	cokhithienan.vn
-127.0.0.1	colinde.pricesne.com
 127.0.0.1	colonna.ac.ug
 127.0.0.1	colonna.ug
 127.0.0.1	comistery.club
@@ -336,6 +330,7 @@
 127.0.0.1	cursodeparapsicologia.org
 127.0.0.1	cursos.voxu.group
 127.0.0.1	custominsure.com
+127.0.0.1	cutting-tools.in
 127.0.0.1	cynkon.kairoscs.net
 127.0.0.1	d.powerofwish.com
 127.0.0.1	d9.99ddd.com
@@ -407,7 +402,6 @@
 127.0.0.1	dl.9xu.com
 127.0.0.1	dl.installcdn-aws.com
 127.0.0.1	dl.pandasecur.com
-127.0.0.1	dmcromania.ro
 127.0.0.1	dmequest.com
 127.0.0.1	dnziplik.com.tr
 127.0.0.1	do.ithemi.com
@@ -423,7 +417,6 @@
 127.0.0.1	down.rxgif.cn
 127.0.0.1	down.webbora.com
 127.0.0.1	down.yjhyjl.cn
-127.0.0.1	download.5866.com
 127.0.0.1	download.doumaibiji.cn
 127.0.0.1	download.pdf00.cn
 127.0.0.1	downloads.dd.com.mt
@@ -435,6 +428,7 @@
 127.0.0.1	drkarnikatiwari.com
 127.0.0.1	drsha.innovativesolutions.mobi
 127.0.0.1	drymetal.com.br
+127.0.0.1	dsenterprize.co.za
 127.0.0.1	du-wizards.com
 127.0.0.1	dubairepairs.ae
 127.0.0.1	duc.edu.iq
@@ -444,6 +438,7 @@
 127.0.0.1	duocphamct.com
 127.0.0.1	dutapp.wisolve.co.za
 127.0.0.1	dx.dett.cn
+127.0.0.1	dx.qqyewu.com
 127.0.0.1	e-learning.iskandariah.perubatan.org
 127.0.0.1	e-weddingcardswala.in
 127.0.0.1	e3commerce.net
@@ -453,6 +448,7 @@
 127.0.0.1	easybrand.vn
 127.0.0.1	easyviettravel.vn
 127.0.0.1	ebmspa.cl
+127.0.0.1	ebooksofsuccess.com
 127.0.0.1	ecim.azneomedia.ro
 127.0.0.1	ecole.pyc.ci
 127.0.0.1	ecologicformaturas.com.br
@@ -543,6 +539,7 @@
 127.0.0.1	freesoftwares.ml
 127.0.0.1	fruityx.tk
 127.0.0.1	fsaa.com.br
+127.0.0.1	fscloud.su
 127.0.0.1	fse.in.ua
 127.0.0.1	fsnaturais.com.br
 127.0.0.1	fuckghost.com
@@ -639,7 +636,6 @@
 127.0.0.1	hongluosi.com
 127.0.0.1	honours.com.ng
 127.0.0.1	hookafrica.com
-127.0.0.1	hookedupboatclub.com
 127.0.0.1	hopefoundationindia.in
 127.0.0.1	horticolatom.com.mx
 127.0.0.1	hospedeoculto.com.br
@@ -658,6 +654,7 @@
 127.0.0.1	hpoconsortium.com
 127.0.0.1	hr2019.vrcom7.com
 127.0.0.1	hrconseiller.cl
+127.0.0.1	hsecaravans.co.uk
 127.0.0.1	hseda.com
 127.0.0.1	htcharitytrust.org
 127.0.0.1	htownbars.com
@@ -711,6 +708,7 @@
 127.0.0.1	institutolondres.edu.mx
 127.0.0.1	institutonefertiti.com.br
 127.0.0.1	integrated-eg.com
+127.0.0.1	integratedsystems.com.ng
 127.0.0.1	interviewsetup.com
 127.0.0.1	inventiontimestamp.com
 127.0.0.1	inventory.sourcetaggers.com
@@ -828,7 +826,6 @@
 127.0.0.1	lady-melia.com
 127.0.0.1	lafontanatours.com
 127.0.0.1	lagosshapers.org
-127.0.0.1	lameguard.ru
 127.0.0.1	landing.assegroup.it
 127.0.0.1	laptopfix.com.mx
 127.0.0.1	lasemillaazul.com
@@ -976,9 +973,9 @@
 127.0.0.1	mikhailmotoringschool.com
 127.0.0.1	milehighequity.com
 127.0.0.1	miplataformaeducativa.com
+127.0.0.1	mirror.mypage.sk
 127.0.0.1	missionschool.com.ng
 127.0.0.1	misterson.com
-127.0.0.1	mistydeblasiophotography.com
 127.0.0.1	mkontakt.az
 127.0.0.1	mktcomunica.com.br
 127.0.0.1	mktf.mx
@@ -991,7 +988,6 @@
 127.0.0.1	mobile.taafrija.com
 127.0.0.1	mobilikit.com.br
 127.0.0.1	modamooo.com
-127.0.0.1	moe.xiaomitq.com
 127.0.0.1	mohammadsheikh.com
 127.0.0.1	momentsystems.xyz
 127.0.0.1	monorailegypt.com
@@ -1076,9 +1072,11 @@
 127.0.0.1	notebookparcalari.com
 127.0.0.1	notyouraveragecookie.com
 127.0.0.1	nouveau.kamanews.net
+127.0.0.1	ns1.the-widyantos.com
 127.0.0.1	nsb.org.uk
 127.0.0.1	oceancitymdforsalebyowner.com
 127.0.0.1	oceancityrentalbyowner.com
+127.0.0.1	ocmdbeachrentals.com
 127.0.0.1	octoil.net
 127.0.0.1	offersforchange.com
 127.0.0.1	office365.bellboyindia.com
@@ -1207,7 +1205,6 @@
 127.0.0.1	promomobilnissan.com
 127.0.0.1	promoversdubai.com
 127.0.0.1	prosoc.nl
-127.0.0.1	prosupport.cl
 127.0.0.1	protechasia.com
 127.0.0.1	protonseletrica.com
 127.0.0.1	provantagemtn.co.za
@@ -1252,6 +1249,7 @@
 127.0.0.1	rashika.ascarvalho.co.za
 127.0.0.1	rastreo.controlgps.net
 127.0.0.1	ratemyfenancialadvisor.com
+127.0.0.1	rcmesilva.charbelsales.com.br
 127.0.0.1	reach-book.com
 127.0.0.1	realdatasolutions.net
 127.0.0.1	realtymarketgh.com
@@ -1333,6 +1331,7 @@
 127.0.0.1	sejadahkhaulah.com
 127.0.0.1	sekolahalhuda.sch.id
 127.0.0.1	seminario-sg.com
+127.0.0.1	senbiaojita.com
 127.0.0.1	sencalli.com
 127.0.0.1	seniorweekoc.net
 127.0.0.1	senthoormotorfinance.in
@@ -1345,6 +1344,7 @@
 127.0.0.1	service.easytrace.mn
 127.0.0.1	services-cns.com
 127.0.0.1	servicetown.co.in
+127.0.0.1	serviciovirtual.com.ar
 127.0.0.1	servidor.indommus.com
 127.0.0.1	servitecempilhadeira.com.br
 127.0.0.1	sexologistpakistan.net
@@ -1361,7 +1361,6 @@
 127.0.0.1	shayarworld.com
 127.0.0.1	shetai100.com
 127.0.0.1	shikshapay.in
-127.0.0.1	shop.mediasova.ru
 127.0.0.1	shopallcars.com
 127.0.0.1	short.extrafandome.com
 127.0.0.1	shribharatvatika.com
@@ -1531,6 +1530,7 @@
 127.0.0.1	tnk-moflad.com
 127.0.0.1	todoapp.cstdevs.com
 127.0.0.1	tonydong.com
+127.0.0.1	tonyzone.com
 127.0.0.1	tonziradio.com
 127.0.0.1	tools.reimclub.com
 127.0.0.1	top10hotels.xyz
@@ -1544,10 +1544,12 @@
 127.0.0.1	tradingview.veasenutrition.com
 127.0.0.1	traidingview.safetywatchers.club
 127.0.0.1	transferencia.co
+127.0.0.1	transportationonline.club
 127.0.0.1	transworldacademy.in
 127.0.0.1	traveladmin.sourcetaggers.com
 127.0.0.1	travels.cdtscorp.com
 127.0.0.1	travelwithmanta.co.za
+127.0.0.1	treeleaf.sourcetaggers.com
 127.0.0.1	treinecomigojacibarbosa.com.br
 127.0.0.1	trello2.missiondmc.com
 127.0.0.1	trencharquitetura.com.br
@@ -1604,7 +1606,6 @@
 127.0.0.1	vg.gurusoftware.in
 127.0.0.1	vibetec.com.br
 127.0.0.1	vicssa.us
-127.0.0.1	victorysanitizer.com
 127.0.0.1	vihaconsultancy.com
 127.0.0.1	villalonavala.in
 127.0.0.1	villatera.com
@@ -1613,6 +1614,7 @@
 127.0.0.1	viralbeauty.id
 127.0.0.1	virtualmarts.com
 127.0.0.1	virtualoperationss.com
+127.0.0.1	virtuleverage.com
 127.0.0.1	visam.info
 127.0.0.1	vitaenterprises.in
 127.0.0.1	vivationdesign.com
@@ -1643,7 +1645,6 @@
 127.0.0.1	washatsanjose.com
 127.0.0.1	waskitaprecast.co.id
 127.0.0.1	wdows.com
-127.0.0.1	wduvf2u.rafilda.ru
 127.0.0.1	wearjora.com
 127.0.0.1	wearsweetbomb.com
 127.0.0.1	web.geomegasoft.net
@@ -1833,4 +1834,4 @@
 127.0.0.1	zsadvocacia.com
 127.0.0.1	zurieskinclinic.com
 127.0.0.1	zz.690tx.com
-# Number of entries: 1827
+# Number of entries: 1828
