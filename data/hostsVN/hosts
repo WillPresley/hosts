@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 07 Dec 2021 19:03 UTC+7
-# Version: 2112071903
-# Blocked: 1.681 domains
+# Last modified: 05 Jan 2022 11:37 UTC+7
+# Version: 2201051137
+# Blocked: 1.677 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -986,14 +986,6 @@
 0.0.0.0 update.adflex.vn
 0.0.0.0 v2.api.adflex.vn
 0.0.0.0 www.adflex.vn
-#[yeah1media.vn]
-0.0.0.0 delivery.yeah1media.vn
-0.0.0.0 gallery.yeah1media.vn
-0.0.0.0 log.yeah1media.vn
-0.0.0.0 media.yeah1media.vn
-0.0.0.0 static.yeah1media.vn
-0.0.0.0 system.yeah1media.vn
-0.0.0.0 yeah1media.vn
 #[pushdy.vn]
 0.0.0.0 pushdy.vn
 0.0.0.0 www.pushdy.vn
@@ -1103,18 +1095,6 @@
 0.0.0.0 api.piads.vn
 0.0.0.0 piads.vn
 0.0.0.0 static.piads.vn
-#[haravan.com]
-0.0.0.0 buyxgety-omni.haravan.com
-0.0.0.0 buyxgety.haravan.com
-0.0.0.0 combo-omni.haravan.com
-0.0.0.0 combo.haravan.com
-0.0.0.0 facebookinbox-omni-onapp.haravan.com
-0.0.0.0 haravan.com
-0.0.0.0 inapp2.haravan.com
-0.0.0.0 m.haravan.com
-0.0.0.0 onapp.haravan.com
-0.0.0.0 promotion.haravan.com
-0.0.0.0 socialloginplus-apps.haravan.com
 #[haraloyalty.com]
 0.0.0.0 app.haraloyalty.com
 0.0.0.0 haraloyalty.com
@@ -1466,7 +1446,9 @@
 0.0.0.0 ak9.6895588.com
 0.0.0.0 an.dongphim.net
 0.0.0.0 an.xemvtv.net
+0.0.0.0 api.boclinkads.com
 0.0.0.0 api.nas.nct.vn
+0.0.0.0 api2.boclinkads.com
 0.0.0.0 apia.headlines.pw
 0.0.0.0 apinas.nct.vn
 0.0.0.0 as.gamevui.com
@@ -1521,8 +1503,10 @@
 0.0.0.0 ng-vn-notice.gameitop.com
 0.0.0.0 nspapi.aiservice.vn
 0.0.0.0 offerwall.headlines.pw
+0.0.0.0 onapp.haravan.com
 0.0.0.0 openx.motgame.vn
 0.0.0.0 ox1.vietstock.vn
+0.0.0.0 promotion.haravan.com
 0.0.0.0 qc.5giay.vn
 0.0.0.0 qc.designervn.net
 0.0.0.0 qc.japo.vn
@@ -1595,6 +1579,7 @@
 0.0.0.0 www.vietdorje.com
 0.0.0.0 www.vtvcab.xyz
 # --- Block trackingVN ---
+0.0.0.0 a.ladipage.com
 0.0.0.0 a.vtvdigital.vn
 0.0.0.0 addlog.thuvienphapluat.vn
 0.0.0.0 admin.phunusuckhoe.vn
@@ -1644,6 +1629,7 @@
 0.0.0.0 event.headlines.pw
 0.0.0.0 f-emc.ngsp.gov.vn
 0.0.0.0 fa.fpt.shop
+0.0.0.0 facebookinbox-omni-onapp.haravan.com
 0.0.0.0 fbuser.ovp.vn
 0.0.0.0 file-subiz.com
 0.0.0.0 follow.vnay.vn
@@ -1732,6 +1718,7 @@
 0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 smetrics.kone.vn
+0.0.0.0 socialloginplus-apps.haravan.com
 0.0.0.0 st-a.vtvdigital.vn
 0.0.0.0 stat.headlines.pw
 0.0.0.0 static.masoffer.net
@@ -1783,6 +1770,7 @@
 0.0.0.0 tracking.tinxe.vn
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietbao.vn
+0.0.0.0 tracking.vtc.vn
 0.0.0.0 tracking.vtcnew.com.vn
 0.0.0.0 tracking.yes24.vn
 0.0.0.0 trackingapi.foody.vn
@@ -1808,13 +1796,19 @@
 0.0.0.0 campxanh.info
 0.0.0.0 celerantatters.com
 0.0.0.0 cettiarl.com
+0.0.0.0 code-lienquan-vn.com
 0.0.0.0 drakeesh.com
+0.0.0.0 eventlqvn.com
 0.0.0.0 facebookz.co
+0.0.0.0 freefire-membershipvn-garena.com
 0.0.0.0 garrena.vn
 0.0.0.0 irduwhojas.ga
 0.0.0.0 kaurroot.com
 0.0.0.0 larpollicwilli.club
 0.0.0.0 lib1.biz
+0.0.0.0 lienquan-garena-giftcode.com
+0.0.0.0 lmht-membership.com
+0.0.0.0 member-garena.vn
 0.0.0.0 news-good.net
 0.0.0.0 nhanqua.lienquan.garrena.vn
 0.0.0.0 rituationscardb.info

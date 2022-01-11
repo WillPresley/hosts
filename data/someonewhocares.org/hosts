@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 07 Dec 2021 at 19:07:40 GMT
+# Last updated: Fri, 31 Dec 2021 at 00:05:35 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1172,7 +1172,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 mx.iesnare.com
 0.0.0.0 mx.iovation.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
-0.0.0.0 mystats.com
 0.0.0.0 nedstat.s0.nl
 0.0.0.0 net-radar.com
 0.0.0.0 nethit-free.nl
@@ -2275,6 +2274,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 c.webwise.com
 0.0.0.0 c.webwise.net
 0.0.0.0 c.webwise.org
+0.0.0.0 c1i.su
 0.0.0.0 ca8g5.win
 0.0.0.0 cablyshaw.com
 0.0.0.0 cafecoc.com
