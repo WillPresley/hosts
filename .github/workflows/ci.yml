@@ -1,20 +1,24 @@
 name: CI
 
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
 
 jobs:
   test:
+    name: Python ${{ matrix.python }} on ${{ matrix.os }}
     runs-on: ${{ matrix.os }}
 
     strategy:
       fail-fast: false
       matrix:
         python:
-          - 3.5
-          - 3.6
-          - 3.7
-          - 3.8
-          - 3.9
+          - '3.6'
+          - '3.7'
+          - '3.8'
+          - '3.9'
+          - '3.10'
         os:
           - ubuntu-latest
           - macos-latest
@@ -22,35 +26,27 @@ jobs:
 
     steps:
       - name: Clone repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
         with:
           python-version: ${{ matrix.python }}
+          cache: pip
 
-      - run: python --version
-      - run: pip --version
-
-      - name: Get pip cache directory
-        id: pip-cache
+      - name: Print versions
         run: |
-          echo "::set-output name=dir::$(pip cache dir)"
-
-      - name: Cache dependencies
-        uses: actions/cache@v2
-        with:
-          path: ${{ steps.pip-cache.outputs.dir }}
-          key: ${{ runner.os }}-python-v${{ matrix.python }}-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-python-v${{ matrix.python }}-${{ hashFiles('**/requirements.txt') }}
-            ${{ runner.os }}-python-v${{ matrix.python }}-
+          python --version
+          pip --version
 
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
       - name: Run lint
         run: flake8
+
+      - name: Run makeHosts.py
+        run: python makeHosts.py
 
       - name: Run tests
         run: python testUpdateHostsFile.py
