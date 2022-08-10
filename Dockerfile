@@ -1,11 +1,13 @@
-FROM python:3
+FROM docker.io/python:3-alpine
 
-WORKDIR /usr/src
-COPY requirements.txt ./
-RUN pip install --no-cache-dir -r requirements.txt
-RUN git clone --depth 1 https://github.com/StevenBlack/hosts.git
-WORKDIR /usr/src/hosts
+ENV IN_CONTAINER 1
 
-# Now you launch this with
-#  $ docker build ./
-#  $ docker run -it (containerid) bash
+RUN apk add --no-cache git sudo
+
+COPY . /hosts
+
+RUN pip install --no-cache-dir --upgrade -r /hosts/requirements.txt
+
+ENV PATH $PATH:/hosts
+
+WORKDIR /hosts
