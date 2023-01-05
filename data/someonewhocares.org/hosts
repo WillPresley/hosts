@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 21 Sep 2022 at 07:07:25 GMT
+# Last updated: Thu, 15 Dec 2022 at 03:07:15 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -869,6 +869,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.revsci.net
 0.0.0.0 justtrck.com
+0.0.0.0 k.clarity.ms
 0.0.0.0 kissmetrics.com
 0.0.0.0 kqzyfj.com
 0.0.0.0 kt4.kliptracker.com
@@ -1663,6 +1664,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ancree.fr
 0.0.0.0 android.bigresource.com
 0.0.0.0 androiddev.orkitra.com
+0.0.0.0 andromedawallet.com
 0.0.0.0 aneralflas.club
 0.0.0.0 angers-radioloagie.fr
 0.0.0.0 anian1.weebly.com
@@ -2500,6 +2502,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mobpushup.com
 0.0.0.0 moddb.fr
 0.0.0.0 mojn.com
+0.0.0.0 momatyn.store
 0.0.0.0 momentspa.fr
 0.0.0.0 mon-conertisseur.fr
 0.0.0.0 monbureaunumeriques.fr
@@ -3191,6 +3194,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.weknow.ac
 0.0.0.0 www.wewillrocknow.com
 0.0.0.0 www.willysy.com
+0.0.0.0 www.winlottofrequently.com
 0.0.0.0 www.youfiletor.com
 0.0.0.0 wyoutube.fr
 0.0.0.0 xcdkb.comfortykive.xyz
@@ -8062,6 +8066,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 moz.execulink.net
 0.0.0.0 mozebyctwoje.com
 0.0.0.0 mr4evmd0r1.s.ad6media.fr
+0.0.0.0 mrazens.com
 0.0.0.0 ms-debug-services.com
 0.0.0.0 ms-downloading.com
 0.0.0.0 ms-home-live.com
@@ -8105,6 +8110,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mygiftresource.com
 0.0.0.0 mygreatrewards.com
 0.0.0.0 mymediarecommendations.com
+0.0.0.0 mypopups.com
 0.0.0.0 mysagagame.com
 0.0.0.0 myseostats.com
 0.0.0.0 mytimerpro.com
@@ -8342,6 +8348,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 parafiaukta.pl
 0.0.0.0 parronnotandone.info
 0.0.0.0 parskabab.com
+0.0.0.0 partner-api.jobbio.com
 0.0.0.0 partner-ts.groupon.be
 0.0.0.0 partner-ts.groupon.co.uk
 0.0.0.0 partner-ts.groupon.com
@@ -10151,6 +10158,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.morevisits.info
 0.0.0.0 www.mpression.net
 0.0.0.0 www.mr-mondial.com
+0.0.0.0 www.mrazens.com
 0.0.0.0 www.ms247.plus.com
 0.0.0.0 www.my-rewardsvault.com
 0.0.0.0 www.my-stats.com
