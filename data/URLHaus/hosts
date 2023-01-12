@@ -1,11 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-01-12 16:38:29 (UTC)                      #
+# Last updated: 2023-01-12 20:30:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
+127.0.0.1	02coverlab.com
 127.0.0.1	1008691.com
 127.0.0.1	10239.asset.tradingvein.xyz
 127.0.0.1	11degrees.org
@@ -20,8 +21,8 @@
 127.0.0.1	aaa.ajn322dd.com
 127.0.0.1	abbmedikal.com
 127.0.0.1	abmaxdigital.com
+127.0.0.1	abuqir.net
 127.0.0.1	acellr.co.uk
-127.0.0.1	acg-sa.com
 127.0.0.1	acrobatsadobes.icu
 127.0.0.1	addmantra.com
 127.0.0.1	admartshops.com
@@ -52,7 +53,6 @@
 127.0.0.1	aosafrica.co.za
 127.0.0.1	api-ms.cobainaja.id
 127.0.0.1	api.52kkg.com
-127.0.0.1	apkcehennemi.app
 127.0.0.1	apps.saintsoporte.com
 127.0.0.1	aquapools.in
 127.0.0.1	archives-program.com
@@ -83,7 +83,6 @@
 127.0.0.1	bevos-training.com
 127.0.0.1	bigmikesupplies.co.za
 127.0.0.1	bigs.bikershop.biz
-127.0.0.1	bigsale100.com
 127.0.0.1	bitcoinpricealertexpert.com
 127.0.0.1	bitlog.shop
 127.0.0.1	blacktequila.com.br
@@ -141,7 +140,6 @@
 127.0.0.1	corpernaija.com
 127.0.0.1	corpolevesuplementos.com.br
 127.0.0.1	cothdesigns.com
-127.0.0.1	crackload.net
 127.0.0.1	cracksmsa.ug
 127.0.0.1	crashedff.xyz
 127.0.0.1	crecerco.com
@@ -239,6 +237,7 @@
 127.0.0.1	gsmobile.es
 127.0.0.1	harleyqueretaro.com
 127.0.0.1	harperhouseproducts.com
+127.0.0.1	harshotz.com
 127.0.0.1	hausseeblickscheidegg.de
 127.0.0.1	helmprecision.com
 127.0.0.1	herchinfitout.com.sg
@@ -336,6 +335,7 @@
 127.0.0.1	meridianites.com
 127.0.0.1	milanstaffing.com
 127.0.0.1	milkagames.info
+127.0.0.1	ministerioagape.net
 127.0.0.1	minka.com.mx
 127.0.0.1	mistitis.ug
 127.0.0.1	mistydeblasiophotography.com
@@ -383,14 +383,12 @@
 127.0.0.1	palharesinformatica.com.br
 127.0.0.1	panel382523.site
 127.0.0.1	parallel.rockvideos.at
-127.0.0.1	parcelinvoice.com
 127.0.0.1	paris.newemprirez.com
 127.0.0.1	parrotbay.net
 127.0.0.1	paste-bin.xyz
 127.0.0.1	pataphysics.net.au
 127.0.0.1	patelsamatovalaw.com
 127.0.0.1	payonservice.com
-127.0.0.1	peb.co.il
 127.0.0.1	perfectguard.hu
 127.0.0.1	petparadise.biz
 127.0.0.1	pgn-dkppsby.com
@@ -400,14 +398,12 @@
 127.0.0.1	ponizinny.nl
 127.0.0.1	port-kill.homes
 127.0.0.1	posmicrosystems.com
-127.0.0.1	ppfatahillah.com
 127.0.0.1	pravashluitel.com.np
 127.0.0.1	prestigehomeautomation.net
 127.0.0.1	primaflor-sby.com
 127.0.0.1	primefind.com
 127.0.0.1	prisma.ae
 127.0.0.1	privacy-tools-for-you-453.com
-127.0.0.1	projects.affordableimage.com
 127.0.0.1	protechasia.com
 127.0.0.1	psychologistsindia.net
 127.0.0.1	punjabdevelopersassociation.com.pk
@@ -432,6 +428,7 @@
 127.0.0.1	robertmchilespe.com
 127.0.0.1	rogerschultz.com
 127.0.0.1	rootedlifeinc.ca
+127.0.0.1	royalrangerseurope.net
 127.0.0.1	royreid.co.uk
 127.0.0.1	safetygear.pk
 127.0.0.1	sainzim.co.za
@@ -470,7 +467,6 @@
 127.0.0.1	strassenburgpharma.biz
 127.0.0.1	streamtvbox.net
 127.0.0.1	studentkeep.org
-127.0.0.1	sugandhvatika.com
 127.0.0.1	sunpos.in
 127.0.0.1	superstar.tibolts.co.uk
 127.0.0.1	support.clz.kr
@@ -542,7 +538,6 @@
 127.0.0.1	www.arkidecture.com
 127.0.0.1	www.artrsllc.com
 127.0.0.1	www.bearware.org
-127.0.0.1	www.blinc.ng
 127.0.0.1	www.cesasin.com.ar
 127.0.0.1	www.chacaltattoo.com.br
 127.0.0.1	www.chawkyfrenn.com
@@ -556,6 +551,7 @@
 127.0.0.1	www.dudajevagatve.lv
 127.0.0.1	www.empowercareer.com
 127.0.0.1	www.enc-tech.com
+127.0.0.1	www.euroneon.ro
 127.0.0.1	www.fcstradesolutions.com
 127.0.0.1	www.fixstudio.co.kr
 127.0.0.1	www.globallaborsupply.com
@@ -578,6 +574,7 @@
 127.0.0.1	www.neshuafoods.com
 127.0.0.1	www.nipunpharmaskill.com
 127.0.0.1	www.opolis.io
+127.0.0.1	www.paktravelandtours.com
 127.0.0.1	www.palharesinformatica.com.br
 127.0.0.1	www.reacredit.com.br
 127.0.0.1	www.reifenquick.de
@@ -599,7 +596,6 @@
 127.0.0.1	www.whitecracks.com
 127.0.0.1	www.ysbaojia.com
 127.0.0.1	x-soft.re
-127.0.0.1	x.233sy.cn
 127.0.0.1	xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 127.0.0.1	xn--cheggl-videos-fr-gastronomie-g7c.de
 127.0.0.1	xperterp.net
@@ -613,4 +609,4 @@
 127.0.0.1	zf.gouzapay.cn
 127.0.0.1	zhivir.com
 127.0.0.1	ztekkhosting.com
-# Number of entries: 607
+# Number of entries: 603
