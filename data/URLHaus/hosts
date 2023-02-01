@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-02-01 18:33:23 (UTC)                      #
+# Last updated: 2023-02-01 19:44:11 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -46,7 +46,6 @@
 127.0.0.1	amartam.com
 127.0.0.1	amarteargentina.com.ar
 127.0.0.1	amazingkenyaretreat.com
-127.0.0.1	amazingtodaynotsaidhimherwhathe.com
 127.0.0.1	ambassadorairportservice.com
 127.0.0.1	amberandemmanuelprojectmanagementservices.com
 127.0.0.1	americaninnpeosta.com
@@ -80,6 +79,7 @@
 127.0.0.1	bawatingbarter.com
 127.0.0.1	bbia.co.uk
 127.0.0.1	beachwood.ug
+127.0.0.1	bearcatpumps.com.cn
 127.0.0.1	beautyessentialsbyhaley.com
 127.0.0.1	beautypro0.com
 127.0.0.1	beeabouttown.com
@@ -91,7 +91,7 @@
 127.0.0.1	bethelmbcarvada.org
 127.0.0.1	bevos-training.com
 127.0.0.1	bigs.bikershop.biz
-127.0.0.1	bikkviz.com
+127.0.0.1	bigsale100.com
 127.0.0.1	bilalthirty.com
 127.0.0.1	bitcoinpricealertexpert.com
 127.0.0.1	bitlog.shop
@@ -101,7 +101,6 @@
 127.0.0.1	blog.stetgzs.cn
 127.0.0.1	bmasdigital.com
 127.0.0.1	bmn.lpmpbanten.id
-127.0.0.1	bo-projects.com
 127.0.0.1	bocasislandexpress.com
 127.0.0.1	bodybrite.com.co
 127.0.0.1	bombastyc.com
@@ -120,6 +119,7 @@
 127.0.0.1	bwsengineering.co.za
 127.0.0.1	byh.ajn322bb.com
 127.0.0.1	caioaraujo.vip
+127.0.0.1	canconsulting.in
 127.0.0.1	careers-info.com
 127.0.0.1	careersreach.com
 127.0.0.1	cargoconnect.online
@@ -128,7 +128,6 @@
 127.0.0.1	cdaaj.org.mx
 127.0.0.1	cdaonline.com.ar
 127.0.0.1	cdn-download.top
-127.0.0.1	cdn.radar.game
 127.0.0.1	cellnetmw.com
 127.0.0.1	cemageng.com.br
 127.0.0.1	centralcnc.co.uk
@@ -209,6 +208,7 @@
 127.0.0.1	download.doumaibiji.cn
 127.0.0.1	download.pdf00.cn
 127.0.0.1	downloads.bcweb.org.uk
+127.0.0.1	drampik.com
 127.0.0.1	drcosti.com
 127.0.0.1	drhanneserasmus.co.za
 127.0.0.1	drive.google.com.it-barcelona.com
@@ -269,7 +269,6 @@
 127.0.0.1	gentledentalcaresa.com
 127.0.0.1	getyourfreelovebug.com
 127.0.0.1	ghanizweb.com
-127.0.0.1	gibleer.com.co
 127.0.0.1	gicegy.com
 127.0.0.1	gobesitysurgery.com
 127.0.0.1	goldrush.ug
@@ -277,6 +276,7 @@
 127.0.0.1	goplus.com.co
 127.0.0.1	gotovacoil.com
 127.0.0.1	gotthelot.org.au
+127.0.0.1	gpshelpline.com
 127.0.0.1	greencrossagritech.com
 127.0.0.1	greenlizard.co.za
 127.0.0.1	grimmcm.com
@@ -293,7 +293,6 @@
 127.0.0.1	healthelevation360.com
 127.0.0.1	helmprecision.com
 127.0.0.1	herchinfitout.com.sg
-127.0.0.1	hernandezclean.com
 127.0.0.1	hirosguide.hu
 127.0.0.1	hitstation.nl
 127.0.0.1	homeisland.com.ng
@@ -329,6 +328,7 @@
 127.0.0.1	inegypt.app
 127.0.0.1	inetaid.com
 127.0.0.1	ineteck.com
+127.0.0.1	infiniteloop.co.in
 127.0.0.1	inopralim.com
 127.0.0.1	inthbc.com
 127.0.0.1	invogueworld.com
@@ -363,13 +363,12 @@
 127.0.0.1	kimyen.net
 127.0.0.1	kingoegypt.com
 127.0.0.1	kitdigital.tecoinfor.com
-127.0.0.1	klearpressltd.com
 127.0.0.1	kmkaccounting.com
 127.0.0.1	kolibriartgallery.com
 127.0.0.1	krisbadminton.com
-127.0.0.1	krusevo.gov.mk
 127.0.0.1	kustens.com
 127.0.0.1	kutegiagoc.com
+127.0.0.1	lameguard.ru
 127.0.0.1	lanrungnamtau.com
 127.0.0.1	lara.amiyon.com
 127.0.0.1	lasermobilesounds.co.uk
@@ -400,6 +399,7 @@
 127.0.0.1	madicon.co.za
 127.0.0.1	maestrosantamaria.com
 127.0.0.1	magnasonfilm.com
+127.0.0.1	mahirz.com
 127.0.0.1	main.cloudfronts.net
 127.0.0.1	makeupuccino.com
 127.0.0.1	marcowine.com
@@ -408,6 +408,7 @@
 127.0.0.1	marksidfgs.ug
 127.0.0.1	marquesvogt.com
 127.0.0.1	masterpiecedesigns.digital
+127.0.0.1	matanchenbaybienesraices.com
 127.0.0.1	maxximbrasil.com
 127.0.0.1	mbfashioninternationalltd.com
 127.0.0.1	mbgrm.com
@@ -490,14 +491,12 @@
 127.0.0.1	palharesinformatica.com.br
 127.0.0.1	palmettocleaning.com
 127.0.0.1	parallel.rockvideos.at
-127.0.0.1	parcelinvoice.com
 127.0.0.1	paris.newemprirez.com
 127.0.0.1	parrotbay.net
 127.0.0.1	paste-bin.xyz
 127.0.0.1	pasventures.in
 127.0.0.1	patelsamatovalaw.com
 127.0.0.1	paymeo.com.au
-127.0.0.1	payonservice.com
 127.0.0.1	peb.co.il
 127.0.0.1	pekishop.net
 127.0.0.1	pemetaria.com
@@ -527,7 +526,6 @@
 127.0.0.1	punjabdevelopersassociation.com.pk
 127.0.0.1	purchasebitcoin.co.uk
 127.0.0.1	pureharvesting.com
-127.0.0.1	purposedesigns.net
 127.0.0.1	pyrd5.xyz
 127.0.0.1	qausainfaisalmufti.com
 127.0.0.1	qeextension.com
@@ -654,11 +652,11 @@
 127.0.0.1	ukguk71.ru
 127.0.0.1	unicorpbrunei.com
 127.0.0.1	unionbindinqcompany.it
+127.0.0.1	unisoftcc.com
 127.0.0.1	unlockingdreamsfinancial.com
 127.0.0.1	update.cg100iii.com
 127.0.0.1	uxsingh.com
 127.0.0.1	uylab.org
-127.0.0.1	vacancyethiopia.com
 127.0.0.1	valuezhut.com
 127.0.0.1	ventocabrero.com
 127.0.0.1	vfocus.net
@@ -670,6 +668,7 @@
 127.0.0.1	visualcontrast.com.au
 127.0.0.1	vmfd.in
 127.0.0.1	vocoptions.net
+127.0.0.1	vpcindonesia.com
 127.0.0.1	vzwebsite.ir
 127.0.0.1	w1.zypaint.com
 127.0.0.1	walkindrivetoday.com
@@ -748,7 +747,7 @@
 127.0.0.1	x.233sy.cn
 127.0.0.1	xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 127.0.0.1	xn--cheggl-videos-fr-gastronomie-g7c.de
-127.0.0.1	xperterp.net
+127.0.0.1	xt.lykj988.com
 127.0.0.1	yanezphoto.com
 127.0.0.1	yclightmexico.com.mx
 127.0.0.1	yeichner.com
@@ -759,4 +758,4 @@
 127.0.0.1	zf.gouzapay.cn
 127.0.0.1	zona-kaizen.com
 127.0.0.1	ztekkhosting.com
-# Number of entries: 753
+# Number of entries: 752
