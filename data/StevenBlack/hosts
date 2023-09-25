@@ -825,7 +825,6 @@
 0.0.0.0 a.faymobi.com
 0.0.0.0 fdn-en.net
 0.0.0.0 ads.feedly.com
-0.0.0.0 feylibertad.org
 0.0.0.0 fgddl9szdof7.com
 0.0.0.0 fgoogle.com
 0.0.0.0 www.fgoogle.com
@@ -865,7 +864,7 @@
 0.0.0.0 www.girlstofap.ga
 0.0.0.0 git-hub.co
 0.0.0.0 githb.co
-0.0.0.0 superlogout.github.io
+
 0.0.0.0 goodblock.gladly.io
 0.0.0.0 www.goodblock.gladly.io
 0.0.0.0 ad-dev.globalnoticias.pt
@@ -2427,8 +2426,8 @@
 0.0.0.0 vs.hotstar.com
 
 # Added December 11, 2022
-analytics.shein.com
-analytics.shein.co.uk
+0.0.0.0 analytics.shein.com
+0.0.0.0 analytics.shein.co.uk
 
 # Added December 29, 2022
 0.0.0.0 8a97175fd63e1d3a69f36979b9b34470.safeframe.googlesyndication.com
@@ -2553,17 +2552,6 @@ analytics.shein.co.uk
 0.0.0.0 ads-tm-glb.click
 0.0.0.0 cbox4.ignorelist.com
 0.0.0.0 hsdps.cc
-0.0.0.0 slotmagie.de
-0.0.0.0 www.slotmagie.de
-0.0.0.0 slotmagie.zendesk.com
-0.0.0.0 tubepornclassics.com
-0.0.0.0 www.tubepornclassics.com
-0.0.0.0 ww1.tubepornclassics.com
-0.0.0.0 ww7.tubepornclassics.com
-0.0.0.0 ww12.tubepornclassics.com
-0.0.0.0 kwrn.eu
-0.0.0.0 www.kwrn.eu
-0.0.0.0 profile.omega.kwrn.eu
 0.0.0.0 api.sprig.com
 
 # Added May 15, 2023
@@ -2600,3 +2588,28 @@ analytics.shein.co.uk
 # Added June 13, 2023
 0.0.0.0 assistant-chronopost.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
+
+# Added July 4, 2023
+0.0.0.0 stmicroelectronics.d3.sc.omtrdc.net
+
+0.0.0.0 giyhub.com
+0.0.0.0 d2wzkjnj9pfptq.cloudfront.net
+0.0.0.0 storiesnexus.com
+0.0.0.0 rumadel.com
+
+# Added August 8, 2023
+0.0.0.0 ms4.applvn.com
+0.0.0.0 adsninjacdn.b-cdn.net
+0.0.0.0 cdn.adsninja.ca
+0.0.0.0 nom.telemetrydeck.com
+0.0.0.0 api.ibeat-analytics.com
+0.0.0.0 mads.amazon.com
+
+# Add August 9, 2023
+0.0.0.0 s2.bl-1.com
+
+# Added August 10, 2023
+0.0.0.0 w61.1piecemanga.com
+0.0.0.0 fbet.com
+0.0.0.0 stemboastfulrattle.com
+0.0.0.0 onwardrespirationcommandment.com
