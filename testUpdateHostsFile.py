@@ -840,8 +840,12 @@ class TestNormalizeRule(BaseStdout):
         # Note: "Bare"- Domains are accepted. IP are excluded.
         for rule in [
             "128.0.0.1",
-            "0.0.0 google",
-            "0.1.2.3.4 foo/bar",
+            "::1",
+            "0.0.0.0 128.0.0.2",
+            "0.1.2.3 foo/bar",
+            "0.3.4.5 example.org/hello/world",
+            "0.0.0.0 https",
+            "0.0.0.0 https..",
         ]:
             self.assertEqual(normalize_rule(rule, **kwargs), (None, None))
 
@@ -850,6 +854,25 @@ class TestNormalizeRule(BaseStdout):
 
             expected = "==>" + rule + "<=="
             self.assertIn(expected, output)
+
+    def test_mixed_cases(self):
+        for rule, expected_target in (
+            ("tWiTTer.cOM", "twitter.com"),
+            ("goOgLe.Com", "google.com"),
+            ("FoO.bAR.edu", "foo.bar.edu"),
+        ):
+            expected = (expected_target, "0.0.0.0 " + expected_target + "\n")
+
+            actual = normalize_rule(
+                rule, target_ip="0.0.0.0", keep_domain_comments=False
+            )
+            self.assertEqual(actual, expected)
+
+            # Nothing gets printed if there's a match.
+            output = sys.stdout.getvalue()
+            self.assertEqual(output, "")
+
+            sys.stdout = StringIO()
 
     def test_no_comments(self):
         for target_ip in ("0.0.0.0", "127.0.0.1", "8.8.8.8"):
@@ -890,21 +913,28 @@ class TestNormalizeRule(BaseStdout):
     def test_two_ips(self):
         for target_ip in ("0.0.0.0", "127.0.0.1", "8.8.8.8"):
             rule = "127.0.0.1 11.22.33.44 foo"
-            expected = ("11.22.33.44", str(target_ip) + " 11.22.33.44\n")
 
             actual = normalize_rule(
                 rule, target_ip=target_ip, keep_domain_comments=False
             )
-            self.assertEqual(actual, expected)
+            self.assertEqual(actual, (None, None))
 
-            # Nothing gets printed if there's a match.
             output = sys.stdout.getvalue()
-            self.assertEqual(output, "")
+
+            expected = "==>" + rule + "<=="
+            self.assertIn(expected, output)
 
             sys.stdout = StringIO()
 
     def test_no_comment_raw(self):
-        for rule in ("twitter.com", "google.com", "foo.bar.edu"):
+        for rule in (
+            "twitter.com",
+            "google.com",
+            "foo.bar.edu",
+            "www.example-foo.bar.edu",
+            "www.example-3045.foobar.com",
+            "www.example.xn--p1ai"
+        ):
             expected = (rule, "0.0.0.0 " + rule + "\n")
 
             actual = normalize_rule(
