@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 17 December 2023 18:32:20 (UTC)
+# Date: 24 March 2024 02:03:32 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, social
-# Number of unique domains: 5,035
+# Number of unique domains: 5,040
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -4482,6 +4482,10 @@
 0.0.0.0 www.whatsapp.com
 0.0.0.0 wwwl.whatsapp.com
 
+# Threads
+0.0.0.0 threads.net
+0.0.0.0 www.threads.net
+
 # Twitter
 0.0.0.0 0.twitter.com
 0.0.0.0 2010.twitter.com
@@ -4599,6 +4603,8 @@
 0.0.0.0 www.twitter.com
 0.0.0.0 www2.twitter.com
 0.0.0.0 www4.twitter.com
+0.0.0.0 www.x.com
+0.0.0.0 x.com
 
 # LinkedIn
 0.0.0.0 addtoprofile.linkedin.com
@@ -5083,6 +5089,9 @@
 0.0.0.0 clover.co
 0.0.0.0 pof.com
 0.0.0.0 match.com
+
+# TikTok clone
+0.0.0.0 likee.video
 0.0.0.0 mbga.jp
 0.0.0.0 mixi.jp
 0.0.0.0 mixch.tv
