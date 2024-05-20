@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 24 March 2024 02:03:46 (UTC)
+# Date: 12 May 2024 23:12:23 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: porn, social
-# Number of unique domains: 86,674
+# Number of unique domains: 87,115
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -19,9 +19,9 @@
 
 # End of custom host records.
 # Title: hostsVN Adult
-# Last modified: 19 Mar 2024 22:26 UTC+7
-# Version: 2403192226
-# Blocked: 3,447 domains
+# Last modified: 12 May 2024 22:46 UTC+7
+# Version: 2405122246
+# Blocked: 3,514 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -52,6 +52,7 @@
 0.0.0.0 2ola.pro
 0.0.0.0 303cc.xyz
 0.0.0.0 3jvos6.st-sy.com
+0.0.0.0 3xdam.pro
 0.0.0.0 3xhay.pro
 0.0.0.0 3xhd.me
 0.0.0.0 3xphimsex.com
@@ -240,7 +241,9 @@
 0.0.0.0 cliphot.net
 0.0.0.0 cliphot.online
 0.0.0.0 cliphot.space
+0.0.0.0 cliphot69.blog
 0.0.0.0 cliphot69.cc
+0.0.0.0 cliphot69.life
 0.0.0.0 cliphot69.org
 0.0.0.0 cliphot69.win
 0.0.0.0 cliphotne.com
@@ -250,6 +253,7 @@
 0.0.0.0 cliphubs.com
 0.0.0.0 clipkhoe.xyz
 0.0.0.0 clipkhoehang.xyz
+0.0.0.0 clipmoivn.com
 0.0.0.0 clipnong.blog
 0.0.0.0 clipnong.club
 0.0.0.0 clipnong.co
@@ -374,6 +378,7 @@
 0.0.0.0 dmhentai.net
 0.0.0.0 dmsex.net
 0.0.0.0 doctruyen14x.com
+0.0.0.0 doctruyen3qv.pro
 0.0.0.0 doctruyennguoilonhay.blogspot.com
 0.0.0.0 doctruyennguoilonvl.wordpress.com
 0.0.0.0 dokatehnik.ru
@@ -390,6 +395,7 @@
 0.0.0.0 dualeotruyen1s.com
 0.0.0.0 dualeotruyen24h.com
 0.0.0.0 dualeotruyen3s.com
+0.0.0.0 dualeotruyenkq.com
 0.0.0.0 dualeotruyenzz.com
 0.0.0.0 duccai.com
 0.0.0.0 duccai.xyz
@@ -701,6 +707,7 @@
 0.0.0.0 hentaivn.moe
 0.0.0.0 hentaivn.online
 0.0.0.0 hentaivn.run
+0.0.0.0 hentaivn.sh
 0.0.0.0 hentaivn.team
 0.0.0.0 hentaivn.tv
 0.0.0.0 hentaivnn.net
@@ -712,6 +719,7 @@
 0.0.0.0 hentaiz.in
 0.0.0.0 hentaiz.mobi
 0.0.0.0 hentaiz.vip
+0.0.0.0 hentaizz.cc
 0.0.0.0 hentaizz.net
 0.0.0.0 heo3x.club
 0.0.0.0 heo3x.info
@@ -727,6 +735,7 @@
 0.0.0.0 heo69.info
 0.0.0.0 heo69.link
 0.0.0.0 heo69.me
+0.0.0.0 heo69.moe
 0.0.0.0 heo69.org
 0.0.0.0 heo69.top
 0.0.0.0 heo699.sbs
@@ -738,6 +747,7 @@
 0.0.0.0 heodem.info
 0.0.0.0 heodem.plus
 0.0.0.0 heodem.vip
+0.0.0.0 heodemz.com
 0.0.0.0 heodemz.net
 0.0.0.0 heodemz.org
 0.0.0.0 heohay.com
@@ -756,6 +766,7 @@
 0.0.0.0 heovl.tv
 0.0.0.0 heovl1.com
 0.0.0.0 heovl1.net
+0.0.0.0 heovlx.com
 0.0.0.0 heozz.net
 0.0.0.0 heyzo.pro
 0.0.0.0 hhentai.net
@@ -821,6 +832,7 @@
 0.0.0.0 javhay.club
 0.0.0.0 javhay.co
 0.0.0.0 javhay.cyou
+0.0.0.0 javhay.in
 0.0.0.0 javhay.media
 0.0.0.0 javhay.movie
 0.0.0.0 javhay.one
@@ -841,6 +853,7 @@
 0.0.0.0 javhd.bio
 0.0.0.0 javhd.charity
 0.0.0.0 javhd.contact
+0.0.0.0 javhd.exchange
 0.0.0.0 javhd.im
 0.0.0.0 javhd.lol
 0.0.0.0 javhd.moe
@@ -848,11 +861,16 @@
 0.0.0.0 javhd.ninja
 0.0.0.0 javhd.page
 0.0.0.0 javhd.services
+0.0.0.0 javhd.team
 0.0.0.0 javhd.tech
 0.0.0.0 javhd.video
 0.0.0.0 javhd.ws
+0.0.0.0 javhdhay.city
 0.0.0.0 javhdhay.me
+0.0.0.0 javhdhay.red
+0.0.0.0 javhdhay.us
 0.0.0.0 javhdhayz.com
+0.0.0.0 javhdhayz.me
 0.0.0.0 javhdhayz.net
 0.0.0.0 javhdhayz.pro
 0.0.0.0 javhdkhongche.com
@@ -911,6 +929,7 @@
 0.0.0.0 javsub.xyz
 0.0.0.0 javsubmoi.net
 0.0.0.0 javsubz.com
+0.0.0.0 javtiful.com
 0.0.0.0 javtop1.biz
 0.0.0.0 javtop1.com
 0.0.0.0 javtop1.org
@@ -998,6 +1017,7 @@
 0.0.0.0 laysogaigoi.com
 0.0.0.0 lenlut.info
 0.0.0.0 lenlut.net
+0.0.0.0 lenlut.tv
 0.0.0.0 linh2k.live
 0.0.0.0 linkclipsex.com
 0.0.0.0 linkclipsex.xyz
@@ -1119,8 +1139,11 @@
 0.0.0.0 mobiblog.cc
 0.0.0.0 mobiblog.io
 0.0.0.0 mobiblog.net
+0.0.0.0 mobiblog.top
 0.0.0.0 mobiblog.us
 0.0.0.0 mobiblog.vip
+0.0.0.0 mobiblogtv.com
+0.0.0.0 mobiblogxx.com
 0.0.0.0 modelviet.us
 0.0.0.0 moihay.com
 0.0.0.0 moonlive.club
@@ -1226,6 +1249,7 @@
 0.0.0.0 phim18hd.info
 0.0.0.0 phim18hd.net
 0.0.0.0 phim18hd.org
+0.0.0.0 phim18hd.top
 0.0.0.0 phim18hdo.com
 0.0.0.0 phim18hot.com
 0.0.0.0 phim18k.com
@@ -1425,6 +1449,7 @@
 0.0.0.0 phimsex-vn.com
 0.0.0.0 phimsex-xxx.pro
 0.0.0.0 phimsex-xxx.xyz
+0.0.0.0 phimsex.ai
 0.0.0.0 phimsex.casa
 0.0.0.0 phimsex.icu
 0.0.0.0 phimsex.id
@@ -1581,6 +1606,7 @@
 0.0.0.0 phimsexhay3x.com
 0.0.0.0 phimsexhay669.com
 0.0.0.0 phimsexhay669.net
+0.0.0.0 phimsexhay669.org
 0.0.0.0 phimsexhay69.net
 0.0.0.0 phimsexhaymoi.com
 0.0.0.0 phimsexhaynhatban.cyou
@@ -1840,6 +1866,7 @@
 0.0.0.0 phimvnxx.com
 0.0.0.0 phimvv.net
 0.0.0.0 phimx.cc
+0.0.0.0 phimx.sexmoi.dev
 0.0.0.0 phimx.xyz
 0.0.0.0 phimx69.com
 0.0.0.0 phimx69.net
@@ -1953,6 +1980,9 @@
 0.0.0.0 qqlives.app
 0.0.0.0 quatvn.cc
 0.0.0.0 quatvn.club
+0.0.0.0 quatvn.fun
+0.0.0.0 quatvn.in
+0.0.0.0 quatvn.link
 0.0.0.0 quatvn.net
 0.0.0.0 quaylen.me
 0.0.0.0 quaylen.org
@@ -2104,6 +2134,7 @@
 0.0.0.0 sexdep.pro
 0.0.0.0 sexdep.tv
 0.0.0.0 sexdep.xyz
+0.0.0.0 sexdep9x.pro
 0.0.0.0 sexdeptv.net
 0.0.0.0 sexdiary.cc
 0.0.0.0 sexdiary.pro
@@ -2126,6 +2157,7 @@
 0.0.0.0 sexdong.top
 0.0.0.0 sexdotz.com
 0.0.0.0 sexdu.net
+0.0.0.0 sexdunhau.com
 0.0.0.0 sexf8.com
 0.0.0.0 sexfree.club
 0.0.0.0 sexfull-hd.com
@@ -2144,8 +2176,10 @@
 0.0.0.0 sexgaixinh.pro
 0.0.0.0 sexgaixinh.site
 0.0.0.0 sexgay.tv
+0.0.0.0 sexgiamdoc.com
 0.0.0.0 sexhai.com
 0.0.0.0 sexhan.top
+0.0.0.0 sexhang1.org
 0.0.0.0 sexhanquoc.net
 0.0.0.0 sexhapdan.com
 0.0.0.0 sexhay.biz
@@ -2249,6 +2283,7 @@
 0.0.0.0 sexmoi.click
 0.0.0.0 sexmoi.co
 0.0.0.0 sexmoi.cyou
+0.0.0.0 sexmoi.dev
 0.0.0.0 sexmoi.info
 0.0.0.0 sexmoi.live
 0.0.0.0 sexmoi.online
@@ -2270,6 +2305,8 @@
 0.0.0.0 sexmoinhat.pro
 0.0.0.0 sexmoivl.com
 0.0.0.0 sexmuot.club
+0.0.0.0 sexmup18.net
+0.0.0.0 sexmuptv.pro
 0.0.0.0 sexmy.one
 0.0.0.0 sexmy.tv
 0.0.0.0 sexnao.net
@@ -2285,9 +2322,11 @@
 0.0.0.0 sexnguoilon.com
 0.0.0.0 sexnguoilon.one
 0.0.0.0 sexnguoithu.xyz
+0.0.0.0 sexnhanghi.com
 0.0.0.0 sexnhanh.co
 0.0.0.0 sexnhanh69.pro
 0.0.0.0 sexnhanhz.net
+0.0.0.0 sexnhanvien.com
 0.0.0.0 sexnhat.co
 0.0.0.0 sexnhat.me
 0.0.0.0 sexnhat69.pro
@@ -2319,6 +2358,7 @@
 0.0.0.0 sexphimtv.net
 0.0.0.0 sexphimvip.net
 0.0.0.0 sexphimx.pro
+0.0.0.0 sexphimx.vip
 0.0.0.0 sexphimxxx.pro
 0.0.0.0 sexphimz.com
 0.0.0.0 sexphimz.net
@@ -2350,6 +2390,7 @@
 0.0.0.0 sexsuong.net
 0.0.0.0 sext.pro
 0.0.0.0 sexthailan.com
+0.0.0.0 sexthang2.com
 0.0.0.0 sexthu.top
 0.0.0.0 sexthudam.pro
 0.0.0.0 sexthudam.top
@@ -2508,6 +2549,7 @@
 0.0.0.0 sexvn.to
 0.0.0.0 sexvn.xyz
 0.0.0.0 sexvn.yeusex.org
+0.0.0.0 sexvn1.cc
 0.0.0.0 sexvn17.top
 0.0.0.0 sexvn3x.com
 0.0.0.0 sexvn69.com
@@ -2583,6 +2625,7 @@
 0.0.0.0 tapchisex.me
 0.0.0.0 teen17.pw
 0.0.0.0 teenlohang.com
+0.0.0.0 tenmientruyengi.net
 0.0.0.0 thanhdam.net
 0.0.0.0 thanhlau.tv
 0.0.0.0 thanhlau.xyz
@@ -2631,6 +2674,7 @@
 0.0.0.0 top10jav.com
 0.0.0.0 top1sex.biz
 0.0.0.0 top1sex.cc
+0.0.0.0 top1sex.club
 0.0.0.0 top1sex.online
 0.0.0.0 top1sex.xyz
 0.0.0.0 top3x.cc
@@ -2649,6 +2693,7 @@
 0.0.0.0 topphimheo.com
 0.0.0.0 topphimsex.vip
 0.0.0.0 topsex1.pro
+0.0.0.0 topviet69.com
 0.0.0.0 topvlxx.com
 0.0.0.0 tphimsex.club
 0.0.0.0 trai18.com
@@ -2675,6 +2720,7 @@
 0.0.0.0 trumsexviet.org
 0.0.0.0 trumtraibao.com
 0.0.0.0 trungquocsex.com
+0.0.0.0 trungquocsex.info
 0.0.0.0 trungquocsex.net
 0.0.0.0 truongsex.pro
 0.0.0.0 truyen-hentai.com
@@ -2693,6 +2739,13 @@
 0.0.0.0 truyendu.com
 0.0.0.0 truyengay.mobi
 0.0.0.0 truyengihay.net
+0.0.0.0 truyengihotdo.net
+0.0.0.0 truyengihotnay.com
+0.0.0.0 truyengihotnha.com
+0.0.0.0 truyengihotnha.net
+0.0.0.0 truyengihotqua.com
+0.0.0.0 truyengihotqua.net
+0.0.0.0 truyengihotzay.net
 0.0.0.0 truyenhentai.blog.fc2.com
 0.0.0.0 truyenhentai.co
 0.0.0.0 truyenhentai.com
@@ -2728,6 +2781,7 @@
 0.0.0.0 truyentructuyen.com
 0.0.0.0 truyenvina.com
 0.0.0.0 truyenvkl.wordpress.com
+0.0.0.0 truyenvn.fan
 0.0.0.0 truyenvn.vip
 0.0.0.0 truyenwk.com
 0.0.0.0 truyenx365.com
@@ -2755,6 +2809,7 @@
 0.0.0.0 tuoi69.today
 0.0.0.0 tuoi69.vc
 0.0.0.0 tuoi69.video
+0.0.0.0 tuoi69.viet69.biz
 0.0.0.0 tuoi69.website
 0.0.0.0 tuoi69.xyz
 0.0.0.0 tuoi69vn.com
@@ -2773,10 +2828,12 @@
 0.0.0.0 tut4k.xxx
 0.0.0.0 tuyensex3x.com
 0.0.0.0 tuyetpham.xyz
+0.0.0.0 tv.mobiblogxx.com
 0.0.0.0 twtgaixinh.com
 0.0.0.0 txxx.pics
 0.0.0.0 tzqctz.com
 0.0.0.0 umehentai.com
+0.0.0.0 ungtycomicsvip.com
 0.0.0.0 up1.hhentai.net
 0.0.0.0 up2.hentaivn.tv
 0.0.0.0 vailonxx.com
@@ -2800,6 +2857,7 @@
 0.0.0.0 videogaigoi.xyz
 0.0.0.0 videosexnhat.top
 0.0.0.0 videosexx.net
+0.0.0.0 vie.sexhang1.org
 0.0.0.0 viet.sex
 0.0.0.0 viet69.app
 0.0.0.0 viet69.asia
@@ -2812,6 +2870,7 @@
 0.0.0.0 viet69.day
 0.0.0.0 viet69.de
 0.0.0.0 viet69.dev
+0.0.0.0 viet69.dog
 0.0.0.0 viet69.fan
 0.0.0.0 viet69.fun
 0.0.0.0 viet69.gg
@@ -2824,6 +2883,7 @@
 0.0.0.0 viet69.me
 0.0.0.0 viet69.net
 0.0.0.0 viet69.news
+0.0.0.0 viet69.nl
 0.0.0.0 viet69.online
 0.0.0.0 viet69.org
 0.0.0.0 viet69.page
@@ -2840,6 +2900,7 @@
 0.0.0.0 viet69.tube
 0.0.0.0 viet69.us
 0.0.0.0 viet69.vc
+0.0.0.0 viet69.vet
 0.0.0.0 viet69.video
 0.0.0.0 viet69az.top
 0.0.0.0 viet69b.com
@@ -2999,6 +3060,7 @@
 0.0.0.0 vlxyz.co
 0.0.0.0 vlxyz.net
 0.0.0.0 vlxyz.org
+0.0.0.0 vlxyz.tube
 0.0.0.0 vlzz.net
 0.0.0.0 vn.avhd.mobi
 0.0.0.0 vn.dam69.tv
@@ -3055,6 +3117,8 @@
 0.0.0.0 wapsex.wordpress.com
 0.0.0.0 waptuoinoiloan.blogspot.com
 0.0.0.0 web.sexnhanh.co
+0.0.0.0 web.sexviet88.day
+0.0.0.0 web2.sexvip1.com
 0.0.0.0 webchanrau.com
 0.0.0.0 webdoitruy.com
 0.0.0.0 webgioitinh.net
@@ -3091,6 +3155,7 @@
 0.0.0.0 www.anhsex18.com
 0.0.0.0 www.anhsex18.net
 0.0.0.0 www.anhsexvip.me
+0.0.0.0 www.buomtv.app
 0.0.0.0 www.buomtv.tv
 0.0.0.0 www.phim18k.com
 0.0.0.0 www.phimsexcom.com
@@ -3117,6 +3182,7 @@
 0.0.0.0 x.phimsexsub.co
 0.0.0.0 x.phimsexsub.pw
 0.0.0.0 x.sextop1.life
+0.0.0.0 x1.trungquocsex.info
 0.0.0.0 x10.viet69.life
 0.0.0.0 x3x.club
 0.0.0.0 xackup.com
@@ -3460,6 +3526,7 @@
 0.0.0.0 youtubecliphot.org
 0.0.0.0 youtubecliphot.xyz
 0.0.0.0 yphimsex.cc
+0.0.0.0 yurineko.net
 0.0.0.0 z.phimsexsub.co
 0.0.0.0 z88.one
 0.0.0.0 zanevski.ru
@@ -42504,6 +42571,7 @@
 0.0.0.0 melonstube.com
 0.0.0.0 memberporn.com
 0.0.0.0 members.cfnmidol.com
+0.0.0.0 members.luscious.net
 0.0.0.0 men.com
 0.0.0.0 menak.ru
 0.0.0.0 mengaypics.com
@@ -46924,6 +46992,7 @@
 0.0.0.0 spicytranny.com
 0.0.0.0 spicytrannyhd.com
 0.0.0.0 spicyvintageporn.com
+0.0.0.0 spiegel.com
 0.0.0.0 spitzetitten.com
 0.0.0.0 spitzetitten.net
 0.0.0.0 spizoo-com.ru
@@ -51615,6 +51684,7 @@
 0.0.0.0 www.spermatube.be
 0.0.0.0 www.spicybigtits.com
 0.0.0.0 www.spicyporntrials.com
+0.0.0.0 www.spiegel.com
 0.0.0.0 www.squirtinglesbian.com
 0.0.0.0 www.srbam.com
 0.0.0.0 www.ssoft-android.ru
@@ -72132,7 +72202,6 @@
 0.0.0.0 jizzfall.com
 0.0.0.0 jilkatha.com
 0.0.0.0 jerkwell.com
-0.0.0.0 javtiful.com
 0.0.0.0 javstory.top
 0.0.0.0 javpshow.com
 0.0.0.0 javpower.top
@@ -76341,8 +76410,6 @@
 0.0.0.0 www.xxnxx.hair
 0.0.0.0 www.xxnxx.shop
 0.0.0.0 www.xxx111.pro
-0.0.0.0 www.xxxlutz.at
-0.0.0.0 www.xxxlutz.de
 0.0.0.0 www.xxxv24.com
 0.0.0.0 xhamsterxxx.de
 0.0.0.0 xnporntube.com
@@ -77206,7 +77273,6 @@
 0.0.0.0 matureporno4k.com
 0.0.0.0 mature-porn.video
 0.0.0.0 matures-porno.com
-0.0.0.0 media.xxxlutz.com
 0.0.0.0 megaporndeals.com
 0.0.0.0 megapornfreehd.ru
 0.0.0.0 megaporno.blog.br
@@ -83893,13 +83959,8 @@
 0.0.0.0 yamidas.yamiboard.com
 0.0.0.0 yamigama.com
 # Title: Social media hosts
-# Updated: June 27, 2021
-
-# Google Plus
-#127.0.0.1 plus.l.google.com
-#127.0.0.1 plus.sandbox.google.com
-#127.0.0.1 plusone.google.com
-0.0.0.0 plus.google.com
+# Direct URL: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts
+# Updated: March 24, 2024
 
 # Facebook
 0.0.0.0 0-act.channel.facebook.com
@@ -83926,6 +83987,7 @@
 0.0.0.0 act.facebook.com
 0.0.0.0 actcorp.m.facebook.com
 0.0.0.0 ads.facebook.com
+0.0.0.0 adsmanager.facebook.com
 0.0.0.0 ae0.bb01.ams2.tfbnw.net
 0.0.0.0 ae0.bb01.atl1.tfbnw.net
 0.0.0.0 ae0.bb01.bos2.tfbnw.net
@@ -84267,11 +84329,11 @@
 0.0.0.0 code.facebook.com
 0.0.0.0 com0.facebook.com
 0.0.0.0 comfytrade.m.facebook.com
-0.0.0.0 conectadosbancogalicia.m.facebook.com
 0.0.0.0 connect.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 connect.facebook.net.edgekey.net
 0.0.0.0 creative.ak.fbcdn.net
+0.0.0.0 creators.facebook.com
 0.0.0.0 cs-cz.facebook.com
 0.0.0.0 csf.facebook.com
 0.0.0.0 ct-m-fbx.fbsbx.com
@@ -84279,14 +84341,10 @@
 0.0.0.0 d.vvv.facebook.com
 0.0.0.0 da-dk.facebook.com
 0.0.0.0 da-dk.facebook.dk
-0.0.0.0 danone.m.facebook.com
-0.0.0.0 davivienda.m.facebook.com
 0.0.0.0 de-de.facebook.com
 0.0.0.0 de-de.facebook.de
-0.0.0.0 deloitte.m.facebook.com
 0.0.0.0 dev.vvv.facebook.com
 0.0.0.0 developers.facebook.com
-0.0.0.0 dixonscarphone.m.facebook.com
 0.0.0.0 dm.m.facebook.com
 0.0.0.0 dns.facebook.com
 0.0.0.0 ed.facebook.com
@@ -84547,6 +84605,7 @@
 0.0.0.0 edge-sonar-shv-17-prn1.fbcdn.net
 0.0.0.0 edge-sonar-shv-18-prn1.fbcdn.net
 0.0.0.0 edge-star-shv-12-frc3.facebook.com
+0.0.0.0 edge-stun.facebook.com
 0.0.0.0 edge-video-shv-01-ams2.fbcdn.net
 0.0.0.0 edge-video-shv-01-ams3.fbcdn.net
 0.0.0.0 edge-video-shv-01-arn2.fbcdn.net
@@ -84664,10 +84723,20 @@
 0.0.0.0 fa-ir.facebook.com
 0.0.0.0 facebook-studio.com
 0.0.0.0 facebook-web-clients.appspot.com
+0.0.0.0 facebook.at
 0.0.0.0 facebook.be
+0.0.0.0 facebook.ca
+0.0.0.0 facebook.co
+0.0.0.0 facebook.co.za
 0.0.0.0 facebook.com
+0.0.0.0 facebook.com.au
+0.0.0.0 facebook.com.br
+0.0.0.0 facebook.com.es
 0.0.0.0 facebook.com.facebook.com
+0.0.0.0 facebook.com.mx
+0.0.0.0 facebook.com.vn
 0.0.0.0 facebook.de
+0.0.0.0 facebook.design
 0.0.0.0 facebook.dk
 0.0.0.0 facebook.es
 0.0.0.0 facebook.fr
@@ -84675,8 +84744,12 @@
 0.0.0.0 facebook.it
 0.0.0.0 facebook.jp
 0.0.0.0 facebook.mx
+0.0.0.0 facebook.net
 0.0.0.0 facebook.nl
 0.0.0.0 facebook.no
+0.0.0.0 facebook.org
+0.0.0.0 facebook.pl
+0.0.0.0 facebook.ru
 0.0.0.0 facebook.se
 0.0.0.0 facebook.us
 0.0.0.0 fb-lt.facebook.com
@@ -84718,6 +84791,7 @@
 0.0.0.0 fbcdn.net
 0.0.0.0 fbexternal-a.akamaihd.net
 0.0.0.0 fbjs.facebook.com
+0.0.0.0 fblite-p1.c10r.facebook.com
 0.0.0.0 fbsbx.com
 0.0.0.0 fbstatic-a.akamaihd.net
 0.0.0.0 fbstatic.net
@@ -84796,6 +84870,7 @@
 0.0.0.0 lntinfotech.m.facebook.com
 0.0.0.0 login.facebook.com
 0.0.0.0 lookaside.facebook.com
+0.0.0.0 lt-lt.facebook.com
 0.0.0.0 lv-lv.facebook.com
 0.0.0.0 m.facebook.com
 0.0.0.0 m.me
@@ -84813,6 +84888,7 @@
 0.0.0.0 mobile.facebook.com
 0.0.0.0 moelven.m.facebook.com
 0.0.0.0 mqtt-ig-p4.facebook.com
+0.0.0.0 mqtt-mini.c10r.facebook.com
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 mqtt-p4.facebook.com
 0.0.0.0 mqtt.c10r.facebook.com
@@ -84834,6 +84910,7 @@
 0.0.0.0 norcap.m.facebook.com
 0.0.0.0 noroestecom.m.facebook.com
 0.0.0.0 nova.facebook.com
+0.0.0.0 ns.facebook.com
 0.0.0.0 ns1.facebook.com
 0.0.0.0 ns2.facebook.com
 0.0.0.0 ns3.facebook.com
@@ -84874,7 +84951,11 @@
 0.0.0.0 origincache-xx-shv-09-prn2.fbcdn.net
 0.0.0.0 origincache-xx-shv-13-prn1.fbcdn.net
 0.0.0.0 ouch.facebook.com
+0.0.0.0 p-upload.facebook.com
+0.0.0.0 p.facebook.com
 0.0.0.0 pacific.facebook.com
+0.0.0.0 pages.facebook.com
+0.0.0.0 pay.facebook.com
 0.0.0.0 pernambucanas.m.facebook.com
 0.0.0.0 photos-a-ord.xx.fbcdn.net
 0.0.0.0 photos-a.ak.fbcdn.net
@@ -85172,11 +85253,14 @@
 0.0.0.0 sitel.m.facebook.com
 0.0.0.0 sk-sk.facebook.com
 0.0.0.0 ski.m.facebook.com
+0.0.0.0 sl-si.facebook.com
 0.0.0.0 snaptu-d-shv-05-frc3.facebook.com
 0.0.0.0 snaptu-d-shv-10-frc1.facebook.com
+0.0.0.0 snaptu-d.facebook.com
 0.0.0.0 snaptu-mini.facebook.com
 0.0.0.0 snaptu-p1.facebook.com
 0.0.0.0 snaptu-p2.facebook.com
+0.0.0.0 snaptu-z.facebook.com
 0.0.0.0 softtech.m.facebook.com
 0.0.0.0 sok.m.facebook.com
 0.0.0.0 sonar-iad.xx.fbcdn.net
@@ -85246,15 +85330,18 @@
 0.0.0.0 stormberg.m.facebook.com
 0.0.0.0 sv-se.facebook.com
 0.0.0.0 sv-se.facebook.se
+0.0.0.0 tableau.thefacebook.com
 0.0.0.0 teem.m.facebook.com
 0.0.0.0 telenor.m.facebook.com
 0.0.0.0 th-th.facebook.com
+0.0.0.0 thefacebook.com
 0.0.0.0 timbrasil.m.facebook.com
 0.0.0.0 tl-ph.facebook.com
 0.0.0.0 touch.facebook.com
 0.0.0.0 tr-tr.facebook.com
 0.0.0.0 tr.facebook.com
 0.0.0.0 trocglobal.m.facebook.com
+0.0.0.0 uk-ua.facebook.com
 0.0.0.0 uk2group.m.facebook.com
 0.0.0.0 unicreativearts.m.facebook.com
 0.0.0.0 upload.facebook.com
@@ -85321,6 +85408,8 @@
 0.0.0.0 vupload.facebook.com
 0.0.0.0 vupload2.vvv.facebook.com
 0.0.0.0 w.facebook.com
+0.0.0.0 web-chat-e2ee.facebook.com
+0.0.0.0 web-fallback.facebook.com
 0.0.0.0 web.beta.facebook.com
 0.0.0.0 web.facebook.com
 0.0.0.0 webdav.facebook.com
@@ -85351,6 +85440,7 @@
 0.0.0.0 www.static.ak.connect.facebook.com
 0.0.0.0 www.static.ak.fbcdn.net
 0.0.0.0 www2.facebook.com
+0.0.0.0 wwwfacebook.com
 0.0.0.0 wwww.facebook.com
 0.0.0.0 x.facebook.com
 0.0.0.0 xx-fbcdn-ecmp-02-atl1.fbcdn.net
@@ -85449,6 +85539,7 @@
 0.0.0.0 z-m-api.facebook.com
 0.0.0.0 z-m-fbcdn-mini-shv-01-ord1.fbcdn.net
 0.0.0.0 z-m-fbcdn-shv-01-frt3.fbcdn.net
+0.0.0.0 z-m-gateway.facebook.com
 0.0.0.0 z-m-graph.facebook.com
 0.0.0.0 z-m-scontent-ams.xx.fbcdn.net
 0.0.0.0 z-m-scontent-amt.xx.fbcdn.net
@@ -85642,9 +85733,9 @@
 0.0.0.0 external-vie1-1.cdninstagram.com
 0.0.0.0 external-waw1-1.cdninstagram.com
 0.0.0.0 external.cdninstagram.com
-0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 help.instagram.com
 0.0.0.0 i.instagram.com
+0.0.0.0 images.ak.instagram.com
 0.0.0.0 images.instagram.com
 0.0.0.0 instagr.am
 0.0.0.0 instagram-shv-01-ams2.fbcdn.net
@@ -85697,12 +85788,24 @@
 0.0.0.0 instagram-shv-17-prn1.fbcdn.net
 0.0.0.0 instagram-shv-18-prn1.fbcdn.net
 0.0.0.0 instagram.c10r.facebook.com
+0.0.0.0 instagram.c10r.instagram.com
+0.0.0.0 instagram.co
 0.0.0.0 instagram.com
+0.0.0.0 instagram.com.br
+0.0.0.0 instagram.de
+0.0.0.0 instagram.fr
+0.0.0.0 instagram.net
 0.0.0.0 instagramstatic-a.akamaihd.net
 0.0.0.0 instagramstatic-a.akamaihd.net.edgesuite.net
 0.0.0.0 l.instagram.com
 0.0.0.0 logger.instagram.com
 0.0.0.0 openvpn.cdninstagram.com
+0.0.0.0 photos-a.ak.instagram.com
+0.0.0.0 photos-b.ak.instagram.com
+0.0.0.0 photos-d.ak.instagram.com
+0.0.0.0 photos-e.ak.instagram.com
+0.0.0.0 photos-f.ak.instagram.com
+0.0.0.0 photos-h.ak.instagram.com
 0.0.0.0 platform.cdninstagram.com
 0.0.0.0 platform.instagram.com
 0.0.0.0 scontent-a-ams.cdninstagram.com
@@ -85742,6 +85845,7 @@
 0.0.0.0 scontent-a-yyz.cdninstagram.com
 0.0.0.0 scontent-a.cdninstagram.com
 0.0.0.0 scontent-ams.cdninstagram.com
+0.0.0.0 scontent-ams2-1.cdninstagram.com
 0.0.0.0 scontent-ams3-1.cdninstagram.com
 0.0.0.0 scontent-ams4-1.cdninstagram.com
 0.0.0.0 scontent-amt2-1.cdninstagram.com
@@ -85750,6 +85854,7 @@
 0.0.0.0 scontent-arn2-2.cdninstagram.com
 0.0.0.0 scontent-atl.cdninstagram.com
 0.0.0.0 scontent-atl3-1.cdninstagram.com
+0.0.0.0 scontent-atl3-2.cdninstagram.com
 0.0.0.0 scontent-b-ams.cdninstagram.com
 0.0.0.0 scontent-b-amt.cdninstagram.com
 0.0.0.0 scontent-b-arn.cdninstagram.com
@@ -85794,17 +85899,22 @@
 0.0.0.0 scontent-bog1-1.cdninstagram.com
 0.0.0.0 scontent-bom1-1.cdninstagram.com
 0.0.0.0 scontent-bos3-1.cdninstagram.com
+0.0.0.0 scontent-bos5-1.cdninstagram.com
 0.0.0.0 scontent-bru.cdninstagram.com
 0.0.0.0 scontent-bru2-1.cdninstagram.com
 0.0.0.0 scontent-cai1-1.cdninstagram.com
 0.0.0.0 scontent-cdg.cdninstagram.com
 0.0.0.0 scontent-cdg2-1.cdninstagram.com
+0.0.0.0 scontent-cdg4-1.cdninstagram.com
+0.0.0.0 scontent-cdg4-2.cdninstagram.com
+0.0.0.0 scontent-cdg4-3.cdninstagram.com
 0.0.0.0 scontent-cdt.cdninstagram.com
 0.0.0.0 scontent-cdt1-1.cdninstagram.com
 0.0.0.0 scontent-cgk.cdninstagram.com
 0.0.0.0 scontent-cgk1-1.cdninstagram.com
 0.0.0.0 scontent-cph2-1.cdninstagram.com
 0.0.0.0 scontent-del1-1.cdninstagram.com
+0.0.0.0 scontent-den2-1.cdninstagram.com
 0.0.0.0 scontent-den4-1.cdninstagram.com
 0.0.0.0 scontent-dft4-1.cdninstagram.com
 0.0.0.0 scontent-dft4-2.cdninstagram.com
@@ -85822,6 +85932,9 @@
 0.0.0.0 scontent-fml2-1.cdninstagram.com
 0.0.0.0 scontent-for1-1.cdninstagram.com
 0.0.0.0 scontent-fra3-1.cdninstagram.com
+0.0.0.0 scontent-fra3-2.cdninstagram.com
+0.0.0.0 scontent-fra5-1.cdninstagram.com
+0.0.0.0 scontent-fra5-2.cdninstagram.com
 0.0.0.0 scontent-frt.cdninstagram.com
 0.0.0.0 scontent-frt3-1.cdninstagram.com
 0.0.0.0 scontent-frt3-2.cdninstagram.com
@@ -85840,8 +85953,10 @@
 0.0.0.0 scontent-hkg3-1.cdninstagram.com
 0.0.0.0 scontent-hkg3-2.cdninstagram.com
 0.0.0.0 scontent-hkt1-1.cdninstagram.com
+0.0.0.0 scontent-hou1-1.cdninstagram.com
 0.0.0.0 scontent-iad.cdninstagram.com
 0.0.0.0 scontent-iad3-1.cdninstagram.com
+0.0.0.0 scontent-iad3-2.cdninstagram.com
 0.0.0.0 scontent-icn1-1.cdninstagram.com
 0.0.0.0 scontent-itm1-1.cdninstagram.com
 0.0.0.0 scontent-jnb1-1.cdninstagram.com
@@ -85853,9 +85968,13 @@
 0.0.0.0 scontent-lax3-2.cdninstagram.com
 0.0.0.0 scontent-lga.cdninstagram.com
 0.0.0.0 scontent-lga3-1.cdninstagram.com
+0.0.0.0 scontent-lga3-2.cdninstagram.com
 0.0.0.0 scontent-lhr.cdninstagram.com
 0.0.0.0 scontent-lhr3-1.cdninstagram.com
+0.0.0.0 scontent-lhr6-1.cdninstagram.com
+0.0.0.0 scontent-lhr6-2.cdninstagram.com
 0.0.0.0 scontent-lhr8-1.cdninstagram.com
+0.0.0.0 scontent-lhr8-2.cdninstagram.com
 0.0.0.0 scontent-lht6-1.cdninstagram.com
 0.0.0.0 scontent-lim1-1.cdninstagram.com
 0.0.0.0 scontent-lis1-1.cdninstagram.com
@@ -85880,6 +85999,8 @@
 0.0.0.0 scontent-nrt1-1.cdninstagram.com
 0.0.0.0 scontent-ord.cdninstagram.com
 0.0.0.0 scontent-ord1-1.cdninstagram.com
+0.0.0.0 scontent-ord5-1.cdninstagram.com
+0.0.0.0 scontent-ord5-2.cdninstagram.com
 0.0.0.0 scontent-ort2-1.cdninstagram.com
 0.0.0.0 scontent-ort2-2.cdninstagram.com
 0.0.0.0 scontent-otp1-1.cdninstagram.com
@@ -86006,6 +86127,7 @@
 0.0.0.0 z-p42-scontent-yyz1-1.cdninstagram.com
 0.0.0.0 z-p42-scontent.cdninstagram.com
 0.0.0.0 z-p42-static.cdninstagram.com
+
 # Whatsapp
 0.0.0.0 account.whatsapp.com
 0.0.0.0 alpha.whatsapp.com
@@ -86014,9 +86136,12 @@
 0.0.0.0 beta.whatsapp.com
 0.0.0.0 betablog.whatsapp.com
 0.0.0.0 blog.whatsapp.com
+0.0.0.0 cdn.whatsapp.net
+0.0.0.0 chat.cdn.whatsapp.net
 0.0.0.0 chat.whatsapp.com
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 dev-web.whatsapp.com
+0.0.0.0 dit.whatsapp.net
 0.0.0.0 dyn.web.whatsapp.com
 0.0.0.0 e1.whatsapp.net
 0.0.0.0 e10.whatsapp.net
@@ -86039,34 +86164,55 @@
 0.0.0.0 gamma.whatsapp.com
 0.0.0.0 graph.whatsapp.net
 0.0.0.0 m.whatsapp.com
+0.0.0.0 media-ams2-1.cdn.whatsapp.net
 0.0.0.0 media-ams3-1.cdn.whatsapp.net
+0.0.0.0 media-ams4-1.cdn.whatsapp.net
 0.0.0.0 media-amt2-1.cdn.whatsapp.net
 0.0.0.0 media-arn2-1.cdn.whatsapp.net
+0.0.0.0 media-atl3-1.cdn.whatsapp.net
 0.0.0.0 media-ber1-1.cdn.whatsapp.net
+0.0.0.0 media-bog2-1.cdn.whatsapp.net
 0.0.0.0 media-bru2-1.cdn.whatsapp.net
 0.0.0.0 media-cdt1-1.cdn.whatsapp.net
 0.0.0.0 media-dfw5-1.cdn.whatsapp.net
+0.0.0.0 media-dfw5-2.cdn.whatsapp.net
+0.0.0.0 media-dus1-1.cdn.whatsapp.net
+0.0.0.0 media-fra3-1.cdn.whatsapp.net
+0.0.0.0 media-fra3-2.cdn.whatsapp.net
+0.0.0.0 media-fra5-1.cdn.whatsapp.net
 0.0.0.0 media-frt3-1.cdn.whatsapp.net
 0.0.0.0 media-frt3-2.cdn.whatsapp.net
 0.0.0.0 media-frx5-1.cdn.whatsapp.net
 0.0.0.0 media-iad3-1.cdn.whatsapp.net
+0.0.0.0 media-iad3-2.cdn.whatsapp.net
 0.0.0.0 media-lax3-1.cdn.whatsapp.net
 0.0.0.0 media-lax3-2.cdn.whatsapp.net
 0.0.0.0 media-lga3-1.cdn.whatsapp.net
+0.0.0.0 media-lga3-2.cdn.whatsapp.net
 0.0.0.0 media-lhr3-1.cdn.whatsapp.net
+0.0.0.0 media-lhr6-1.cdn.whatsapp.net
+0.0.0.0 media-lhr6-2.cdn.whatsapp.net
+0.0.0.0 media-lhr8-1.cdn.whatsapp.net
+0.0.0.0 media-lhr8-2.cdn.whatsapp.net
 0.0.0.0 media-lht6-1.cdn.whatsapp.net
 0.0.0.0 media-mad1-1.cdn.whatsapp.net
 0.0.0.0 media-mia3-1.cdn.whatsapp.net
+0.0.0.0 media-mia3-2.cdn.whatsapp.net
 0.0.0.0 media-mxp1-1.cdn.whatsapp.net
+0.0.0.0 media-ord5-1.cdn.whatsapp.net
+0.0.0.0 media-ord5-2.cdn.whatsapp.net
 0.0.0.0 media-ort2-1.cdn.whatsapp.net
 0.0.0.0 media-ort2-2.cdn.whatsapp.net
 0.0.0.0 media-otp1-1.cdn.whatsapp.net
+0.0.0.0 media-qro1-1.cdn.whatsapp.net
+0.0.0.0 media-qro1-2.cdn.whatsapp.net
 0.0.0.0 media-sea1-1.cdn.whatsapp.net
 0.0.0.0 media-sin6-1.cdn.whatsapp.net
 0.0.0.0 media-sjc3-1.cdn.whatsapp.net
 0.0.0.0 media-sof1-1.cdn.whatsapp.net
 0.0.0.0 media-vie1-1.cdn.whatsapp.net
 0.0.0.0 media-waw1-1.cdn.whatsapp.net
+0.0.0.0 media-xsp1-1.cdn.whatsapp.net
 0.0.0.0 media-yyz1-1-cdn.whatsapp.net
 0.0.0.0 media.fabj2-1.fna.whatsapp.net
 0.0.0.0 media.fada1-2.fna.whatsapp.net
@@ -86114,8 +86260,11 @@
 0.0.0.0 mmi701.whatsapp.net
 0.0.0.0 mmi731.whatsapp.net
 0.0.0.0 mms.whatsapp.net
+0.0.0.0 mmx-ds.cdn.whatsapp.net
 0.0.0.0 pps.whatsapp.net
 0.0.0.0 ratings.whatsapp.com
+0.0.0.0 scontent.whatsapp.net
+0.0.0.0 static.whatsapp.net
 0.0.0.0 translate-dev.whatsapp.com
 0.0.0.0 translate.whatsapp.com
 0.0.0.0 up.web.whatsapp.com
@@ -86158,6 +86307,7 @@
 0.0.0.0 whatsapp-cdn-shv-01-vie1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-02-sin6.fbcdn.net
 0.0.0.0 whatsapp.com
+0.0.0.0 whatsapp.net
 0.0.0.0 www-cdn.whatsapp.net
 0.0.0.0 www.whatsapp.com
 0.0.0.0 wwwl.whatsapp.com
@@ -86173,12 +86323,50 @@
 0.0.0.0 2012.twitter.com
 0.0.0.0 2013.twitter.com
 0.0.0.0 2014.twitter.com
+0.0.0.0 2015.twitter.com
 0.0.0.0 about.twitter.com
 0.0.0.0 abs.twimg.com
 0.0.0.0 access.twitter.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads-twitter.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 amp.twimg.com
 0.0.0.0 analytics.twitter.com
+0.0.0.0 api-0-4-0.twitter.com
+0.0.0.0 api-0-4-2.twitter.com
+0.0.0.0 api-0-4-3.twitter.com
+0.0.0.0 api-0-4-4.twitter.com
+0.0.0.0 api-0-4-5.twitter.com
+0.0.0.0 api-0-4-6.twitter.com
+0.0.0.0 api-0-4-7.twitter.com
+0.0.0.0 api-0-4-8.twitter.com
+0.0.0.0 api-0-5-0.twitter.com
+0.0.0.0 api-1-0-0.twitter.com
+0.0.0.0 api-2-0-0.twitter.com
+0.0.0.0 api-20-0-0.twitter.com
+0.0.0.0 api-21-0-0.twitter.com
+0.0.0.0 api-23-0-0.twitter.com
+0.0.0.0 api-24-0-0.twitter.com
+0.0.0.0 api-26-0-0.twitter.com
+0.0.0.0 api-28-0-0.twitter.com
+0.0.0.0 api-3-0-0.twitter.com
+0.0.0.0 api-30-0-0.twitter.com
+0.0.0.0 api-31-0-0.twitter.com
+0.0.0.0 api-32-0-0.twitter.com
+0.0.0.0 api-33-0-0.twitter.com
+0.0.0.0 api-34-0-0.twitter.com
+0.0.0.0 api-36-0-0.twitter.com
+0.0.0.0 api-37-0-0.twitter.com
+0.0.0.0 api-38-0-0.twitter.com
+0.0.0.0 api-39-0-0.twitter.com
+0.0.0.0 api-40-0-0.twitter.com
+0.0.0.0 api-41-0-0.twitter.com
+0.0.0.0 api-42-0-0.twitter.com
+0.0.0.0 api-43-0-0.twitter.com
+0.0.0.0 api-44-0-0.twitter.com
+0.0.0.0 api-45-0-0.twitter.com
+0.0.0.0 api-46-0-0.twitter.com
+0.0.0.0 api-stream.twitter.com
 0.0.0.0 api-test.twitter.com
 0.0.0.0 api.twitter.com
 0.0.0.0 api2.twitter.com
@@ -86189,6 +86377,7 @@
 0.0.0.0 brand.twitter.com
 0.0.0.0 business.twitter.com
 0.0.0.0 calendar.twitter.com
+0.0.0.0 caps.twitter.com
 0.0.0.0 cards-dev.twitter.com
 0.0.0.0 cards.twitter.com
 0.0.0.0 cdn.syndication.twimg.com
@@ -86196,6 +86385,7 @@
 0.0.0.0 click.e.twitter.com
 0.0.0.0 content.twitter.com
 0.0.0.0 d2rdfnizen5apl.cloudfront.net
+0.0.0.0 dc-api.twitter.com
 0.0.0.0 dev-about.twitter.com
 0.0.0.0 dev-blog.twitter.com
 0.0.0.0 dev-brand.twitter.com
@@ -86204,8 +86394,11 @@
 0.0.0.0 dev-jobs.twitter.com
 0.0.0.0 dev-marketing.twitter.com
 0.0.0.0 dev.twitter.com
+0.0.0.0 developer.twitter.com
 0.0.0.0 dnt.twimg.com
 0.0.0.0 download.twitter.com
+0.0.0.0 dualstack.twimg.twitter.map.fastly.net
+0.0.0.0 dualstack.video.twitter.map.fastly.net
 0.0.0.0 ea.twimg.com
 0.0.0.0 election.twitter.com
 0.0.0.0 eng.twitter.com
@@ -86216,6 +86409,7 @@
 0.0.0.0 g2.twimg.com
 0.0.0.0 gu.twimg.com
 0.0.0.0 hca.twimg.com
+0.0.0.0 help.twitter.com
 0.0.0.0 horizon.twitter.com
 0.0.0.0 image-proxy-origin.twimg.com
 0.0.0.0 images.tweet.twitter.com
@@ -86247,6 +86441,10 @@
 0.0.0.0 pbs.twimg.com
 0.0.0.0 pic.twitter.com
 0.0.0.0 platform.twitter.com
+0.0.0.0 platform.twitter.map.fastly.net
+0.0.0.0 pro.twitter.com
+0.0.0.0 probe.twitter.com
+0.0.0.0 publish.twitter.com
 0.0.0.0 pulse.twitter.com
 0.0.0.0 r.twimg.com
 0.0.0.0 s.ads-twitter.com
@@ -86262,6 +86460,7 @@
 0.0.0.0 static.twitter.com
 0.0.0.0 status.twitter.com
 0.0.0.0 stream.twitter.com
+0.0.0.0 studio.twitter.com
 0.0.0.0 support.twitter.com
 0.0.0.0 syndication-o.twimg.com
 0.0.0.0 syndication.twimg.com
@@ -86270,26 +86469,33 @@
 0.0.0.0 tailfeather.twimg.com
 0.0.0.0 td.twitter.com
 0.0.0.0 ton.twimg.com
+0.0.0.0 tpop-api.twitter.com
 0.0.0.0 transparency.twitter.com
+0.0.0.0 twimg.twitter.map.fastly.net
 0.0.0.0 twimg0-0.akamaihd.net
+0.0.0.0 twitter.co
 0.0.0.0 twitter.com
+0.0.0.0 twitter.de
+0.0.0.0 twitter.map.fastly.net
 0.0.0.0 upload.twitter.com
 0.0.0.0 userstream.twitter.com
 0.0.0.0 video.twitter.com
+0.0.0.0 video.twitter.map.fastly.net
 0.0.0.0 widgets.platform.twitter.com
 0.0.0.0 widgets.twimg.com
 0.0.0.0 www.ads-twitter.com
 0.0.0.0 www.t.co
 0.0.0.0 www.twitter.com
+0.0.0.0 www.x.com
 0.0.0.0 www2.twitter.com
 0.0.0.0 www4.twitter.com
-0.0.0.0 www.x.com
 0.0.0.0 x.com
 
 # LinkedIn
 0.0.0.0 addtoprofile.linkedin.com
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ae.linkedin.com
+0.0.0.0 afd.perf.linkedin.com
 0.0.0.0 ajuda.linkedin.com
 0.0.0.0 ap.linkedin.com
 0.0.0.0 api.linkedin.com
@@ -86308,6 +86514,7 @@
 0.0.0.0 business.linkedin.com
 0.0.0.0 ca.linkedin.com
 0.0.0.0 certification.linkedin.com
+0.0.0.0 cf.perf.linkedin.com
 0.0.0.0 ch.linkedin.com
 0.0.0.0 cms.linkedin.com
 0.0.0.0 co.linkedin.com
@@ -86326,6 +86533,8 @@
 0.0.0.0 developer.linkedin.com
 0.0.0.0 developers.linkedin.com
 0.0.0.0 dk.linkedin.com
+0.0.0.0 dms-akam.licdn.com
+0.0.0.0 dms.licdn.com
 0.0.0.0 download.linkedin.com
 0.0.0.0 e.linkedin.com
 0.0.0.0 ec.linkedin.com
@@ -86335,6 +86544,9 @@
 0.0.0.0 es.linkedin.com
 0.0.0.0 eu-west-1.dc.ads.linkedin.com
 0.0.0.0 events.linkedin.com
+0.0.0.0 exp1.www.linkedin.com
+0.0.0.0 exp2.www.linkedin.com
+0.0.0.0 exp3.www.linkedin.com
 0.0.0.0 fi.linkedin.com
 0.0.0.0 financeconnect.linkedin.com
 0.0.0.0 forms.linkedin.com
@@ -86372,6 +86584,7 @@
 0.0.0.0 jp.linkedin.com
 0.0.0.0 ke.linkedin.com
 0.0.0.0 kr.linkedin.com
+0.0.0.0 lan.sdk.linkedin.com
 0.0.0.0 learning.linkedin.com
 0.0.0.0 lifg.linkedin.com
 0.0.0.0 linkedin.com
@@ -86382,6 +86595,7 @@
 0.0.0.0 lms.linkedin.com
 0.0.0.0 lu.linkedin.com
 0.0.0.0 m.linkedin.com
+0.0.0.0 mail-d.linkedin.com
 0.0.0.0 mail-test.linkedin.com
 0.0.0.0 mail.linkedin.com
 0.0.0.0 mail01.linkedin.com
@@ -86390,9 +86604,16 @@
 0.0.0.0 mail04.linkedin.com
 0.0.0.0 marketing.linkedin.com
 0.0.0.0 me.linkedin.com
+0.0.0.0 media-akam.licdn.com
+0.0.0.0 media-ecst.licdn.com
+0.0.0.0 media-exp1.licdn.com
+0.0.0.0 media-exp3.licdn.com
 0.0.0.0 media.licdn.com
 0.0.0.0 members.linkedin.com
 0.0.0.0 mentor.linkedin.com
+0.0.0.0 merchantpool1.linkedin.com
+0.0.0.0 mid4.linkedin.com
+0.0.0.0 mix.linkedin.com
 0.0.0.0 mobile.linkedin.com
 0.0.0.0 ms.bantuan.linkedin.com
 0.0.0.0 mx.linkedin.com
@@ -86414,13 +86635,18 @@
 0.0.0.0 opportunity.linkedin.com
 0.0.0.0 ourstory.linkedin.com
 0.0.0.0 pl.linkedin.com
+0.0.0.0 platform-akam.linkedin.com
+0.0.0.0 platform-azur.linkedin.com
+0.0.0.0 platform-ecst.linkedin.com
 0.0.0.0 platform.linkedin.com
 0.0.0.0 polls.linkedin.com
 0.0.0.0 pomoc.linkedin.com
+0.0.0.0 ponf.linkedin.com
 0.0.0.0 premium.linkedin.com
 0.0.0.0 press.linkedin.com
 0.0.0.0 pt.linkedin.com
 0.0.0.0 purchasing.linkedin.com
+0.0.0.0 px.ads.linkedin.com
 0.0.0.0 qa.linkedin.com
 0.0.0.0 remote.linkedin.com
 0.0.0.0 ro.linkedin.com
@@ -86436,7 +86662,12 @@
 0.0.0.0 si.linkedin.com
 0.0.0.0 signin.lms.linkedin.com
 0.0.0.0 smallbusiness.linkedin.com
+0.0.0.0 snap.licdn.com
 0.0.0.0 specialedition.linkedin.com
+0.0.0.0 static-akam.licdn.com
+0.0.0.0 static-azur.licdn.com
+0.0.0.0 static-ecst.licdn.com
+0.0.0.0 static-od.licdn.com
 0.0.0.0 static.licdn.com
 0.0.0.0 studentcareers.linkedin.com
 0.0.0.0 students.linkedin.com
@@ -86461,6 +86692,7 @@
 0.0.0.0 volunteer.linkedin.com
 0.0.0.0 volunteers.linkedin.com
 0.0.0.0 ws.linkedin.com
+0.0.0.0 www-src.linkedin.com
 0.0.0.0 www.brand.linkedin.com
 0.0.0.0 www.bringinyourparents.linkedin.com
 0.0.0.0 www.business.linkedin.com
@@ -86626,6 +86858,7 @@
 # Reddit
 0.0.0.0 a.thumbs.redditmedia.com
 0.0.0.0 about.reddit.com
+0.0.0.0 accounts.reddit.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 amp-reddit-com.cdn.ampproject.org
 0.0.0.0 b.thumbs.redditmedia.com
@@ -86633,6 +86866,7 @@
 0.0.0.0 d.thumbs.redditmedia.com
 0.0.0.0 e.reddit.com
 0.0.0.0 e.thumbs.redditmedia.com
+0.0.0.0 embed.reddit.com
 0.0.0.0 emoji.redditmedia.com
 0.0.0.0 en.reddit.com
 0.0.0.0 events.reddit.com
@@ -86643,6 +86877,8 @@
 0.0.0.0 g.redditmedia.com
 0.0.0.0 gateway.reddit.com
 0.0.0.0 gp.reddit.com
+0.0.0.0 gql-fed.reddit.com
+0.0.0.0 gql-realtime.reddit.com
 0.0.0.0 gql.reddit.com
 0.0.0.0 hw.reddit.com
 0.0.0.0 i.redd.it
@@ -86683,6 +86919,9 @@
 0.0.0.0 styles.redditmedia.com
 0.0.0.0 us.reddit.com
 0.0.0.0 v.redd.it
+0.0.0.0 w3-reporting-csp.reddit.com
+0.0.0.0 w3-reporting-nel.reddit.com
+0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 wh.reddit.com
 0.0.0.0 www.np.reddit.com
 0.0.0.0 www.reddit-stream.com
@@ -86693,33 +86932,175 @@
 0.0.0.0 www.redditmedia.com
 0.0.0.0 www.redditstatic.com
 
-0.0.0.0 pinpages.alwaysdata.net
-0.0.0.0 allotalk.com
-
 # TikTok
+0.0.0.0 abtest-sg-tiktok.byteoversea.com
 0.0.0.0 abtest-va-tiktok.byteoversea.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 api.tiktokv.com
+0.0.0.0 api16.tiktokv.com
+0.0.0.0 applog.tiktokv.com
+0.0.0.0 byteglb.com
 0.0.0.0 dm-maliva16.byteoversea.com
 0.0.0.0 dm.bytedance.com
+0.0.0.0 dm16-alisg.tiktokv.com
+0.0.0.0 dm16-useast1a.tiktokv.com
+0.0.0.0 dm16-useast2a.tiktokv.com
+0.0.0.0 dm16-va.tiktokv.com
+0.0.0.0 dm16.tiktokv.com
+0.0.0.0 frontier-va.tiktokv.com
+0.0.0.0 frontier.tiktokv.com
+0.0.0.0 gecko-sg.tiktokv.com
+0.0.0.0 gecko-va.tiktokv.com
+0.0.0.0 gecko-va.tiktokv.com.edgesuite.net
+0.0.0.0 gecko16-normal-c-useast1a.tiktokv.com
+0.0.0.0 gecko16-normal-c-useast2a.tiktokv.com
+0.0.0.0 gts.byteoversea.net
+0.0.0.0 ib.tiktokv.com
 0.0.0.0 ibytedtos.com
+0.0.0.0 isnssdk.com
+0.0.0.0 jsb-va.tiktokv.com
+0.0.0.0 lf1-ttcdn-tos.pstatp.com
+0.0.0.0 log-va.tiktokv.com
+0.0.0.0 log-va.tiktokv.com.edgekey.net
+0.0.0.0 log.tiktokv.com
+0.0.0.0 log.tiktokv.com.edgesuite.net
+0.0.0.0 log16-normal-c-useast1a.tiktokv.com
+0.0.0.0 log16-normal-c-useast2a.tiktokv.com
+0.0.0.0 mcs-sg.tiktokv.com
+0.0.0.0 mcs-va-useast2a.tiktokv.com
+0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mon-va.byteoversea.com
+0.0.0.0 mon-va.tiktokv.com
+0.0.0.0 mon-va.tiktokv.com.edgesuite.net
 0.0.0.0 mon.byteoversea.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 mon.tiktokv.com.edgesuite.net
 0.0.0.0 muscdn.com
+0.0.0.0 musemuse.cn
 0.0.0.0 musical.ly
 0.0.0.0 musically.ly
+0.0.0.0 p1-tt-ipv6.byteimg.com
+0.0.0.0 p1-tt.byteimg.com
+0.0.0.0 p16-ad-sg.ibyteimg.com
+0.0.0.0 p16-pu-sign-ie.tiktokcdn-eu.com
+0.0.0.0 p16-sign-sg.tiktokcdn.com
+0.0.0.0 p16-sign-va.tiktokcdn.com
+0.0.0.0 p16-sign.tiktokcdn-us.com
+0.0.0.0 p16-tiktok-sg.ibyteimg.com
+0.0.0.0 p16-tiktok-sign-va-h2.ibyteimg.com
+0.0.0.0 p16-tiktok-va-h2.ibyteimg.com
+0.0.0.0 p16-tiktok-va.ibyteimg.com
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 p16-va-tiktok.ibyteimg.com
 0.0.0.0 p16.hypstarcdn.com
+0.0.0.0 p16.tiktokcdn-us.com
+0.0.0.0 p19-pu-ie.tiktokcdn-eu.com
+0.0.0.0 p19-sign.tiktokcdn-us.com
+0.0.0.0 p26-tt.byteimg.com
+0.0.0.0 p3-tt-ipv6.byteimg.com
+0.0.0.0 p77-va.tiktokcdn.com
+0.0.0.0 p77-webcast.tiktokcdn.com
+0.0.0.0 p9-tt.byteimg.com
+0.0.0.0 pull-f3-hs.pstatp.com
+0.0.0.0 pull-f5-hs.flive.pstatp.com
+0.0.0.0 pull-f5-hs.pstatp.com
+0.0.0.0 pull-f5-mus.pstatp.com
+0.0.0.0 pull-flv-f1-hs.pstatp.com
+0.0.0.0 pull-flv-f6-hs.pstatp.com
+0.0.0.0 pull-flv-l1-hs.pstatp.com
+0.0.0.0 pull-flv-l1-mus.pstatp.com
+0.0.0.0 pull-flv-l6-hs.pstatp.com
+0.0.0.0 pull-hls-l1-mus.pstatp.com
+0.0.0.0 pull-l3-hs.pstatp.com
+0.0.0.0 pull-rtmp-f1-hs.pstatp.com
+0.0.0.0 pull-rtmp-f6-hs.pstatp.com
+0.0.0.0 pull-rtmp-l1-hs.pstatp.com
+0.0.0.0 pull-rtmp-l1-mus.pstatp.com
+0.0.0.0 pull-rtmp-l6-hs.pstatp.com
+0.0.0.0 quic-tiktok-core-proxy-i18n-gcpva.byteoversea.net
+0.0.0.0 quic-tiktok-proxy-i18n-gcpva.byteoversea.net
+0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 s16.tiktokcdn.com
+0.0.0.0 s20.tiktokcdn.com
+0.0.0.0 search16-normal-useast2a.tiktokv.com
+0.0.0.0 sdfp-va.tiktokv.com
 0.0.0.0 sf-tb-sg.ibytedtos.com
+0.0.0.0 sf1-ttcdn-tos.pstatp.com
+0.0.0.0 sf16-ttcdn-tos.ipstatp.com
+0.0.0.0 sf53-sg.tiktokcdn.com
+0.0.0.0 sf53-va.tiktokcdn.com
+0.0.0.0 sf6-ttcdn-tos.pstatp.com
+0.0.0.0 sf77-sg.tiktokcdn.com
+0.0.0.0 sf77-va.tiktokcdn.com
+0.0.0.0 sf77-webcast.tiktokcdn.com
 0.0.0.0 sgali3.l.byteoversea.net
+0.0.0.0 sgsnssdk.com
+0.0.0.0 test-ads.tiktok.com
+0.0.0.0 tiktok-lb-alisg.byteoversea.net
+0.0.0.0 tiktok-lb-maliva.byteoversea.net
+0.0.0.0 tiktok-lb-texas.useast5.byteoversea.net.byteigtm.com
+0.0.0.0 tiktok-platform-lb-alisg.byteoversea.net
+0.0.0.0 tiktok-platform-lb-maliva.byteoversea.net
 0.0.0.0 tiktok.com
+0.0.0.0 tiktok.in
 0.0.0.0 tiktok.org
 0.0.0.0 tiktokcdn-com.akamaized.net
+0.0.0.0 tiktokcdn-eu.com
+0.0.0.0 tiktokcdn-eu.net
+0.0.0.0 tiktokcdn-in.com
+0.0.0.0 tiktokcdn-us.com
+0.0.0.0 tiktokcdn-us.com.atomile.com
+0.0.0.0 tiktokcdn-us.com.c.worldfcdn2.com
 0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn.com.atomile.com
+0.0.0.0 tiktokcdn.com.c.bytefcdn-oversea.com
+0.0.0.0 tiktokcdn.com.c.bytefcdn-ttpeu.com
+0.0.0.0 tiktokcdn.com.c.bytetcdn.com
+0.0.0.0 tiktokcdn.com.c.worldfcdn.com
+0.0.0.0 tiktokcdn.com.qlivecdn.com
+0.0.0.0 tiktokcdn.com.rocket-cdn.com
+0.0.0.0 tiktokcdn.com.tlivepush.com
+0.0.0.0 tiktokd.org
+0.0.0.0 tiktokglobalshop.com
+0.0.0.0 tiktokglobalshopv.com
+0.0.0.0 tiktokmusic.app
+0.0.0.0 tiktokshop.com
+0.0.0.0 tiktokstaticb.com
 0.0.0.0 tiktokv.com
+0.0.0.0 tiktokv.com.c.bytefcdn-oversea.com
+0.0.0.0 tiktokv.com.c.worldfcdn.com
+0.0.0.0 tiktokv.com.c.worldfcdn2.com
+0.0.0.0 tiktokv.eu
+0.0.0.0 tiktokv.us
+0.0.0.0 tiktokw.us
+0.0.0.0 tlivecdn.com
+0.0.0.0 ttapis.com
+0.0.0.0 ttdns2.com
+0.0.0.0 ttlivecdn.com
+0.0.0.0 ttlivecdn.com.c.bytefcdn-oversea.com
+0.0.0.0 ttlivecdn.com.c.worldfcdn.com
+0.0.0.0 ttoversea.net
+0.0.0.0 ttoverseaus.net
+0.0.0.0 ttwstatic.com
 0.0.0.0 v16-tiktokcdn-com.akamaized.net
+0.0.0.0 v16m.tiktokcdn-eu.com
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 v39.tiktokcdn-eu.com
+0.0.0.0 v51.tiktokcdn.com
+0.0.0.0 v53.tiktokcdn.com
+0.0.0.0 v58.tiktokcdn-eu.com
+0.0.0.0 v77.tiktokcdn.com
 0.0.0.0 verification-va.byteoversea.com
+0.0.0.0 verification-va.tiktokv.com
+0.0.0.0 webcast16-normal-c-useast2a.tiktokv.com
+0.0.0.0 www.musical.ly
 0.0.0.0 www.tiktok.com
+0.0.0.0 www.tiktok.in
 0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 xlog-va.tiktokv.com
+0.0.0.0 xlog.tiktokv.com
+0.0.0.0 xlog.tiktokv.com.edgesuite.net
 
 # DateMeme
 0.0.0.0 datememe.com
@@ -86771,6 +87152,66 @@
 
 # TikTok clone
 0.0.0.0 likee.video
+
+#Snapchat
+0.0.0.0 accounts.snapchat.com
+0.0.0.0 api-kit.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 asia-southeast1-gcp.api.snapchat.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 aws-cf.api.snapchat.com
+0.0.0.0 aws.duplex.snapchat.com
+0.0.0.0 aws-proxy-gcp.api.snapchat.com
+0.0.0.0 bitmoji.api.snapchat.com
+0.0.0.0 chat-gateway-prod.chat.snapchat.com
+0.0.0.0 click.snapchat.com
+0.0.0.0 direct-response-gcp.api.snapchat.com
+0.0.0.0 europe-west1-gcp.api.snapchat.com
+0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 help.snapchat.com
+0.0.0.0 hoops.games.snapchat.com
+0.0.0.0 intg.snapchat.com
+0.0.0.0 jaguar-prod.snapchat.com
+0.0.0.0 lens.games.snapchat.com
+0.0.0.0 lens.snapchat.com
+0.0.0.0 link.snapchat.com
+0.0.0.0 mvm.snapchat.com
+0.0.0.0 premium-stories.snapchat.com
+0.0.0.0 pro-accounts.snapchat.com
+0.0.0.0 pro-stories.snapchat.com
+0.0.0.0 share.snapchat.com
+0.0.0.0 shows.snapchat.com
+0.0.0.0 sks.snapchat.com
+0.0.0.0 snapchat.com
+0.0.0.0 staging-us-east1-aws.api.snapchat.com
+0.0.0.0 static.snapchat.com
+0.0.0.0 story.snapchat.com
+0.0.0.0 support.snapchat.com
+0.0.0.0 topic-sticker-vending.snapchat.com
+0.0.0.0 tr6.snapchat.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 t.snapchat.com
+0.0.0.0 usc1-gcp-v61.api.snapchat.com
+0.0.0.0 usc1-gcp-v62.api.snapchat.com
+0.0.0.0 us-central1-gcp.api.snapchat.com
+0.0.0.0 use4-gcp-v4.api.snapchat.com
+0.0.0.0 use4-gcp-v6.api.snapchat.com
+0.0.0.0 us-east1-aws-acc.api.snapchat.com
+0.0.0.0 us-east1-aws-acc-test.api.snapchat.com
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 us-east1-aws-cf.api.snapchat.com
+0.0.0.0 us-east1-aws.gateway.snapchat.com
+0.0.0.0 us-east-1-bitmoji.api.snapchat.com
+0.0.0.0 us-east4-gcp.api.snapchat.com
+0.0.0.0 us-east4-gcp-ineg.api.snapchat.com
+0.0.0.0 webattachments.snapchat.com
+0.0.0.0 web.snapchat.com
+0.0.0.0 www.snapchat.com
+
+# Other
+0.0.0.0 pinpages.alwaysdata.net
+0.0.0.0 allotalk.com
 0.0.0.0 mbga.jp
 0.0.0.0 mixi.jp
 0.0.0.0 mixch.tv
