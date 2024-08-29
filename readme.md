@@ -20,7 +20,7 @@ sources can be found in the `hosts/data/` directory.
 [![last commit](https://img.shields.io/github/last-commit/StevenBlack/hosts)](https://github.com/StevenBlack/hosts/commits/master)
 [![commit activity](https://img.shields.io/github/commit-activity/y/StevenBlack/hosts)](https://github.com/StevenBlack/hosts/commits/master)
 
-# Unified hosts file with base extensions
+# Unified hosts file with fakenews extensions
 
 This repository consolidates several reputable `hosts` files, and merges them
 into a unified hosts file with duplicates removed. A variety of tailored hosts
@@ -30,12 +30,12 @@ files are provided.
 
 ![Aggregator](https://raw.githubusercontent.com/StevenBlack/hosts/master/aggregator.png)
 
-- Last updated: **August 26 2024**.
+- Last updated: **August 29 2024**.
 - Here's the
-  [raw hosts file Unified hosts file with base extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
-  containing 172,684 entries.
+  [raw hosts file Unified hosts file with fakenews extensions](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
+  containing 195,070 entries.
 
-![Size history](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts_file_size_history.png)
+
 
 ## List of all hosts file variants
 
@@ -50,7 +50,7 @@ with GitHub download links.
 | Host file recipe | Readme | Raw hosts | Unique domains | Non GitHub mirror |
 | ---------------- | :----: | :-------: | :------------: | :---------------: |
 Unified hosts = **(adware + malware)** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 172,684 | [link](http://sbc.io/hosts/hosts)
-Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts) | 174,878 | [link](http://sbc.io/hosts/alternates/fakenews/hosts)
+Unified hosts **+ fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | 195,070 | [link](http://sbc.io/hosts/hosts)
 **fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-only/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts) | 2,194 | [link](http://sbc.io/hosts/alternates/fakenews-only/hosts)
 Unified hosts **+ gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | 181,077 | [link](http://sbc.io/hosts/alternates/gambling/hosts)
 **gambling** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling-only/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts) | 8,405 | [link](http://sbc.io/hosts/alternates/gambling-only/hosts)
@@ -70,6 +70,7 @@ Unified hosts **+ gambling + social** | [Readme](https://github.com/StevenBlack/
 **gambling + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/gambling-social-only/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social-only/hosts) | 11,626 | [link](http://sbc.io/hosts/alternates/gambling-social-only/hosts)
 Unified hosts **+ porn + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-social/hosts) | 259,150 | [link](http://sbc.io/hosts/alternates/porn-social/hosts)
 **porn + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/porn-social-only/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-social-only/hosts) | 87,191 | [link](http://sbc.io/hosts/alternates/porn-social-only/hosts)
+Unified hosts **+ cryptecks + adobe + fakenews** | [Readme](https://github.com/StevenBlack/hosts/blob/master/adobeblock-version/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/adobeblock-version/hosts) | 195,251 | [link](http://sbc.io/hosts/adobeblock-version/hosts)
 Unified hosts **+ fakenews + gambling + porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling-porn/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts) | 266,546 | [link](http://sbc.io/hosts/alternates/fakenews-gambling-porn/hosts)
 **fakenews + gambling + porn** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling-porn-only/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-only/hosts) | 94,570 | [link](http://sbc.io/hosts/alternates/fakenews-gambling-porn-only/hosts)
 Unified hosts **+ fakenews + gambling + social** | [Readme](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling-social/readme.md) | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts) | 186,463 | [link](http://sbc.io/hosts/alternates/fakenews-gambling-social/hosts)
@@ -99,16 +100,20 @@ add.Dead |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.g
 add.Risk |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) | MIT | [issues](https://github.com/FadeMind/hosts.extras/issues)| Risk content sites based on [hostsfile.org](https://www.hostsfile.org/hosts.html) content.
 add.Spam |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) | MIT | [issues](https://github.com/FadeMind/hosts.extras/issues)| Spam sites based on [hostsfile.org](https://www.hostsfile.org/hosts.html) content.
 Mitchell Krog's - Badd Boyz Hosts |[link](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) | [raw](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts) | MIT | [issues](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues)| Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers
+CoinBlocker |[link](https://gitlab.com/ZeroDot1/CoinBlockerLists) | [raw](https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser) | GPLv3 | [issues](https://gitlab.com/ZeroDot1/CoinBlockerLists/issues)| Simple lists that can help prevent cryptomining in the browser or other applications
+Cryptecks - Spybot List |[link](https://hosts.willpresley.com/) | [raw](https://hosts.willpresley.com/list/spybot-list/hosts) |  | [issues](https://github.com/WillPresley)| A version of the built-in Spybot Search and Destroy quarantine list.
 hostsVN |[link](https://github.com/bigdargon/hostsVN) | [raw](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN) | MIT | [issues](https://github.com/bigdargon/hostsVN/issues)| Hosts block ads of Vietnamese
 KADhosts |[link](https://kadantiscam.netlify.app/) | [raw](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt) | CC BY-SA 4.0 | [issues](https://github.com/PolishFiltersTeam/KADhosts/issues)| Fraud/adware/scam websites.
 MetaMask eth-phishing-detect |[link](https://github.com/MetaMask/eth-phishing-detect) | [raw](https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt) | DON'T BE A DICK PUBLIC LICENSE | [issues](https://github.com/MetaMask/eth-phishing-detect/issues)| Phishing domains targeting Ethereum users.
 minecraft-hosts |[link](https://github.com/jamiemansfield/minecraft-hosts) | [raw](https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt) | CC0-1.0 | [issues](https://github.com/jamiemansfield/minecraft-hosts/issues)| Minecraft related tracker hosts
 MVPS hosts file |[link](https://winhelp2002.mvps.org/) | [raw](https://winhelp2002.mvps.org/hosts.txt) | CC BY-NC-SA 4.0 | [issues](mailto:winhelp2002@gmail.com)| The purpose of this site is to provide the user with a high quality custom HOSTS file.
+osint.digitalside.it |[link](https://github.com/davidonzo/Threat-Intel) | [raw](https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt) | MIT | [issues](https://github.com/davidonzo/Threat-Intel/issues)| DigitalSide Threat-Intel malware domains list.
 Dan Pollock – [someonewhocares](https://someonewhocares.org/) |[link](https://someonewhocares.org/hosts/) | [raw](https://someonewhocares.org/hosts/zero/hosts) | non-commercial with attribution | [issues](mailto:hosts@someonewhocares.org)| How to make the internet not suck (as much).
 Tiuxo hostlist - ads |[link](https://github.com/tiuxo/hosts) | [raw](https://raw.githubusercontent.com/tiuxo/hosts/master/ads) | CC BY 4.0 | [issues](https://github.com/tiuxo/hosts/issues)| Categorized hosts files for DNS based content blocking
 UncheckyAds |[link](https://github.com/FadeMind/hosts.extras) | [raw](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts) | MIT | [issues](https://github.com/FadeMind/hosts.extras/issues)| Windows installers ads sources sites based on https://unchecky.com/ content.
 URLHaus |[link](https://urlhaus.abuse.ch/) | [raw](https://urlhaus.abuse.ch/downloads/hostfile/) | CC0 | [issues](mailto:contactme@abuse.ch)| A project from [abuse.ch](https://abuse.ch/) with the goal of sharing malicious URLs.
 yoyo.org |[link](https://pgl.yoyo.org/adservers/) | [raw](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) |  | [issues](mailto:pgl@yoyo.org)| Blocking with ad server and tracking server hostnames.
+Fake News |[link](https://github.com/marktron/fakenews) | [raw](https://raw.githubusercontent.com/marktron/fakenews/master/fakenews) | MIT | [issues](https://github.com/marktron/fakenews/issues)| An in-progress collection of fake news outlets.
 
 
 ## Extensions
