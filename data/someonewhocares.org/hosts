@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 21 May 2024 at 17:02:35 GMT
+# Last updated: Sun, 25 Aug 2024 at 22:19:16 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1600,6 +1600,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 247blinds.fr
 0.0.0.0 2g312kn32qfy-1323053341.cos.ap-bangkok.myqcloud.com
 0.0.0.0 2roueselectrique.fr
+0.0.0.0 2x1gratis.com
 0.0.0.0 3mfrances.fr
 0.0.0.0 59-106-20-39.r-bl100.sakura.ne.jp
 0.0.0.0 6range.fr
@@ -1670,6 +1671,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 allomine.fr
 0.0.0.0 almaria.fr
 0.0.0.0 alocdn.com
+0.0.0.0 alojamientocentroleon.es
 0.0.0.0 alphardgolf.fr
 0.0.0.0 alphlauren.fr
 0.0.0.0 alzy.fr
@@ -2078,7 +2080,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 etdeposit-interac.com
 0.0.0.0 etransfer-23799.com
 0.0.0.0 etribunaldunet.fr
-0.0.0.0 eu2.contabostorage.com
 0.0.0.0 euriosport.fr
 0.0.0.0 europr1.fr
 0.0.0.0 eurospoprt.fr
@@ -2234,6 +2235,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 heuither.sbs
 0.0.0.0 hfrni.comfortykive.xyz
 0.0.0.0 hibody.fr
+0.0.0.0 hie.li
 0.0.0.0 hifa.fr
 0.0.0.0 himicrosoft.com
 0.0.0.0 hintonsfeetred.info
@@ -2260,6 +2262,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 hp.myway.com
 0.0.0.0 hradware.fr
 0.0.0.0 hsb-canada.com	# phishing site for hsbc.ca
+0.0.0.0 https-ticketnotice.com
 0.0.0.0 huffingtopost.fr
 0.0.0.0 hunkemoeller.fr
 0.0.0.0 hunkemuller.fr
@@ -2356,6 +2359,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 kuder.fr
 0.0.0.0 kweiqox.beauty
 0.0.0.0 l-histoire.fr
+0.0.0.0 l.wl.co
 0.0.0.0 la1dwne9cn5c.com
 0.0.0.0 laatribune.fr
 0.0.0.0 labanquepoqtale.fr
@@ -2616,6 +2620,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 myornamenti.com
 0.0.0.0 myprivateemails.com
 0.0.0.0 myquiz.fr
+0.0.0.0 myrogers-dashboard-signin.net
 0.0.0.0 mytee.fr
 0.0.0.0 mywifiext.fr
 0.0.0.0 n1up.fr
@@ -2892,6 +2897,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 schlaukopf.fr
 0.0.0.0 sciencesetlavenir.fr
 0.0.0.0 scoietegenerale.fr
+0.0.0.0 scotiahelp-loginscotia.com
+0.0.0.0 scotiaonline-verification.com
 0.0.0.0 scottishstuff-online.com	# Canadian bank phishing site
 0.0.0.0 screenaddict.thewhizproducts.com
 0.0.0.0 screencast-o-matic.fr
@@ -2923,6 +2930,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 serff.fr
 0.0.0.0 serv-canada2024.com
 0.0.0.0 servpro.fr
+0.0.0.0 setup-mydelivery-date6437-fedex.com
 0.0.0.0 shapado.com
 0.0.0.0 sharelink.fr
 0.0.0.0 shiiva.fr
@@ -3334,6 +3342,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 wyoutube.fr
 0.0.0.0 xcdkb.comfortykive.xyz
 0.0.0.0 xen-media.com
+0.0.0.0 xn--80afden1bnch4a.xn--p1ai
 0.0.0.0 xn--oogle-wmc.com
 0.0.0.0 xpx7heciz9.com
 0.0.0.0 xxlargepop.com
@@ -3352,6 +3361,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 yrwap.cn
 0.0.0.0 yummie.fr
 0.0.0.0 yves-rocker.fr
+0.0.0.0 z3.skdfoiqwjelmdkfser.ru
 0.0.0.0 zalanado.fr
 0.0.0.0 zalandon.fr
 0.0.0.0 zb1.zeroredirect1.com
@@ -7833,7 +7843,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 j6.jmooreassoc.com
 0.0.0.0 j7.jinghuaqitb.com
 0.0.0.0 j7.jmooreassoc.com
-0.0.0.0 jac.yahoosandbox.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 jambocast.com
 0.0.0.0 jav.ee
@@ -8793,6 +8802,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 premiumproductsonline.com
 0.0.0.0 prestoris.com
 0.0.0.0 prexyone.appspot.com
+0.0.0.0 prfctlivs.click
 0.0.0.0 primetime.ad.primetime.net
 0.0.0.0 primusbelgium.com
 0.0.0.0 privatecollection.top
