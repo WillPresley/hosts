@@ -111,7 +111,8 @@ def main():
                         "@SIZEHISTORY@", size_history_graph
                     )
                 else:
-                    line = line.replace("@SIZEHISTORY@", "")
+                    line = line.replace(
+                        "@SIZEHISTORY@", "![Size history](stats.png)")
 
                 out.write(line)
 

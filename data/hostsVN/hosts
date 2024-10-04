@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 28 Aug 2024 16:09 UTC+7
-# Version: 2408281609
-# Blocked: 1,892 domains
+# Last modified: 02 Oct 2024 22:03 UTC+7
+# Version: 2410022203
+# Blocked: 1,897 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1666,6 +1666,7 @@
 0.0.0.0 an.dongphim.net
 0.0.0.0 an.xemvtv.net
 0.0.0.0 api.boclinkads.com
+0.0.0.0 api.moneyoyo.org
 0.0.0.0 api2.boclinkads.com
 0.0.0.0 apia.headlines.pw
 0.0.0.0 avoadsservices.com
@@ -1741,6 +1742,7 @@
 0.0.0.0 s1.zzz.vn
 0.0.0.0 sbbanner.com
 0.0.0.0 sda.tamdiem247.com
+0.0.0.0 sdk.moneyoyo.com
 0.0.0.0 server.zmedia.vn
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 sharks.vn
@@ -1810,6 +1812,7 @@
 0.0.0.0 analytics.digi8.vn
 0.0.0.0 analytics.evgcdn.net
 0.0.0.0 analytics.evn.com.vn
+0.0.0.0 analytics.explus.vn
 0.0.0.0 analytics.fsoft.com.vn
 0.0.0.0 analytics.gotama.link
 0.0.0.0 analytics.hapo.vn
@@ -1847,6 +1850,7 @@
 0.0.0.0 bubblyzucchini.com
 0.0.0.0 campaign.gitiho.com
 0.0.0.0 cdn.api-connect.io
+0.0.0.0 cdptracker.hocmai.com.vn
 0.0.0.0 clicker.chiaki.vn
 0.0.0.0 clientinfo.phimmoizz.net
 0.0.0.0 collect.ovp.vn
@@ -1889,6 +1893,7 @@
 0.0.0.0 log-dttc.sggp.org.vn
 0.0.0.0 log-en.nhandan.vn
 0.0.0.0 log-en.sggp.org.vn
+0.0.0.0 log-video.baotintuc.vn
 0.0.0.0 log.247post.vn
 0.0.0.0 log.anninhthudo.vn
 0.0.0.0 log.baobackan.com.vn

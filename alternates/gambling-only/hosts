@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 26 August 2024 17:57:50 (UTC)
+# Date: 03 October 2024 15:43:13 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling
-# Number of unique domains: 8,405
+# Number of unique domains: 8,469
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -19,9 +19,9 @@
 
 # End of custom host records.
 # Title: hostsVN Gambling
-# Last modified: 25 Aug 2024 23:21 UTC+7
-# Version: 2408252321
-# Blocked: 5,768 domains
+# Last modified: 02 Oct 2024 09:43 UTC+7
+# Version: 2410020943
+# Blocked: 5,831 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -82,6 +82,7 @@
 0.0.0.0 111c54.com
 0.0.0.0 1166130.com
 0.0.0.0 118kbet.com
+0.0.0.0 11bet.bz
 0.0.0.0 11bet.club
 0.0.0.0 11bet.com
 0.0.0.0 11bet.fun
@@ -234,6 +235,7 @@
 0.0.0.0 63wan.com
 0.0.0.0 6623.support
 0.0.0.0 6677444.com
+0.0.0.0 6686.vn
 0.0.0.0 6686vn76.com
 0.0.0.0 668dg.net
 0.0.0.0 668kbet.com
@@ -754,6 +756,7 @@
 0.0.0.0 b29.pub
 0.0.0.0 b29qc.win
 0.0.0.0 b369.com
+0.0.0.0 b52.club
 0.0.0.0 b52.game
 0.0.0.0 b52.me
 0.0.0.0 b52.mobi
@@ -796,6 +799,9 @@
 0.0.0.0 bayvip247.win
 0.0.0.0 bcb80.com
 0.0.0.0 beb77.com
+0.0.0.0 ben.bet
+0.0.0.0 benbet.app
+0.0.0.0 benbet.com
 0.0.0.0 best.8dayvn888.com
 0.0.0.0 bestcacuoc8.com
 0.0.0.0 bestk8.com
@@ -850,6 +856,7 @@
 0.0.0.0 bj988.com
 0.0.0.0 bk368.com
 0.0.0.0 bk8.live
+0.0.0.0 bk8.pro.vn
 0.0.0.0 bk88safe.com
 0.0.0.0 bk8ae.com
 0.0.0.0 bk8bongda.com
@@ -895,6 +902,9 @@
 0.0.0.0 bong88page.com
 0.0.0.0 bong88vivaw88.com
 0.0.0.0 bong90.bet
+0.0.0.0 bong90.com
+0.0.0.0 bong90.life
+0.0.0.0 bong90.tech
 0.0.0.0 bong99.cc
 0.0.0.0 bong99.com
 0.0.0.0 bong99.fun
@@ -1013,6 +1023,7 @@
 0.0.0.0 choidonclub.club
 0.0.0.0 choigamedonclub.online
 0.0.0.0 choigamedons.club
+0.0.0.0 choigametip.org
 0.0.0.0 choigamevua.club
 0.0.0.0 choigem.fun
 0.0.0.0 choigiaitri.net
@@ -1021,6 +1032,7 @@
 0.0.0.0 choihitclub.fun
 0.0.0.0 choihitclub.run
 0.0.0.0 choiiwin79.fun
+0.0.0.0 choiiwin79.vip
 0.0.0.0 choilawin.net
 0.0.0.0 choingay11b.mobi
 0.0.0.0 choingay11b.vin
@@ -1114,6 +1126,7 @@
 0.0.0.0 d9bet88.com
 0.0.0.0 da88.com
 0.0.0.0 da88.pro
+0.0.0.0 da88vn.win
 0.0.0.0 dabanh.thethaofb88.com
 0.0.0.0 dabet.cc
 0.0.0.0 dabet.club
@@ -1135,6 +1148,7 @@
 0.0.0.0 daga360vn.com
 0.0.0.0 daga88.bet
 0.0.0.0 daga88.com
+0.0.0.0 daga88z.net
 0.0.0.0 daga999.live
 0.0.0.0 dagablv.com
 0.0.0.0 dagacampuchia.com
@@ -1143,6 +1157,7 @@
 0.0.0.0 dagacuadao.org
 0.0.0.0 dagahomqua.com
 0.0.0.0 dagaok88.net
+0.0.0.0 dagathomovn.info
 0.0.0.0 dagatructiep.casino
 0.0.0.0 dagatructiep.io
 0.0.0.0 dagatructiep24h.net
@@ -1182,11 +1197,14 @@
 0.0.0.0 dbthethao.run
 0.0.0.0 dd7bet.me
 0.0.0.0 debet.bet
+0.0.0.0 debet.cc
 0.0.0.0 debet.club
 0.0.0.0 debet.com
 0.0.0.0 debet.info
 0.0.0.0 debet.net
 0.0.0.0 debet.top
+0.0.0.0 debet.uk
+0.0.0.0 debet.us
 0.0.0.0 debet.win
 0.0.0.0 debet79.info
 0.0.0.0 debet88.win
@@ -1202,6 +1220,7 @@
 0.0.0.0 diq9r.com
 0.0.0.0 dj5995.wbet58.com
 0.0.0.0 dk.bongvip.website
+0.0.0.0 dk.choiiwin79.vip
 0.0.0.0 dk.choitet.vip
 0.0.0.0 dk.choiwin79.net
 0.0.0.0 dk.gamequyong.xyz
@@ -1364,6 +1383,7 @@
 0.0.0.0 fabet88.net
 0.0.0.0 fabetvn.com
 0.0.0.0 fan365.win
+0.0.0.0 fb.giaitriwin79.club
 0.0.0.0 fb88.com
 0.0.0.0 fb88.link
 0.0.0.0 fb88aff.com
@@ -1469,6 +1489,8 @@
 0.0.0.0 g1388.com
 0.0.0.0 g9vip.com
 0.0.0.0 ga179.com
+0.0.0.0 ga836.com
+0.0.0.0 ga939.com
 0.0.0.0 ga98.net
 0.0.0.0 gachoic1.com
 0.0.0.0 gachoiviet.com
@@ -1509,6 +1531,7 @@
 0.0.0.0 gamequyong.xyz
 0.0.0.0 gamerikvip.live
 0.0.0.0 games.sin88.biz
+0.0.0.0 gameta88.me
 0.0.0.0 gamevip.info
 0.0.0.0 gamevipclub.fun
 0.0.0.0 gamevipclub.us
@@ -1526,6 +1549,7 @@
 0.0.0.0 gd55m.org
 0.0.0.0 gdwbetvn888.com
 0.0.0.0 gdwviet.com
+0.0.0.0 gem.win
 0.0.0.0 gem1.win
 0.0.0.0 gem79.win
 0.0.0.0 gem88.win
@@ -1677,6 +1701,7 @@
 0.0.0.0 i.go88.org
 0.0.0.0 i.go88.top
 0.0.0.0 i.rik.vip
+0.0.0.0 i.win79.com
 0.0.0.0 i.win79.fun
 0.0.0.0 i1lnr.com
 0.0.0.0 i8bet.org
@@ -3199,6 +3224,7 @@
 0.0.0.0 km238b.com
 0.0.0.0 km938b.com
 0.0.0.0 kmisa68.com
+0.0.0.0 ko66.com
 0.0.0.0 ko66vip.casino
 0.0.0.0 ko66vip.club
 0.0.0.0 kt88.pro
@@ -3319,6 +3345,7 @@
 0.0.0.0 lp.b52vn.info
 0.0.0.0 lp.choiriikvip.today
 0.0.0.0 lp.choitet.vip
+0.0.0.0 lp.da88vn.win
 0.0.0.0 lp.go8vui.info
 0.0.0.0 lp.macauclub.fun
 0.0.0.0 lp.mayclub.net
@@ -3455,9 +3482,11 @@
 0.0.0.0 m.s26.lol
 0.0.0.0 m.s26bet01.com
 0.0.0.0 m.shbet.love
+0.0.0.0 m.sure168.asia
 0.0.0.0 m.tf88265.com
 0.0.0.0 m.tf88v.com
 0.0.0.0 m.tf88vn.com
+0.0.0.0 m.tin888.club
 0.0.0.0 m.to188xj.com
 0.0.0.0 m.tobet88.net
 0.0.0.0 m.twin188.co
@@ -3577,6 +3606,7 @@
 0.0.0.0 minivn.com
 0.0.0.0 missbet.com
 0.0.0.0 mix79.vip
+0.0.0.0 mk.support
 0.0.0.0 mkt.11bet.us
 0.0.0.0 mkt.debet.com
 0.0.0.0 mkt.lucky88.net
@@ -3820,6 +3850,7 @@
 0.0.0.0 play.sum4.club
 0.0.0.0 play.sum5.club
 0.0.0.0 play.taib52.com
+0.0.0.0 play.taingayking52.fun
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
 0.0.0.0 play.top88.vn
@@ -3834,6 +3865,7 @@
 0.0.0.0 play.wyn88.ski
 0.0.0.0 play.x8.club
 0.0.0.0 play.x8vn.top
+0.0.0.0 play.xocdia88.video
 0.0.0.0 play.yo88.net
 0.0.0.0 play.yo88.win
 0.0.0.0 play.yo88vn.vip
@@ -3901,8 +3933,10 @@
 0.0.0.0 qc.789k.club
 0.0.0.0 qc.b52.win
 0.0.0.0 qc.choidabanh.com
+0.0.0.0 qc.choigametip.org
 0.0.0.0 qc.conggiaitri.com
 0.0.0.0 qc.gamevipclub.fun
+0.0.0.0 qc.gem.win
 0.0.0.0 qc.hitpro.run
 0.0.0.0 qc.macau.club
 0.0.0.0 qc.manclubwin.club
@@ -3963,6 +3997,7 @@
 0.0.0.0 red88.vin
 0.0.0.0 red88.vip
 0.0.0.0 red88e.com
+0.0.0.0 reg.gameta88.me
 0.0.0.0 reg.lode88j.cc
 0.0.0.0 reg.playiwin.site
 0.0.0.0 resources.bong90.bet
@@ -3992,11 +4027,14 @@
 0.0.0.0 rikvip.vip
 0.0.0.0 rikvip.win
 0.0.0.0 rikvip2.vip
+0.0.0.0 rikvip8.win
 0.0.0.0 rikvipclub.us
 0.0.0.0 rikvipp.net
 0.0.0.0 rio66qc.club
 0.0.0.0 ritq4.com
 0.0.0.0 royal77vn.com
+0.0.0.0 rr88.link
+0.0.0.0 rr88.live
 0.0.0.0 rs88.online
 0.0.0.0 rubik88.com
 0.0.0.0 rvbet005.com
@@ -4007,6 +4045,7 @@
 0.0.0.0 s.8xbet.xyz
 0.0.0.0 s.p3vn.co
 0.0.0.0 s.sv66c.com
+0.0.0.0 s.topzo.club
 0.0.0.0 s0106.com
 0.0.0.0 s0kn5.com
 0.0.0.0 s1.sin88.biz
@@ -4199,6 +4238,7 @@
 0.0.0.0 sunwinclub.fun
 0.0.0.0 sunwinvn.club
 0.0.0.0 superslot777.bet
+0.0.0.0 sure168.asia
 0.0.0.0 susu86.onilne
 0.0.0.0 sv1.sv88.uk
 0.0.0.0 sv1.sv88.vip
@@ -4326,6 +4366,7 @@
 0.0.0.0 taigamengay.biz
 0.0.0.0 taigamengay.click
 0.0.0.0 taigamengay.digital
+0.0.0.0 taigamengay.pw
 0.0.0.0 taigameslotsumvip50k.info
 0.0.0.0 taigamesunwin.vin
 0.0.0.0 taigamesunwin.vip
@@ -4353,6 +4394,7 @@
 0.0.0.0 taimanclub.com
 0.0.0.0 taimanvip.vip
 0.0.0.0 tainbet.net
+0.0.0.0 taingayking52.fun
 0.0.0.0 taiok88.app
 0.0.0.0 taiqqlive.pro
 0.0.0.0 taisanvip.net
@@ -4464,7 +4506,9 @@
 0.0.0.0 tienve.thethaofb88.com
 0.0.0.0 tin.11bet.net
 0.0.0.0 tin010.com
+0.0.0.0 tin888.club
 0.0.0.0 tintuc.vlott88.com
+0.0.0.0 tip.club
 0.0.0.0 tipkeo.thethaofb88.com
 0.0.0.0 tipkeomoingay.club
 0.0.0.0 tiptoday.com
@@ -4515,6 +4559,10 @@
 0.0.0.0 topdoithuong.net
 0.0.0.0 topnhacaihot.com
 0.0.0.0 topnohu.com
+0.0.0.0 topzo.club
+0.0.0.0 topzo.com
+0.0.0.0 topzo.top
+0.0.0.0 topzo.vip
 0.0.0.0 tpviet66.com
 0.0.0.0 tpviet88.com
 0.0.0.0 tracking.fabet.vip
@@ -4528,6 +4576,7 @@
 0.0.0.0 trangchu2c.com
 0.0.0.0 trangchu2d.com
 0.0.0.0 tructiepdaga.info
+0.0.0.0 tructiepketqua.net
 0.0.0.0 trungso.vip
 0.0.0.0 trunk.websvn.info
 0.0.0.0 truyenthongthongtin.com
@@ -4605,6 +4654,7 @@
 0.0.0.0 vao78win.xyz
 0.0.0.0 vaob52.click
 0.0.0.0 vaobet.club
+0.0.0.0 vaohitclub.me
 0.0.0.0 vaoku.net
 0.0.0.0 vaorikvip.com
 0.0.0.0 vaorikvip.net
@@ -4656,6 +4706,7 @@
 0.0.0.0 vip.8kbet.vn
 0.0.0.0 vip.dangkyrikvip.me
 0.0.0.0 vip.dangkyrikvip.tv
+0.0.0.0 vip.rikvip8.win
 0.0.0.0 vip.v99win.app
 0.0.0.0 vip11.club
 0.0.0.0 vip11.us
@@ -4680,6 +4731,7 @@
 0.0.0.0 vjprok8.com
 0.0.0.0 vlott88.com
 0.0.0.0 vn-lm.jbovietnam.com
+0.0.0.0 vn.app
 0.0.0.0 vn.bway88vietnam.com
 0.0.0.0 vn.ku6101.net
 0.0.0.0 vn.ku6106.net
@@ -4762,6 +4814,7 @@
 0.0.0.0 vnmx66.com
 0.0.0.0 vnn138.com
 0.0.0.0 vnn8d.com
+0.0.0.0 vnon.app
 0.0.0.0 vnpro88.com
 0.0.0.0 vnq8.bet
 0.0.0.0 vnq8.com
@@ -4926,6 +4979,7 @@
 0.0.0.0 web.0000130.com
 0.0.0.0 web.130casino.com
 0.0.0.0 web.68rich.com
+0.0.0.0 web.hit.club
 0.0.0.0 web.hitclub.top
 0.0.0.0 web.hitlub.fun
 0.0.0.0 web.macau.club
@@ -4936,6 +4990,7 @@
 0.0.0.0 web.taiv8.com
 0.0.0.0 web.taiv8.top
 0.0.0.0 web.top88.vip
+0.0.0.0 web.topzo.com
 0.0.0.0 web.vicplay.io
 0.0.0.0 web.zo.game
 0.0.0.0 web.zowinvn.vip
@@ -4944,6 +4999,7 @@
 0.0.0.0 websvn.info
 0.0.0.0 wellviet.net
 0.0.0.0 wewinvwin.com
+0.0.0.0 wi88.top
 0.0.0.0 wi88.win
 0.0.0.0 widget.188thethao.com
 0.0.0.0 widget.v9bet88.net
@@ -5171,6 +5227,7 @@
 0.0.0.0 www.betvisa.com
 0.0.0.0 www.big88.one
 0.0.0.0 www.bigbet2322.com
+0.0.0.0 www.bk8.pro.vn
 0.0.0.0 www.bk88safe.com
 0.0.0.0 www.bk8bongda.com
 0.0.0.0 www.bk8c.com
@@ -5477,6 +5534,7 @@
 0.0.0.0 www.rikvip.uk
 0.0.0.0 www.rikvipclub.us
 0.0.0.0 www.royal77vn.com
+0.0.0.0 www.rr88.live
 0.0.0.0 www.s26.lol
 0.0.0.0 www.s9996.com
 0.0.0.0 www.s9997.com
@@ -5723,6 +5781,9 @@
 0.0.0.0 xo88.us
 0.0.0.0 xo88.win
 0.0.0.0 xo88moi.com
+0.0.0.0 xocdia88.click
+0.0.0.0 xocdia88.es
+0.0.0.0 xocdia88.video
 0.0.0.0 xoi77.com
 0.0.0.0 xoi99.com
 0.0.0.0 xoso12345.com
@@ -5770,6 +5831,8 @@
 0.0.0.0 yule12888.com
 0.0.0.0 yylive.top
 0.0.0.0 yylive.tv
+0.0.0.0 yylive.vip
+0.0.0.0 yylive.xyz
 0.0.0.0 z1.zbet.com
 0.0.0.0 z1.zbet.vn
 0.0.0.0 z2.zbet.com
@@ -5798,6 +5861,12 @@
 0.0.0.0 zowinvn.vip
 0.0.0.0 ztij6.com
 0.0.0.0 zvhlv.com
+
+# <http://www.top100bookmakers.com/completelist.php>
+# <https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/anti-casino-and-betting-hosts-file.txt>
+# <https://www.reddit.com/r/GlobalOffensiveGamble/comments/3d5fmr/list_of_csgo_gambling_websites/>
+# Title: Gambling hosts
+# Updated Jun 22, 2022
 0.0.0.0 10bet.com
 0.0.0.0 10luxury39.com
 0.0.0.0 11wickets.com
@@ -5835,13 +5904,11 @@
 0.0.0.0 777.com
 0.0.0.0 7777.bg
 0.0.0.0 777bets.co.uk
-0.0.0.0 7bet.lt
 0.0.0.0 7epta7.com
 0.0.0.0 7godscasino.com
 0.0.0.0 7jackpots.com
 0.0.0.0 828bet.net
 0.0.0.0 888.com
-0.0.0.0 888.pt
 0.0.0.0 888sport.com
 0.0.0.0 88asia88.com
 0.0.0.0 88sports.com
@@ -5883,7 +5950,6 @@
 0.0.0.0 atg.se
 0.0.0.0 axbet.com
 0.0.0.0 b-bets.com
-0.0.0.0 bacanaplay.pt
 0.0.0.0 balkanbet.co.rs
 0.0.0.0 ballebaazi.com
 0.0.0.0 bananajackpot.com
@@ -5921,8 +5987,6 @@
 0.0.0.0 betamerica.com
 0.0.0.0 betandclick.com
 0.0.0.0 betano.bg
-0.0.0.0 betano.cz
-0.0.0.0 betano.pt
 0.0.0.0 betanysports.eu
 0.0.0.0 betbanks.com
 0.0.0.0 betboro.com
@@ -5938,7 +6002,6 @@
 0.0.0.0 betcityru.com
 0.0.0.0 betclic.com
 0.0.0.0 betclic.pl
-0.0.0.0 betclic.pt
 0.0.0.0 betclock.com
 0.0.0.0 betcostarica.ag
 0.0.0.0 betcris.com
@@ -6026,7 +6089,6 @@
 0.0.0.0 bets10go.com
 0.0.0.0 bets4all.com
 0.0.0.0 betsafe.com
-0.0.0.0 betsafe.lt
 0.0.0.0 betsbi.com
 0.0.0.0 betser.com
 0.0.0.0 betshop.com
@@ -6061,14 +6123,12 @@
 0.0.0.0 betway.co.ke
 0.0.0.0 betway.bg
 0.0.0.0 betway.com
-0.0.0.0 betway.pt
 0.0.0.0 betworks.com
 0.0.0.0 betxchange.co.za
 0.0.0.0 betzest.com
 0.0.0.0 betzone.com
 0.0.0.0 bgbet.com
 0.0.0.0 bgo.com
-0.0.0.0 bidluck.pt
 0.0.0.0 bigbetworld.com
 0.0.0.0 bingo.com
 0.0.0.0 bingo.vernons.com
@@ -6080,7 +6140,6 @@
 0.0.0.0 bingoyard.com
 0.0.0.0 bitcoinsports.eu
 0.0.0.0 bitsaloon.com
-0.0.0.0 blancoshrimp.com
 0.0.0.0 blog.maxbet.rs
 0.0.0.0 bobcasino.com
 0.0.0.0 bobetting.com
@@ -6111,7 +6170,6 @@
 0.0.0.0 bustadice.com
 0.0.0.0 butterflybingo.com
 0.0.0.0 bwin.com
-0.0.0.0 bwin.pt
 0.0.0.0 cafecasino.lv
 0.0.0.0 caliente.mx
 0.0.0.0 campaign.rizk.com
@@ -6132,7 +6190,6 @@
 0.0.0.0 casimba.com
 0.0.0.0 casineto.net
 0.0.0.0 casiniabet.com
-0.0.0.0 casinoadmiral.lt
 0.0.0.0 casino-pp.net
 0.0.0.0 casinobg.info
 0.0.0.0 casino.betway.com
@@ -6157,10 +6214,8 @@
 0.0.0.0 casinostugan.com
 0.0.0.0 casinotown.se
 0.0.0.0 casinowinner.com
-0.0.0.0 casinoportugal.pt
 0.0.0.0 casinsi.com
 0.0.0.0 casumo.com
-0.0.0.0 cbet.lt
 0.0.0.0 cbmsport.com
 0.0.0.0 cc898.com
 0.0.0.0 celebbingo.com
@@ -6346,10 +6401,7 @@
 0.0.0.0 eloterija.si
 0.0.0.0 emeraldbet.com
 0.0.0.0 en.betclic.com
-0.0.0.0 en.cbet.lt
 0.0.0.0 en.expekt.com
-0.0.0.0 en.topsport.lt
-0.0.0.0 en.uniclub.lt
 0.0.0.0 energybet.com
 0.0.0.0 enterbet.com
 0.0.0.0 eqraffle.com
@@ -6359,7 +6411,6 @@
 0.0.0.0 esports.gtorb.com
 0.0.0.0 esportsbetting.com
 0.0.0.0 esportscasino.com
-0.0.0.0 estorilsolcasinos.pt
 0.0.0.0 etherdice.io
 0.0.0.0 etipos.sk
 0.0.0.0 etopaz.az
@@ -6445,7 +6496,6 @@
 0.0.0.0 golazobet.com
 0.0.0.0 goldbetsports.com
 0.0.0.0 goldenbetsng.com
-0.0.0.0 goldenpark.pt
 0.0.0.0 goldmedalbingo.com
 0.0.0.0 goliathcasino.com
 0.0.0.0 gossipbingo.com
@@ -6497,7 +6547,6 @@
 0.0.0.0 ibcbetberry.com
 0.0.0.0 ibet789.com
 0.0.0.0 ibetcasino.com
-0.0.0.0 iforbet.cz
 0.0.0.0 iforbet.pl
 0.0.0.0 ifortuna.cz
 0.0.0.0 igame.com
@@ -6586,7 +6635,6 @@
 0.0.0.0 latloto.lv
 0.0.0.0 lazvegas.com
 0.0.0.0 leaguex.com
-0.0.0.0 lebull.pt
 0.0.0.0 legendsportsbook.com
 0.0.0.0 legolas.bet
 0.0.0.0 leisure888.com
@@ -6625,7 +6673,6 @@
 0.0.0.0 loterie.ma
 0.0.0.0 loteries.lotoquebec.com
 0.0.0.0 loterija.si
-0.0.0.0 loto.lt
 0.0.0.0 loto.mk
 0.0.0.0 loto.ro
 0.0.0.0 lotoquebec.com
@@ -6697,7 +6744,6 @@
 0.0.0.0 majorsportsbetting.com
 0.0.0.0 malinasports.com
 0.0.0.0 mamamiabingo.com
-0.0.0.0 manoloto.lt
 0.0.0.0 mansion88.com
 0.0.0.0 mansionbet.com
 0.0.0.0 marathonbet.com
@@ -6733,7 +6779,6 @@
 0.0.0.0 monacoaces.com
 0.0.0.0 moneyplayscasino.com
 0.0.0.0 montecarlocasino.com
-0.0.0.0 moosh.pt
 0.0.0.0 morganbet.eu
 0.0.0.0 mozzartbet.co.ke
 0.0.0.0 mozzartbet.com
@@ -6795,7 +6840,6 @@
 0.0.0.0 norskeautomater.com
 0.0.0.0 norskespilleautomater.com
 0.0.0.0 nostrabet.com
-0.0.0.0 nossaaposta.pt
 0.0.0.0 novibet.com
 0.0.0.0 noxwin.com
 0.0.0.0 nyspins.com
@@ -6811,17 +6855,14 @@
 0.0.0.0 olimp.com
 0.0.0.0 olybet.com
 0.0.0.0 olybet.eu
-0.0.0.0 olybet.lt
 0.0.0.0 omniacasino.com
 0.0.0.0 onetpedia.net
 0.0.0.0 online.caliente.mx
-0.0.0.0 online.casinoadmiral.lt
 0.0.0.0 online.singaporepools.com
 0.0.0.0 onlywinners.com
 0.0.0.0 opap.gr
 0.0.0.0 opcrates.com
 0.0.0.0 optibet.com
-0.0.0.0 optibet.lt
 0.0.0.0 optionsports.com
 0.0.0.0 orakulas.lt
 0.0.0.0 orlandocasino.com
@@ -6840,7 +6881,6 @@
 0.0.0.0 paradisewin.com
 0.0.0.0 parasino.com
 0.0.0.0 parimatch.com
-0.0.0.0 partycasino.lt
 0.0.0.0 partypoker.cz
 0.0.0.0 pasarbola.com
 0.0.0.0 pelaa.com
@@ -6848,6 +6888,7 @@
 0.0.0.0 pinnacle.com
 0.0.0.0 pinnaclesports.com
 0.0.0.0 piratespin.com
+0.0.0.0 pixabay.com
 0.0.0.0 planetofbets.com
 0.0.0.0 planetwin365.com
 0.0.0.0 playbet.com
@@ -6857,7 +6898,6 @@
 0.0.0.0 playojo.com
 0.0.0.0 playolg.ca
 0.0.0.0 playtech.com
-0.0.0.0 placard.pt
 0.0.0.0 plexodds.com
 0.0.0.0 plus.betway.com
 0.0.0.0 pocketvegas.co.uk
@@ -6924,9 +6964,6 @@
 0.0.0.0 royrichie.com
 0.0.0.0 rubet.com
 0.0.0.0 rush777.com
-0.0.0.0 ru.cbet.lt
-0.0.0.0 ru.topsport.lt
-0.0.0.0 ru.uniclub.lt
 0.0.0.0 saartoto.de
 0.0.0.0 sachsenlotto.de
 0.0.0.0 safaribet.com.gh
@@ -6984,7 +7021,6 @@
 0.0.0.0 socalsportbook.com
 0.0.0.0 society.gg
 0.0.0.0 softbet.eu
-0.0.0.0 solverde.pt
 0.0.0.0 speedybet.com
 0.0.0.0 spela.com
 0.0.0.0 spindipity.com
@@ -7008,7 +7044,6 @@
 0.0.0.0 sportpesa.co.tz
 0.0.0.0 sportpesa.com
 0.0.0.0 sports-gambling.com
-0.0.0.0 sports2.uniclub.lt
 0.0.0.0 sports.betway.com
 0.0.0.0 sports.br.betboo.com
 0.0.0.0 sports.bwin.com
@@ -7081,7 +7116,6 @@
 0.0.0.0 tabgold.co.za
 0.0.0.0 taiwanlottery.com.tw
 0.0.0.0 takarakuji-official.jp
-0.0.0.0 tatkazino.lt
 0.0.0.0 tatts.com
 0.0.0.0 templenile.com
 0.0.0.0 tempobet.com
@@ -7114,7 +7148,6 @@
 0.0.0.0 topodds.com.au
 0.0.0.0 topplay.cc
 0.0.0.0 topsport.com.au
-0.0.0.0 topsport.lt
 0.0.0.0 topsportwetten.com
 0.0.0.0 topwin.cc
 0.0.0.0 totalbets.com
@@ -7129,7 +7162,6 @@
 0.0.0.0 triobet.com
 0.0.0.0 ttr.casino
 0.0.0.0 turbico.com
-0.0.0.0 twinsbet.lt
 0.0.0.0 uberskins.net
 0.0.0.0 ubet.com
 0.0.0.0 ucabet.co
@@ -7137,7 +7169,6 @@
 0.0.0.0 unibet-42.com
 0.0.0.0 unibet.com
 0.0.0.0 unibet.com.au
-0.0.0.0 uniclub.lt
 0.0.0.0 unionbet.com
 0.0.0.0 usapriceperhead.com
 0.0.0.0 usbetting.co.za
@@ -7172,7 +7203,6 @@
 0.0.0.0 wap.moneyyellow.com
 0.0.0.0 webbookmakers.com
 0.0.0.0 webpartners.co
-0.0.0.0 welcome.olybet.lt
 0.0.0.0 westlotto.de
 0.0.0.0 wettpunkt.com
 0.0.0.0 wgh.ag
@@ -7235,7 +7265,6 @@
 0.0.0.0 www.724sports.com
 0.0.0.0 www.777.com
 0.0.0.0 www.7777.bg
-0.0.0.0 www.7bet.lt
 0.0.0.0 www.7epta7.com
 0.0.0.0 www.7godscasino.com
 0.0.0.0 www.7jackpots.com
@@ -7309,7 +7338,6 @@
 0.0.0.0 www.betaland.com
 0.0.0.0 www.betamerica.com
 0.0.0.0 www.betandclick.com
-0.0.0.0 www.betano.cz
 0.0.0.0 www.betanysports.eu
 0.0.0.0 www.betbanks.com
 0.0.0.0 www.betboro.com
@@ -7409,7 +7437,6 @@
 0.0.0.0 www.bets10go.com
 0.0.0.0 www.bets4all.com
 0.0.0.0 www.betsafe.com
-0.0.0.0 www.betsafe.lt
 0.0.0.0 www.betsbc.com
 0.0.0.0 www.betsbi.com
 0.0.0.0 www.betser.com
@@ -7458,7 +7485,6 @@
 0.0.0.0 www.bitcoinrush.io
 0.0.0.0 www.bitcoinsports.eu
 0.0.0.0 www.bitsaloon.com
-0.0.0.0 www.blancoshrimp.com
 0.0.0.0 www.bobcasino.com
 0.0.0.0 www.bobetting.com
 0.0.0.0 www.bobregister.com
@@ -7503,7 +7529,6 @@
 0.0.0.0 www.casimba.com
 0.0.0.0 www.casineto.net
 0.0.0.0 www.casiniabet.com
-0.0.0.0 www.casinoadmiral.lt
 0.0.0.0 www.casino-pp.net
 0.0.0.0 www.casino.org
 0.0.0.0 www.casinoandfriends.com
@@ -7523,7 +7548,6 @@
 0.0.0.0 www.casinotown.se
 0.0.0.0 www.casinsi.com
 0.0.0.0 www.casumo.com
-0.0.0.0 www.cbet.lt
 0.0.0.0 www.cbmsport.com
 0.0.0.0 www.cc898.com
 0.0.0.0 www.celebbingo.com
@@ -7805,7 +7829,6 @@
 0.0.0.0 www.iasbet.com
 0.0.0.0 www.ibet789.com
 0.0.0.0 www.ibetcasino.com
-0.0.0.0 www.iforbet.cz
 0.0.0.0 www.ifortuna.cz
 0.0.0.0 www.igame.com
 0.0.0.0 www.igame.se
@@ -7914,7 +7937,6 @@
 0.0.0.0 www.loterie.ma
 0.0.0.0 www.loteries.lotoquebec.com
 0.0.0.0 www.loterija.si
-0.0.0.0 www.loto.lt
 0.0.0.0 www.loto.mk
 0.0.0.0 www.loto.ro
 0.0.0.0 www.lotoquebec.com
@@ -7977,7 +7999,6 @@
 0.0.0.0 www.majorsportsbetting.com
 0.0.0.0 www.malinasports.com
 0.0.0.0 www.mamamiabingo.com
-0.0.0.0 www.manoloto.lt
 0.0.0.0 www.mansion88.com
 0.0.0.0 www.mansionbet.com
 0.0.0.0 www.marathonbet.co.uk
@@ -8088,14 +8109,12 @@
 0.0.0.0 www.olimp.com
 0.0.0.0 www.olybet.com
 0.0.0.0 www.olybet.eu
-0.0.0.0 www.olybet.lt
 0.0.0.0 www.omniacasino.com
 0.0.0.0 www.online.singaporepools.com
 0.0.0.0 www.onlywinners.com
 0.0.0.0 www.opap.gr
 0.0.0.0 www.opcrates.com
 0.0.0.0 www.optibet.com
-0.0.0.0 www.optibet.lt
 0.0.0.0 www.optionsports.com
 0.0.0.0 www.orakulas.lt
 0.0.0.0 www.orlandocasino.com
@@ -8111,7 +8130,6 @@
 0.0.0.0 www.parasino.com
 0.0.0.0 www.parimatch.com
 0.0.0.0 www.parimatchplay1.com
-0.0.0.0 www.partycasino.lt
 0.0.0.0 www.partypoker.cz
 0.0.0.0 www.pasarbola.com
 0.0.0.0 www.pinnacle.com
@@ -8136,7 +8154,6 @@
 0.0.0.0 www.pokerstars.cz
 0.0.0.0 www.pokerstars.eu
 0.0.0.0 www.pokerstars.uk
-0.0.0.0 www.pokerstars.pt
 0.0.0.0 www.pokerstarscasino.uk
 0.0.0.0 www.portail.lotoquebec.com
 0.0.0.0 www.postcodeloterij.nl
@@ -8304,7 +8321,6 @@
 0.0.0.0 www.tabgold.co.za
 0.0.0.0 www.taiwanlottery.com.tw
 0.0.0.0 www.takarakuji-official.jp
-0.0.0.0 www.tatkazino.lt
 0.0.0.0 www.tempobet.com
 0.0.0.0 www.texascasino.com
 0.0.0.0 www.thebetarena.com
@@ -8330,7 +8346,6 @@
 0.0.0.0 www.topodds.com.au
 0.0.0.0 www.topplay.cc
 0.0.0.0 www.topsport.com.au
-0.0.0.0 www.topsport.lt
 0.0.0.0 www.topsportwetten.com
 0.0.0.0 www.topwin.cc
 0.0.0.0 www.totalbets.com
@@ -8342,14 +8357,12 @@
 0.0.0.0 www.toxicjackpot.com
 0.0.0.0 www.triobet.com
 0.0.0.0 www.ttr.casino
-0.0.0.0 www.twinsbet.lt
 0.0.0.0 www.ubet.com
 0.0.0.0 www.ucabet.co
 0.0.0.0 www.uk-k8.com
 0.0.0.0 www.ultimate-odds.com
 0.0.0.0 www.unibet.co.uk
 0.0.0.0 www.unibet.com
-0.0.0.0 www.uniclub.lt
 0.0.0.0 www.unionbet.com
 0.0.0.0 www.usapriceperhead.com
 0.0.0.0 www.usbetting.co.za
@@ -8424,6 +8437,63 @@
 0.0.0.0 zetpoker.eu
 0.0.0.0 zodiacu.com
 0.0.0.0 zpisportbk.com
+0.0.0.0 7bet.lt
+0.0.0.0 888.pt
+0.0.0.0 bacanaplay.pt
+0.0.0.0 betano.cz
+0.0.0.0 betano.pt
+0.0.0.0 betclic.pt
+0.0.0.0 betsafe.lt
+0.0.0.0 betway.pt
+0.0.0.0 bidluck.pt
+0.0.0.0 blancoshrimp.com
+0.0.0.0 bwin.pt
+0.0.0.0 casinoadmiral.lt
+0.0.0.0 casinoportugal.pt
+0.0.0.0 cbet.lt
+0.0.0.0 en.cbet.lt
+0.0.0.0 en.topsport.lt
+0.0.0.0 en.uniclub.lt
+0.0.0.0 estorilsolcasinos.pt
+0.0.0.0 goldenpark.pt
+0.0.0.0 iforbet.cz
+0.0.0.0 lebull.pt
+0.0.0.0 loto.lt
+0.0.0.0 manoloto.lt
+0.0.0.0 moosh.pt
+0.0.0.0 nossaaposta.pt
+0.0.0.0 olybet.lt
+0.0.0.0 online.casinoadmiral.lt
+0.0.0.0 optibet.lt
+0.0.0.0 partycasino.lt
+0.0.0.0 placard.pt
+0.0.0.0 ru.cbet.lt
+0.0.0.0 ru.topsport.lt
+0.0.0.0 ru.uniclub.lt
+0.0.0.0 solverde.pt
+0.0.0.0 sports2.uniclub.lt
+0.0.0.0 tatkazino.lt
+0.0.0.0 topsport.lt
+0.0.0.0 twinsbet.lt
+0.0.0.0 uniclub.lt
+0.0.0.0 welcome.olybet.lt
+0.0.0.0 www.7bet.lt
+0.0.0.0 www.betano.cz
+0.0.0.0 www.betsafe.lt
+0.0.0.0 www.blancoshrimp.com
+0.0.0.0 www.casinoadmiral.lt
+0.0.0.0 www.cbet.lt
+0.0.0.0 www.iforbet.cz
+0.0.0.0 www.loto.lt
+0.0.0.0 www.manoloto.lt
+0.0.0.0 www.olybet.lt
+0.0.0.0 www.optibet.lt
+0.0.0.0 www.partycasino.lt
+0.0.0.0 www.pokerstars.pt
+0.0.0.0 www.tatkazino.lt
+0.0.0.0 www.topsport.lt
+0.0.0.0 www.twinsbet.lt
+0.0.0.0 www.uniclub.lt
 0.0.0.0 www.draftkings.com
 0.0.0.0 luckia.pt
 0.0.0.0 luckylandslots.com

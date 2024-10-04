@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 25 Aug 2024 at 22:19:16 GMT
+# Last updated: Thu, 03 Oct 2024 at 04:08:26 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2576,6 +2576,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mnecraft.fr
 0.0.0.0 mnutan.fr
 0.0.0.0 mobevo.fr
+0.0.0.0 mobile.parkandpay-ca.com
 0.0.0.0 mobilesoft.fr
 0.0.0.0 mobpushup.com
 0.0.0.0 moddb.fr
@@ -2815,6 +2816,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 proidees.fr
 0.0.0.0 projectpoi.com
 0.0.0.0 promogrim.fr
+0.0.0.0 promojustforyou.click
 0.0.0.0 propitea.fr
 0.0.0.0 provence-ouyillage.fr
 0.0.0.0 provenfeedback.com
@@ -2839,12 +2841,15 @@ ff02::3		ip6-allhosts
 0.0.0.0 raptp.fr
 0.0.0.0 rb-on1in-sec.com
 0.0.0.0 rbc-anth-ogrn.com
+0.0.0.0 rbc-clientsupport1.com
 0.0.0.0 reacherinst.com
 0.0.0.0 realstar.fr
 0.0.0.0 recettes-vegetariennes.fr
 0.0.0.0 recevoirlatntn.fr
 0.0.0.0 recover-subscription.com
 0.0.0.0 redeastbay.com
+0.0.0.0 redelivercadpost.com
+0.0.0.0 redelivtls.online
 0.0.0.0 redf.fr
 0.0.0.0 redline-boutique.fr
 0.0.0.0 redrocks.fr

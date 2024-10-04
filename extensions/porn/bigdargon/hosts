@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 28 Aug 2024 16:10 UTC+7
-# Version: 2408281610
-# Blocked: 3,589 domains
+# Last modified: 02 Oct 2024 09:43 UTC+7
+# Version: 2410020943
+# Blocked: 3,594 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -141,6 +141,7 @@
 0.0.0.0 cbhentai.xyz
 0.0.0.0 cd-taxi.com
 0.0.0.0 cdn.manhwa24hs.com
+0.0.0.0 cdn.subjav.sex
 0.0.0.0 cdn2.seaporn.net
 0.0.0.0 changtrai.net
 0.0.0.0 chanheo.com
@@ -524,6 +525,7 @@
 0.0.0.0 gaigoivip.org
 0.0.0.0 gaigoivip.pro
 0.0.0.0 gaigoivip.site
+0.0.0.0 gaigoivip247.com
 0.0.0.0 gaigoivn.club
 0.0.0.0 gaigoixinh.me
 0.0.0.0 gaigoixx.xyz
@@ -822,12 +824,14 @@
 0.0.0.0 javgg.sbs
 0.0.0.0 javgiga.com
 0.0.0.0 javhay.asia
+0.0.0.0 javhay.click
 0.0.0.0 javhay.club
 0.0.0.0 javhay.co
 0.0.0.0 javhay.cyou
 0.0.0.0 javhay.in
 0.0.0.0 javhay.media
 0.0.0.0 javhay.movie
+0.0.0.0 javhay.my
 0.0.0.0 javhay.one
 0.0.0.0 javhay.online
 0.0.0.0 javhay.org
@@ -2057,6 +2061,7 @@
 0.0.0.0 sex-viet.pro
 0.0.0.0 sex-xxx.me
 0.0.0.0 sex.2ola.pro
+0.0.0.0 sex.javhay.click
 0.0.0.0 sex.lenlut.tv
 0.0.0.0 sex.viet69.tech
 0.0.0.0 sex.vip
