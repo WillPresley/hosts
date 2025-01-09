@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-01-09 14:32:38 (UTC)                      #
+# Last updated: 2025-01-09 14:49:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -39,6 +39,7 @@
 127.0.0.1	aosafrica.co.za
 127.0.0.1	apcmidland.com
 127.0.0.1	api.accueil-coinbase.com
+127.0.0.1	api.aide-coinbase.com
 127.0.0.1	api.co-operativefinance.com
 127.0.0.1	api.ewfiles.net
 127.0.0.1	api.hostize.com
@@ -92,7 +93,6 @@
 127.0.0.1	chromewebstore.google.comreform.phanutom.com
 127.0.0.1	cihainlst.org
 127.0.0.1	ciscocdn.com
-127.0.0.1	clustersf.com
 127.0.0.1	cmgtrading.eu
 127.0.0.1	coach.028csc.com
 127.0.0.1	coadymarine.com
@@ -141,7 +141,6 @@
 127.0.0.1	eandeconst.com
 127.0.0.1	eastdubuquelibrary.com
 127.0.0.1	ecolumy.com
-127.0.0.1	elisans.novayonetim.com
 127.0.0.1	eoufaoeuhoauengi.su
 127.0.0.1	epanpano.com
 127.0.0.1	espacesantefr-assurance.com
@@ -202,6 +201,7 @@
 127.0.0.1	kypeti.com
 127.0.0.1	lafilledemavie.com
 127.0.0.1	lieferdienste-deutsche.com
+127.0.0.1	lindnerelektroanlagen.de
 127.0.0.1	linkvilleplayers.org
 127.0.0.1	live-sendungsverfolgung.com
 127.0.0.1	livetrack.in
@@ -254,6 +254,7 @@
 127.0.0.1	organisme-renouvellement.com
 127.0.0.1	osecweb.ir
 127.0.0.1	palharesinformatica.com.br
+127.0.0.1	paonancs.cn
 127.0.0.1	park.chuitian.cn
 127.0.0.1	passagetoeastafrica.com
 127.0.0.1	pb.agnt.ru
@@ -303,7 +304,7 @@
 127.0.0.1	safe.ywxww.net
 127.0.0.1	schytcdagl.com
 127.0.0.1	security-service-api-link.cc
-127.0.0.1	seniorcomc.sslblindado.com
+127.0.0.1	ser.nrovn.xyz
 127.0.0.1	service-espace-sante.com
 127.0.0.1	servvital.com
 127.0.0.1	sfa.com.ar
@@ -348,7 +349,6 @@
 127.0.0.1	tianyinsoft.top
 127.0.0.1	tiaoshibao.com
 127.0.0.1	tintin.klipdesak.shop
-127.0.0.1	tjsemicoke.com
 127.0.0.1	togetherwecaninc.com
 127.0.0.1	toroking.xyz
 127.0.0.1	towerofbabble.net
@@ -392,7 +392,6 @@
 127.0.0.1	wt-tmp-1.top
 127.0.0.1	www.aerodromeabase.com
 127.0.0.1	www.alaqalezdehar.com
-127.0.0.1	www.aqianniao.com
 127.0.0.1	www.aromaacres.com
 127.0.0.1	www.beiletoys.com
 127.0.0.1	www.blackhattoolz.com
@@ -449,4 +448,4 @@
 127.0.0.1	znrq.zifwxq.cn
 127.0.0.1	zoamaster.com
 127.0.0.1	zontricks.com
-# Number of entries: 443
+# Number of entries: 442

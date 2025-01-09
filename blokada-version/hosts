@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 09 January 2025 14:37:24 (GMT)
+# Date: 09 January 2025 14:53:35 (GMT)
 # Extensions added to this file: fakenews
-# Number of unique domains: 137,347
+# Number of unique domains: 137,344
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/blokada-version/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -31,8 +31,6 @@ ff02::3 ip6-allhosts
 127.0.0.53 Sonata
 
 # Custom host records are listed here.
-
-192.168.50.222 vscode-remote.test
 
 # End of custom host records.
 
@@ -132145,6 +132143,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aosafrica.co.za
 0.0.0.0 apcmidland.com
 0.0.0.0 api.accueil-coinbase.com
+0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.hostize.com
@@ -132197,7 +132196,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 chromewebstore.google.comreform.phanutom.com
 0.0.0.0 cihainlst.org
 0.0.0.0 ciscocdn.com
-0.0.0.0 clustersf.com
 0.0.0.0 cmgtrading.eu
 0.0.0.0 coadymarine.com
 0.0.0.0 com.v2-rubby.com
@@ -132242,7 +132240,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eandeconst.com
 0.0.0.0 eastdubuquelibrary.com
 0.0.0.0 ecolumy.com
-0.0.0.0 elisans.novayonetim.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 espacesantefr-assurance.com
@@ -132303,6 +132300,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kypeti.com
 0.0.0.0 lafilledemavie.com
 0.0.0.0 lieferdienste-deutsche.com
+0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 live-sendungsverfolgung.com
 0.0.0.0 livetrack.in
@@ -132402,7 +132400,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 safe.ywxww.net
 0.0.0.0 schytcdagl.com
 0.0.0.0 security-service-api-link.cc
-0.0.0.0 seniorcomc.sslblindado.com
 0.0.0.0 service-espace-sante.com
 0.0.0.0 servvital.com
 0.0.0.0 shell.dimitrimedia.com
@@ -132445,7 +132442,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tiaoshibao.com
 0.0.0.0 tintin.klipdesak.shop
-0.0.0.0 tjsemicoke.com
 0.0.0.0 togetherwecaninc.com
 0.0.0.0 toroking.xyz
 0.0.0.0 towerofbabble.net
@@ -132488,7 +132484,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wt-tmp-1.top
 0.0.0.0 www.aerodromeabase.com
 0.0.0.0 www.alaqalezdehar.com
-0.0.0.0 www.aqianniao.com
 0.0.0.0 www.aromaacres.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.chemsky.tn
