@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 05 Dec 2024 at 04:30:55 GMT
+# Last updated: Tue, 07 Jan 2025 at 01:18:32 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1337,6 +1337,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tracker.remp.impresa.pt
 0.0.0.0 tracker.tradedoubler.com
 0.0.0.0 tracker1.leadiya.com
+0.0.0.0 tracking-lealcobrancaspremium.p-email.net
 0.0.0.0 tracking.10e20.com
 0.0.0.0 tracking.3com.com
 0.0.0.0 tracking.adalyser.com
@@ -1692,6 +1693,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 antispywareexpert.com
 0.0.0.0 antivirus-scanner.com
 0.0.0.0 antoinettepoisson.fr
+0.0.0.0 apconsultantgroup.com
 0.0.0.0 apel3.fr
 0.0.0.0 api.inwemo.com
 0.0.0.0 app2.letslowbefast.life
@@ -1863,6 +1865,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 campinglespins.fr
 0.0.0.0 camplace.fr
 0.0.0.0 campus-forprof.fr
+0.0.0.0 canada.postcanadakxcif.top
 0.0.0.0 canadapost-delivery-reshedule.com
 0.0.0.0 canadapost-paymentservice.com
 0.0.0.0 canadapost-postescanada.uwpackege.top
@@ -1967,6 +1970,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 coordino.com
 0.0.0.0 cosmopolian.fr
 0.0.0.0 cosmopolita.fr
+0.0.0.0 costco-rewardsaccount1.com
 0.0.0.0 costorama.fr
 0.0.0.0 countrystore.fr
 0.0.0.0 coupondio.fr
@@ -2625,6 +2629,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mycnal.fr
 0.0.0.0 mydreamday.fr
 0.0.0.0 myedebred.fr
+0.0.0.0 myhst2024.com
 0.0.0.0 mylike.co.uk				# Facebook trojan
 0.0.0.0 myornamenti.com
 0.0.0.0 myprivateemails.com
@@ -3056,6 +3061,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 thainationalparks.fr
 0.0.0.0 thalasur.fr
 0.0.0.0 thebestknifes.fr
+0.0.0.0 thebestone.click
 0.0.0.0 thebestwebpillplace.com
 0.0.0.0 thechive.fr
 0.0.0.0 thedatesafe.com			# Facebook trojan
@@ -7531,6 +7537,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 go.padsdelivery.com
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pl.bbelements.com
+0.0.0.0 go.rightdailyfeed.com
 0.0.0.0 go.spaceshipads.com
 0.0.0.0 go.stirshakead.com
 0.0.0.0 go.verymuchad.com
@@ -7995,6 +8002,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 l.qq.com
 0.0.0.0 l.yieldmanager.net
 0.0.0.0 l2.l.qq.com
+0.0.0.0 labas-hl.de
 0.0.0.0 labashl.de
 0.0.0.0 laborex.hu
 0.0.0.0 ladyclicks.ru

@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 15 December 2024 21:00:11 (UTC)
+# Date: 06 January 2025 21:17:57 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, social
-# Number of unique domains: 11,896
+# Number of unique domains: 11,918
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -19,9 +19,9 @@
 
 # End of custom host records.
 # Title: hostsVN Gambling VN
-# Last modified: 15 Dec 2024 22:35 UTC+7
-# Version: 2412152235
-# Blocked: 6.042 domains
+# Last modified: 06 Jan 2025 14:48 UTC+7
+# Version: 2501061448
+# Blocked: 6.064 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -195,8 +195,8 @@
 0.0.0.0 33betc.com
 0.0.0.0 33betf.com
 0.0.0.0 33betx.com
+0.0.0.0 33win.com
 0.0.0.0 33win.to
-0.0.0.0 33win7.com
 0.0.0.0 33win9.com
 0.0.0.0 33winz.com
 0.0.0.0 3547711.com
@@ -513,6 +513,7 @@
 0.0.0.0 ad.8live.com
 0.0.0.0 ad.8live.net
 0.0.0.0 ad.app8.top
+0.0.0.0 ad.choigametip.org
 0.0.0.0 ad.choigem.fun
 0.0.0.0 ad.choigo88.run
 0.0.0.0 ad.choingay11b.mobi
@@ -1109,6 +1110,7 @@
 0.0.0.0 congdongmiosoioso.com
 0.0.0.0 conggamehot.fun
 0.0.0.0 conggiaitri.com
+0.0.0.0 connhangheo.top
 0.0.0.0 coopbet.com
 0.0.0.0 corona999.com
 0.0.0.0 cstga.com
@@ -1233,6 +1235,7 @@
 0.0.0.0 dbthethao.run
 0.0.0.0 dd7bet.me
 0.0.0.0 debet.bet
+0.0.0.0 debet.bot
 0.0.0.0 debet.cc
 0.0.0.0 debet.club
 0.0.0.0 debet.com
@@ -1427,7 +1430,9 @@
 0.0.0.0 fan365.win
 0.0.0.0 fb.giaitriwin79.club
 0.0.0.0 fb88.com
+0.0.0.0 fb88.delivery
 0.0.0.0 fb88.link
+0.0.0.0 fb88.top
 0.0.0.0 fb88aff.com
 0.0.0.0 fb88affok.com
 0.0.0.0 fb88affvn.com
@@ -3312,6 +3317,7 @@
 0.0.0.0 ko66.com
 0.0.0.0 ko66vip.casino
 0.0.0.0 ko66vip.club
+0.0.0.0 kong88.com
 0.0.0.0 ks.bet
 0.0.0.0 kt88.pro
 0.0.0.0 ktokto.mobi
@@ -3583,6 +3589,7 @@
 0.0.0.0 m.tf88v.com
 0.0.0.0 m.tf88vn.com
 0.0.0.0 m.tin888.club
+0.0.0.0 m.tinbongdaw88.com
 0.0.0.0 m.to188xj.com
 0.0.0.0 m.tobet88.net
 0.0.0.0 m.twin188.co
@@ -3735,6 +3742,7 @@
 0.0.0.0 miso88e.com
 0.0.0.0 missbet.com
 0.0.0.0 mix79.vip
+0.0.0.0 mk.com
 0.0.0.0 mk.support
 0.0.0.0 mkt.11bet.us
 0.0.0.0 mkt.debet.com
@@ -3888,6 +3896,7 @@
 0.0.0.0 okvip.pro
 0.0.0.0 okvip.today
 0.0.0.0 okvip.win
+0.0.0.0 okvv.co
 0.0.0.0 ole12.com
 0.0.0.0 ole777vietnam.com
 0.0.0.0 ole7788.com
@@ -4318,6 +4327,7 @@
 0.0.0.0 sock.red88.vip
 0.0.0.0 sock.sky88.fun
 0.0.0.0 sock.sky88.in
+0.0.0.0 socket.debet.uk
 0.0.0.0 socket.debet.win
 0.0.0.0 soco88.com
 0.0.0.0 socvip.com
@@ -4502,6 +4512,7 @@
 0.0.0.0 tai.taisum2.com
 0.0.0.0 tai.top88vn.net
 0.0.0.0 tai.v28.club
+0.0.0.0 tai.vf88.win
 0.0.0.0 tai.win79.pro
 0.0.0.0 tai.win79.vip
 0.0.0.0 tai.yo88vn.us
@@ -4684,6 +4695,7 @@
 0.0.0.0 tin.11bet.net
 0.0.0.0 tin010.com
 0.0.0.0 tin888.club
+0.0.0.0 tinbongdaw88.com
 0.0.0.0 tintuc.vlott88.com
 0.0.0.0 tip.club
 0.0.0.0 tipkeo.thethaofb88.com
@@ -4694,6 +4706,7 @@
 0.0.0.0 tjb15.net
 0.0.0.0 tjb22.net
 0.0.0.0 tk326.com
+0.0.0.0 tk66.com
 0.0.0.0 tk777.vip
 0.0.0.0 tk88.family
 0.0.0.0 tk88.game
@@ -4744,6 +4757,7 @@
 0.0.0.0 topzo.com
 0.0.0.0 topzo.top
 0.0.0.0 topzo.vip
+0.0.0.0 tourghepmienbac.net
 0.0.0.0 tpviet66.com
 0.0.0.0 tpviet88.com
 0.0.0.0 tracking.fabet.vip
@@ -4751,6 +4765,7 @@
 0.0.0.0 traiga.vn
 0.0.0.0 traigacam.com
 0.0.0.0 trangchu.app
+0.0.0.0 trangchu.life
 0.0.0.0 trangchu.vip
 0.0.0.0 trangchu2a.com
 0.0.0.0 trangchu2b.com
@@ -4775,6 +4790,7 @@
 0.0.0.0 tx.socvip.com
 0.0.0.0 tx.socvip9.club
 0.0.0.0 tx1.vip
+0.0.0.0 tx88.com
 0.0.0.0 tydo88.com
 0.0.0.0 tysoeuro.online
 0.0.0.0 tz.bet20.bet
@@ -4844,6 +4860,8 @@
 0.0.0.0 vaorikvip.net
 0.0.0.0 vb211.com
 0.0.0.0 vb777.co
+0.0.0.0 vb777.com
+0.0.0.0 vb777.pw
 0.0.0.0 vb777.top
 0.0.0.0 vb88.com
 0.0.0.0 vb88.win
@@ -4855,6 +4873,7 @@
 0.0.0.0 vf234.com
 0.0.0.0 vf456.com
 0.0.0.0 vf678.com
+0.0.0.0 vf88.win
 0.0.0.0 vfun88.com
 0.0.0.0 vg66.app
 0.0.0.0 vg66.com
@@ -5270,6 +5289,7 @@
 0.0.0.0 wp.viprik.pro
 0.0.0.0 ws.vx88.com
 0.0.0.0 ws2vs.com
+0.0.0.0 ww88.club
 0.0.0.0 ww88club.com
 0.0.0.0 www-989bet.com
 0.0.0.0 www-c54.com
@@ -5986,6 +6006,7 @@
 0.0.0.0 xo88.com
 0.0.0.0 xo88.fun
 0.0.0.0 xo88.info
+0.0.0.0 xo88.pro
 0.0.0.0 xo88.us
 0.0.0.0 xo88.win
 0.0.0.0 xo88bet.com
@@ -6051,6 +6072,7 @@
 0.0.0.0 z3.zbet.vn
 0.0.0.0 z3.zbetvn.com
 0.0.0.0 z333666.com
+0.0.0.0 zalomomo.com
 0.0.0.0 zbet.com
 0.0.0.0 zbet.fun
 0.0.0.0 zbet.me
