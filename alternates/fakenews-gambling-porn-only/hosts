@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 06 January 2025 21:17:41 (UTC)
+# Date: 27 January 2025 03:34:51 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn
-# Number of unique domains: 87,663
+# Number of unique domains: 87,671
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2213,9 +2213,9 @@
 0.0.0.0 yubasuttertimes.com
 0.0.0.0 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 06 Jan 2025 14:48 UTC+7
-# Version: 2501061448
-# Blocked: 6.064 domains
+# Last modified: 16 Jan 2025 22:53 UTC+7
+# Version: 2501162253
+# Blocked: 6.068 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3402,6 +3402,7 @@
 0.0.0.0 daman2.com
 0.0.0.0 dangky.dailynet88.com
 0.0.0.0 dangky.go88.com
+0.0.0.0 dangky.iwin.bio
 0.0.0.0 dangky.thethaofb88.com
 0.0.0.0 dangky.tysoeuro.online
 0.0.0.0 dangky388bet.xyz
@@ -3739,6 +3740,7 @@
 0.0.0.0 g9vip.com
 0.0.0.0 ga179.com
 0.0.0.0 ga836.com
+0.0.0.0 ga88.pro
 0.0.0.0 ga939.com
 0.0.0.0 ga98.net
 0.0.0.0 gachoic1.com
@@ -4137,6 +4139,7 @@
 0.0.0.0 ios.v99win.app
 0.0.0.0 ip.cuocb52.me
 0.0.0.0 iwiin.club
+0.0.0.0 iwin.bio
 0.0.0.0 iwin.club
 0.0.0.0 iwin.info
 0.0.0.0 iwin.net
@@ -6182,6 +6185,7 @@
 0.0.0.0 play.hitclub.blue
 0.0.0.0 play.horse79.live
 0.0.0.0 play.im99.com
+0.0.0.0 play.iwin.bio
 0.0.0.0 play.iwin.net
 0.0.0.0 play.lo88.live
 0.0.0.0 play.lo88.vin
@@ -10925,9 +10929,9 @@
 0.0.0.0 everbet.bg
 0.0.0.0 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 06 Jan 2025 14:48 UTC+7
-# Version: 2501061448
-# Blocked: 4.177 domains
+# Last modified: 16 Jan 2025 22:53 UTC+7
+# Version: 2501162253
+# Blocked: 4.179 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10945,6 +10949,7 @@
 0.0.0.0 123porn.com
 0.0.0.0 123sex.top
 0.0.0.0 12hdem.com
+0.0.0.0 1net.goidao.info
 0.0.0.0 1phimsex.vip
 0.0.0.0 1pondohd.com
 0.0.0.0 2089.vntopg88.live
@@ -11688,6 +11693,7 @@
 0.0.0.0 gocquaytay.com
 0.0.0.0 goctoi.xyz
 0.0.0.0 goidao.com
+0.0.0.0 goidao.info
 0.0.0.0 goigai.app
 0.0.0.0 goigai.baby
 0.0.0.0 goigai.best
@@ -40518,6 +40524,7 @@
 0.0.0.0 bestpornsites.cc
 0.0.0.0 bestpornsites.love
 0.0.0.0 bestpornsites.org
+0.0.0.0 bestpornsites.porn
 0.0.0.0 bestpornsites.pro
 0.0.0.0 bestpornsites.tv
 0.0.0.0 track.bestpornsites.tv
@@ -65461,7 +65468,6 @@
 0.0.0.0 pizdeporno.com
 0.0.0.0 pjatnitsa.ru
 0.0.0.0 pkresurs-spb.ru
-0.0.0.0 via.placeholder.com
 0.0.0.0 placercams.com
 0.0.0.0 planescort.com
 0.0.0.0 planetclimax.com
@@ -65549,6 +65555,8 @@
 0.0.0.0 pmovieshq.com
 0.0.0.0 www.pmovieshq.com
 0.0.0.0 pmvclips.com
+0.0.0.0 pmvhaven.com
+0.0.0.0 www.pmvhaven.com
 0.0.0.0 pmvtube.com
 0.0.0.0 www.pnptube.com
 0.0.0.0 pocket-viewer.ru
@@ -77199,6 +77207,7 @@
 0.0.0.0 theporndiscount.com
 0.0.0.0 theporndude.fun
 0.0.0.0 theporndude.io
+0.0.0.0 theporndude.net
 0.0.0.0 theporndude.org
 0.0.0.0 theporndude.yachts
 0.0.0.0 www.theporndump.com
@@ -79580,7 +79589,6 @@
 0.0.0.0 uporno.xxx
 0.0.0.0 www.uporno.xxx
 0.0.0.0 upornosite.com
-0.0.0.0 uproxx.com
 0.0.0.0 www.upshemaleporn.com
 0.0.0.0 upskirt.top
 0.0.0.0 upskirt.tv
