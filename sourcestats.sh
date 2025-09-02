@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 lists="
 alternates/fakenews
@@ -48,17 +48,13 @@ data/someonewhocares.org
 data/tiuxo
 data/yoyo.org
 extensions/fakenews
-extensions/gambling
 extensions/gambling/bigdargon
 extensions/gambling/sinfonietta
-extensions/porn
 extensions/porn/bigdargon
 extensions/porn/brijrajparmar27
 extensions/porn/clefspeare13
 extensions/porn/sinfonietta
 extensions/porn/sinfonietta-snuff
-extensions/porn/tiuxo
-extensions/social
 extensions/social/sinfonietta
 extensions/social/tiuxo
 "
@@ -73,12 +69,10 @@ for item in $lists; do
     # echo $item $HASH_DATE
     IFS=" "
     split=(${HASH_DATE//,/ })
-    git checkout ${split[0]} ${item}/hosts 1> /dev/null 2> /dev/null
-    domains=$(rh -q -m $item/hosts)
+    domains=$(rh -q -m <(git show ${split[0]}:$item/hosts))
     echo  $item ${split[1]} ${domains}
     echo ${split[1]},${domains} >> ${item}/stats.out
     IFS='
 '
   done
-  git checkout HEAD^ ${item}/hosts 1> /dev/null 2> /dev/null
 done
