@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 30 August 2025 01:27:47 (UTC)
+# Date: 01 November 2025 16:03:38 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn
-# Number of unique domains: 82,089
+# Number of unique domains: 82,154
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -19,9 +19,9 @@
 
 # End of custom host records.
 # Title: hostsVN Gambling VN
-# Last modified: 19 Aug 2025 14:16 UTC+7
-# Version: 2508191416
-# Blocked: 3.983 domains
+# Last modified: 21 Oct 2025 11:13 UTC+7
+# Version: 2510211113
+# Blocked: 4.028 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -504,6 +504,7 @@
 0.0.0.0 api.mu9.club
 0.0.0.0 api.mu9.com
 0.0.0.0 api.mxvietnam.com
+0.0.0.0 api.nbet.fan
 0.0.0.0 api.nbet.vin
 0.0.0.0 api.oppa888.com
 0.0.0.0 api.oppa88888888.com
@@ -516,6 +517,9 @@
 0.0.0.0 api.sky88.com
 0.0.0.0 api.sky88.fun
 0.0.0.0 api.st666.win
+0.0.0.0 api.topbet.net
+0.0.0.0 api.topbet.top
+0.0.0.0 api.usbet.net
 0.0.0.0 api.v79top.com
 0.0.0.0 api.v7king.com
 0.0.0.0 api.vh79.com
@@ -554,6 +558,7 @@
 0.0.0.0 b369.com
 0.0.0.0 b4.big88.com
 0.0.0.0 b4.big88.net
+0.0.0.0 b4.dom88.com
 0.0.0.0 b4.pum88.com
 0.0.0.0 b4.qibet.com
 0.0.0.0 b4.vibet.com
@@ -825,6 +830,7 @@
 0.0.0.0 cuocbanh88.net
 0.0.0.0 cuocbong.thethaofb88.com
 0.0.0.0 cuock8.com
+0.0.0.0 cuocnohu.top
 0.0.0.0 cuocxau188bet.com
 0.0.0.0 cwin.com
 0.0.0.0 cwin000.com
@@ -857,6 +863,7 @@
 0.0.0.0 d9bet88.com
 0.0.0.0 da88.com
 0.0.0.0 da88.pro
+0.0.0.0 da88.vip
 0.0.0.0 da88.win
 0.0.0.0 da88vn.win
 0.0.0.0 dabanh.thethaofb88.com
@@ -960,6 +967,7 @@
 0.0.0.0 do99.pro
 0.0.0.0 dola88.info
 0.0.0.0 dola99.vip
+0.0.0.0 dom88.com
 0.0.0.0 don1.club
 0.0.0.0 down.lixi88.net
 0.0.0.0 down2.lixi88.net
@@ -1217,6 +1225,7 @@
 0.0.0.0 gem.win
 0.0.0.0 gem1.win
 0.0.0.0 gem79.win
+0.0.0.0 gem88.com
 0.0.0.0 gem88.win
 0.0.0.0 gemwin.page
 0.0.0.0 gemwin.vip
@@ -1285,6 +1294,7 @@
 0.0.0.0 hb8887.com
 0.0.0.0 hb88p.com
 0.0.0.0 hb88vn.co
+0.0.0.0 hbet.net
 0.0.0.0 hcm66.com
 0.0.0.0 hdbet.com
 0.0.0.0 hi.oppa888.com
@@ -1548,6 +1558,7 @@
 0.0.0.0 k801k.com
 0.0.0.0 k81206.com
 0.0.0.0 k88.pro
+0.0.0.0 k88.win
 0.0.0.0 k89bet.com
 0.0.0.0 k8asia.com
 0.0.0.0 k8asia12.com
@@ -1774,6 +1785,11 @@
 0.0.0.0 kingfun247.net
 0.0.0.0 kingfunsomot.com
 0.0.0.0 kingman.fun
+0.0.0.0 kkwin.bio
+0.0.0.0 kkwin.men
+0.0.0.0 kkwin.pro
+0.0.0.0 kkwin.pub
+0.0.0.0 kkwin.vin
 0.0.0.0 km.choi789.link
 0.0.0.0 km.choivin88.us
 0.0.0.0 km.dangkyva88.info
@@ -2061,6 +2077,8 @@
 0.0.0.0 man1.club
 0.0.0.0 man79.org
 0.0.0.0 man88.net
+0.0.0.0 man88.top
+0.0.0.0 man88.vip
 0.0.0.0 manclub.fun
 0.0.0.0 manclub.live
 0.0.0.0 manclub.us
@@ -2190,10 +2208,12 @@
 0.0.0.0 na99.pro
 0.0.0.0 nbet.club
 0.0.0.0 nbet.com
+0.0.0.0 nbet.fan
 0.0.0.0 nbet.fun
 0.0.0.0 nbet.me
 0.0.0.0 nbet.net
 0.0.0.0 nbet.site
+0.0.0.0 nbet.to
 0.0.0.0 nbet.top
 0.0.0.0 nbet.tv
 0.0.0.0 nbet.vin
@@ -2239,6 +2259,7 @@
 0.0.0.0 nhat.bet
 0.0.0.0 nhat.game
 0.0.0.0 nhat.it
+0.0.0.0 nhat.vip
 0.0.0.0 nhat1.club
 0.0.0.0 nhat9.vip
 0.0.0.0 nhatvip.mobi
@@ -2259,6 +2280,9 @@
 0.0.0.0 ok388.tv
 0.0.0.0 okcado.com
 0.0.0.0 okcado.org
+0.0.0.0 okking.com
+0.0.0.0 okking.cooking
+0.0.0.0 okking.org
 0.0.0.0 okvip.life
 0.0.0.0 okvip.pro
 0.0.0.0 okvip.today
@@ -2295,6 +2319,7 @@
 0.0.0.0 oxbet.cc
 0.0.0.0 oxbet.club
 0.0.0.0 oxbet.com
+0.0.0.0 oxbet.fun
 0.0.0.0 oxbet.in
 0.0.0.0 oxbet.net
 0.0.0.0 oxbet.top
@@ -2316,6 +2341,7 @@
 0.0.0.0 piwik.88thaicasinoslots.com
 0.0.0.0 pkwin1.com
 0.0.0.0 play.789.club
+0.0.0.0 play.789club.sx
 0.0.0.0 play.b52m.club
 0.0.0.0 play.b52vn.org
 0.0.0.0 play.bay789.io
@@ -2351,6 +2377,7 @@
 0.0.0.0 play.vaob52.click
 0.0.0.0 play.vic.win
 0.0.0.0 play.vip79.com
+0.0.0.0 play.vip79.top
 0.0.0.0 play.vip79.vip
 0.0.0.0 play.vuigiaitri.online
 0.0.0.0 play.win79.vip
@@ -2601,6 +2628,7 @@
 0.0.0.0 sock.dabet.club
 0.0.0.0 sock.mu9.club
 0.0.0.0 sock.mu9.com
+0.0.0.0 sock.nbet.fan
 0.0.0.0 sock.nbet.vin
 0.0.0.0 sock.red88.com
 0.0.0.0 sock.red88.us
@@ -2613,6 +2641,8 @@
 0.0.0.0 socket.debet.uk
 0.0.0.0 socket.debet.win
 0.0.0.0 socket.hdbet.com
+0.0.0.0 socket.topbet.top
+0.0.0.0 socket.usbet.net
 0.0.0.0 soco88.com
 0.0.0.0 socvip9.club
 0.0.0.0 sodo.bond
@@ -2654,9 +2684,11 @@
 0.0.0.0 st666yet.site
 0.0.0.0 static.8live.com
 0.0.0.0 static.fabet.com
+0.0.0.0 static.gem88.com
 0.0.0.0 static.hi88.de
 0.0.0.0 static.lu88.com
 0.0.0.0 static.lucky88.com
+0.0.0.0 static.zo88.vip
 0.0.0.0 static2.8live.com
 0.0.0.0 static2.lucky88.com
 0.0.0.0 static3.lucky88.com
@@ -2682,6 +2714,7 @@
 0.0.0.0 sun6.win
 0.0.0.0 sun88.online
 0.0.0.0 sungame.store
+0.0.0.0 sunwin.pro
 0.0.0.0 sunwinvn.club
 0.0.0.0 sure168.asia
 0.0.0.0 sut88.com
@@ -2943,6 +2976,8 @@
 0.0.0.0 top88vn.club
 0.0.0.0 top88vn.net
 0.0.0.0 top9nhacai.top
+0.0.0.0 topbet.net
+0.0.0.0 topbet.top
 0.0.0.0 topdoithuong.net
 0.0.0.0 topgamebai.biz
 0.0.0.0 topnhacaihot.com
@@ -2986,6 +3021,7 @@
 0.0.0.0 uk88.top
 0.0.0.0 uk88.vip
 0.0.0.0 upanh.vn88.com
+0.0.0.0 usbet.net
 0.0.0.0 uu88.com
 0.0.0.0 uu88.now
 0.0.0.0 uu8814.net
@@ -3053,6 +3089,7 @@
 0.0.0.0 vi68.org
 0.0.0.0 vibet.com
 0.0.0.0 vic.win
+0.0.0.0 vic88.com
 0.0.0.0 vicplay.io
 0.0.0.0 victorwin555.com
 0.0.0.0 vicwin.vip
@@ -3076,6 +3113,7 @@
 0.0.0.0 vip11.club
 0.0.0.0 vip130130.com
 0.0.0.0 vip79.com
+0.0.0.0 vip79.top
 0.0.0.0 vip79.vip
 0.0.0.0 vip79.win
 0.0.0.0 vip79gamebai.vip
@@ -3178,6 +3216,7 @@
 0.0.0.0 vsports88.com
 0.0.0.0 vstar79.com
 0.0.0.0 vu88.com
+0.0.0.0 vu88.net
 0.0.0.0 vua2.club
 0.0.0.0 vua88.app
 0.0.0.0 vua88.biz
@@ -3302,6 +3341,7 @@
 0.0.0.0 web.mayclub.net
 0.0.0.0 web.nemo.vin
 0.0.0.0 web.nhatvip.net
+0.0.0.0 web.sunwin.pro
 0.0.0.0 web.taiv8.com
 0.0.0.0 web.taiv8.top
 0.0.0.0 web.top88.vip
@@ -3356,6 +3396,8 @@
 0.0.0.0 wp.debet79.info
 0.0.0.0 wp.hdbet.com
 0.0.0.0 wp.mibet.net
+0.0.0.0 wp.nbet.fan
+0.0.0.0 wp.nbet.to
 0.0.0.0 wp.nbet.vin
 0.0.0.0 wp.red88.com
 0.0.0.0 wp.red88.us
@@ -3364,6 +3406,8 @@
 0.0.0.0 wp.rikvip.tv
 0.0.0.0 wp.sky88.com
 0.0.0.0 wp.sky88.fun
+0.0.0.0 wp.topbet.net
+0.0.0.0 wp.topbet.top
 0.0.0.0 ww88.club
 0.0.0.0 ww88club.com
 0.0.0.0 www-c54.com
@@ -4009,6 +4053,7 @@
 0.0.0.0 zo2.win
 0.0.0.0 zo88.com
 0.0.0.0 zo88.org
+0.0.0.0 zo88.vip
 0.0.0.0 zom8.club
 0.0.0.0 zoplay.top
 0.0.0.0 zowin.tv
@@ -6652,9 +6697,9 @@
 0.0.0.0 everbet.bg
 0.0.0.0 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 19 Aug 2025 14:16 UTC+7
-# Version: 2508191416
-# Blocked: 2.830 domains
+# Last modified: 21 Oct 2025 11:13 UTC+7
+# Version: 2510211113
+# Blocked: 2.838 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -7174,6 +7219,9 @@
 0.0.0.0 girlxinhblog.com
 0.0.0.0 girlxinhcaocap.com
 0.0.0.0 girlxinhxinh.com
+0.0.0.0 go99.games
+0.0.0.0 go99code.store
+0.0.0.0 go99code.vip
 0.0.0.0 gockhuat.net
 0.0.0.0 gocquaytay.com
 0.0.0.0 goctoi.xyz
@@ -7345,8 +7393,10 @@
 0.0.0.0 ihentai.ws
 0.0.0.0 img.hentaivv1.com
 0.0.0.0 img.javsubz.net
+0.0.0.0 img.nangcuc.co
 0.0.0.0 img.nangcuc.link
 0.0.0.0 img.nangcuc.live
+0.0.0.0 img.nangcucz.link
 0.0.0.0 img.vl69.pro
 0.0.0.0 img.xxxphim.top
 0.0.0.0 info.xnxx.gold
@@ -7526,6 +7576,7 @@
 0.0.0.0 lauxanh.one
 0.0.0.0 lauxanhthiendia.com
 0.0.0.0 laysogaigoi.com
+0.0.0.0 lenlut.ac
 0.0.0.0 lenlut.blog
 0.0.0.0 lenlut.info
 0.0.0.0 lenlut.net
@@ -7650,6 +7701,7 @@
 0.0.0.0 mupvl.org
 0.0.0.0 myhotlive.tv
 0.0.0.0 mymeyeu.xyz
+0.0.0.0 nangcuc.co
 0.0.0.0 nangcuc.link
 0.0.0.0 nangcuc.live
 0.0.0.0 nangcuc.org
@@ -8226,6 +8278,7 @@
 0.0.0.0 quatvn.fit
 0.0.0.0 quatvn.fun
 0.0.0.0 quatvn.link
+0.0.0.0 quatvn.love
 0.0.0.0 quatvn.net
 0.0.0.0 quatvn.online
 0.0.0.0 quatvn.plus
@@ -58332,6 +58385,8 @@
 0.0.0.0 onlyfreeporns.com
 0.0.0.0 onlyfreesextube.com
 0.0.0.0 onlyfreesextube.net
+0.0.0.0 onlyfuck.net
+0.0.0.0 onlyfuck.site
 0.0.0.0 onlyfuckme.com
 0.0.0.0 onlyfuckmovies.com
 0.0.0.0 onlyfuckmovies.pro
@@ -81857,6 +81912,16 @@
 0.0.0.0 teensboyvideo.com
 0.0.0.0 twinklounge.com
 0.0.0.0 twinks.com
+0.0.0.0 boobsandboobs.nl
+0.0.0.0 xporn-gifs.com
+0.0.0.0 cherrygif.com
+0.0.0.0 freemilf.org
+0.0.0.0 akaihentai.com
+0.0.0.0 mindrunway.ru
+0.0.0.0 helloporn.com
+0.0.0.0 xposedpassion.com
+0.0.0.0 zona-adultilor.net
+0.0.0.0 hentairosub.com
 # Title: Snuff hosts
 
 0.0.0.0 bitcheese.net
