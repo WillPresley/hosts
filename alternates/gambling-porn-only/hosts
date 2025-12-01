@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 01 November 2025 16:03:38 (UTC)
+# Date: 29 November 2025 23:30:31 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn
-# Number of unique domains: 82,154
+# Number of unique domains: 82,186
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -19,9 +19,9 @@
 
 # End of custom host records.
 # Title: hostsVN Gambling VN
-# Last modified: 21 Oct 2025 11:13 UTC+7
-# Version: 2510211113
-# Blocked: 4.028 domains
+# Last modified: 21 Nov 2025 15:27 UTC+7
+# Version: 2511211527
+# Blocked: 4.058 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -508,12 +508,14 @@
 0.0.0.0 api.nbet.vin
 0.0.0.0 api.oppa888.com
 0.0.0.0 api.oppa88888888.com
+0.0.0.0 api.red88.club
 0.0.0.0 api.red88.com
 0.0.0.0 api.red88.us
 0.0.0.0 api.red88.vin
 0.0.0.0 api.red88.vip
 0.0.0.0 api.shbet3.com
 0.0.0.0 api.shbetvv.com
+0.0.0.0 api.sky88.club
 0.0.0.0 api.sky88.com
 0.0.0.0 api.sky88.fun
 0.0.0.0 api.st666.win
@@ -546,6 +548,9 @@
 0.0.0.0 asiavwin.com
 0.0.0.0 asset2bay.com
 0.0.0.0 at99.club
+0.0.0.0 au88.ac
+0.0.0.0 au88.games
+0.0.0.0 au88.tel
 0.0.0.0 aw8vn2.com
 0.0.0.0 aw8vn3.com
 0.0.0.0 awin686.com
@@ -790,6 +795,7 @@
 0.0.0.0 choihitclub.fun
 0.0.0.0 choiiwin79.fun
 0.0.0.0 choiiwin79.vip
+0.0.0.0 choikclub.vip
 0.0.0.0 choilawin.net
 0.0.0.0 choingay11b.mobi
 0.0.0.0 choingay11b.vin
@@ -803,6 +809,7 @@
 0.0.0.0 choita88.club
 0.0.0.0 choitet.vip
 0.0.0.0 choithomo.com
+0.0.0.0 choitip88.me
 0.0.0.0 choivin88.us
 0.0.0.0 choiwin79.in
 0.0.0.0 choiwon88.info
@@ -1025,6 +1032,12 @@
 0.0.0.0 f1.one88.win
 0.0.0.0 f1.taiv8.com
 0.0.0.0 f1.taiv8.top
+0.0.0.0 f168.blue
+0.0.0.0 f168.garden
+0.0.0.0 f168.name
+0.0.0.0 f168.studio
+0.0.0.0 f168.today
+0.0.0.0 f168.us
 0.0.0.0 f168.vision
 0.0.0.0 f2.five88.com
 0.0.0.0 f2.macauclub.fun
@@ -1266,9 +1279,12 @@
 0.0.0.0 go88tv.win
 0.0.0.0 go88vn.live
 0.0.0.0 go88vn.vip
+0.0.0.0 go99.games
 0.0.0.0 go99.green
 0.0.0.0 go99.pro
 0.0.0.0 go99.red
+0.0.0.0 go99code.store
+0.0.0.0 go99code.vip
 0.0.0.0 goal123.com
 0.0.0.0 goal68.com
 0.0.0.0 god55.zone
@@ -1295,6 +1311,7 @@
 0.0.0.0 hb88p.com
 0.0.0.0 hb88vn.co
 0.0.0.0 hbet.net
+0.0.0.0 hbet.win
 0.0.0.0 hcm66.com
 0.0.0.0 hdbet.com
 0.0.0.0 hi.oppa888.com
@@ -1337,6 +1354,7 @@
 0.0.0.0 hotlive8.vip
 0.0.0.0 hplay.fabet.me
 0.0.0.0 i.b52.club
+0.0.0.0 i.go88.ca
 0.0.0.0 i.go88.com
 0.0.0.0 i.go88.org
 0.0.0.0 i.go88.top
@@ -2371,6 +2389,7 @@
 0.0.0.0 play.sum27.club
 0.0.0.0 play.taib52.com
 0.0.0.0 play.taingayking52.fun
+0.0.0.0 play.tik88.vin
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
 0.0.0.0 play.top88.vn
@@ -2481,6 +2500,7 @@
 0.0.0.0 quaysogame.com
 0.0.0.0 quickraiseup.com
 0.0.0.0 record.income88.com
+0.0.0.0 red88.club
 0.0.0.0 red88.com
 0.0.0.0 red88.top
 0.0.0.0 red88.tv
@@ -2570,6 +2590,7 @@
 0.0.0.0 seb121.net
 0.0.0.0 shbet.com
 0.0.0.0 shbet.id
+0.0.0.0 shbet.is
 0.0.0.0 shbet.love
 0.0.0.0 shbet.me
 0.0.0.0 shbet.news
@@ -2609,6 +2630,7 @@
 0.0.0.0 sk.vin88.net
 0.0.0.0 sk.xibet.com
 0.0.0.0 sky88.bet
+0.0.0.0 sky88.club
 0.0.0.0 sky88.com
 0.0.0.0 sky88.fun
 0.0.0.0 sky88.in
@@ -2630,10 +2652,12 @@
 0.0.0.0 sock.mu9.com
 0.0.0.0 sock.nbet.fan
 0.0.0.0 sock.nbet.vin
+0.0.0.0 sock.red88.club
 0.0.0.0 sock.red88.com
 0.0.0.0 sock.red88.us
 0.0.0.0 sock.red88.vin
 0.0.0.0 sock.red88.vip
+0.0.0.0 sock.sky88.club
 0.0.0.0 sock.sky88.com
 0.0.0.0 sock.sky88.fun
 0.0.0.0 sock.sky88.in
@@ -2921,6 +2945,7 @@
 0.0.0.0 tienlen.8day66.com
 0.0.0.0 tienlenpoker.fun
 0.0.0.0 tienve.thethaofb88.com
+0.0.0.0 tik88.vin
 0.0.0.0 tin.11bet.net
 0.0.0.0 tin010.com
 0.0.0.0 tin88.bet
@@ -3104,6 +3129,7 @@
 0.0.0.0 vin88.com
 0.0.0.0 vin88.net
 0.0.0.0 vin88.top
+0.0.0.0 vin88.win
 0.0.0.0 vin999.fun
 0.0.0.0 vina88.net
 0.0.0.0 vip.dangkyrikvip.me
@@ -3399,11 +3425,13 @@
 0.0.0.0 wp.nbet.fan
 0.0.0.0 wp.nbet.to
 0.0.0.0 wp.nbet.vin
+0.0.0.0 wp.red88.club
 0.0.0.0 wp.red88.com
 0.0.0.0 wp.red88.us
 0.0.0.0 wp.red88.vin
 0.0.0.0 wp.red88.vip
 0.0.0.0 wp.rikvip.tv
+0.0.0.0 wp.sky88.club
 0.0.0.0 wp.sky88.com
 0.0.0.0 wp.sky88.fun
 0.0.0.0 wp.topbet.net
@@ -3806,6 +3834,7 @@
 0.0.0.0 www.sin88.club
 0.0.0.0 www.sin88s.com
 0.0.0.0 www.sinbet.vip
+0.0.0.0 www.sky88.club
 0.0.0.0 www.sky88.win
 0.0.0.0 www.socvip9.club
 0.0.0.0 www.sodo.host
@@ -3970,6 +3999,7 @@
 0.0.0.0 x8.club
 0.0.0.0 x8.games
 0.0.0.0 x8.mobi
+0.0.0.0 x88.com
 0.0.0.0 x8vn.com
 0.0.0.0 x8vn.top
 0.0.0.0 xemdabanh.club
@@ -6697,9 +6727,9 @@
 0.0.0.0 everbet.bg
 0.0.0.0 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 21 Oct 2025 11:13 UTC+7
-# Version: 2510211113
-# Blocked: 2.838 domains
+# Last modified: 21 Nov 2025 15:27 UTC+7
+# Version: 2511211527
+# Blocked: 2.840 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6765,6 +6795,7 @@
 0.0.0.0 anhvl.net
 0.0.0.0 anhx.net
 0.0.0.0 antonstepanok.com
+0.0.0.0 api.nangcuc.cc
 0.0.0.0 app567lives.com
 0.0.0.0 appchichlive.top
 0.0.0.0 appgaixinh.com
@@ -7023,6 +7054,7 @@
 0.0.0.0 dualeotruyenzz.com
 0.0.0.0 duccai.com
 0.0.0.0 duccai.xyz
+0.0.0.0 dunloprallytyres.co.uk
 0.0.0.0 dutrai.com
 0.0.0.0 emdau.pro
 0.0.0.0 emgai.net
@@ -7219,9 +7251,6 @@
 0.0.0.0 girlxinhblog.com
 0.0.0.0 girlxinhcaocap.com
 0.0.0.0 girlxinhxinh.com
-0.0.0.0 go99.games
-0.0.0.0 go99code.store
-0.0.0.0 go99code.vip
 0.0.0.0 gockhuat.net
 0.0.0.0 gocquaytay.com
 0.0.0.0 goctoi.xyz
@@ -7394,6 +7423,7 @@
 0.0.0.0 img.hentaivv1.com
 0.0.0.0 img.javsubz.net
 0.0.0.0 img.nangcuc.co
+0.0.0.0 img.nangcuc.dev
 0.0.0.0 img.nangcuc.link
 0.0.0.0 img.nangcuc.live
 0.0.0.0 img.nangcucz.link
@@ -7701,7 +7731,9 @@
 0.0.0.0 mupvl.org
 0.0.0.0 myhotlive.tv
 0.0.0.0 mymeyeu.xyz
+0.0.0.0 nangcuc.cc
 0.0.0.0 nangcuc.co
+0.0.0.0 nangcuc.dev
 0.0.0.0 nangcuc.link
 0.0.0.0 nangcuc.live
 0.0.0.0 nangcuc.org
