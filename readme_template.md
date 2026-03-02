@@ -404,29 +404,21 @@ like this:
       system = "<architecture>";
       modules = [
         hosts.nixosModule {
-          networking.stevenBlackHosts.enable = true;
+          networking.stevenBlackHosts = {
+            enable = true;
+            # optionally:
+            # enableIPv6 = true;
+            # blockFakenews = true;
+            # blockGambling = true;
+            # blockPorn = true;
+            # blockSocial = true;
+          };
         }
       ];
     };
   };
 }
 ```
-
-The hosts extensions are also available with the following options:
-
-```nix
-{
-  networking.stevenBlackHosts = {
-    enableIPv6 = true;
-    blockFakenews = true;
-    blockGambling = true;
-    blockPorn = true;
-    blockSocial = true;
-  };
-}
-```
-
-IPv6 rules are enabled by default when `networking.enableIPv6` is set to `true`.
 
 ## Updating hosts file on Windows
 
