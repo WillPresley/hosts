@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 28 February 2026 12:13:16 (UTC)
+# Date: 30 March 2026 01:28:19 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn
-# Number of unique domains: 84,599
+# Number of unique domains: 84,808
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2213,9 +2213,9 @@
 0.0.0.0 yubasuttertimes.com
 0.0.0.0 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 26 Feb 2026 16:29 UTC+7
-# Version: 2602261629
-# Blocked: 3.257 domains
+# Last modified: 17 Mar 2026 10:25 UTC+7
+# Version: 2603171025
+# Blocked: 3.297 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2321,6 +2321,8 @@
 0.0.0.0 388bet.us
 0.0.0.0 388bet.vin
 0.0.0.0 388bet.vip
+0.0.0.0 3bet.biz
+0.0.0.0 3bet.so
 0.0.0.0 3bet.win
 0.0.0.0 3kingclub.com
 0.0.0.0 448kbet.com
@@ -2662,6 +2664,8 @@
 0.0.0.0 b88ag.com
 0.0.0.0 bachhoa88.com
 0.0.0.0 bacty88.com
+0.0.0.0 ball88.com
+0.0.0.0 ball88.to
 0.0.0.0 banca.cc
 0.0.0.0 banca.xo68.vip
 0.0.0.0 bancadoithuongvn.com
@@ -3182,7 +3186,10 @@
 0.0.0.0 gem88.com
 0.0.0.0 gem88.guru
 0.0.0.0 gem88.win
+0.0.0.0 gemwin.my
 0.0.0.0 gemwin.page
+0.0.0.0 gemwin.to
+0.0.0.0 gemwin.tv
 0.0.0.0 gemwin.vip
 0.0.0.0 gen88.com
 0.0.0.0 gi8.us
@@ -3236,7 +3243,11 @@
 0.0.0.0 hay88.net
 0.0.0.0 hay8811.com
 0.0.0.0 hay8822.com
+0.0.0.0 haywin.ac
+0.0.0.0 haywin.space
+0.0.0.0 haywin.store
 0.0.0.0 haywin.vip
+0.0.0.0 haywinvip.online
 0.0.0.0 hb88.com
 0.0.0.0 hb88.party
 0.0.0.0 hb8864.com
@@ -3263,12 +3274,14 @@
 0.0.0.0 hit.club
 0.0.0.0 hit1.club
 0.0.0.0 hit68.net
+0.0.0.0 hitclub.bi
 0.0.0.0 hitclub.blue
 0.0.0.0 hitclub.cafe
 0.0.0.0 hitclub.com
 0.0.0.0 hitclub.in
 0.0.0.0 hitclub.pro
 0.0.0.0 hitclub.salon
+0.0.0.0 hitclub.so
 0.0.0.0 hitclub.top
 0.0.0.0 hitclub.tv
 0.0.0.0 hitclub.vin
@@ -3813,6 +3826,8 @@
 0.0.0.0 m.w88io.com
 0.0.0.0 m.w88ok.com
 0.0.0.0 m.w88yes.com
+0.0.0.0 m1.ball88.com
+0.0.0.0 m1.ball88.to
 0.0.0.0 m1.fm88.com
 0.0.0.0 m1.max88.vip
 0.0.0.0 m1.may88d.com
@@ -3821,6 +3836,7 @@
 0.0.0.0 m1.vin88.vin
 0.0.0.0 m1.vin88.vip
 0.0.0.0 m1.xibet.fun
+0.0.0.0 m2.tin88.in
 0.0.0.0 m2.tin88.vip
 0.0.0.0 m2305.com
 0.0.0.0 m88.run
@@ -3891,6 +3907,7 @@
 0.0.0.0 mig8fans.com
 0.0.0.0 mig8vn.com
 0.0.0.0 min88.com
+0.0.0.0 min88.me
 0.0.0.0 minigame.vnloto.com
 0.0.0.0 minivn.com
 0.0.0.0 miso88.boats
@@ -3998,6 +4015,7 @@
 0.0.0.0 nhat.bet
 0.0.0.0 nhat.game
 0.0.0.0 nhat.it
+0.0.0.0 nhat.one
 0.0.0.0 nhat.vip
 0.0.0.0 nhat1.club
 0.0.0.0 nhat9.vip
@@ -4083,11 +4101,14 @@
 0.0.0.0 play.gemwin.vip
 0.0.0.0 play.go88.club
 0.0.0.0 play.go88.tv
+0.0.0.0 play.haywin.space
+0.0.0.0 play.haywin.store
 0.0.0.0 play.hit.club
 0.0.0.0 play.im99.com
 0.0.0.0 play.iwin.bio
 0.0.0.0 play.lo88.live
 0.0.0.0 play.rik88.life
+0.0.0.0 play.rikvip.info
 0.0.0.0 play.rikvip.tv
 0.0.0.0 play.sbotop246.com
 0.0.0.0 play.son.club
@@ -4140,6 +4161,7 @@
 0.0.0.0 qc.nhat.game
 0.0.0.0 qc.nhat.it
 0.0.0.0 qc.nhatvip.pro
+0.0.0.0 qc.rikvip.info
 0.0.0.0 qc.tai789.icu
 0.0.0.0 qc.top88.me
 0.0.0.0 qc.top88.uk
@@ -4199,6 +4221,7 @@
 0.0.0.0 rik6.com
 0.0.0.0 rik88.life
 0.0.0.0 rikvip.fun
+0.0.0.0 rikvip.info
 0.0.0.0 rikvip.property
 0.0.0.0 rikvip.tv
 0.0.0.0 rikvip.us
@@ -4267,6 +4290,7 @@
 0.0.0.0 sin88.cc
 0.0.0.0 sin88.club
 0.0.0.0 sin88.com
+0.0.0.0 sin88.cv
 0.0.0.0 sin88.im
 0.0.0.0 sin88.me
 0.0.0.0 sin88.mn
@@ -4280,10 +4304,13 @@
 0.0.0.0 sin88s.com
 0.0.0.0 sinbet.com
 0.0.0.0 sinbet.vip
+0.0.0.0 sk.ball88.com
+0.0.0.0 sk.ball88.to
 0.0.0.0 sk.debet.cx
 0.0.0.0 sk.fm88.com
 0.0.0.0 sk.tin88.bet
 0.0.0.0 sk.tin88.club
+0.0.0.0 sk.tin88.in
 0.0.0.0 sk.vin88.net
 0.0.0.0 sk.vin88.vin
 0.0.0.0 sk.vin88.vip
@@ -4385,8 +4412,11 @@
 0.0.0.0 sun52.tv
 0.0.0.0 sun6.win
 0.0.0.0 sunwin.club
+0.0.0.0 sunwin.id
+0.0.0.0 sunwin.lt
 0.0.0.0 sunwin.moi
 0.0.0.0 sunwin.pro
+0.0.0.0 sunwin.pw
 0.0.0.0 sunwin.sx
 0.0.0.0 sunwinvn.club
 0.0.0.0 sure168.asia
@@ -4441,6 +4471,7 @@
 0.0.0.0 tai.samvip.bet
 0.0.0.0 tai.vf88.win
 0.0.0.0 tai.win79.com
+0.0.0.0 tai.win79.moi
 0.0.0.0 tai.win79.pro
 0.0.0.0 tai.win79.vip
 0.0.0.0 tai567live.vip
@@ -4538,6 +4569,7 @@
 0.0.0.0 tin010.com
 0.0.0.0 tin88.bet
 0.0.0.0 tin88.club
+0.0.0.0 tin88.in
 0.0.0.0 tin88.top
 0.0.0.0 tin88.vip
 0.0.0.0 tin888.club
@@ -4596,6 +4628,7 @@
 0.0.0.0 tourghepmienbac.net
 0.0.0.0 trang188vn.com
 0.0.0.0 trangchu.life
+0.0.0.0 trochoivuaclub.online
 0.0.0.0 tructiepdaga.info
 0.0.0.0 tt128.net
 0.0.0.0 twin5568.com
@@ -4887,6 +4920,7 @@
 0.0.0.0 web.nhatvip.net
 0.0.0.0 web.sunwin.pro
 0.0.0.0 web.topzo.com
+0.0.0.0 web.win79.moi
 0.0.0.0 web.yo88.is
 0.0.0.0 web.yo88.tv
 0.0.0.0 web.zowin.tv
@@ -4903,7 +4937,10 @@
 0.0.0.0 win79.com
 0.0.0.0 win79.download
 0.0.0.0 win79.fun
+0.0.0.0 win79.im
 0.0.0.0 win79.live
+0.0.0.0 win79.men
+0.0.0.0 win79.moi
 0.0.0.0 win79.pro
 0.0.0.0 win79.site
 0.0.0.0 win79.vip
@@ -5479,6 +5516,9 @@
 0.0.0.0 zo88.org
 0.0.0.0 zo88.vip
 0.0.0.0 zoplay.top
+0.0.0.0 zowin.bh
+0.0.0.0 zowin.sh
+0.0.0.0 zowin.sx
 0.0.0.0 zowin.tv
 0.0.0.0 10bet.com
 0.0.0.0 10luxury39.com
@@ -8120,8 +8160,8 @@
 0.0.0.0 everbet.bg
 0.0.0.0 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 26 Feb 2026 16:29 UTC+7
-# Version: 2602261629
+# Last modified: 17 Mar 2026 10:25 UTC+7
+# Version: 2603171025
 # Blocked: 1.866 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -82909,7 +82949,6 @@
 0.0.0.0 en.wav.tv
 0.0.0.0 eporner.pornxx02.com
 0.0.0.0 epornovideos.com
-0.0.0.0 erisly.com
 0.0.0.0 eroeronews.com
 0.0.0.0 erogarden.blogspot.com
 0.0.0.0 eromanga.bestadulthub.com
@@ -84369,6 +84408,176 @@
 0.0.0.0 yufap.com
 0.0.0.0 yummigirls.com
 0.0.0.0 z.gertstir.ru
+0.0.0.0 en.domknig.net
+0.0.0.0 gaigoi.app
+0.0.0.0 gocquaytay.com
+0.0.0.0 hentaiz.mobi
+0.0.0.0 heohd.com
+0.0.0.0 nhentaivn.com
+0.0.0.0 phimsexhot.xyz
+0.0.0.0 phimsexviet.one
+0.0.0.0 xemphimsex.one
+0.0.0.0 xemsex.pro
+0.0.0.0 www.interracialsexx.com
+0.0.0.0 1337x.to
+0.0.0.0 app.rule34.dev
+0.0.0.0 viralxxxporn.com
+0.0.0.0 javenspanish.com
+0.0.0.0 erome.fan
+0.0.0.0 fr.erome.com
+0.0.0.0 www.theblowers.com
+0.0.0.0 modelsearcher.com
+0.0.0.0 buylegalporno.com
+0.0.0.0 pt.erome.com
+0.0.0.0 www.xnxx-ru.com
+0.0.0.0 de.okxxx1.com
+0.0.0.0 tour1.pornbox.com
+0.0.0.0 thotdeep.com
+0.0.0.0 es.perfectgirls.xxx
+0.0.0.0 breannebenson.empirestores.co
+0.0.0.0 www.wifey.com
+0.0.0.0 wifeysworld.com
+0.0.0.0 www5.hentaila.com
+0.0.0.0 es.niadd.com
+0.0.0.0 www.niadd.com
+0.0.0.0 www.milfy.com
+0.0.0.0 ru.erome.com
+0.0.0.0 dateacougar.com
+0.0.0.0 kamasutra.com
+0.0.0.0 playboy.tv
+0.0.0.0 xcritic.com
+0.0.0.0 camcontacts.com
+0.0.0.0 bullyville.com
+0.0.0.0 joyreactor.com
+0.0.0.0 www.kinklive.com
+0.0.0.0 mikandicams.com
+0.0.0.0 www.naughtydate.com
+0.0.0.0 www.renderotica.com
+0.0.0.0 www.tnaflixcams.com
+0.0.0.0 buyadultpack.com
+0.0.0.0 theplace.ru
+0.0.0.0 www.adam4adam.tv
+0.0.0.0 www.fabswingers.com
+0.0.0.0 www.joyclub.de
+0.0.0.0 www.lovehoney.co
+0.0.0.0 es.bongacam.net
+0.0.0.0 www.camfrog.com
+0.0.0.0 www.clubedosvideos.com
+0.0.0.0 contactossex.com
+0.0.0.0 www.idols69.net
+0.0.0.0 internationalsexguide.nl
+0.0.0.0 www.lovehoney.com
+0.0.0.0 www.my18teens.com
+0.0.0.0 www.putalocura.com
+0.0.0.0 randyblue.com
+0.0.0.0 www.videosxxxputas.xxx
+0.0.0.0 www.10musume.com
+0.0.0.0 www.affaire.com
+0.0.0.0 www.amsterdamlivexxx.com
+0.0.0.0 www.antarvasna3.com
+0.0.0.0 archangelvideo.com
+0.0.0.0 www.baberoad.com
+0.0.0.0 www.barebackrt.com
+0.0.0.0 camtorride.com
+0.0.0.0 tour5m.facialabuse.com
+0.0.0.0 www.famedigital.com
+0.0.0.0 www.groobygirls.com
+0.0.0.0 www.hamsterporn.tv
+0.0.0.0 hotgoo.com
+0.0.0.0 www.indiansex4u.com
+0.0.0.0 www.karupsha.com
+0.0.0.0 lesaintdesseins.fr
+0.0.0.0 www.libertic.com
+0.0.0.0 www.liveundnackt.com
+0.0.0.0 loveme.com
+0.0.0.0 www.myfirstsexteacher.com
+0.0.0.0 pornfromcz.com
+0.0.0.0 premiumbukkake.com
+0.0.0.0 www.sexzindian.com
+0.0.0.0 silverdaddies.com
+0.0.0.0 www.torontopassions.com
+0.0.0.0 vivagals.com
+0.0.0.0 www.xnxxmovies.com
+0.0.0.0 ziporn.com
+0.0.0.0 aboutporno.net
+0.0.0.0 www.allhairygals.com
+0.0.0.0 www.blackmonsterterror.com
+0.0.0.0 bravomamas.com
+0.0.0.0 bustybritain.com
+0.0.0.0 czechcouples.com
+0.0.0.0 www.dorcel.com
+0.0.0.0 freesextube.su
+0.0.0.0 www.buyme.com
+0.0.0.0 hqxxxmovies.com
+0.0.0.0 porndl.org
+0.0.0.0 porn-24h.com
+0.0.0.0 sexytrunk.com
+0.0.0.0 www.777pornotube.com
+0.0.0.0 pe.bdsmu.com
+0.0.0.0 beautifulgirlsex.com
+0.0.0.0 blackedbabes.com
+0.0.0.0 explicite-art.com
+0.0.0.0 fetishcams-live.com
+0.0.0.0 www.freeporno.asia
+0.0.0.0 fucktvchannel.com
+0.0.0.0 idols69.com
+0.0.0.0 www.incext.com
+0.0.0.0 jackandjilladult.com
+0.0.0.0 mysexyjasmine.com
+0.0.0.0 www.nouslib.com
+0.0.0.0 palcomix.com
+0.0.0.0 perkyshemale.com
+0.0.0.0 pornfromczech.com
+0.0.0.0 pornojo.com
+0.0.0.0 www.pornstarchive.com
+0.0.0.0 www.savitabhabhi.vip
+0.0.0.0 www.spicymilfs.com
+0.0.0.0 tchicks.com
+0.0.0.0 www.teen-pornstar.com
+0.0.0.0 bdsmlive.com
+0.0.0.0 tubepornovideos.com
+0.0.0.0 vidmos.org
+0.0.0.0 bbwhottie.com
+0.0.0.0 xxxextreme.org
+0.0.0.0 www.1porn.tv
+0.0.0.0 adult-fanfiction.org
+0.0.0.0 bigtitspornfree.com
+0.0.0.0 b4busty.com
+0.0.0.0 www.camskip.com
+0.0.0.0 www.chatpig.com
+0.0.0.0 desadov.com
+0.0.0.0 extremerestraints.com
+0.0.0.0 gaysexyboy.com
+0.0.0.0 hentai-cosplay-xxx.com
+0.0.0.0 herehardcore.tv
+0.0.0.0 heretits.tv
+0.0.0.0 jugride.com
+0.0.0.0 en.leonie-pur.com
+0.0.0.0 matureporntube.tv
+0.0.0.0 milfgals.net
+0.0.0.0 porno-up.net
+0.0.0.0 ru9.porno-kino-online.net
+0.0.0.0 pussyspot.net
+0.0.0.0 spicyfatties.com
+0.0.0.0 teacherfucksteens.com
+0.0.0.0 www.8boobs.com
+0.0.0.0 crushon.ai
+0.0.0.0 aichattings.com
+0.0.0.0 www.baddietube.com
+0.0.0.0 www.bootyexpo.net
+0.0.0.0 big-breasts.tyjrz.com
+0.0.0.0 china3.dianbaoqun.com
+0.0.0.0 i57u.xxggcc.shop
+0.0.0.0 groupsor.me
+0.0.0.0 groupsortelegram.com
+0.0.0.0 groupsor.link
+0.0.0.0 onst.holicithed.com
+0.0.0.0 lauxanh.bz
+0.0.0.0 llmzjn.lovepoiint.com
+0.0.0.0 es.scorchin.com
+0.0.0.0 scorchincams.com
+0.0.0.0 llqodr.lovepoiint.com
+0.0.0.0 viet69.bi
 # Title: Snuff hosts
 
 0.0.0.0 bitcheese.net
