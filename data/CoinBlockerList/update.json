@@ -1,0 +1,9 @@
+{
+  "name": "Fork-CoinBlocker",
+  "description": "Fork-Simple lists that can help prevent cryptomining in the browser or other applications",
+  "homeurl": "https://github.com/WillPresley/ZeroDot1_CoinBlockerList",
+  "frequency": "frequently",
+  "issues": "https://github.com/WillPresley/ZeroDot1_CoinBlockerList/issues",
+  "url": "https://raw.githubusercontent.com/WillPresley/ZeroDot1_CoinBlockerList/main/hosts",
+  "license": "GPLv3"
+}

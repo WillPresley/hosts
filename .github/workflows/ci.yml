@@ -1,0 +1,68 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+      - "!dependabot/**"
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Python ${{ matrix.python }} on ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      fail-fast: false
+      matrix:
+        python:
+          - '3.9'
+          - '3.10'
+          - '3.11'
+          - '3.12'
+          - '3.13'
+          - '3.14'
+        os:
+          - ubuntu-latest
+        include:
+          - os: macos-latest
+            python: '3.9'
+          - os: macos-latest
+            python: '3.14'
+          - os: windows-latest
+            python: '3.9'
+          - os: windows-latest
+            python: '3.14'
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6.2.0
+        with:
+          python-version: ${{ matrix.python }}
+          cache: pip
+
+      - name: Print versions
+        run: |
+          python --version
+          pip --version
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run lint
+        run: flake8
+
+      - name: Run makeHosts.py
+        run: python makeHosts.py
+
+      - name: Run tests
+        run: python testUpdateHostsFile.py
