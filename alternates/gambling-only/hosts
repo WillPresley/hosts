@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 27 April 2026 14:18:23 (UTC)
+# Date: 02 June 2026 17:10:13 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling
-# Number of unique domains: 6,006
+# Number of unique domains: 6,097
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -19,9 +19,9 @@
 
 # End of custom host records.
 # Title: hostsVN Gambling VN
-# Last modified: 23 Apr 2026 14:57 UTC+7
-# Version: 2604231457
-# Blocked: 3.364 domains
+# Last modified: 02 Jun 2026 13:35 UTC+7
+# Version: 2606021335
+# Blocked: 3.455 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -91,6 +91,7 @@
 0.0.0.0 188pscn2.com
 0.0.0.0 188thethao.com
 0.0.0.0 18luck.pro
+0.0.0.0 18win.net
 0.0.0.0 1eight8.com
 0.0.0.0 1tamtamvn.com
 0.0.0.0 1x.club
@@ -133,7 +134,9 @@
 0.0.0.0 3bet.biz
 0.0.0.0 3bet.so
 0.0.0.0 3bet.tech
+0.0.0.0 3bet.vc
 0.0.0.0 3bet.win
+0.0.0.0 3bet.you
 0.0.0.0 3kingclub.com
 0.0.0.0 448kbet.com
 0.0.0.0 5123b.com
@@ -238,6 +241,8 @@
 0.0.0.0 88bong.net
 0.0.0.0 88cado.com
 0.0.0.0 88cado.net
+0.0.0.0 88clb.app
+0.0.0.0 88clb.fit
 0.0.0.0 88gobet.com
 0.0.0.0 88new.cc
 0.0.0.0 88online.live
@@ -305,6 +310,10 @@
 0.0.0.0 9bet.win
 0.0.0.0 9bet.world
 0.0.0.0 9e3c.com
+0.0.0.0 abc8.cm
+0.0.0.0 abc8.cv
+0.0.0.0 abcvip.com
+0.0.0.0 abcvip.in
 0.0.0.0 account.w88ac.com
 0.0.0.0 account.w88club.com
 0.0.0.0 account.w88hn.com
@@ -415,6 +424,7 @@
 0.0.0.0 api.oppa88888888.com
 0.0.0.0 api.red88.club
 0.0.0.0 api.red88.com
+0.0.0.0 api.red88.ml
 0.0.0.0 api.red88.vip
 0.0.0.0 api.shbet3.com
 0.0.0.0 api.shbetvv.com
@@ -476,8 +486,10 @@
 0.0.0.0 b88ag.com
 0.0.0.0 bachhoa88.com
 0.0.0.0 bacty88.com
+0.0.0.0 ball88.app
 0.0.0.0 ball88.com
 0.0.0.0 ball88.fun
+0.0.0.0 ball88.mobi
 0.0.0.0 ball88.to
 0.0.0.0 banca.cc
 0.0.0.0 banca.xo68.vip
@@ -653,6 +665,7 @@
 0.0.0.0 connhangheo.top
 0.0.0.0 coopbet.com
 0.0.0.0 corona999.com
+0.0.0.0 cungv9choi.com
 0.0.0.0 cuoc88.net
 0.0.0.0 cuoc8899.com
 0.0.0.0 cuocba.com
@@ -679,6 +692,8 @@
 0.0.0.0 cwin999.com
 0.0.0.0 d1.dabet.club
 0.0.0.0 d1.debet.cx
+0.0.0.0 d1.debet.gd
+0.0.0.0 d1.debet.gs
 0.0.0.0 d1.debet.info
 0.0.0.0 d1.debet.lc
 0.0.0.0 d1.debet.so
@@ -747,6 +762,8 @@
 0.0.0.0 debet.cx
 0.0.0.0 debet.fan
 0.0.0.0 debet.fun
+0.0.0.0 debet.gd
+0.0.0.0 debet.gs
 0.0.0.0 debet.info
 0.0.0.0 debet.lc
 0.0.0.0 debet.moi
@@ -755,6 +772,7 @@
 0.0.0.0 debet.top
 0.0.0.0 debet.uk
 0.0.0.0 debet.us
+0.0.0.0 debet.vg
 0.0.0.0 debet.win
 0.0.0.0 debet79.info
 0.0.0.0 debet88.win
@@ -851,6 +869,7 @@
 0.0.0.0 f8betaa.com
 0.0.0.0 f8betapp.net
 0.0.0.0 f8betgg.com
+0.0.0.0 fa88.tel
 0.0.0.0 fa88.tv
 0.0.0.0 fa88.win
 0.0.0.0 fa88vn.live
@@ -936,9 +955,13 @@
 0.0.0.0 five-88.link
 0.0.0.0 five88.biz
 0.0.0.0 five88.com
+0.0.0.0 five88.id
+0.0.0.0 five88.in
+0.0.0.0 five88.lc
 0.0.0.0 five88.net
 0.0.0.0 five88.sale
 0.0.0.0 five88.show
+0.0.0.0 five88.sx
 0.0.0.0 five88.top
 0.0.0.0 five88.vc
 0.0.0.0 five88.vin
@@ -1006,11 +1029,14 @@
 0.0.0.0 gem88.com
 0.0.0.0 gem88.guru
 0.0.0.0 gem88.win
+0.0.0.0 gemwin.fm
+0.0.0.0 gemwin.is
 0.0.0.0 gemwin.my
 0.0.0.0 gemwin.page
 0.0.0.0 gemwin.to
 0.0.0.0 gemwin.tv
 0.0.0.0 gemwin.vc
+0.0.0.0 gemwin.vin
 0.0.0.0 gemwin.vip
 0.0.0.0 gen88.com
 0.0.0.0 gi8.us
@@ -1057,6 +1083,7 @@
 0.0.0.0 gogobolaku.com
 0.0.0.0 gw.gen88.com
 0.0.0.0 gw.mubet.vip
+0.0.0.0 gw.tot88.store
 0.0.0.0 h3bet.com
 0.0.0.0 h51.live
 0.0.0.0 happy9luck.com
@@ -1106,8 +1133,11 @@
 0.0.0.0 hitclub.in
 0.0.0.0 hitclub.lc
 0.0.0.0 hitclub.lt
+0.0.0.0 hitclub.lv
+0.0.0.0 hitclub.pl
 0.0.0.0 hitclub.pro
 0.0.0.0 hitclub.salon
+0.0.0.0 hitclub.si
 0.0.0.0 hitclub.so
 0.0.0.0 hitclub.top
 0.0.0.0 hitclub.tv
@@ -1660,14 +1690,17 @@
 0.0.0.0 m.w88io.com
 0.0.0.0 m.w88ok.com
 0.0.0.0 m.w88yes.com
+0.0.0.0 m1.ball88.app
 0.0.0.0 m1.ball88.com
 0.0.0.0 m1.ball88.fun
+0.0.0.0 m1.ball88.mobi
 0.0.0.0 m1.ball88.to
 0.0.0.0 m1.fm88.com
 0.0.0.0 m1.max88.vip
 0.0.0.0 m1.may88d.com
 0.0.0.0 m1.tin88.bet
 0.0.0.0 m1.vin88.net
+0.0.0.0 m1.vin88.pw
 0.0.0.0 m1.vin88.vin
 0.0.0.0 m1.vin88.vip
 0.0.0.0 m1.xibet.fun
@@ -1856,13 +1889,16 @@
 0.0.0.0 nhat.game
 0.0.0.0 nhat.it
 0.0.0.0 nhat.one
+0.0.0.0 nhat.sx
 0.0.0.0 nhat.vip
 0.0.0.0 nhat1.club
 0.0.0.0 nhat9.vip
 0.0.0.0 nhatvip.ac
 0.0.0.0 nhatvip.is
 0.0.0.0 nhatvip.mobi
+0.0.0.0 nhatvip.moi
 0.0.0.0 nhatvip.us
+0.0.0.0 nhatvip.vin
 0.0.0.0 nhatvip.vip
 0.0.0.0 nnwud.com
 0.0.0.0 nohu.band
@@ -1876,11 +1912,13 @@
 0.0.0.0 nuoigada.com
 0.0.0.0 nxb8.com
 0.0.0.0 o4.oxbet.in
+0.0.0.0 ok365.org
 0.0.0.0 okcado.com
 0.0.0.0 okcado.org
 0.0.0.0 okking.com
 0.0.0.0 okking.cooking
 0.0.0.0 okking.org
+0.0.0.0 okvip.fun
 0.0.0.0 okvip.life
 0.0.0.0 okvip.pro
 0.0.0.0 okvip.today
@@ -1908,6 +1946,7 @@
 0.0.0.0 one88.win
 0.0.0.0 onevegas.com
 0.0.0.0 ooooooo2.com
+0.0.0.0 open88.com
 0.0.0.0 oppa888.com
 0.0.0.0 oppa88888888.com
 0.0.0.0 oppo96.com
@@ -1940,6 +1979,7 @@
 0.0.0.0 play.bom52.club
 0.0.0.0 play.bum3.club
 0.0.0.0 play.daomo.club
+0.0.0.0 play.fa88.tel
 0.0.0.0 play.fa88.win
 0.0.0.0 play.gemwin.vip
 0.0.0.0 play.go88.club
@@ -1951,6 +1991,8 @@
 0.0.0.0 play.im99.com
 0.0.0.0 play.iwin.bio
 0.0.0.0 play.lo88.live
+0.0.0.0 play.okvip.fun
+0.0.0.0 play.ricwin.pw
 0.0.0.0 play.rik88.life
 0.0.0.0 play.rikvip.info
 0.0.0.0 play.rikvip.tv
@@ -1963,6 +2005,7 @@
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
 0.0.0.0 play.top88.vn
+0.0.0.0 play.top88.voto
 0.0.0.0 play.topclub.casa
 0.0.0.0 play.vaob52.click
 0.0.0.0 play.vic.hair
@@ -1970,6 +2013,7 @@
 0.0.0.0 play.win79.vip
 0.0.0.0 play.win79d.com
 0.0.0.0 play.x8.club
+0.0.0.0 play.x8.fit
 0.0.0.0 play.x8vn.top
 0.0.0.0 play.xocdia88.video
 0.0.0.0 play1.son.club
@@ -2046,6 +2090,7 @@
 0.0.0.0 record.income88.com
 0.0.0.0 red88.club
 0.0.0.0 red88.com
+0.0.0.0 red88.ml
 0.0.0.0 red88.top
 0.0.0.0 red88.tv
 0.0.0.0 red88.us
@@ -2058,6 +2103,7 @@
 0.0.0.0 rgames.org
 0.0.0.0 ricbet.com
 0.0.0.0 ricbet.win
+0.0.0.0 ricwin.pw
 0.0.0.0 rik.bet
 0.0.0.0 rik.club
 0.0.0.0 rik.fun
@@ -2090,10 +2136,13 @@
 0.0.0.0 s2.sin88.com
 0.0.0.0 s26bet.ltd
 0.0.0.0 s26bet01.com
+0.0.0.0 s3.sin88.ms
+0.0.0.0 s3.sin88.si
 0.0.0.0 s3.sin88.sx
 0.0.0.0 s3.sin88.tw
 0.0.0.0 s4.gen88.com
 0.0.0.0 s4.mubet.vip
+0.0.0.0 s4.tot88.store
 0.0.0.0 s555.com
 0.0.0.0 s99902e.com
 0.0.0.0 s99906.com
@@ -2142,7 +2191,9 @@
 0.0.0.0 sin88.me
 0.0.0.0 sin88.mn
 0.0.0.0 sin88.mobi
+0.0.0.0 sin88.ms
 0.0.0.0 sin88.mx
+0.0.0.0 sin88.si
 0.0.0.0 sin88.sx
 0.0.0.0 sin88.tw
 0.0.0.0 sin88.uk
@@ -2152,21 +2203,30 @@
 0.0.0.0 sin88s.com
 0.0.0.0 sinbet.com
 0.0.0.0 sinbet.vip
+0.0.0.0 sk.ball88.app
 0.0.0.0 sk.ball88.com
 0.0.0.0 sk.ball88.fun
+0.0.0.0 sk.ball88.mobi
 0.0.0.0 sk.ball88.to
 0.0.0.0 sk.debet.cx
+0.0.0.0 sk.debet.gd
+0.0.0.0 sk.debet.gs
 0.0.0.0 sk.debet.lc
+0.0.0.0 sk.debet.vg
 0.0.0.0 sk.fm88.com
+0.0.0.0 sk.sin88.ms
+0.0.0.0 sk.sin88.si
 0.0.0.0 sk.sin88.tw
 0.0.0.0 sk.tin88.bet
 0.0.0.0 sk.tin88.club
 0.0.0.0 sk.tin88.in
 0.0.0.0 sk.vin88.net
+0.0.0.0 sk.vin88.pw
 0.0.0.0 sk.vin88.vin
 0.0.0.0 sk.vin88.vip
 0.0.0.0 sk.xibet.com
 0.0.0.0 sk.xibet.fun
+0.0.0.0 sk.zbet.ws
 0.0.0.0 sky88.bet
 0.0.0.0 sky88.club
 0.0.0.0 sky88.com
@@ -2192,6 +2252,7 @@
 0.0.0.0 sock.nbet.vin
 0.0.0.0 sock.red88.club
 0.0.0.0 sock.red88.com
+0.0.0.0 sock.red88.ml
 0.0.0.0 sock.red88.vip
 0.0.0.0 sock.sky88.club
 0.0.0.0 sock.sky88.com
@@ -2274,6 +2335,7 @@
 0.0.0.0 sunwinvn.club
 0.0.0.0 sure168.asia
 0.0.0.0 sut88.com
+0.0.0.0 sv1.sv88.vu
 0.0.0.0 sv1.sv88d.com
 0.0.0.0 sv288.net
 0.0.0.0 sv368.casino
@@ -2292,11 +2354,14 @@
 0.0.0.0 sv66c.com
 0.0.0.0 sv66s.com
 0.0.0.0 sv66vip6.com
+0.0.0.0 sv88.ae
 0.0.0.0 sv88.club
 0.0.0.0 sv88.com
 0.0.0.0 sv88.in
+0.0.0.0 sv88.lv
 0.0.0.0 sv88.vin
 0.0.0.0 sv88.vip
+0.0.0.0 sv88.vu
 0.0.0.0 sv88.win
 0.0.0.0 sv88a.com
 0.0.0.0 sv88r.com
@@ -2471,6 +2536,7 @@
 0.0.0.0 top88.us
 0.0.0.0 top88.vip
 0.0.0.0 top88.vn
+0.0.0.0 top88.voto
 0.0.0.0 topbet.net
 0.0.0.0 topbet.top
 0.0.0.0 topclub.casa
@@ -2483,6 +2549,7 @@
 0.0.0.0 topzo.top
 0.0.0.0 topzo.vip
 0.0.0.0 tot88.com
+0.0.0.0 tot88.store
 0.0.0.0 tourghepmienbac.net
 0.0.0.0 trang188vn.com
 0.0.0.0 trangchu.life
@@ -2497,10 +2564,14 @@
 0.0.0.0 tx88.fun
 0.0.0.0 tx88.fyi
 0.0.0.0 tx88.in
+0.0.0.0 tx88.ing
 0.0.0.0 tx88.llc
+0.0.0.0 tx88.onl
 0.0.0.0 tx88.top
 0.0.0.0 tydo88.com
 0.0.0.0 tz.bet20.bet
+0.0.0.0 u888.cc
+0.0.0.0 u888.id
 0.0.0.0 ud1a.com
 0.0.0.0 udw87.cc
 0.0.0.0 udw881.cc
@@ -2522,6 +2593,8 @@
 0.0.0.0 uytin.8day66.com
 0.0.0.0 v.fa88.tv
 0.0.0.0 v.hitclub.in
+0.0.0.0 v.hitclub.lv
+0.0.0.0 v.hitclub.si
 0.0.0.0 v.hitclub.tv
 0.0.0.0 v.nhat9.vip
 0.0.0.0 v.nhatvip.pro
@@ -2575,6 +2648,7 @@
 0.0.0.0 vi.oppa888.com
 0.0.0.0 vi68.org
 0.0.0.0 vibet.com
+0.0.0.0 vic.doctor
 0.0.0.0 vic.hair
 0.0.0.0 vic.win
 0.0.0.0 vic88.com
@@ -2589,6 +2663,7 @@
 0.0.0.0 vin88.com
 0.0.0.0 vin88.moi
 0.0.0.0 vin88.net
+0.0.0.0 vin88.pw
 0.0.0.0 vin88.sx
 0.0.0.0 vin88.top
 0.0.0.0 vin88.tv
@@ -2612,11 +2687,13 @@
 0.0.0.0 vipsodo.top
 0.0.0.0 viva88.com
 0.0.0.0 viva88.net
+0.0.0.0 vivu88.cc
 0.0.0.0 vivu88.com
 0.0.0.0 vivu88.net
 0.0.0.0 vk88.com
 0.0.0.0 vlott88.com
 0.0.0.0 vn-lm.jbovietnam.com
+0.0.0.0 vn.abcvip.in
 0.0.0.0 vn.app
 0.0.0.0 vn.ku6101.net
 0.0.0.0 vn.ku6106.net
@@ -2791,7 +2868,10 @@
 0.0.0.0 web.sunwin.pro
 0.0.0.0 web.topzo.com
 0.0.0.0 web.win79.moi
+0.0.0.0 web.win79.vg
 0.0.0.0 web.yo88.is
+0.0.0.0 web.yo88.ml
+0.0.0.0 web.yo88.so
 0.0.0.0 web.yo88.tv
 0.0.0.0 web.zowin.tv
 0.0.0.0 websvn.info
@@ -2813,6 +2893,7 @@
 0.0.0.0 win79.moi
 0.0.0.0 win79.pro
 0.0.0.0 win79.site
+0.0.0.0 win79.vg
 0.0.0.0 win79.vip
 0.0.0.0 win79a.com
 0.0.0.0 win79d.com
@@ -2845,6 +2926,7 @@
 0.0.0.0 wp.nbet.vin
 0.0.0.0 wp.red88.club
 0.0.0.0 wp.red88.com
+0.0.0.0 wp.red88.ml
 0.0.0.0 wp.red88.vip
 0.0.0.0 wp.rikvip.tv
 0.0.0.0 wp.sky88.club
@@ -3311,6 +3393,7 @@
 0.0.0.0 www.yule12888.com
 0.0.0.0 x1798.com
 0.0.0.0 x8.club
+0.0.0.0 x8.fit
 0.0.0.0 x8.games
 0.0.0.0 x8.mobi
 0.0.0.0 x88.com
@@ -3362,7 +3445,9 @@
 0.0.0.0 yd88c.com
 0.0.0.0 yo88.cool
 0.0.0.0 yo88.is
+0.0.0.0 yo88.ml
 0.0.0.0 yo88.pw
+0.0.0.0 yo88.so
 0.0.0.0 yo88.tv
 0.0.0.0 yo88.win
 0.0.0.0 yo88vn.com
@@ -3373,11 +3458,14 @@
 0.0.0.0 yylive.vip
 0.0.0.0 yylive.xyz
 0.0.0.0 z1.zbet.tv
+0.0.0.0 z1.zbet.ws
 0.0.0.0 zalomomo.com
 0.0.0.0 zbet.com
+0.0.0.0 zbet.dev
 0.0.0.0 zbet.fun
 0.0.0.0 zbet.me
 0.0.0.0 zbet.tv
+0.0.0.0 zbet.ws
 0.0.0.0 zet88.com
 0.0.0.0 zo.club
 0.0.0.0 zo1.win
@@ -3389,6 +3477,9 @@
 0.0.0.0 zoplay.top
 0.0.0.0 zowin.bh
 0.0.0.0 zowin.im
+0.0.0.0 zowin.is
+0.0.0.0 zowin.ng
+0.0.0.0 zowin.red
 0.0.0.0 zowin.sh
 0.0.0.0 zowin.sx
 0.0.0.0 zowin.tv

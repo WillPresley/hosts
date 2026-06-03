@@ -131,6 +131,12 @@ Build the Docker container from the root of this repo like this:
 docker build --no-cache . -t stevenblack-hosts
 ```
 
+Or without cloning (directly from GitHub):
+
+```sh
+docker build --no-cache https://github.com/StevenBlack/hosts.git -t stevenblack-hosts
+```
+
 Then run your command as such:
 
 ```sh
