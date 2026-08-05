@@ -288,32 +288,29 @@ def main():
         nounifiedhosts=nounifiedhosts,
     )
     remove_old_hosts_file(settings["outputpath"], "hosts", settings["backup"])
-    if settings["compress"]:
-        finalfile = open(path_join_robust(settings["outputpath"], "hosts"), "w+b")
-        compressedfile = tempfile.NamedTemporaryFile()
-        remove_dups_and_excl(mergefile, exclusionregexes, compressedfile)
-        compress_file(compressedfile, settings["targetip"], finalfile)
-    elif settings["minimise"]:
-        finalfile = open(path_join_robust(settings["outputpath"], "hosts"), "w+b")
-        minimisedfile = tempfile.NamedTemporaryFile()
-        remove_dups_and_excl(mergefile, exclusionregexes, minimisedfile)
-        minimise_file(minimisedfile, settings["targetip"], finalfile)
-    else:
-        finalfile = remove_dups_and_excl(mergefile, exclusionregexes)
+    with open(path_join_robust(settings["outputpath"], "hosts"), "w+b") as finalfile:
+        if settings["compress"] or settings["minimise"]:
+            with tempfile.NamedTemporaryFile() as tmpfile:
+                remove_dups_and_excl(mergefile, exclusionregexes, tmpfile)
+                if settings["compress"]:
+                    compress_file(tmpfile, settings["targetip"], finalfile)
+                else:
+                    minimise_file(tmpfile, settings["targetip"], finalfile)
+        else:
+            remove_dups_and_excl(mergefile, exclusionregexes, finalfile)
 
-    numberofrules = settings["numberofrules"]
-    outputsubfolder = settings["outputsubfolder"]
-    skipstatichosts = settings["skipstatichosts"]
+        numberofrules = settings["numberofrules"]
+        outputsubfolder = settings["outputsubfolder"]
+        skipstatichosts = settings["skipstatichosts"]
 
-    write_opening_header(
-        finalfile,
-        extensions=extensions,
-        numberofrules=numberofrules,
-        outputsubfolder=outputsubfolder,
-        skipstatichosts=skipstatichosts,
-        nounifiedhosts=nounifiedhosts,
-    )
-    finalfile.close()
+        write_opening_header(
+            finalfile,
+            extensions=extensions,
+            numberofrules=numberofrules,
+            outputsubfolder=outputsubfolder,
+            skipstatichosts=skipstatichosts,
+            nounifiedhosts=nounifiedhosts,
+        )
 
     if not settings["nogendata"]:
         update_readme_data(
@@ -916,7 +913,7 @@ def minimise_file(inputfile, targetip, outputfile):
     inputfile.close()
 
 
-def remove_dups_and_excl(mergefile, exclusionregexes, outputfile=None):
+def remove_dups_and_excl(mergefile, exclusionregexes, finalfile):
     """
     Remove duplicates and remove hosts that we are excluding.
 
@@ -929,9 +926,8 @@ def remove_dups_and_excl(mergefile, exclusionregexes, outputfile=None):
         The file object that contains the hostnames that we are pruning.
     exclusionregexes : list
         The list of regex patterns used to exclude domains.
-    outputfile : file
-        The file object in which the result is written. If None, the file
-        'settings["outputpath"]' will be created.
+    finalfile : file
+        The file object in which the result is written.
     """
 
     numberofrules = settings["numberofrules"]
@@ -946,11 +942,6 @@ def remove_dups_and_excl(mergefile, exclusionregexes, outputfile=None):
 
     if not os.path.exists(settings["outputpath"]):
         os.makedirs(settings["outputpath"])
-
-    if outputfile is None:
-        finalfile = open(path_join_robust(settings["outputpath"], "hosts"), "w+b")
-    else:
-        finalfile = outputfile
 
     # analyze any post.json here
     post_json_path = os.path.join(os.path.dirname(finalfile.name), "post.json")
@@ -1018,8 +1009,32 @@ def remove_dups_and_excl(mergefile, exclusionregexes, outputfile=None):
     settings["numberofrules"] = numberofrules
     mergefile.close()
 
-    if outputfile is None:
-        return finalfile
+
+# Dot-separated labels of [a-z0-9_-], hyphens not at label ends, at least two
+# labels. Expects a lowercased hostname.
+VALID_DOMAIN_REGEX = re.compile(
+    r"(?:[a-z0-9_]|[a-z0-9_][a-z0-9_-]*[a-z0-9_])"
+    r"(?:\.(?:[a-z0-9_]|[a-z0-9_][a-z0-9_-]*[a-z0-9_]))+"
+)
+
+
+def is_valid_domain(hostname):
+    """
+    Check whether a lowercased hostname looks like a valid domain name.
+
+    Parameters
+    ----------
+    hostname : str
+        The hostname to validate.
+
+    Returns
+    -------
+    valid : bool
+        Whether the hostname only contains characters allowed in a domain
+        name and has a valid label structure.
+    """
+
+    return bool(VALID_DOMAIN_REGEX.fullmatch(hostname))
 
 
 def normalize_rule(rule, targetip, keep_domain_comments):
@@ -1144,33 +1159,19 @@ def normalize_rule(rule, targetip, keep_domain_comments):
         if (
             is_ip(hostname)
             or re.search(static_ip_regex, hostname)
-            or "." not in hostname
-            or ".." in hostname
-            or "." in hostname[-1]
-            or "/" in hostname
-            or ":" in hostname
+            or not is_valid_domain(hostname)
         ):
             # Example: 0.0.0.0 127.0.0.1
 
-            # If the hostname is:
-            #   - an IP - or looks like it,
-            #   - doesn't contain dots, or
-            #   - contains repeated dots,
-            #   - ends in a dot, or
-            #   - contains a slash, or
-            #   - contains a colon,
-            #   - contains an underscore,
-            # we don't want to normalize it.
+            # If the hostname is an IP (or looks like one), or isn't a valid
+            # domain (bad characters, no dot, repeated/trailing dots, slash,
+            # colon, ...), we don't want to normalize it.
             return belch_unwanted(rule)
 
         return normalize_response(hostname, suffix)
 
-    if (
-        not re.search(static_ip_regex, split_rule[0])
-        and ":" not in split_rule[0]
-        and ".." not in split_rule[0]
-        and "/" not in split_rule[0]
-        and "." in split_rule[0]
+    if not re.search(static_ip_regex, split_rule[0]) and is_valid_domain(
+        split_rule[0].lower()
     ):
         # Deny anything that looks like an IP; doesn't container dots or INVALID.
 
@@ -1464,6 +1465,8 @@ def move_hosts_file_into_place(finalfile):
             print_failure(f"Replacing {target_file} failed.")
             return False
 
+    return False
+
 
 def flush_dns_cache():
     """
@@ -1666,6 +1669,7 @@ def domain_to_idna(line):
 
                 splited_line[index] = splited_line[index].encode("IDNA").decode("UTF-8")
             except IndexError:
+                # No hostname field to encode, leave the line as-is.
                 pass
             return separator.join(splited_line)
         return line.encode("IDNA").decode("UTF-8")

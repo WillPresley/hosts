@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Jun 2026 14:20 UTC+7
-# Version: 2606031420
-# Blocked: 1.746 domains
+# Last modified: 05 Aug 2026 13:49 UTC+7
+# Version: 2608051349
+# Blocked: 1.747 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1110,6 +1110,7 @@
 0.0.0.0 piwik.rta.vn
 #[accesstrade.vn]
 0.0.0.0 ad.accesstrade.vn
+0.0.0.0 content.accesstrade.vn
 0.0.0.0 partner.accesstrade.vn
 0.0.0.0 service-api.accesstrade.vn
 0.0.0.0 static.accesstrade.vn
@@ -1524,6 +1525,7 @@
 0.0.0.0 ads.thitruongtaichinhtiente.vn
 0.0.0.0 ads.thvli.vn
 0.0.0.0 ads.tiki.vn
+0.0.0.0 ads.tvpl.vn
 0.0.0.0 ads.vietbao.vn
 0.0.0.0 ads.vishare.vn
 0.0.0.0 ads.vlr.vn
@@ -1570,7 +1572,6 @@
 0.0.0.0 banner.thadaco.vn
 0.0.0.0 banner.trangvangvietnam.com
 0.0.0.0 cdn-ads.thesaigontimes.vn
-0.0.0.0 cdn.adxcontent.com
 0.0.0.0 cdn.qc24h.com
 0.0.0.0 cdn2.cache.vn
 0.0.0.0 click.vieon.vn
