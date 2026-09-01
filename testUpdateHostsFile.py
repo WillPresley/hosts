@@ -20,39 +20,38 @@ from io import BytesIO, StringIO
 import requests
 
 import updateHostsFile
-from updateHostsFile import (
-    Colors,
-    colorize,
-    display_exclusion_options,
-    domain_to_idna,
-    exclude_domain,
-    flush_dns_cache,
-    gather_custom_exclusions,
-    get_defaults,
-    get_file_by_url,
-    is_valid_user_provided_domain_format,
-    matches_exclusions,
-    move_hosts_file_into_place,
-    normalize_rule,
-    path_join_robust,
-    print_failure,
-    print_success,
-    prompt_for_exclusions,
-    prompt_for_flush_dns_cache,
-    prompt_for_move,
-    prompt_for_update,
-    query_yes_no,
-    recursive_glob,
-    remove_old_hosts_file,
-    sort_sources,
-    strip_rule,
-    supports_color,
-    update_all_sources,
-    update_readme_data,
-    update_sources_data,
-    write_data,
-    write_opening_header,
-)
+
+Colors = updateHostsFile.Colors
+colorize = updateHostsFile.colorize
+display_exclusion_options = updateHostsFile.display_exclusion_options
+domain_to_idna = updateHostsFile.domain_to_idna
+exclude_domain = updateHostsFile.exclude_domain
+flush_dns_cache = updateHostsFile.flush_dns_cache
+gather_custom_exclusions = updateHostsFile.gather_custom_exclusions
+get_defaults = updateHostsFile.get_defaults
+get_file_by_url = updateHostsFile.get_file_by_url
+is_valid_user_provided_domain_format = updateHostsFile.is_valid_user_provided_domain_format
+matches_exclusions = updateHostsFile.matches_exclusions
+move_hosts_file_into_place = updateHostsFile.move_hosts_file_into_place
+normalize_rule = updateHostsFile.normalize_rule
+path_join_robust = updateHostsFile.path_join_robust
+print_failure = updateHostsFile.print_failure
+print_success = updateHostsFile.print_success
+prompt_for_exclusions = updateHostsFile.prompt_for_exclusions
+prompt_for_flush_dns_cache = updateHostsFile.prompt_for_flush_dns_cache
+prompt_for_move = updateHostsFile.prompt_for_move
+prompt_for_update = updateHostsFile.prompt_for_update
+query_yes_no = updateHostsFile.query_yes_no
+recursive_glob = updateHostsFile.recursive_glob
+remove_old_hosts_file = updateHostsFile.remove_old_hosts_file
+sort_sources = updateHostsFile.sort_sources
+strip_rule = updateHostsFile.strip_rule
+supports_color = updateHostsFile.supports_color
+update_all_sources = updateHostsFile.update_all_sources
+update_readme_data = updateHostsFile.update_readme_data
+update_sources_data = updateHostsFile.update_sources_data
+write_data = updateHostsFile.write_data
+write_opening_header = updateHostsFile.write_opening_header
 
 unicode = str
 
