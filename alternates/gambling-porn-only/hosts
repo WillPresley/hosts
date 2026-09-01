@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 02 August 2026 01:45:24 (UTC)
+# Date: 31 August 2026 21:40:15 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn
-# Number of unique domains: 83,184
+# Number of unique domains: 83,385
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -19,9 +19,9 @@
 
 # End of custom host records.
 # Title: hostsVN Gambling VN
-# Last modified: 30 Jul 2026 14:09 UTC+7
-# Version: 2607301409
-# Blocked: 3.794 domains
+# Last modified: 31 Aug 2026 22:44 UTC+7
+# Version: 2608312244
+# Blocked: 3.953 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -60,10 +60,18 @@
 0.0.0.0 11bet.vin
 0.0.0.0 11bet.win
 0.0.0.0 11betvnd.com
+0.0.0.0 11win.beer
+0.0.0.0 11win.casa
+0.0.0.0 11win.fashion
+0.0.0.0 11win.free
+0.0.0.0 11win.link
 0.0.0.0 11win.llc
 0.0.0.0 11win.mobi
 0.0.0.0 11win.mx
 0.0.0.0 11win.net
+0.0.0.0 11win.skin
+0.0.0.0 11win.style
+0.0.0.0 11win.tips
 0.0.0.0 11win.vin
 0.0.0.0 11win.works
 0.0.0.0 11zalo.com
@@ -93,6 +101,7 @@
 0.0.0.0 188bet.vote
 0.0.0.0 188betcn2.com
 0.0.0.0 188goal.com
+0.0.0.0 188lux.com
 0.0.0.0 188pscn2.com
 0.0.0.0 188thethao.com
 0.0.0.0 18luck.pro
@@ -136,17 +145,22 @@
 0.0.0.0 388bet.us
 0.0.0.0 388bet.vin
 0.0.0.0 388bet.vip
+0.0.0.0 3bet.adqc.net
+0.0.0.0 3bet.baby
 0.0.0.0 3bet.bike
 0.0.0.0 3bet.biz
 0.0.0.0 3bet.center
 0.0.0.0 3bet.city
+0.0.0.0 3bet.fund
 0.0.0.0 3bet.host
 0.0.0.0 3bet.la
 0.0.0.0 3bet.llc
 0.0.0.0 3bet.moe
 0.0.0.0 3bet.ph
+0.0.0.0 3bet.rent
 0.0.0.0 3bet.sh
 0.0.0.0 3bet.ski
+0.0.0.0 3bet.skin
 0.0.0.0 3bet.so
 0.0.0.0 3bet.store
 0.0.0.0 3bet.tech
@@ -213,10 +227,16 @@
 0.0.0.0 789club.fun
 0.0.0.0 789club.gp
 0.0.0.0 789club.ke
+0.0.0.0 789club.kn
+0.0.0.0 789club.mba
+0.0.0.0 789club.men
 0.0.0.0 789club.mu
 0.0.0.0 789club.mw
+0.0.0.0 789club.nu
 0.0.0.0 789club.org
+0.0.0.0 789club.rich
 0.0.0.0 789club.sx
+0.0.0.0 789club.tr
 0.0.0.0 789club.vg
 0.0.0.0 789club.vin
 0.0.0.0 789club.win
@@ -333,8 +353,16 @@
 0.0.0.0 9bet.army
 0.0.0.0 9bet.band
 0.0.0.0 9bet.blue
+0.0.0.0 9bet.care
+0.0.0.0 9bet.diy
+0.0.0.0 9bet.es
+0.0.0.0 9bet.fund
+0.0.0.0 9bet.green
+0.0.0.0 9bet.krd
 0.0.0.0 9bet.mobi
 0.0.0.0 9bet.net
+0.0.0.0 9bet.photo
+0.0.0.0 9bet.pink
 0.0.0.0 9bet.rest
 0.0.0.0 9bet.win
 0.0.0.0 9bet.world
@@ -432,7 +460,14 @@
 0.0.0.0 api.99vn.bet
 0.0.0.0 api.9bet.army
 0.0.0.0 api.9bet.band
+0.0.0.0 api.9bet.care
+0.0.0.0 api.9bet.diy
+0.0.0.0 api.9bet.es
+0.0.0.0 api.9bet.fund
+0.0.0.0 api.9bet.green
+0.0.0.0 api.9bet.krd
 0.0.0.0 api.9bet.mobi
+0.0.0.0 api.9bet.photo
 0.0.0.0 api.9bet.win
 0.0.0.0 api.ae888.com
 0.0.0.0 api.ae88827.com
@@ -525,6 +560,7 @@
 0.0.0.0 bachhoa88.com
 0.0.0.0 bacty88.com
 0.0.0.0 ball88.app
+0.0.0.0 ball88.blue
 0.0.0.0 ball88.casa
 0.0.0.0 ball88.com
 0.0.0.0 ball88.cool
@@ -538,6 +574,7 @@
 0.0.0.0 ball88.ltd
 0.0.0.0 ball88.men
 0.0.0.0 ball88.mobi
+0.0.0.0 ball88.poker
 0.0.0.0 ball88.red
 0.0.0.0 ball88.team
 0.0.0.0 ball88.to
@@ -616,8 +653,10 @@
 0.0.0.0 bk8win.top
 0.0.0.0 bntv.bongvip.com
 0.0.0.0 bom52.club
+0.0.0.0 bom88.ac
 0.0.0.0 bom88.baby
 0.0.0.0 bom88.casa
+0.0.0.0 bom88.city
 0.0.0.0 bom88.click
 0.0.0.0 bom88.com
 0.0.0.0 bom88.cool
@@ -629,6 +668,7 @@
 0.0.0.0 bom88.plus
 0.0.0.0 bom88.shop
 0.0.0.0 bom88.team
+0.0.0.0 bom88.tips
 0.0.0.0 bong.thethaowin.net
 0.0.0.0 bong88.cam
 0.0.0.0 bong88.com
@@ -883,16 +923,24 @@
 0.0.0.0 du88.blue
 0.0.0.0 du88.cafe
 0.0.0.0 du88.care
+0.0.0.0 du88.click
 0.0.0.0 du88.club
 0.0.0.0 du88.com
+0.0.0.0 du88.diy
 0.0.0.0 du88.fashion
+0.0.0.0 du88.football
 0.0.0.0 du88.guru
+0.0.0.0 du88.health
+0.0.0.0 du88.house
 0.0.0.0 du88.in
 0.0.0.0 du88.info
 0.0.0.0 du88.life
+0.0.0.0 du88.mba
 0.0.0.0 du88.pro
+0.0.0.0 du88.rent
 0.0.0.0 du88.sh
 0.0.0.0 du88.tips
+0.0.0.0 du88.wales
 0.0.0.0 dubaivn.vip
 0.0.0.0 duongdenkhungthanh.com
 0.0.0.0 dv88.city
@@ -1140,6 +1188,9 @@
 0.0.0.0 gemwin.my
 0.0.0.0 gemwin.nz
 0.0.0.0 gemwin.page
+0.0.0.0 gemwin.rent
+0.0.0.0 gemwin.rsvp
+0.0.0.0 gemwin.sale
 0.0.0.0 gemwin.spot
 0.0.0.0 gemwin.tax
 0.0.0.0 gemwin.to
@@ -1161,6 +1212,7 @@
 0.0.0.0 go8.pub
 0.0.0.0 go8.pw
 0.0.0.0 go88-vn.com
+0.0.0.0 go88.adqc.net
 0.0.0.0 go88.bayern
 0.0.0.0 go88.ca
 0.0.0.0 go88.club
@@ -1168,7 +1220,9 @@
 0.0.0.0 go88.contractors
 0.0.0.0 go88.food
 0.0.0.0 go88.live
+0.0.0.0 go88.ls
 0.0.0.0 go88.luxury
+0.0.0.0 go88.md
 0.0.0.0 go88.me
 0.0.0.0 go88.org
 0.0.0.0 go88.study
@@ -1195,7 +1249,10 @@
 0.0.0.0 god55viet.com
 0.0.0.0 gogobolaku.com
 0.0.0.0 gw.gen88.com
+0.0.0.0 gw.mubet.help
+0.0.0.0 gw.mubet.media
 0.0.0.0 gw.mubet.talk
+0.0.0.0 gw.mubet.tips
 0.0.0.0 gw.mubet.vip
 0.0.0.0 gw.tot88.store
 0.0.0.0 h3bet.com
@@ -1223,6 +1280,9 @@
 0.0.0.0 hb8887.com
 0.0.0.0 hb88vn.co
 0.0.0.0 hbet.ac
+0.0.0.0 hbet.art
+0.0.0.0 hbet.bar
+0.0.0.0 hbet.bio
 0.0.0.0 hbet.club
 0.0.0.0 hbet.cz
 0.0.0.0 hbet.fm
@@ -1235,8 +1295,11 @@
 0.0.0.0 hbet.pw
 0.0.0.0 hbet.sh
 0.0.0.0 hbet.so
+0.0.0.0 hbet.spa
+0.0.0.0 hbet.srl
 0.0.0.0 hbet.vc
 0.0.0.0 hbet.win
+0.0.0.0 hbet.wtf
 0.0.0.0 hcm66.com
 0.0.0.0 hd88.tv
 0.0.0.0 hdbet.com
@@ -1493,11 +1556,19 @@
 0.0.0.0 k88.bz
 0.0.0.0 k88.cam
 0.0.0.0 k88.club
+0.0.0.0 k88.day
+0.0.0.0 k88.mba
 0.0.0.0 k88.mobi
 0.0.0.0 k88.moe
 0.0.0.0 k88.mov
+0.0.0.0 k88.now
+0.0.0.0 k88.nz
+0.0.0.0 k88.phd
 0.0.0.0 k88.pro
+0.0.0.0 k88.soy
+0.0.0.0 k88.sx
 0.0.0.0 k88.tel
+0.0.0.0 k88.vc
 0.0.0.0 k88.win
 0.0.0.0 k89bet.com
 0.0.0.0 k8asia79.com
@@ -1741,11 +1812,15 @@
 0.0.0.0 lp.zo1.win
 0.0.0.0 lt991.com
 0.0.0.0 lu88.ai
+0.0.0.0 lu88.app
+0.0.0.0 lu88.bio
 0.0.0.0 lu88.ch
 0.0.0.0 lu88.co
 0.0.0.0 lu88.com
 0.0.0.0 lu88.de
 0.0.0.0 lu88.ec
+0.0.0.0 lu88.foo
+0.0.0.0 lu88.gd
 0.0.0.0 lu88.gdn
 0.0.0.0 lu88.kim
 0.0.0.0 lu88.lc
@@ -1754,7 +1829,9 @@
 0.0.0.0 lu88.nz
 0.0.0.0 lu88.pro
 0.0.0.0 lu88.pw
+0.0.0.0 lu88.tv
 0.0.0.0 lu88.tw
+0.0.0.0 lu88.vg
 0.0.0.0 luck6.com
 0.0.0.0 luck8.com
 0.0.0.0 luck8881.com
@@ -1779,6 +1856,7 @@
 0.0.0.0 lucky88.win
 0.0.0.0 lucky88vn.com
 0.0.0.0 lxviet66.com
+0.0.0.0 m.188lux.com
 0.0.0.0 m.188thethao.com
 0.0.0.0 m.88viet.com
 0.0.0.0 m.88vnd.com
@@ -1825,6 +1903,7 @@
 0.0.0.0 m.tf88v.com
 0.0.0.0 m.tf88vn.com
 0.0.0.0 m.tin888.club
+0.0.0.0 m.tin888.top
 0.0.0.0 m.ud1a.com
 0.0.0.0 m.udw87.cc
 0.0.0.0 m.udw881.cc
@@ -1891,9 +1970,13 @@
 0.0.0.0 man79.org
 0.0.0.0 man88.biz
 0.0.0.0 man88.bz
+0.0.0.0 man88.cfd
+0.0.0.0 man88.ch
 0.0.0.0 man88.cl
 0.0.0.0 man88.co
+0.0.0.0 man88.io
 0.0.0.0 man88.la
+0.0.0.0 man88.lat
 0.0.0.0 man88.li
 0.0.0.0 man88.net
 0.0.0.0 man88.ng
@@ -1906,6 +1989,8 @@
 0.0.0.0 man88.vip
 0.0.0.0 man88.vu
 0.0.0.0 man88.win
+0.0.0.0 man88.wtf
+0.0.0.0 man88.xin
 0.0.0.0 manclub.live
 0.0.0.0 manclub.us
 0.0.0.0 manclub.vin
@@ -2005,9 +2090,15 @@
 0.0.0.0 mu922.com
 0.0.0.0 mubet.best
 0.0.0.0 mubet.dev
+0.0.0.0 mubet.help
+0.0.0.0 mubet.info
+0.0.0.0 mubet.media
 0.0.0.0 mubet.sh
 0.0.0.0 mubet.talk
+0.0.0.0 mubet.tips
+0.0.0.0 mubet.video
 0.0.0.0 mubet.vip
+0.0.0.0 mubet.website
 0.0.0.0 mv66.app
 0.0.0.0 mv66.baby
 0.0.0.0 mv66.biz
@@ -2173,6 +2264,7 @@
 0.0.0.0 play.fa88.win
 0.0.0.0 play.gemwin.vip
 0.0.0.0 play.go88.club
+0.0.0.0 play.go88.md
 0.0.0.0 play.go88.tv
 0.0.0.0 play.haywin.ai
 0.0.0.0 play.haywin.space
@@ -2203,6 +2295,10 @@
 0.0.0.0 play.topclub.casa
 0.0.0.0 play.vaob52.click
 0.0.0.0 play.vic.hair
+0.0.0.0 play.vicclub.ac
+0.0.0.0 play.vicclub.id
+0.0.0.0 play.vicclub.mx
+0.0.0.0 play.vicclub.sh
 0.0.0.0 play.vip79.top
 0.0.0.0 play.win79.vip
 0.0.0.0 play.win79d.com
@@ -2231,9 +2327,16 @@
 0.0.0.0 profile.w88.vin
 0.0.0.0 prok8.com
 0.0.0.0 pt1.fabet.win
+0.0.0.0 pub88.camera
+0.0.0.0 pub88.channel
+0.0.0.0 pub88.charity
+0.0.0.0 pub88.college
 0.0.0.0 pub88.com
+0.0.0.0 pub88.company
 0.0.0.0 pub88.day
+0.0.0.0 pub88.forum
 0.0.0.0 pub88.ltd
+0.0.0.0 pub88.monster
 0.0.0.0 pub88.pw
 0.0.0.0 pub88.win
 0.0.0.0 pum88.com
@@ -2353,6 +2456,7 @@
 0.0.0.0 s3.sin88.sx
 0.0.0.0 s3.sin88.tw
 0.0.0.0 s4.gen88.com
+0.0.0.0 s4.mubet.help
 0.0.0.0 s4.mubet.vip
 0.0.0.0 s4.tot88.store
 0.0.0.0 s555.com
@@ -2421,6 +2525,7 @@
 0.0.0.0 sinbet.com
 0.0.0.0 sinbet.vip
 0.0.0.0 sk.ball88.app
+0.0.0.0 sk.ball88.blue
 0.0.0.0 sk.ball88.casa
 0.0.0.0 sk.ball88.com
 0.0.0.0 sk.ball88.day
@@ -2459,13 +2564,18 @@
 0.0.0.0 sk.vin88.vip
 0.0.0.0 sk.xibet.com
 0.0.0.0 sk.xibet.ec
+0.0.0.0 sk.xibet.foo
 0.0.0.0 sk.xibet.fun
 0.0.0.0 sk.xibet.ing
 0.0.0.0 sk.xibet.now
 0.0.0.0 sk.xibet.nz
 0.0.0.0 sk.xibet.pl
+0.0.0.0 sk.xibet.red
 0.0.0.0 sk.xibet.soy
+0.0.0.0 sk.xibet.tax
 0.0.0.0 sk.xibet.vu
+0.0.0.0 sk.xibet.wtf
+0.0.0.0 sk.xibet.you
 0.0.0.0 sk.zbet.ws
 0.0.0.0 sky88.bet
 0.0.0.0 sky88.club
@@ -2501,7 +2611,14 @@
 0.0.0.0 sock.sky88.in
 0.0.0.0 socket.9bet.army
 0.0.0.0 socket.9bet.band
+0.0.0.0 socket.9bet.care
+0.0.0.0 socket.9bet.diy
+0.0.0.0 socket.9bet.es
+0.0.0.0 socket.9bet.fund
+0.0.0.0 socket.9bet.green
+0.0.0.0 socket.9bet.krd
 0.0.0.0 socket.9bet.mobi
+0.0.0.0 socket.9bet.photo
 0.0.0.0 socket.9bet.win
 0.0.0.0 socket.debet.so
 0.0.0.0 socket.debet.uk
@@ -2747,6 +2864,8 @@
 0.0.0.0 tin88.top
 0.0.0.0 tin88.vip
 0.0.0.0 tin888.club
+0.0.0.0 tin888.net
+0.0.0.0 tin888.top
 0.0.0.0 tintuc.vlott88.com
 0.0.0.0 tip.club
 0.0.0.0 tip88.app
@@ -2803,6 +2922,9 @@
 0.0.0.0 topzo.top
 0.0.0.0 topzo.vip
 0.0.0.0 tot88.com
+0.0.0.0 tot88.farm
+0.0.0.0 tot88.ink
+0.0.0.0 tot88.loan
 0.0.0.0 tot88.store
 0.0.0.0 tourghepmienbac.net
 0.0.0.0 trang188vn.com
@@ -2814,23 +2936,31 @@
 0.0.0.0 tt128.net
 0.0.0.0 twin5568.com
 0.0.0.0 tx1.vip
+0.0.0.0 tx88.band
 0.0.0.0 tx88.biz
 0.0.0.0 tx88.ch
 0.0.0.0 tx88.com
 0.0.0.0 tx88.download
 0.0.0.0 tx88.fan
 0.0.0.0 tx88.fashion
+0.0.0.0 tx88.free
 0.0.0.0 tx88.fun
+0.0.0.0 tx88.fund
 0.0.0.0 tx88.fyi
+0.0.0.0 tx88.games
 0.0.0.0 tx88.hot
 0.0.0.0 tx88.in
 0.0.0.0 tx88.ing
+0.0.0.0 tx88.krd
 0.0.0.0 tx88.la
+0.0.0.0 tx88.land
 0.0.0.0 tx88.llc
 0.0.0.0 tx88.navy
 0.0.0.0 tx88.now
 0.0.0.0 tx88.onl
 0.0.0.0 tx88.photo
+0.0.0.0 tx88.pink
+0.0.0.0 tx88.rest
 0.0.0.0 tx88.top
 0.0.0.0 tx88.vet
 0.0.0.0 tx88.zone
@@ -2937,6 +3067,11 @@
 0.0.0.0 vic88.link
 0.0.0.0 vic88.mx
 0.0.0.0 vic88.net
+0.0.0.0 vicclub.ac
+0.0.0.0 vicclub.id
+0.0.0.0 vicclub.ink
+0.0.0.0 vicclub.mx
+0.0.0.0 vicclub.sh
 0.0.0.0 victorwin555.com
 0.0.0.0 vicwin.vip
 0.0.0.0 vietvwin.com
@@ -3048,9 +3183,13 @@
 0.0.0.0 vsports88.asia
 0.0.0.0 vstar79.com
 0.0.0.0 vu88.ac
+0.0.0.0 vu88.best
+0.0.0.0 vu88.bio
 0.0.0.0 vu88.com
 0.0.0.0 vu88.cz
 0.0.0.0 vu88.de
+0.0.0.0 vu88.fan
+0.0.0.0 vu88.fm
 0.0.0.0 vu88.in
 0.0.0.0 vu88.la
 0.0.0.0 vu88.live
@@ -3062,7 +3201,9 @@
 0.0.0.0 vu88.ng
 0.0.0.0 vu88.ro
 0.0.0.0 vu88.sh
+0.0.0.0 vu88.tel
 0.0.0.0 vu88.tv
+0.0.0.0 vu88.vu
 0.0.0.0 vu88.ws
 0.0.0.0 vua88.app
 0.0.0.0 vua88.biz
@@ -3225,7 +3366,14 @@
 0.0.0.0 won88.win
 0.0.0.0 wp.9bet.army
 0.0.0.0 wp.9bet.band
+0.0.0.0 wp.9bet.care
+0.0.0.0 wp.9bet.diy
+0.0.0.0 wp.9bet.es
+0.0.0.0 wp.9bet.fund
+0.0.0.0 wp.9bet.green
+0.0.0.0 wp.9bet.krd
 0.0.0.0 wp.9bet.mobi
+0.0.0.0 wp.9bet.photo
 0.0.0.0 wp.9bet.win
 0.0.0.0 wp.debet79.info
 0.0.0.0 wp.hdbet.com
@@ -3715,16 +3863,22 @@
 0.0.0.0 xemtylecacuoc.bong99.com
 0.0.0.0 xibet.com
 0.0.0.0 xibet.ec
+0.0.0.0 xibet.foo
 0.0.0.0 xibet.fun
 0.0.0.0 xibet.ing
 0.0.0.0 xibet.moi
 0.0.0.0 xibet.now
 0.0.0.0 xibet.nz
 0.0.0.0 xibet.pl
+0.0.0.0 xibet.red
 0.0.0.0 xibet.soy
+0.0.0.0 xibet.tax
+0.0.0.0 xibet.uno
 0.0.0.0 xibet.vg
 0.0.0.0 xibet.vu
 0.0.0.0 xibet.win
+0.0.0.0 xibet.wtf
+0.0.0.0 xibet.you
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xingtou888.com
 0.0.0.0 xn--hi-ji6caa.com
@@ -3807,6 +3961,8 @@
 0.0.0.0 zowin.ci
 0.0.0.0 zowin.esq
 0.0.0.0 zowin.fan
+0.0.0.0 zowin.fm
+0.0.0.0 zowin.gripe
 0.0.0.0 zowin.im
 0.0.0.0 zowin.is
 0.0.0.0 zowin.kim
@@ -3814,12 +3970,15 @@
 0.0.0.0 zowin.ng
 0.0.0.0 zowin.ph
 0.0.0.0 zowin.red
+0.0.0.0 zowin.ro
 0.0.0.0 zowin.sh
 0.0.0.0 zowin.srl
+0.0.0.0 zowin.st
 0.0.0.0 zowin.sx
 0.0.0.0 zowin.tv
 0.0.0.0 zowin.tw
 0.0.0.0 zowin.uno
+0.0.0.0 zowin.vg
 0.0.0.0 zowin.vu
 0.0.0.0 zowin.ws
 0.0.0.0 zowinchinhhang.online
@@ -6465,10 +6624,33 @@
 0.0.0.0 www.pokerstars.bg
 0.0.0.0 everbet.bg
 0.0.0.0 slotino.bg
+0.0.0.0 j7n1p8x.com
+0.0.0.0 www.phtaya46.link
+0.0.0.0 96phj.com
+0.0.0.0 diamondjl.vip
+0.0.0.0 www.paldocrown94.xyz
+0.0.0.0 www.c04jilipark.com
+0.0.0.0 www.z17phwin.cc
+0.0.0.0 www.injljl.com
+0.0.0.0 fy379vvu3.com
+0.0.0.0 www.jdquest.org
+0.0.0.0 www.jdsp4825.xyz
+0.0.0.0 www.69687696.com
+0.0.0.0 g89.lol
+0.0.0.0 www.ah77lb5.xyz
+0.0.0.0 www.17jl177.com
+0.0.0.0 www.g488hshsssaaz.xyz
+0.0.0.0 www.sealjl.bar
+0.0.0.0 www.zzzhhhhwoog488.cyou
+0.0.0.0 www.acewin999.top
+0.0.0.0 winning228.sch.id
+0.0.0.0 www.191slotsgo.cc
+0.0.0.0 nextbola.ac.id
+0.0.0.0 bolaku.sch.id
 # Title: hostsVN Adult VN
-# Last modified: 30 Jul 2026 14:09 UTC+7
-# Version: 2607301409
-# Blocked: 1.896 domains
+# Last modified: 31 Aug 2026 22:44 UTC+7
+# Version: 2608312244
+# Blocked: 1.918 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -6563,6 +6745,7 @@
 0.0.0.0 cap3.autos
 0.0.0.0 cap3.beer
 0.0.0.0 cap3.click
+0.0.0.0 cap3.email
 0.0.0.0 cap3.monster
 0.0.0.0 cap3.pics
 0.0.0.0 cap3.pro
@@ -6736,7 +6919,10 @@
 0.0.0.0 gaicaocap.xyz
 0.0.0.0 gaichanh.co
 0.0.0.0 gaidam18.com
+0.0.0.0 gaidep.blog
 0.0.0.0 gaidepvn.xyz
+0.0.0.0 gaidepxx.com
+0.0.0.0 gaidepxx.me
 0.0.0.0 gaigoi.homes
 0.0.0.0 gaigoi.id
 0.0.0.0 gaigoi.live
@@ -6962,6 +7148,7 @@
 0.0.0.0 javgg.me
 0.0.0.0 javgg.sbs
 0.0.0.0 javgiga.com
+0.0.0.0 javhay.buzz
 0.0.0.0 javhay.click
 0.0.0.0 javhay.co
 0.0.0.0 javhay.cyou
@@ -6980,6 +7167,7 @@
 0.0.0.0 javhd.best
 0.0.0.0 javhd.bio
 0.0.0.0 javhd.charity
+0.0.0.0 javhd.co.uk
 0.0.0.0 javhd.contact
 0.0.0.0 javhd.exchange
 0.0.0.0 javhd.im
@@ -6999,9 +7187,14 @@
 0.0.0.0 javhdhay.us
 0.0.0.0 javhdhayz.com
 0.0.0.0 javhdvietsub.com
+0.0.0.0 javhdz.cam
+0.0.0.0 javhdz.city
+0.0.0.0 javhdz.fun
 0.0.0.0 javhdz.hot
 0.0.0.0 javhdz.pro
+0.0.0.0 javhdz.pw
 0.0.0.0 javhdz.red
+0.0.0.0 javhdz.wine
 0.0.0.0 javhiv.com
 0.0.0.0 javhiv.xyz
 0.0.0.0 javlxx.com
@@ -7021,6 +7214,7 @@
 0.0.0.0 javphim.vin
 0.0.0.0 javphoz.com
 0.0.0.0 javsex.cc
+0.0.0.0 javsub.blog
 0.0.0.0 javsub.cc
 0.0.0.0 javsub.co
 0.0.0.0 javsub.live
@@ -7211,6 +7405,7 @@
 0.0.0.0 phim18hd.net
 0.0.0.0 phim18hd.one
 0.0.0.0 phim18hd.top
+0.0.0.0 phim18k.blog
 0.0.0.0 phim18k.com
 0.0.0.0 phim18vn.com
 0.0.0.0 phim18x.net
@@ -7500,6 +7695,7 @@
 0.0.0.0 pornpic.org
 0.0.0.0 pornzo.net
 0.0.0.0 pphimsex.com
+0.0.0.0 qmh.garden
 0.0.0.0 qmh.quest
 0.0.0.0 qmh.rest
 0.0.0.0 qmh.sex
@@ -7546,6 +7742,7 @@
 0.0.0.0 rphangx.net
 0.0.0.0 rphangx.tv
 0.0.0.0 s.chinav.sex
+0.0.0.0 s.gaidep.blog
 0.0.0.0 s.phimsexvip.cc
 0.0.0.0 s.vnchich.net
 0.0.0.0 s3xvn.com
@@ -7736,6 +7933,7 @@
 0.0.0.0 sextop1.one
 0.0.0.0 sextop1.page
 0.0.0.0 sextop1.site
+0.0.0.0 sextop1.spa
 0.0.0.0 sextop1.team
 0.0.0.0 sextop1.video
 0.0.0.0 sextop10.pro
@@ -7840,6 +8038,7 @@
 0.0.0.0 ssieukhung.com
 0.0.0.0 static.manhwa24hs.com
 0.0.0.0 stream.quatvn.lol
+0.0.0.0 subjav.buzz
 0.0.0.0 subjav.live
 0.0.0.0 subjav.org
 0.0.0.0 subjav.sex
@@ -8004,6 +8203,7 @@
 0.0.0.0 tzqctz.com
 0.0.0.0 up1.hhentai.net
 0.0.0.0 up2.hentaivn.tv
+0.0.0.0 v.javhd.co.uk
 0.0.0.0 vailonxx.co
 0.0.0.0 vailonxx.com
 0.0.0.0 vailonxx.vip
@@ -8140,10 +8340,12 @@
 0.0.0.0 vlxx.moe
 0.0.0.0 vlxx.moi
 0.0.0.0 vlxx.money
+0.0.0.0 vlxx.ms
 0.0.0.0 vlxx.mx
 0.0.0.0 vlxx.net
 0.0.0.0 vlxx.network
 0.0.0.0 vlxx.pet
+0.0.0.0 vlxx.phd
 0.0.0.0 vlxx.pw
 0.0.0.0 vlxx.rocks
 0.0.0.0 vlxx.ru
@@ -8207,6 +8409,7 @@
 0.0.0.0 vnchich.com
 0.0.0.0 vnchich.net
 0.0.0.0 vnok.net
+0.0.0.0 vnsextop1.com
 0.0.0.0 vnvn77.com
 0.0.0.0 vnxnxx.cc
 0.0.0.0 vnxnxx.xyz
@@ -8248,6 +8451,7 @@
 0.0.0.0 www.xamvn.top
 0.0.0.0 www.xnxx.gold
 0.0.0.0 wwwxxx.pro
+0.0.0.0 x.javhd.co.uk
 0.0.0.0 x.phimsexsub.pw
 0.0.0.0 x10.viet69.life
 0.0.0.0 xamvn.pro
@@ -28758,9 +28962,10 @@
 0.0.0.0 www.horriblevideos.com
 0.0.0.0 www.miscopy.com
 0.0.0.0 www.recipepes.com
-0.0.0.0 rahaporn.commanhwax.top
+0.0.0.0 rahaporn.com
+0.0.0.0 manhwax.top
 0.0.0.0 www.rahaporn.com
-0.0.0.0 007dating.commanhwax.top
+0.0.0.0 007dating.com
 0.0.0.0 webmail.007dating.com
 0.0.0.0 007milf.com
 0.0.0.0 007zeed.com
@@ -37516,7 +37721,7 @@
 0.0.0.0 comicsxxx.net
 0.0.0.0 www.comicxx.com
 0.0.0.0 comicxxx.eu
-0.0.0.0 www.shineporn.comideosxxx.biz
+0.0.0.0 www.shineporn.com
 0.0.0.0 comiko.net
 0.0.0.0 comiquetaxxx.com
 0.0.0.0 comix.site
@@ -37533,14 +37738,16 @@
 0.0.0.0 vids01.comparte.digital
 0.0.0.0 completeporndatabase.com
 0.0.0.0 www.completeporndatabase.com
-0.0.0.0 porn-beeg.comsex-xxx.fun
+0.0.0.0 porn-beeg.com
+0.0.0.0 sex-xxx.fun
 0.0.0.0 hotgirl10.comunidades.net
 0.0.0.0 pornotorrent.comunidades.net
 0.0.0.0 comxmag.com
 0.0.0.0 comxnxx.cam
 0.0.0.0 comxnxxx.com
 0.0.0.0 comxvideos.ru
-0.0.0.0 18teen-porn.comxxxorsex.com
+0.0.0.0 18teen-porn.com
+0.0.0.0 xxxorsex.com
 0.0.0.0 condomfish.com
 0.0.0.0 conejox.com
 0.0.0.0 thumbs.conejox.com
@@ -39667,7 +39874,7 @@
 0.0.0.0 eporn.su
 0.0.0.0 eporn24.com
 0.0.0.0 www.eporn24.com
-0.0.0.0 wwwww.japvid245.comw.eporn24.com
+0.0.0.0 www.japvid245.com
 0.0.0.0 eporner.casa
 0.0.0.0 eporner.hu
 0.0.0.0 eporner.icu
@@ -49706,7 +49913,6 @@
 0.0.0.0 japteenx.com
 0.0.0.0 japvid.xxx
 0.0.0.0 japvid245.com
-0.0.0.0 www.japvid245.com
 0.0.0.0 japxnxx.com
 0.0.0.0 japxsex.com
 0.0.0.0 japxtube.com
@@ -52977,7 +53183,6 @@
 0.0.0.0 static.manhwalike.com
 0.0.0.0 manhwaweb.com
 0.0.0.0 manhwax.org
-0.0.0.0 manhwax.top
 0.0.0.0 manhwaxxl.com
 0.0.0.0 maniacdiaries.nl
 0.0.0.0 mail.maniacdiaries.nl
@@ -55849,7 +56054,7 @@
 0.0.0.0 networkwestvirginia.com
 0.0.0.0 www.networkwestvirginia.com
 0.0.0.0 netxnxxvideos.com
-0.0.0.0 freeteenxxx.netxxxorsex.com
+0.0.0.0 freeteenxxx.net
 0.0.0.0 netyda.com
 0.0.0.0 neuedeutschepornos.com
 0.0.0.0 neueporn.com
@@ -58902,7 +59107,6 @@
 0.0.0.0 www.porn-asian.com
 0.0.0.0 porn-ass.pro
 0.0.0.0 www.porn-babes.tv
-0.0.0.0 porn-beeg.com
 0.0.0.0 porn-better.com
 0.0.0.0 porn-bokep.com
 0.0.0.0 www.porn-booking.com
@@ -64365,7 +64569,6 @@
 0.0.0.0 redtube.tools
 0.0.0.0 redtube.training
 0.0.0.0 redtube.zone
-0.0.0.0 code.jquery.comembed.redtube.com
 0.0.0.0 embed.redtube.com
 0.0.0.0 ht.redtube.com
 0.0.0.0 piwik.redtube.com
@@ -65595,7 +65798,6 @@
 0.0.0.0 sex-xvideo.ru
 0.0.0.0 sex-xvideos.com
 0.0.0.0 sex-xxx.cc
-0.0.0.0 sex-xxx.fun
 0.0.0.0 sex-xxx.icu
 0.0.0.0 sex-xxx.rest
 0.0.0.0 sex-xxx.video
@@ -66067,7 +66269,7 @@
 0.0.0.0 sexhd.love
 0.0.0.0 sexhd.me
 0.0.0.0 sexhd.xxx
-0.0.0.0 truesnaps.comvip.sexhd.pics
+0.0.0.0 truesnaps.com
 0.0.0.0 vip.sexhd.pics
 0.0.0.0 www.sexhd.me
 0.0.0.0 www.sexhd.xxx
@@ -67819,7 +68021,6 @@
 0.0.0.0 shhmale.com
 0.0.0.0 shibbydex.com
 0.0.0.0 shineporn.com
-0.0.0.0 www.shineporn.com
 0.0.0.0 www.shinykitty.com
 0.0.0.0 shiptome.ru
 0.0.0.0 shit-around.com
@@ -71486,8 +71687,6 @@
 0.0.0.0 totallyfreecam.com
 0.0.0.0 totallynakedteens.com
 0.0.0.0 totallyshemales.com
-0.0.0.0 toteme.com
-0.0.0.0 www.toteme.com
 0.0.0.0 totporno.com
 0.0.0.0 tounavi.net
 0.0.0.0 tour7me.com
@@ -76548,8 +76747,6 @@
 0.0.0.0 www.xnxx.tv
 0.0.0.0 www.xnxx.xxx
 0.0.0.0 www.www.xnxx.com
-0.0.0.0 www.xnxx.comwww.xnxx.com
-0.0.0.0 www.xnxx.comwww.xnxx.comwww.xnxx.com
 0.0.0.0 xnxx-18plus.com
 0.0.0.0 xnxx-alarab.com
 0.0.0.0 thumbs.xnxx-alarab.com
@@ -78832,7 +79029,6 @@
 0.0.0.0 xxxonline.me
 0.0.0.0 xxxonlinetube.com
 0.0.0.0 xxxopenload.com
-0.0.0.0 xxxorsex.com
 0.0.0.0 www.xxxorsex.com
 0.0.0.0 www.xxxpac.com
 0.0.0.0 xxxpakistan.pro
@@ -82954,6 +83150,11 @@
 0.0.0.0 trashyneverclassy.com
 0.0.0.0 chomikuj.pl
 0.0.0.0 missav.ai
+0.0.0.0 cdn2.pvvstream.pro
+0.0.0.0 analzoofilia.xyz
+0.0.0.0 zoophilia.me
+0.0.0.0 porndd.com
+0.0.0.0 orangepix.is
 # Title: Snuff hosts
 
 0.0.0.0 bitcheese.net
